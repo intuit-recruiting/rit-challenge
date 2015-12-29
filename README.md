@@ -1,46 +1,48 @@
-You are going on a road trip next month and need to save $200 in the next 3 month in order to pay for it. 
-
+# Problem to solve:
+**You are going on a road trip next month and need to save $200 in the next 3 month in order to pay for it.**
 
 # Data:
 
-You are given 2 years worth of credit card transaction logs from "your" bank account. These credit card transaction represents your spendings in the past 2 years. Each line in the CSV has 3 data fields. The data fields are
+You are given 2 years worth of credit card spending transactions from "your" bank account in a CSV file format. Each line in the CSV has the following 3 data fields:
 
-1: date of transaction
-2: text description of the transaction
-3: the amount of transaction
+1. date of transaction (YYYY-MM-DD)
+2. text description of the transaction
+3. the amount of transaction
 
-Based on this provided data, please write a program which is able to take in a similar transaction log in the same format and output a list of recommendations, tips and strategy in order for the user to save money. 
+Based on the provided data, write a program which is able to take in the CSV file - described above - and output a list of recommendations, tips and strategies for the user to save money.
 
 # Input:
 
-Your program will take in a .csv file which contains the transaction log of . You can choose to dump this .csv into a database or you can read it from disk. Your program must provide a way for us to insert a transaction log in the same format as the provided log. Whether this is a command line argument pointing to the file or a web interface to upload the file is up to you. 
+Your program will take in a CSV file which contains the transactions data. You can choose to save that data in a database or in memory. Your program must provide a way to insert a transaction, in the same format as the CSV, at runtime and reflect in its output any changes to the recommendations.
 
 # Output:
 
 This is really up to you and we want to see your creativity here. You can create a barbone backend program which gives a list of outputs or if you choose. You can focus on creating the best algorithms or you can alternatively choose to focus on creating the best way to present your recommendations for savings in the most understandable way. Put yourself in the shoes of the "customer" since after all you are creating this app for yourself!
 
+Creativity is what we are looking for here.
+* You can create a barebone program which gives a list of outputs or,
+* You can focus on creating the best algorithms or,
+* You can alternatively choose to focus on creating the best way to present your recommendations for savings in the most understandable way.
+
+```Put yourself in the shoes of the "customer" since after all you are creating this app for yourself!```
+
 # Ideas:
 
-How can you identify transactions which you can ignore such as credit payment from the checking account, interest..etc
-Can you identify spending patterns in the transactions programmatically in order to save money.
-Can you re-occuring expenses which can be replaced with alternatives?
-Based on your knowledge of personal finances, can you identify potentially uneccesary purchases ?
-Can you identify alternatives you can use to current transactions reliabily find savings for the user.
-
+* How can you identify transactions which you can ignore? (such as credit card payments, interest payments, etc...)
+* Can you identify spending patterns in the transactions programmatically in order to save money?
+* Based on your knowledge of personal finances, can you identify potentially unnecessary purchases?
+* Can you identify alternatives you can use to current transactions to find savings for the user?
 
 # Evaluation:
 
 ## Efficacy: 
-Your solution will be run on unseen transaction logs from the same user to see how it performs on future transactions from the same person.
+Your solution will be run against different sets of transactions data to test its performance and adaptation to variability.
 
 ## Novelty: 
-Your solution will be evaulated on the method you used.
+Your solution will be evaluated based on your implementation.
 
 ## Quality: 
-Your solution will be evaluated on the quality of the code.
+Your solution will be evaluated based on the quality of your code.
 
 ## Presentation: 
 How is your solution presented
-
-
-
