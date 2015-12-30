@@ -17,8 +17,6 @@ Your program will take in a CSV file which contains the transactions data. You c
 
 # Output:
 
-This is really up to you and we want to see your creativity here. You can create a barbone backend program which gives a list of outputs or if you choose. You can focus on creating the best algorithms or you can alternatively choose to focus on creating the best way to present your recommendations for savings in the most understandable way. Put yourself in the shoes of the "customer" since after all you are creating this app for yourself!
-
 Creativity is what we are looking for here.
 * You can create a barebone program which gives a list of outputs or,
 * You can focus on creating the best algorithms or,
@@ -31,7 +29,7 @@ Creativity is what we are looking for here.
 * How can you identify transactions which you can ignore? (such as credit card payments, interest payments, etc...)
 * Can you identify spending patterns in the transactions programmatically in order to save money?
 * Based on your knowledge of personal finances, can you identify potentially unnecessary purchases?
-* Can you identify alternatives you can use to current transactions to find savings for the user?
+* Can you identify alternatives you can use to find savings for the user?
 
 # Evaluation:
 
