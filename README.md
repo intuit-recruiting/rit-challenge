@@ -41,6 +41,3 @@ Your solution will be evaluated based on your implementation.
 
 ## Quality: 
 Your solution will be evaluated based on the quality of your code.
-
-## Presentation: 
-How is your solution presented
