@@ -1,5 +1,5 @@
 # Problem to solve:
-**You are going on a road trip next month and need to save $200 in the next 3 month in order to pay for it.**
+**You are going on a road trip next month and need to save $200 in the next 3 months in order to pay for it.**
 
 # Data:
 
