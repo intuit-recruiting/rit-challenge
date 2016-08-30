@@ -11,7 +11,7 @@ a graphical tool, or a command line tool.
   * tax preparataion
 * Consume at least 3 different APIs in your solution
   * one of which must be chosen from the list of preselected APIs below 
-  * two of which you must find on your own that are not on the list below.
+  * two of which you must find on your own that are not on the list below
 * Include a detailed README and instructions for installing and running your solution
 
 ### Preselected APIs
