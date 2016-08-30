@@ -1,51 +1,36 @@
-# Problem to solve:
-**Your customer wants to go on a road trip next month and needs to save some money in the next 3 months in order to pay for it.**
+# The Challenge 
 
-# Data:
+Create a service that you as a student would be interested in using. A service is defined as one of the following; an API, 
+a graphical tool, or a command line tool.
 
-You are given 2 years worth of credit card spending transactions from the bank account of 2 different users living in the
-same area as your customer in CSV format. Each line in the CSV has the following 3 data fields:
+## Requirements
+* Create a service around one of the following concepts
+  * budget planning
+  * salary prediction
+  * financial advice
+  * tax preparataion
+* Consume at least 3 different APIs in your solution
+  * one of which must be chosen from the list of preselected APIs below 
+  * two of which you must find on your own that are not on the list below.
+* Include a detailed README and instructions for installing and running your solution
 
-1. date of transaction (YYYY-MM-DD)
-2. text description of the transaction
-3. the amount of transaction
+### Preselected APIs
+* [U.S. Census data API](http://www.census.gov/data/developers/data-sets.html)
+* [Yelp API](https://www.yelp.com/developers/documentation/v2/overview)
+* [Alchemy text and image analysis API](http://www.alchemyapi.com/developers)
+* [AnyChart API](https://api.anychart.com/)
+* [Glassdoor API](https://www.glassdoor.com/developer/index.htm)
+* [Quandl financial dataset API](https://www.quandl.com/tools/api)
+* [CurrencyLayer monetary exchange rates API](https://currencylayer.com/documentation)
 
-Based on the provided data, write a program which is able to take in the CSV file in the same format as above and output a list of
-recommendations, tips and strategies for the user to save money.
+### Finding other APIs
+These resources might help you find more APIs:
+* [Toddmotto Public APIs](https://github.com/toddmotto/public-apis)
+* [Google API explorer](https://developers.google.com/apis-explorer/#p/) 
+* [Public APIs](https://www.publicapis.com/)
 
-# Input:
+## Optional Bonus
+Bonus points will be given to solutions that integrate speech processiong or virtual reality in some way.
 
-Your program will take in a CSV file which contains the transaction data. You can choose to save that data in a database
-or in memory. Your program must provide a way to ingest the transaction log, in the same format as the CSV, at runtime and reflect
-in its output any changes to the recommendations.
-
-# Output:
-
-Creativity is what we are looking for here.
-* You can create a barebone program which gives a list of outputs or,
-* You can focus on creating the best algorithms or,
-* You can alternatively choose to focus on creating the best way to present your recommendations for savings in the most
-understandable way.
-
-```Put yourself in the shoes of the customer since you are creating this app for them```
-
-# Ideas:
-
-How can you identify transactions which you can ignore such as credit payment from the checking account, interest..etc
-Can you identify spending patterns in the transactions programmaticaly in order to save money.
-You can leverage third party APIs to help you with the task and use third party data to augment the existing data.
-Feel free to use external libraries, SDKs and tools to come up with a unique solution.
-Can you identify recurring expenses which can be replaced with alternatives?
-Based on your knowledge of personal finances, can you identify potentially unnecessary purchases?
-Can you identify alternatives you can use to current transactions to reliably find savings for the user.
-
-# Evaluation:
-
-## Efficacy: 
-Your solution will be run against different sets of transaction data to test its performance and adaptation to variability.
-
-## Novelty: 
-Your solution will be evaluated based on your implementation.
-
-## Quality: 
-Your solution will be evaluated based on the quality of your code.
+# Submitting your solution
+To submit your completed solution, email us a link to your GitHub repository at intuitatrit@gmail.com
