@@ -1,4 +1,4 @@
-# Problem Statement:
+# Problem Statement
 The number of couples who call it quits after a year or so is staggering. Among differences in opinion, life styles and other aspects, financial stress is one of the leading causes of breakups. In fact, experiencing money troubles is the 8th reason why couples break up (or divorce) in the US. At Intuit, we want to help couples stay together. The following exercise is aimed at coming up with a solution to help current or future couples stay together.
 To help our cause, we are providing you with a 2-year list of Mint transaction data from individuals who could likely be dating. We would like to increase the likelihood of people who have broken up (or were recently divorced) to have more successful current or future relationships.
 
