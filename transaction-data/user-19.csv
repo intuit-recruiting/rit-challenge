@@ -1,0 +1,2271 @@
+auth_id, Date, Vendor, Amount, Location 
+52374,1/2/2013,Movie Ticket,-53.34,CA
+52374,1/2/2013,Food Delivery - GrubHub,-49.35,CA
+52374,1/3/2013,Public Transportation - Train Pass,-5.19,CA
+52374,1/3/2013,Ice Skating Rink,-105.27,CA
+52374,1/3/2013,Wine Bar,-20.01,CA
+52374,1/3/2013,Wine Bar,-26.47,CA
+52374,1/3/2013,Restaurant - Pizza,-36.2,CA
+52374,1/3/2013,John's Bar & Restaurant,-24.29,CA
+52374,1/3/2013,John's Bar & Restaurant,-29.76,CA
+52374,1/4/2013,Concert Ticket,-48.16,CA
+52374,1/5/2013,Concert Ticket,-7.11,CA
+52374,1/6/2013,Owl Night Club,-5.42,CA
+52374,1/6/2013,Bowling,-36.1,CA
+52374,1/6/2013,Von's Groceries,-32.9,CA
+52374,1/6/2013,Movie Ticket,-1.18,CA
+52374,1/7/2013,Movie Ticket,-38.72,CA
+52374,1/7/2013,Restaurant - Burgers,-8.84,CA
+52374,1/7/2013,Whole Foods,-16.64,CA
+52374,1/7/2013,Rodriguez's Bar and Grill,-18.28,CA
+52374,1/7/2013,Lyft,-39.32,CA
+52374,1/7/2013,Food Delivery - GrubHub,-28.86,CA
+52374,1/7/2013,Water & Sewer - Late Payment Penalty,-57.51,CA
+52374,1/7/2013,Taxi,-20.92,CA
+52374,1/7/2013,Wine Bar,-13.81,CA
+52374,1/8/2013,Wine Bar,-77.68,CA
+52374,1/8/2013,Bank Fee - Negative Balance,-22.43,CA
+52374,1/8/2013,Bowling,-38.3,CA
+52374,1/8/2013,Water & Sewer - Late Payment Penalty,-25.1,CA
+52374,1/9/2013,Bowling,-19.9,CA
+52374,1/9/2013,Rodriguez's Bar and Grill,-3.66,CA
+52374,1/9/2013,John's Bar & Restaurant,-20.08,CA
+52374,1/10/2013,Ralph's Grocery Store,-30.6,CA
+52374,1/10/2013,Taxi,-38.16,CA
+52374,1/11/2013,Lyft,-31.96,CA
+52374,1/11/2013,Green Flash Brewery,-9.35,CA
+52374,1/12/2013,Fisker Night Club,-37.59,CA
+52374,1/12/2013,Restaurant - Chinese,-21.98,CA
+52374,1/12/2013,Karaoke Bar,-32.1,CA
+52374,1/12/2013,Food Delivery - GrubHub,-7.95,CA
+52374,1/12/2013,Movie Ticket,-81.69,CA
+52374,1/13/2013,Movie Ticket,-6.79,CA
+52374,1/13/2013,Restaurant - Chinese,-21.7,CA
+52374,1/14/2013,Concert Ticket,-30.69,CA
+52374,1/14/2013,Public Transportation - Bus Pass,-34.93,CA
+52374,1/14/2013,Rodriguez's Bar and Grill,-30.72,CA
+52374,1/14/2013,Von's Groceries,-20.49,CA
+52374,1/14/2013,Restaurant - Pizza,-3.75,CA
+52374,1/15/2013,Fisker Night Club,-34.59,CA
+52374,1/15/2013,Fisker Night Club,-10.89,CA
+52374,1/16/2013,Taxi,-3.01,CA
+52374,1/17/2013,Karaoke Bar,-87.63,CA
+52374,1/17/2013,Seaside Bar,-21.41,CA
+52374,1/17/2013,Public Transportation - Train Pass,-16.46,CA
+52374,1/18/2013,Sprouts Market,-29.87,CA
+52374,1/19/2013,Whole Foods,-26.64,CA
+52374,1/19/2013,Owl Night Club,-14.22,CA
+52374,1/19/2013,John's Bar & Restaurant,-20.42,CA
+52374,1/19/2013,Movie Ticket,-23.59,CA
+52374,1/20/2013,Bowling,-29.62,CA
+52374,1/21/2013,Restaurant - Pizza,-32.24,CA
+52374,1/21/2013,Karaoke Bar,-2.47,CA
+52374,1/22/2013,Karaoke Bar,-6.23,CA
+52374,1/23/2013,Owl Night Club,-20.35,CA
+52374,1/23/2013,Green Flash Brewery,-36.8,CA
+52374,1/23/2013,Lyft,-28.82,CA
+52374,1/23/2013,Sprouts Market,-20.31,CA
+52374,1/23/2013,Wine Bar,-37.43,CA
+52374,1/23/2013,Karaoke Bar,-106.94,CA
+52374,1/23/2013,Seaside Bar,-14.5,CA
+52374,1/24/2013,Lyft,-24.9,CA
+52374,1/24/2013,Concert Ticket,-25.22,CA
+52374,1/24/2013,Bowling,-0.49,CA
+52374,1/24/2013,Uber,-14.17,CA
+52374,1/25/2013,Karaoke Bar,-102.8,CA
+52374,1/25/2013,Ice Skating Rink,-38.43,CA
+52374,1/25/2013,Seaside Bar,-32.96,CA
+52374,1/26/2013,Uber,-21.71,CA
+52374,1/26/2013,Ice Skating Rink,-22.19,CA
+52374,1/27/2013,Ice Skating Rink,-0.83,CA
+52374,1/27/2013,Bowling,-30.17,CA
+52374,1/27/2013,Ice Skating Rink,-26.22,CA
+52374,1/28/2013,Von's Groceries,-30.46,CA
+52374,1/29/2013,Public Transportation - Bus Pass,-1.01,CA
+52374,1/29/2013,Bowling,-90.64,CA
+52374,1/30/2013,Restaurant - Pizza,-21.55,CA
+52374,1/30/2013,Starbucks Coffee,-29.64,CA
+52374,3/2/2013,Paycheck,3185,CA
+52374,3/2/2013,Housing Rent,-1037,CA
+52374,3/2/2013,Time Warner Cable,-25,CA
+52374,3/2/2013,Water & Sewer,-53,CA
+52374,3/2/2013,Movie Ticket,-37.56,CA
+52374,3/2/2013,Restaurant - Pizza,-3.24,CA
+52374,3/3/2013,Starbucks Coffee,-0.84,CA
+52374,3/4/2013,Whole Foods,-83,CA
+52374,3/5/2013,Public Transportation - Bus Pass,-10.71,CA
+52374,3/5/2013,Credit Card Overdraft Fee,-23.09,CA
+52374,3/5/2013,Ice Skating Rink,-53.64,CA
+52374,3/5/2013,Public Transportation - Bus Pass,-28.81,CA
+52374,3/6/2013,Movie Ticket,-98.19,CA
+52374,3/6/2013,John's Bar & Restaurant,-0.54,CA
+52374,3/6/2013,Ralph's Grocery Store,-29.86,CA
+52374,3/6/2013,Whole Foods,-79.33,CA
+52374,3/6/2013,John's Bar & Restaurant,-10.59,CA
+52374,3/6/2013,Sprouts Market,-13.96,CA
+52374,3/6/2013,Water & Sewer - Late Payment Penalty,-12.02,CA
+52374,3/6/2013,Time Warne Cable - Late Payment Fee,-105.55,CA
+52374,3/6/2013,Von's Groceries,-17.59,CA
+52374,3/7/2013,Concert Ticket,-25.88,CA
+52374,3/7/2013,Public Transportation - Train Pass,-5.38,CA
+52374,3/7/2013,Starbucks Coffee,-29.77,CA
+52374,3/7/2013,Food Delivery - GrubHub,-34.03,CA
+52374,3/8/2013,Owl Night Club,-8.79,CA
+52374,3/8/2013,Seaside Bar,-100.14,CA
+52374,3/9/2013,Karaoke Bar,-21.12,CA
+52374,3/9/2013,Taxi,-3.12,CA
+52374,3/10/2013,Public Transportation - Bus Pass,-18.52,CA
+52374,3/11/2013,Restaurant - Pizza,-4,CA
+52374,3/12/2013,John's Bar & Restaurant,-87.69,CA
+52374,3/13/2013,Public Transportation - Train Pass,-10.39,CA
+52374,3/14/2013,Restaurant - Steakhouse,-11.25,CA
+52374,3/14/2013,Concert Ticket,-20.65,CA
+52374,3/14/2013,Public Transportation - Bus Pass,-32.26,CA
+52374,3/14/2013,Taxi,-25.03,CA
+52374,3/14/2013,Concert Ticket,-22.63,CA
+52374,3/15/2013,Movie Ticket,-29.72,CA
+52374,3/15/2013,Public Transportation - Bus Pass,-54.27,CA
+52374,3/15/2013,Seaside Bar,-11.98,CA
+52374,3/15/2013,Movie Ticket,-7.96,CA
+52374,3/15/2013,Restaurant - Pizza,-70.53,CA
+52374,3/15/2013,Ice Skating Rink,-27.81,CA
+52374,3/15/2013,Green Flash Brewery,-7.91,CA
+52374,3/15/2013,Restaurant - Steakhouse,-28.84,CA
+52374,3/15/2013,Sprouts Market,-4.43,CA
+52374,3/15/2013,Bank Fee - Negative Balance,-16.71,CA
+52374,3/15/2013,Green Flash Brewery,-7.84,CA
+52374,3/15/2013,Public Transportation - Train Pass,-22.28,CA
+52374,3/16/2013,Uber,-51.43,CA
+52374,3/16/2013,Movie Ticket,-17.74,CA
+52374,3/16/2013,Public Transportation - Bus Pass,-14.24,CA
+52374,3/17/2013,Concert Ticket,-12.43,CA
+52374,3/17/2013,Seaside Bar,-20.59,CA
+52374,3/17/2013,Movie Ticket,-115.21,CA
+52374,3/17/2013,Karaoke Bar,-25.61,CA
+52374,3/17/2013,Credit Card Overdraft Fee,-36.91,CA
+52374,3/17/2013,Owl Night Club,-28.81,CA
+52374,3/18/2013,Public Transportation - Train Pass,-19.73,CA
+52374,3/19/2013,Restaurant - Chinese,-4.49,CA
+52374,3/19/2013,Movie Ticket,-67.2,CA
+52374,3/19/2013,Ice Skating Rink,-35.56,CA
+52374,3/19/2013,Public Transportation - Train Pass,-39.02,CA
+52374,3/20/2013,Sprouts Market,-31.97,CA
+52374,3/20/2013,Ralph's Grocery Store,-10.64,CA
+52374,3/20/2013,Public Transportation - Train Pass,-24.88,CA
+52374,3/20/2013,John's Bar & Restaurant,-29.59,CA
+52374,3/20/2013,Taxi,-68.41,CA
+52374,3/20/2013,Whole Foods,-41.85,CA
+52374,3/21/2013,Fisker Night Club,-24.04,CA
+52374,3/21/2013,Bowling,-24.84,CA
+52374,3/21/2013,Taxi,-24.8,CA
+52374,3/21/2013,Ralph's Grocery Store,-17.44,CA
+52374,3/22/2013,Wine Bar,-0.51,CA
+52374,3/23/2013,Wine Bar,-16.53,CA
+52374,3/23/2013,Seaside Bar,-18.23,CA
+52374,3/23/2013,Seaside Bar,-12.34,CA
+52374,3/23/2013,Seaside Bar,-9.88,CA
+52374,3/23/2013,Wine Bar,-4.77,CA
+52374,3/23/2013,Restaurant - Pizza,-13.31,CA
+52374,3/23/2013,Rodriguez's Bar and Grill,-47.7,CA
+52374,3/24/2013,Owl Night Club,-5.8,CA
+52374,3/25/2013,Sprouts Market,-5.73,CA
+52374,3/26/2013,Owl Night Club,-32.5,CA
+52374,3/27/2013,Water & Sewer - Late Payment Penalty,-8.1,CA
+52374,3/27/2013,Concert Ticket,-93,CA
+52374,3/27/2013,Uber,-9.92,CA
+52374,3/27/2013,Green Flash Brewery,-40.46,CA
+52374,3/27/2013,Restaurant - Steakhouse,-2.48,CA
+52374,3/28/2013,Bowling,-107.42,CA
+52374,3/29/2013,Wine Bar,-14.52,CA
+52374,3/30/2013,Movie Ticket,-36.23,CA
+52374,3/30/2013,Credit Card Overdraft Fee,-12.93,CA
+52374,3/30/2013,Taxi,-17.2,CA
+52374,4/2/2013,Paycheck,3185,CA
+52374,4/2/2013,Housing Rent,-1044,CA
+52374,4/2/2013,Time Warner Cable,-25,CA
+52374,4/2/2013,Water & Sewer,-53,CA
+52374,4/2/2013,Rodriguez's Bar and Grill,-3.76,CA
+52374,4/2/2013,Divorce Lawyer Fees,-29.79,CA
+52374,4/2/2013,Comfort Inn,-5.52,CA
+52374,4/2/2013,Best Western Hotel,-18.3,CA
+52374,4/3/2013,Fisker Night Club,-64.92,CA
+52374,4/3/2013,Rodriguez's Bar and Grill,-66.48,CA
+52374,4/3/2013,Karaoke Bar,-4.28,CA
+52374,4/3/2013,Karaoke Bar,-17.48,CA
+52374,4/3/2013,Rodriguez's Bar and Grill,-32.77,CA
+52374,4/3/2013,Restaurant - Steakhouse,-57.94,CA
+52374,4/3/2013,Green Flash Brewery,-36.49,CA
+52374,4/4/2013,Seaside Bar,-39.24,CA
+52374,4/4/2013,Owl Night Club,-119.76,CA
+52374,4/4/2013,Uber,-111.76,CA
+52374,4/4/2013,Seaside Bar,-14.39,CA
+52374,4/4/2013,Ice Skating Rink,-18.79,CA
+52374,4/4/2013,Public Transportation - Train Pass,-0.38,CA
+52374,4/5/2013,Public Transportation - Train Pass,-9.37,CA
+52374,4/5/2013,Wine Bar,-7.63,CA
+52374,4/6/2013,Movie Ticket,-82.7,CA
+52374,4/6/2013,Von's Groceries,-77.38,CA
+52374,4/6/2013,Owl Night Club,-75.32,CA
+52374,4/6/2013,Lyft,-17.15,CA
+52374,4/6/2013,Time Warne Cable - Late Payment Fee,-30.03,CA
+52374,4/6/2013,Starbucks Coffee,-18.55,CA
+52374,4/6/2013,Public Transportation - Train Pass,-97.21,CA
+52374,4/6/2013,Seaside Bar,-58.39,CA
+52374,4/6/2013,Karaoke Bar,-6.85,CA
+52374,4/7/2013,Whole Foods,-22.84,CA
+52374,4/7/2013,Karaoke Bar,-1.94,CA
+52374,4/7/2013,Uber,-39.49,CA
+52374,4/8/2013,Owl Night Club,-0.68,CA
+52374,4/8/2013,Lyft,-35.29,CA
+52374,4/9/2013,Time Warne Cable - Late Payment Fee,-64.16,CA
+52374,4/9/2013,Fisker Night Club,-17.06,CA
+52374,4/9/2013,Ice Skating Rink,-13.43,CA
+52374,4/10/2013,Movie Ticket,-7.61,CA
+52374,4/10/2013,John's Bar & Restaurant,-36.62,CA
+52374,4/10/2013,Von's Groceries,-19.41,CA
+52374,4/10/2013,Ice Skating Rink,-8.68,CA
+52374,4/10/2013,Fisker Night Club,-34.83,CA
+52374,4/10/2013,Taxi,-30.76,CA
+52374,4/11/2013,Bowling,-10.81,CA
+52374,4/11/2013,Owl Night Club,-37.9,CA
+52374,4/11/2013,Owl Night Club,-55.08,CA
+52374,4/11/2013,Food Delivery - GrubHub,-77.72,CA
+52374,4/12/2013,Rodriguez's Bar and Grill,-28.35,CA
+52374,4/12/2013,Uber,-31.86,CA
+52374,4/12/2013,Restaurant - Chinese,-9.11,CA
+52374,4/12/2013,Public Transportation - Bus Pass,-0.66,CA
+52374,4/12/2013,Time Warne Cable - Late Payment Fee,-32.77,CA
+52374,4/13/2013,Fisker Night Club,-37.52,CA
+52374,4/13/2013,Seaside Bar,-17.44,CA
+52374,4/14/2013,Public Transportation - Bus Pass,-30.14,CA
+52374,4/14/2013,Public Transportation - Train Pass,-17.54,CA
+52374,4/14/2013,Fisker Night Club,-5.66,CA
+52374,4/15/2013,Starbucks Coffee,-2.54,CA
+52374,4/15/2013,Concert Ticket,-31.29,CA
+52374,4/15/2013,Uber,-35.94,CA
+52374,4/15/2013,Wine Bar,-64.59,CA
+52374,4/15/2013,Sprouts Market,-11.71,CA
+52374,4/15/2013,Rodriguez's Bar and Grill,-4.15,CA
+52374,4/16/2013,Wine Bar,-25.11,CA
+52374,4/16/2013,Credit Card Overdraft Fee,-11.35,CA
+52374,4/16/2013,Ice Skating Rink,-28.66,CA
+52374,4/17/2013,Mark's Movers,-18.25,CA
+52374,4/17/2013,FedEx Shipping,-7.96,CA
+52374,4/17/2013,Jerome's Furniture,-17.45,CA
+52374,4/17/2013,Home Depot,-1.59,CA
+52374,4/17/2013,Refrigerator Depot,-26.81,CA
+52374,4/17/2013,Hamilton Move & Storage,-7.23,CA
+52374,4/18/2013,Restaurant - Burgers,-79.88,CA
+52374,4/18/2013,Concert Ticket,-0.82,CA
+52374,4/18/2013,Public Transportation - Train Pass,-7.72,CA
+52374,4/18/2013,Fisker Night Club,-88.37,CA
+52374,4/18/2013,Lyft,-33.64,CA
+52374,4/19/2013,Owl Night Club,-4.91,CA
+52374,4/20/2013,Ice Skating Rink,-61.99,CA
+52374,4/20/2013,Ice Skating Rink,-119.22,CA
+52374,4/20/2013,Fisker Night Club,-80.68,CA
+52374,4/20/2013,Credit Card Overdraft Fee,-15.85,CA
+52374,4/20/2013,Wine Bar,-12.34,CA
+52374,4/21/2013,Sprouts Market,-35.05,CA
+52374,4/21/2013,Wine Bar,-4.99,CA
+52374,4/22/2013,Movie Ticket,-8.74,CA
+52374,4/22/2013,Green Flash Brewery,-89.55,CA
+52374,4/22/2013,Water & Sewer - Late Payment Penalty,-6.49,CA
+52374,4/22/2013,Starbucks Coffee,-37.19,CA
+52374,4/22/2013,Von's Groceries,-1.88,CA
+52374,4/22/2013,Seaside Bar,-11.63,CA
+52374,4/22/2013,Bowling,-20.21,CA
+52374,4/23/2013,Uber,-12.78,CA
+52374,4/24/2013,Concert Ticket,-19.78,CA
+52374,4/24/2013,Whole Foods,-38.81,CA
+52374,4/24/2013,Restaurant - Burgers,-22.53,CA
+52374,4/24/2013,Concert Ticket,-33.07,CA
+52374,4/24/2013,Ice Skating Rink,-5.6,CA
+52374,4/24/2013,Ice Skating Rink,-28.74,CA
+52374,4/25/2013,Starbucks Coffee,-35.95,CA
+52374,4/25/2013,Ice Skating Rink,-61.47,CA
+52374,4/25/2013,Owl Night Club,-37.31,CA
+52374,4/25/2013,Seaside Bar,-33.16,CA
+52374,4/25/2013,Lyft,-113.07,CA
+52374,4/25/2013,Restaurant - Steakhouse,-33.42,CA
+52374,4/25/2013,Taxi,-3.32,CA
+52374,4/25/2013,Concert Ticket,-8.78,CA
+52374,4/25/2013,Wine Bar,-8.37,CA
+52374,4/25/2013,John's Bar & Restaurant,-3.22,CA
+52374,4/26/2013,Time Warne Cable - Late Payment Fee,-32.56,CA
+52374,4/27/2013,Fisker Night Club,-4.44,CA
+52374,4/28/2013,Wine Bar,-20.73,CA
+52374,4/28/2013,Public Transportation - Train Pass,-9.29,CA
+52374,4/28/2013,Lyft,-1.12,CA
+52374,4/28/2013,Karaoke Bar,-20.84,CA
+52374,4/29/2013,Seaside Bar,-9.58,CA
+52374,4/30/2013,Bowling,-20.94,CA
+52374,5/2/2013,Paycheck,3185,CA
+52374,5/2/2013,Housing Rent,-826,CA
+52374,5/2/2013,Time Warner Cable,-25,CA
+52374,5/2/2013,Water & Sewer,-53,CA
+52374,5/2/2013,Ice Skating Rink,-58.57,CA
+52374,5/3/2013,Taxi,-117.4,CA
+52374,5/3/2013,Credit Card Overdraft Fee,-14.75,CA
+52374,5/3/2013,Restaurant - Burgers,-33.38,CA
+52374,5/3/2013,Green Flash Brewery,-15.72,CA
+52374,5/4/2013,Owl Night Club,-113.8,CA
+52374,5/5/2013,Seaside Bar,-5.65,CA
+52374,5/6/2013,Owl Night Club,-7.74,CA
+52374,5/6/2013,Owl Night Club,-7.55,CA
+52374,5/6/2013,Taxi,-14.43,CA
+52374,5/7/2013,Concert Ticket,-16.67,CA
+52374,5/7/2013,Seaside Bar,-15.67,CA
+52374,5/8/2013,Green Flash Brewery,-5.29,CA
+52374,5/8/2013,Taxi,-4.05,CA
+52374,5/9/2013,Sprouts Market,-14.79,CA
+52374,5/9/2013,Restaurant - Steakhouse,-7.79,CA
+52374,5/10/2013,Restaurant - Steakhouse,-116.01,CA
+52374,5/11/2013,Owl Night Club,-22.61,CA
+52374,5/11/2013,Public Transportation - Train Pass,-34.5,CA
+52374,5/11/2013,Von's Groceries,-0.6,CA
+52374,5/11/2013,Ralph's Grocery Store,-0.75,CA
+52374,5/11/2013,Bowling,-34.95,CA
+52374,5/11/2013,Bowling,-22.29,CA
+52374,5/11/2013,Restaurant - Steakhouse,-106.66,CA
+52374,5/11/2013,John's Bar & Restaurant,-104.42,CA
+52374,5/12/2013,Starbucks Coffee,-70.3,CA
+52374,5/12/2013,Movie Ticket,-17.33,CA
+52374,5/13/2013,Green Flash Brewery,-14.9,CA
+52374,5/14/2013,Rodriguez's Bar and Grill,-6.67,CA
+52374,5/14/2013,Bowling,-20.29,CA
+52374,5/14/2013,Sprouts Market,-44.16,CA
+52374,5/14/2013,Restaurant - Pizza,-25.36,CA
+52374,5/15/2013,Food Delivery - GrubHub,-9.1,CA
+52374,5/15/2013,Bowling,-21.31,CA
+52374,5/16/2013,Sprouts Market,-30.06,CA
+52374,5/16/2013,Public Transportation - Bus Pass,-16.06,CA
+52374,5/16/2013,Seaside Bar,-23.3,CA
+52374,5/16/2013,Starbucks Coffee,-9.32,CA
+52374,5/16/2013,Restaurant - Steakhouse,-63.13,CA
+52374,5/16/2013,Bowling,-32.46,CA
+52374,5/17/2013,Rodriguez's Bar and Grill,-7.44,CA
+52374,5/18/2013,John's Bar & Restaurant,-3.66,CA
+52374,5/19/2013,Fisker Night Club,-10.96,CA
+52374,5/19/2013,Green Flash Brewery,-6.47,CA
+52374,5/19/2013,Taxi,-4.27,CA
+52374,5/19/2013,Karaoke Bar,-29.42,CA
+52374,5/19/2013,Karaoke Bar,-10.1,CA
+52374,5/19/2013,Public Transportation - Train Pass,-22.26,CA
+52374,5/19/2013,Green Flash Brewery,-31.81,CA
+52374,5/19/2013,Uber,-5.57,CA
+52374,5/20/2013,Public Transportation - Bus Pass,-5.7,CA
+52374,5/20/2013,Time Warne Cable - Late Payment Fee,-57.92,CA
+52374,5/20/2013,Fisker Night Club,-4.77,CA
+52374,5/20/2013,Uber,-21.55,CA
+52374,5/20/2013,Restaurant - Pizza,-90.4,CA
+52374,5/21/2013,Lyft,-23.82,CA
+52374,5/21/2013,Bowling,-38.76,CA
+52374,5/21/2013,Time Warne Cable - Late Payment Fee,-5.56,CA
+52374,5/21/2013,Wine Bar,-15.97,CA
+52374,5/21/2013,Lyft,-21.85,CA
+52374,5/21/2013,Wine Bar,-19.11,CA
+52374,5/21/2013,Public Transportation - Train Pass,-117.63,CA
+52374,5/21/2013,Bank Fee - Negative Balance,-4.69,CA
+52374,5/21/2013,Uber,-100.17,CA
+52374,5/21/2013,Restaurant - Steakhouse,-111.23,CA
+52374,5/21/2013,Public Transportation - Bus Pass,-4.71,CA
+52374,5/21/2013,Taxi,-21,CA
+52374,5/21/2013,Time Warne Cable - Late Payment Fee,-47.18,CA
+52374,5/21/2013,Uber,-36.75,CA
+52374,5/21/2013,Uber,-28.32,CA
+52374,5/21/2013,Restaurant - Steakhouse,-21.02,CA
+52374,5/22/2013,Rodriguez's Bar and Grill,-18.86,CA
+52374,5/22/2013,Sprouts Market,-25.67,CA
+52374,5/23/2013,Movie Ticket,-79.25,CA
+52374,5/24/2013,Starbucks Coffee,-91.1,CA
+52374,5/25/2013,Movie Ticket,-22.33,CA
+52374,5/25/2013,Taxi,-14.23,CA
+52374,5/26/2013,Wine Bar,-11.6,CA
+52374,5/26/2013,Owl Night Club,-24.53,CA
+52374,5/27/2013,Green Flash Brewery,-6.44,CA
+52374,5/27/2013,Green Flash Brewery,-8.78,CA
+52374,5/27/2013,Green Flash Brewery,-36.77,CA
+52374,5/27/2013,Concert Ticket,-23.4,CA
+52374,5/27/2013,Rodriguez's Bar and Grill,-35.69,CA
+52374,5/27/2013,Credit Card Overdraft Fee,-25.55,CA
+52374,5/27/2013,Public Transportation - Train Pass,-7.63,CA
+52374,5/28/2013,Bank Fee - Negative Balance,-38.65,CA
+52374,5/29/2013,John's Bar & Restaurant,-30.19,CA
+52374,5/29/2013,Taxi,-39.98,CA
+52374,5/30/2013,Karaoke Bar,-29.28,CA
+52374,5/30/2013,Seaside Bar,-18.67,CA
+52374,5/30/2013,Water & Sewer - Late Payment Penalty,-23.14,CA
+52374,5/30/2013,Karaoke Bar,-11.79,CA
+52374,5/30/2013,Concert Ticket,-52.9,CA
+52374,6/2/2013,Paycheck,3185,CA
+52374,6/2/2013,Housing Rent,-973,CA
+52374,6/2/2013,Time Warner Cable,-25,CA
+52374,6/2/2013,Water & Sewer,-53,CA
+52374,6/2/2013,Bowling,-118.24,CA
+52374,6/2/2013,Rodriguez's Bar and Grill,-31.82,CA
+52374,6/2/2013,Fisker Night Club,-37.74,CA
+52374,6/2/2013,Fisker Night Club,-18.14,CA
+52374,6/2/2013,Bowling,-11.74,CA
+52374,6/2/2013,Green Flash Brewery,-23.22,CA
+52374,6/3/2013,Concert Ticket,-13.79,CA
+52374,6/3/2013,Fisker Night Club,-68.77,CA
+52374,6/3/2013,Uber,-33.2,CA
+52374,6/4/2013,Green Flash Brewery,-11.8,CA
+52374,6/4/2013,Restaurant - Pizza,-1.68,CA
+52374,6/4/2013,Fisker Night Club,-0.81,CA
+52374,6/4/2013,Ice Skating Rink,-2.07,CA
+52374,6/4/2013,Wine Bar,-31.6,CA
+52374,6/4/2013,Von's Groceries,-33.08,CA
+52374,6/4/2013,Bowling,-2.31,CA
+52374,6/5/2013,Concert Ticket,-36.06,CA
+52374,6/5/2013,Public Transportation - Train Pass,-9.82,CA
+52374,6/5/2013,Rodriguez's Bar and Grill,-104.64,CA
+52374,6/5/2013,Movie Ticket,-27.99,CA
+52374,6/5/2013,Von's Groceries,-97.95,CA
+52374,6/5/2013,Owl Night Club,-37.24,CA
+52374,6/6/2013,Green Flash Brewery,-13.13,CA
+52374,6/6/2013,Green Flash Brewery,-35.29,CA
+52374,6/6/2013,Concert Ticket,-9.01,CA
+52374,6/6/2013,Ice Skating Rink,-6.69,CA
+52374,6/7/2013,Von's Groceries,-39.57,CA
+52374,6/7/2013,Whole Foods,-25.43,CA
+52374,6/7/2013,Public Transportation - Train Pass,-10.85,CA
+52374,6/7/2013,Lyft,-14.4,CA
+52374,6/8/2013,Restaurant - Steakhouse,-25.65,CA
+52374,6/8/2013,Seaside Bar,-90.5,CA
+52374,6/8/2013,Taxi,-50.62,CA
+52374,6/8/2013,Public Transportation - Train Pass,-2.53,CA
+52374,6/8/2013,John's Bar & Restaurant,-21.16,CA
+52374,6/9/2013,Seaside Bar,-34.57,CA
+52374,6/9/2013,Seaside Bar,-6.06,CA
+52374,6/9/2013,Public Transportation - Train Pass,-38.76,CA
+52374,6/9/2013,Restaurant - Pizza,-26.65,CA
+52374,6/10/2013,Public Transportation - Train Pass,-7.73,CA
+52374,6/10/2013,Whole Foods,-38.41,CA
+52374,6/10/2013,Fisker Night Club,-26.43,CA
+52374,6/10/2013,Movie Ticket,-45.93,CA
+52374,6/11/2013,John's Bar & Restaurant,-29.55,CA
+52374,6/11/2013,Ice Skating Rink,-12.48,CA
+52374,6/11/2013,Seaside Bar,-31.82,CA
+52374,6/11/2013,Bowling,-80.59,CA
+52374,6/11/2013,Green Flash Brewery,-20.82,CA
+52374,6/12/2013,Bowling,-27.96,CA
+52374,6/12/2013,Ralph's Grocery Store,-33.78,CA
+52374,6/12/2013,Movie Ticket,-95.37,CA
+52374,6/12/2013,Public Transportation - Bus Pass,-5.55,CA
+52374,6/12/2013,Taxi,-25.68,CA
+52374,6/12/2013,Green Flash Brewery,-21.04,CA
+52374,6/12/2013,Bowling,-31.94,CA
+52374,6/12/2013,Movie Ticket,-6.19,CA
+52374,6/13/2013,Green Flash Brewery,-36.99,CA
+52374,6/13/2013,Wine Bar,-96.22,CA
+52374,6/13/2013,Fisker Night Club,-31.36,CA
+52374,6/14/2013,Von's Groceries,-25.21,CA
+52374,6/14/2013,Green Flash Brewery,-95.69,CA
+52374,6/14/2013,Public Transportation - Train Pass,-91.78,CA
+52374,6/14/2013,Seaside Bar,-9.29,CA
+52374,6/15/2013,Restaurant - Steakhouse,-19.08,CA
+52374,6/16/2013,Uber,-18.26,CA
+52374,6/16/2013,Lyft,-13.95,CA
+52374,6/16/2013,Wine Bar,-11.43,CA
+52374,6/16/2013,Restaurant - Steakhouse,-1.45,CA
+52374,6/16/2013,Restaurant - Chinese,-30.47,CA
+52374,6/16/2013,Ice Skating Rink,-30.63,CA
+52374,6/16/2013,Ice Skating Rink,-27.39,CA
+52374,6/17/2013,Public Transportation - Bus Pass,-20.19,CA
+52374,6/17/2013,Seaside Bar,-119.16,CA
+52374,6/17/2013,Lyft,-38.66,CA
+52374,6/17/2013,Green Flash Brewery,-34.21,CA
+52374,6/17/2013,Seaside Bar,-8.8,CA
+52374,6/17/2013,Green Flash Brewery,-5.19,CA
+52374,6/18/2013,Karaoke Bar,-22.62,CA
+52374,6/19/2013,Wine Bar,-36,CA
+52374,6/19/2013,Rodriguez's Bar and Grill,-25.88,CA
+52374,6/19/2013,Housing Rent - Late Fee,-23.47,CA
+52374,6/20/2013,Ice Skating Rink,-21.96,CA
+52374,6/21/2013,Owl Night Club,-36.1,CA
+52374,6/22/2013,Green Flash Brewery,-5.59,CA
+52374,6/22/2013,Rodriguez's Bar and Grill,-6.77,CA
+52374,6/23/2013,Sprouts Market,-34.42,CA
+52374,6/23/2013,Restaurant - Chinese,-14.96,CA
+52374,6/24/2013,Movie Ticket,-15.81,CA
+52374,6/24/2013,Housing Rent - Late Fee,-25.32,CA
+52374,6/25/2013,Von's Groceries,-4.2,CA
+52374,6/26/2013,Ralph's Grocery Store,-42.42,CA
+52374,6/26/2013,John's Bar & Restaurant,-40.31,CA
+52374,6/27/2013,John's Bar & Restaurant,-11.24,CA
+52374,6/27/2013,Water & Sewer - Late Payment Penalty,-8.6,CA
+52374,6/27/2013,Fisker Night Club,-23.39,CA
+52374,6/28/2013,Owl Night Club,-19.24,CA
+52374,6/29/2013,Restaurant - Chinese,-5.55,CA
+52374,6/30/2013,Lyft,-26.36,CA
+52374,7/2/2013,Paycheck,3185,CA
+52374,7/2/2013,Housing Rent,-1104,CA
+52374,7/2/2013,Time Warner Cable,-25,CA
+52374,7/2/2013,Water & Sewer,-53,CA
+52374,7/2/2013,Bowling,-17.55,CA
+52374,7/2/2013,John's Bar & Restaurant,-117.81,CA
+52374,7/2/2013,Lyft,-101.94,CA
+52374,7/3/2013,Sprouts Market,-104.39,CA
+52374,7/4/2013,Public Transportation - Train Pass,-16.7,CA
+52374,7/4/2013,Starbucks Coffee,-7.55,CA
+52374,7/5/2013,Public Transportation - Bus Pass,-19.72,CA
+52374,7/6/2013,Bowling,-29.13,CA
+52374,7/7/2013,Food Delivery - GrubHub,-88.11,CA
+52374,7/7/2013,Bowling,-0.16,CA
+52374,7/8/2013,Bowling,-36.14,CA
+52374,7/9/2013,Owl Night Club,-27.46,CA
+52374,7/10/2013,Rodriguez's Bar and Grill,-13.79,CA
+52374,7/10/2013,John's Bar & Restaurant,-36.07,CA
+52374,7/10/2013,Rodriguez's Bar and Grill,-14.5,CA
+52374,7/10/2013,Uber,-22.92,CA
+52374,7/10/2013,Concert Ticket,-32.58,CA
+52374,7/10/2013,Green Flash Brewery,-14.72,CA
+52374,7/10/2013,Owl Night Club,-116.08,CA
+52374,7/10/2013,Fisker Night Club,-76.87,CA
+52374,7/10/2013,Credit Card Overdraft Fee,-28.54,CA
+52374,7/11/2013,Fisker Night Club,-0.72,CA
+52374,7/12/2013,Ice Skating Rink,-38.73,CA
+52374,7/12/2013,Restaurant - Pizza,-28.55,CA
+52374,7/12/2013,Restaurant - Burgers,-38.16,CA
+52374,7/12/2013,Seaside Bar,-3.7,CA
+52374,7/12/2013,Fisker Night Club,-6.05,CA
+52374,7/13/2013,Seaside Bar,-36.01,CA
+52374,7/13/2013,Green Flash Brewery,-13.77,CA
+52374,7/14/2013,Starbucks Coffee,-49.6,CA
+52374,7/14/2013,Lyft,-39.88,CA
+52374,7/14/2013,Public Transportation - Train Pass,-17.24,CA
+52374,7/14/2013,Karaoke Bar,-38.65,CA
+52374,7/14/2013,Lyft,-19.2,CA
+52374,7/15/2013,Movie Ticket,-15.93,CA
+52374,7/16/2013,Seaside Bar,-47.47,CA
+52374,7/17/2013,Wine Bar,-65.56,CA
+52374,7/17/2013,Fisker Night Club,-39.98,CA
+52374,7/17/2013,Fisker Night Club,-62.35,CA
+52374,7/17/2013,Lyft,-15.51,CA
+52374,7/18/2013,Taxi,-42.39,CA
+52374,7/18/2013,Wine Bar,-25.55,CA
+52374,7/19/2013,Whole Foods,-11.67,CA
+52374,7/20/2013,Restaurant - Pizza,-15.31,CA
+52374,7/21/2013,Wine Bar,-35.4,CA
+52374,7/22/2013,Von's Groceries,-29.96,CA
+52374,7/22/2013,Ralph's Grocery Store,-36.19,CA
+52374,7/23/2013,Public Transportation - Bus Pass,-22.46,CA
+52374,7/24/2013,Wine Bar,-30.86,CA
+52374,7/24/2013,Seaside Bar,-24.88,CA
+52374,7/24/2013,Concert Ticket,-24.03,CA
+52374,7/24/2013,Time Warne Cable - Late Payment Fee,-6.52,CA
+52374,7/24/2013,Credit Card Overdraft Fee,-4.79,CA
+52374,7/24/2013,Lyft,-2.27,CA
+52374,7/24/2013,Wine Bar,-14.35,CA
+52374,7/24/2013,Wine Bar,-31.07,CA
+52374,7/24/2013,Food Delivery - GrubHub,-21.59,CA
+52374,7/25/2013,Owl Night Club,-3.86,CA
+52374,7/25/2013,Sprouts Market,-103.29,CA
+52374,7/25/2013,Ice Skating Rink,-35.41,CA
+52374,7/25/2013,Public Transportation - Bus Pass,-32.34,CA
+52374,7/25/2013,Credit Card Overdraft Fee,-27.52,CA
+52374,7/25/2013,Wine Bar,-26.6,CA
+52374,7/26/2013,Whole Foods,-75.29,CA
+52374,7/26/2013,Wine Bar,-48.1,CA
+52374,7/26/2013,Rodriguez's Bar and Grill,-27.33,CA
+52374,7/26/2013,Green Flash Brewery,-19.02,CA
+52374,7/26/2013,Movie Ticket,-14.54,CA
+52374,7/27/2013,Food Delivery - GrubHub,-31.2,CA
+52374,7/28/2013,Uber,-91.49,CA
+52374,7/28/2013,Food Delivery - GrubHub,-99.74,CA
+52374,7/28/2013,Public Transportation - Bus Pass,-38.59,CA
+52374,7/28/2013,Sprouts Market,-26.74,CA
+52374,7/28/2013,Ice Skating Rink,-31.95,CA
+52374,7/28/2013,John's Bar & Restaurant,-4.73,CA
+52374,7/29/2013,Uber,-39.29,CA
+52374,7/29/2013,Movie Ticket,-28.42,CA
+52374,7/29/2013,Restaurant - Burgers,-36.24,CA
+52374,7/29/2013,Lyft,-11.86,CA
+52374,7/29/2013,Seaside Bar,-30.08,CA
+52374,7/30/2013,Rodriguez's Bar and Grill,-3.62,CA
+52374,7/30/2013,Public Transportation - Bus Pass,-6.5,CA
+52374,7/30/2013,Whole Foods,-78.16,CA
+52374,8/2/2013,Paycheck,3185,CA
+52374,8/2/2013,Housing Rent,-1186,CA
+52374,8/2/2013,Time Warner Cable,-25,CA
+52374,8/2/2013,Water & Sewer,-53,CA
+52374,8/2/2013,Restaurant - Steakhouse,-101.09,CA
+52374,8/2/2013,Ralph's Grocery Store,-30.28,CA
+52374,8/3/2013,Bowling,-67.8,CA
+52374,8/4/2013,Public Transportation - Bus Pass,-1.22,CA
+52374,8/4/2013,Food Delivery - GrubHub,-23.77,CA
+52374,8/5/2013,John's Bar & Restaurant,-74.91,CA
+52374,8/6/2013,Ralph's Grocery Store,-38.19,CA
+52374,8/6/2013,Owl Night Club,-9.35,CA
+52374,8/6/2013,Public Transportation - Bus Pass,-81.12,CA
+52374,8/6/2013,Rodriguez's Bar and Grill,-11.29,CA
+52374,8/6/2013,Public Transportation - Bus Pass,-28.46,CA
+52374,8/6/2013,Uber,-14.15,CA
+52374,8/6/2013,Housing Rent - Late Fee,-16.95,CA
+52374,8/6/2013,Green Flash Brewery,-17.3,CA
+52374,8/6/2013,Taxi,-18.62,CA
+52374,8/6/2013,Seaside Bar,-13.5,CA
+52374,8/7/2013,Karaoke Bar,-34.88,CA
+52374,8/7/2013,Movie Ticket,-31.39,CA
+52374,8/7/2013,Starbucks Coffee,-29.96,CA
+52374,8/8/2013,Bowling,-22.27,CA
+52374,8/8/2013,Uber,-10.2,CA
+52374,8/8/2013,Von's Groceries,-26.69,CA
+52374,8/9/2013,Lyft,-3.29,CA
+52374,8/9/2013,Whole Foods,-13.28,CA
+52374,8/9/2013,Von's Groceries,-60.44,CA
+52374,8/9/2013,Fisker Night Club,-2.88,CA
+52374,8/9/2013,Wine Bar,-19.97,CA
+52374,8/9/2013,Karaoke Bar,-22.98,CA
+52374,8/9/2013,Movie Ticket,-37.7,CA
+52374,8/9/2013,Concert Ticket,-6.07,CA
+52374,8/10/2013,Taxi,-17.56,CA
+52374,8/11/2013,Lyft,-34.29,CA
+52374,8/12/2013,Ralph's Grocery Store,-22.12,CA
+52374,8/13/2013,John's Bar & Restaurant,-13.91,CA
+52374,8/14/2013,Fisker Night Club,-81.63,CA
+52374,8/14/2013,Movie Ticket,-5.35,CA
+52374,8/15/2013,Green Flash Brewery,-3.9,CA
+52374,8/15/2013,Fisker Night Club,-18.72,CA
+52374,8/15/2013,Movie Ticket,-16.2,CA
+52374,8/16/2013,Restaurant - Steakhouse,-29.43,CA
+52374,8/16/2013,John's Bar & Restaurant,-6.16,CA
+52374,8/17/2013,Movie Ticket,-21.32,CA
+52374,8/18/2013,Movie Ticket,-25.39,CA
+52374,8/18/2013,Taxi,-5.87,CA
+52374,8/19/2013,Restaurant - Burgers,-84.14,CA
+52374,8/20/2013,Restaurant - Chinese,-32.34,CA
+52374,8/20/2013,Seaside Bar,-3.28,CA
+52374,8/21/2013,Whole Foods,-104.24,CA
+52374,8/22/2013,Ice Skating Rink,-9.89,CA
+52374,8/23/2013,Owl Night Club,-32.61,CA
+52374,8/23/2013,Restaurant - Chinese,-114.21,CA
+52374,8/23/2013,Restaurant - Pizza,-48.12,CA
+52374,8/23/2013,Taxi,-8.09,CA
+52374,8/23/2013,Rodriguez's Bar and Grill,-11.13,CA
+52374,8/23/2013,Wine Bar,-14.24,CA
+52374,8/23/2013,Concert Ticket,-88.16,CA
+52374,8/23/2013,Lyft,-45.54,CA
+52374,8/23/2013,Wine Bar,-4.06,CA
+52374,8/24/2013,Fisker Night Club,-39.84,CA
+52374,8/24/2013,Fisker Night Club,-14.76,CA
+52374,8/25/2013,Concert Ticket,-84.47,CA
+52374,8/25/2013,Wine Bar,-1.75,CA
+52374,8/25/2013,Movie Ticket,-10.85,CA
+52374,8/25/2013,Public Transportation - Bus Pass,-9.07,CA
+52374,8/25/2013,Green Flash Brewery,-5.58,CA
+52374,8/25/2013,Ralph's Grocery Store,-25.46,CA
+52374,8/26/2013,Food Delivery - GrubHub,-36.9,CA
+52374,8/26/2013,Housing Rent - Late Fee,-28.5,CA
+52374,8/26/2013,Bowling,-11.6,CA
+52374,8/26/2013,Ice Skating Rink,-50.84,CA
+52374,8/27/2013,Seaside Bar,-24.69,CA
+52374,8/28/2013,Restaurant - Pizza,-34.54,CA
+52374,8/28/2013,John's Bar & Restaurant,-31.61,CA
+52374,8/29/2013,Owl Night Club,-15.16,CA
+52374,8/29/2013,Wine Bar,-1.07,CA
+52374,8/29/2013,Public Transportation - Train Pass,-38.28,CA
+52374,8/29/2013,Bowling,-69.03,CA
+52374,8/29/2013,Ice Skating Rink,-5.35,CA
+52374,8/29/2013,Karaoke Bar,-1.48,CA
+52374,8/29/2013,Public Transportation - Train Pass,-4.17,CA
+52374,8/29/2013,Seaside Bar,-24.84,CA
+52374,8/30/2013,Starbucks Coffee,-25.62,CA
+52374,8/30/2013,Concert Ticket,-18.03,CA
+52374,8/30/2013,Rodriguez's Bar and Grill,-90.25,CA
+52374,8/30/2013,Wine Bar,-36.85,CA
+52374,9/2/2013,Paycheck,3185,CA
+52374,9/2/2013,Housing Rent,-954,CA
+52374,9/2/2013,Time Warner Cable,-25,CA
+52374,9/2/2013,Water & Sewer,-53,CA
+52374,9/2/2013,John's Bar & Restaurant,-17.07,CA
+52374,9/2/2013,Rodriguez's Bar and Grill,-1.18,CA
+52374,9/2/2013,Green Flash Brewery,-12.5,CA
+52374,9/2/2013,Owl Night Club,-10.24,CA
+52374,9/3/2013,Karaoke Bar,-39.06,CA
+52374,9/3/2013,Fisker Night Club,-3.35,CA
+52374,9/3/2013,Rodriguez's Bar and Grill,-16.73,CA
+52374,9/3/2013,Karaoke Bar,-36.21,CA
+52374,9/4/2013,Seaside Bar,-26.36,CA
+52374,9/4/2013,Credit Card Overdraft Fee,-5.68,CA
+52374,9/5/2013,Ice Skating Rink,-19.1,CA
+52374,9/5/2013,Public Transportation - Bus Pass,-32.21,CA
+52374,9/6/2013,Ralph's Grocery Store,-13.39,CA
+52374,9/6/2013,Sprouts Market,-15.87,CA
+52374,9/6/2013,Wine Bar,-25.47,CA
+52374,9/6/2013,Bowling,-2.42,CA
+52374,9/6/2013,Credit Card Overdraft Fee,-37.62,CA
+52374,9/6/2013,Taxi,-17.25,CA
+52374,9/6/2013,Fisker Night Club,-36.4,CA
+52374,9/7/2013,Water & Sewer - Late Payment Penalty,-14.25,CA
+52374,9/7/2013,Wine Bar,-23.19,CA
+52374,9/7/2013,Public Transportation - Train Pass,-17.46,CA
+52374,9/7/2013,Whole Foods,-20.5,CA
+52374,9/7/2013,Bowling,-15.33,CA
+52374,9/8/2013,Public Transportation - Bus Pass,-0.03,CA
+52374,9/8/2013,Concert Ticket,-14.76,CA
+52374,9/8/2013,Restaurant - Pizza,-15.57,CA
+52374,9/8/2013,Public Transportation - Bus Pass,-38.14,CA
+52374,9/8/2013,Restaurant - Steakhouse,-9.82,CA
+52374,9/8/2013,Seaside Bar,-68.22,CA
+52374,9/9/2013,Bowling,-35.19,CA
+52374,9/9/2013,Housing Rent - Late Fee,-47.55,CA
+52374,9/10/2013,Owl Night Club,-33.09,CA
+52374,9/10/2013,Owl Night Club,-20.67,CA
+52374,9/10/2013,Bowling,-31.16,CA
+52374,9/11/2013,Green Flash Brewery,-39.55,CA
+52374,9/11/2013,Lyft,-18.51,CA
+52374,9/12/2013,John's Bar & Restaurant,-21.91,CA
+52374,9/12/2013,Rodriguez's Bar and Grill,-32.67,CA
+52374,9/12/2013,Restaurant - Burgers,-33.95,CA
+52374,9/12/2013,Von's Groceries,-34.15,CA
+52374,9/13/2013,Green Flash Brewery,-32.13,CA
+52374,9/13/2013,Lyft,-28.61,CA
+52374,9/14/2013,Owl Night Club,-19.94,CA
+52374,9/14/2013,Lyft,-44.74,CA
+52374,9/14/2013,Lyft,-39.84,CA
+52374,9/14/2013,John's Bar & Restaurant,-16.74,CA
+52374,9/14/2013,Bowling,-12.53,CA
+52374,9/14/2013,Whole Foods,-37.61,CA
+52374,9/14/2013,Public Transportation - Train Pass,-19.76,CA
+52374,9/14/2013,Public Transportation - Bus Pass,-64.73,CA
+52374,9/14/2013,Ralph's Grocery Store,-19.36,CA
+52374,9/14/2013,Whole Foods,-0.71,CA
+52374,9/14/2013,Seaside Bar,-17.84,CA
+52374,9/14/2013,Karaoke Bar,-19.04,CA
+52374,9/15/2013,Restaurant - Steakhouse,-70.41,CA
+52374,9/15/2013,Fisker Night Club,-38.52,CA
+52374,9/15/2013,Credit Card Overdraft Fee,-28.82,CA
+52374,9/16/2013,Sprouts Market,-39.81,CA
+52374,9/16/2013,Restaurant - Steakhouse,-1.07,CA
+52374,9/16/2013,John's Bar & Restaurant,-85.95,CA
+52374,9/16/2013,Taxi,-25.98,CA
+52374,9/16/2013,Public Transportation - Bus Pass,-26.68,CA
+52374,9/16/2013,Water & Sewer - Late Payment Penalty,-3.04,CA
+52374,9/16/2013,Owl Night Club,-53.63,CA
+52374,9/16/2013,Rodriguez's Bar and Grill,-72.42,CA
+52374,9/16/2013,Seaside Bar,-30.92,CA
+52374,9/16/2013,Seaside Bar,-5.18,CA
+52374,9/17/2013,Seaside Bar,-32.35,CA
+52374,9/17/2013,Von's Groceries,-58.5,CA
+52374,9/17/2013,Public Transportation - Train Pass,-0.66,CA
+52374,9/17/2013,Seaside Bar,-9.03,CA
+52374,9/17/2013,Ice Skating Rink,-4.55,CA
+52374,9/17/2013,Public Transportation - Bus Pass,-34.06,CA
+52374,9/17/2013,Restaurant - Burgers,-11.56,CA
+52374,9/17/2013,John's Bar & Restaurant,-47.44,CA
+52374,9/17/2013,Movie Ticket,-7.92,CA
+52374,9/17/2013,Credit Card Overdraft Fee,-28.11,CA
+52374,9/17/2013,Sprouts Market,-23.53,CA
+52374,9/17/2013,Karaoke Bar,-24.45,CA
+52374,9/17/2013,Sprouts Market,-31.39,CA
+52374,9/17/2013,Karaoke Bar,-20.13,CA
+52374,9/17/2013,Fisker Night Club,-9.79,CA
+52374,9/17/2013,Lyft,-18.48,CA
+52374,9/17/2013,Sprouts Market,-0.81,CA
+52374,9/18/2013,Green Flash Brewery,-56.99,CA
+52374,9/18/2013,Public Transportation - Bus Pass,-11.15,CA
+52374,9/18/2013,Public Transportation - Train Pass,-1.82,CA
+52374,9/18/2013,Uber,-39.56,CA
+52374,9/18/2013,Ralph's Grocery Store,-112.31,CA
+52374,9/18/2013,Concert Ticket,-33.23,CA
+52374,9/18/2013,Owl Night Club,-3.3,CA
+52374,9/19/2013,Public Transportation - Train Pass,-24.61,CA
+52374,9/19/2013,Concert Ticket,-18.21,CA
+52374,9/19/2013,Food Delivery - GrubHub,-96.87,CA
+52374,9/20/2013,Owl Night Club,-37.68,CA
+52374,9/20/2013,Lyft,-27.68,CA
+52374,9/21/2013,Restaurant - Pizza,-12.14,CA
+52374,9/21/2013,Rodriguez's Bar and Grill,-5.36,CA
+52374,9/21/2013,Kay Jewelry,-79.76,CA
+52374,9/21/2013,Wedding Planner,-11.74,CA
+52374,9/21/2013,Southwest Flights - Cancun,-10.74,CA
+52374,9/21/2013,Cancun Beach Resort,-37.08,CA
+52374,9/21/2013,Concert Ticket,-7.15,CA
+52374,9/22/2013,Public Transportation - Bus Pass,-6.03,CA
+52374,9/23/2013,Movie Ticket,-4.48,CA
+52374,9/23/2013,Lyft,-34.89,CA
+52374,9/24/2013,John's Bar & Restaurant,-22.37,CA
+52374,9/24/2013,Uber,-66.55,CA
+52374,9/24/2013,Karaoke Bar,-19.81,CA
+52374,9/24/2013,Von's Groceries,-37.64,CA
+52374,9/24/2013,Rodriguez's Bar and Grill,-1.98,CA
+52374,9/24/2013,Movie Ticket,-35.3,CA
+52374,9/24/2013,Seaside Bar,-5.14,CA
+52374,9/24/2013,Green Flash Brewery,-13.64,CA
+52374,9/24/2013,Concert Ticket,-36.77,CA
+52374,9/24/2013,Taxi,-14.58,CA
+52374,9/25/2013,Rodriguez's Bar and Grill,-115.64,CA
+52374,9/26/2013,Movie Ticket,-18.27,CA
+52374,9/26/2013,Rodriguez's Bar and Grill,-34.08,CA
+52374,9/26/2013,Public Transportation - Train Pass,-8.33,CA
+52374,9/26/2013,Movie Ticket,-95.9,CA
+52374,9/26/2013,Rodriguez's Bar and Grill,-17.67,CA
+52374,9/26/2013,Fisker Night Club,-16.24,CA
+52374,9/26/2013,Starbucks Coffee,-32.87,CA
+52374,9/26/2013,Restaurant - Chinese,-41.71,CA
+52374,9/26/2013,Karaoke Bar,-32.7,CA
+52374,9/26/2013,Owl Night Club,-21.33,CA
+52374,9/26/2013,Taxi,-7.75,CA
+52374,9/27/2013,John's Bar & Restaurant,-22.75,CA
+52374,9/28/2013,Public Transportation - Train Pass,-15.67,CA
+52374,9/29/2013,Public Transportation - Bus Pass,-31.33,CA
+52374,9/30/2013,Uber,-57.6,CA
+52374,9/30/2013,Restaurant - Chinese,-28.34,CA
+52374,9/30/2013,Taxi,-26.97,CA
+52374,10/2/2013,Paycheck,3185,CA
+52374,10/2/2013,Housing Rent,-745,CA
+52374,10/2/2013,Time Warner Cable,-25,CA
+52374,10/2/2013,Water & Sewer,-53,CA
+52374,10/2/2013,Green Flash Brewery,-74.35,CA
+52374,10/2/2013,Starbucks Coffee,-32.31,CA
+52374,10/3/2013,Starbucks Coffee,-3.09,CA
+52374,10/4/2013,Public Transportation - Train Pass,-32.31,CA
+52374,10/4/2013,Karaoke Bar,-22.48,CA
+52374,10/4/2013,Fisker Night Club,-17.9,CA
+52374,10/5/2013,Starbucks Coffee,-7.47,CA
+52374,10/6/2013,Lyft,-33.17,CA
+52374,10/6/2013,Sprouts Market,-51.72,CA
+52374,10/6/2013,Food Delivery - GrubHub,-45.28,CA
+52374,10/6/2013,Housing Rent - Late Fee,-26.66,CA
+52374,10/6/2013,Whole Foods,-10.38,CA
+52374,10/6/2013,Credit Card Overdraft Fee,-109.37,CA
+52374,10/6/2013,Bowling,-33.49,CA
+52374,10/6/2013,Whole Foods,-69.8,CA
+52374,10/6/2013,Food Delivery - GrubHub,-3.45,CA
+52374,10/6/2013,Sprouts Market,-64.89,CA
+52374,10/6/2013,Lyft,-20.38,CA
+52374,10/6/2013,Seaside Bar,-28.58,CA
+52374,10/6/2013,Ralph's Grocery Store,-38.29,CA
+52374,10/6/2013,Seaside Bar,-26.58,CA
+52374,10/6/2013,Wine Bar,-31.26,CA
+52374,10/6/2013,Wine Bar,-2.59,CA
+52374,10/6/2013,Green Flash Brewery,-25.83,CA
+52374,10/7/2013,Lyft,-29.36,CA
+52374,10/7/2013,Lyft,-9.51,CA
+52374,10/7/2013,Sprouts Market,-72.05,CA
+52374,10/7/2013,Restaurant - Chinese,-23.98,CA
+52374,10/7/2013,Concert Ticket,-1.65,CA
+52374,10/7/2013,Taxi,-17.07,CA
+52374,10/7/2013,Uber,-96.96,CA
+52374,10/7/2013,Credit Card Overdraft Fee,-21.24,CA
+52374,10/8/2013,Rodriguez's Bar and Grill,-24.52,CA
+52374,10/9/2013,Uber,-11.61,CA
+52374,10/10/2013,Credit Card Overdraft Fee,-3.98,CA
+52374,10/10/2013,Wine Bar,-17.5,CA
+52374,10/10/2013,John's Bar & Restaurant,-28.45,CA
+52374,10/11/2013,Fisker Night Club,-7.68,CA
+52374,10/12/2013,Owl Night Club,-3.82,CA
+52374,10/12/2013,Rodriguez's Bar and Grill,-29.51,CA
+52374,10/13/2013,Amazon Order - Baby Crib,-27.92,CA
+52374,10/13/2013,Hospital - Prenatal Care,-34.82,CA
+52374,10/13/2013,Babies "R" Us,-118.95,CA
+52374,10/13/2013,BuyBuyBaby.com,-10.46,CA
+52374,10/13/2013,Wine Bar,-2.66,CA
+52374,10/13/2013,Rodriguez's Bar and Grill,-35.16,CA
+52374,10/13/2013,Housing Rent - Late Fee,-25.9,CA
+52374,10/13/2013,Owl Night Club,-38.98,CA
+52374,10/13/2013,Taxi,-101.78,CA
+52374,10/13/2013,Seaside Bar,-73.61,CA
+52374,10/14/2013,John's Bar & Restaurant,-2.31,CA
+52374,10/14/2013,Ice Skating Rink,-26.83,CA
+52374,10/14/2013,Seaside Bar,-29.1,CA
+52374,10/14/2013,Von's Groceries,-25.83,CA
+52374,10/14/2013,Concert Ticket,-8.02,CA
+52374,10/15/2013,Taxi,-60.18,CA
+52374,10/15/2013,Lyft,-29.41,CA
+52374,10/15/2013,Concert Ticket,-4.66,CA
+52374,10/16/2013,Owl Night Club,-3.67,CA
+52374,10/16/2013,Green Flash Brewery,-8.96,CA
+52374,10/16/2013,Wine Bar,-20.09,CA
+52374,10/16/2013,Taxi,-19.63,CA
+52374,10/16/2013,Restaurant - Pizza,-25.65,CA
+52374,10/17/2013,Restaurant - Steakhouse,-22.88,CA
+52374,10/17/2013,Ralph's Grocery Store,-17.07,CA
+52374,10/17/2013,Green Flash Brewery,-32.29,CA
+52374,10/18/2013,Uber,-20.98,CA
+52374,10/19/2013,Seaside Bar,-11.91,CA
+52374,10/19/2013,Public Transportation - Train Pass,-0.12,CA
+52374,10/19/2013,Taxi,-12.95,CA
+52374,10/19/2013,Lyft,-18.83,CA
+52374,10/20/2013,Credit Card Overdraft Fee,-14.34,CA
+52374,10/21/2013,Sprouts Market,-8.26,CA
+52374,10/21/2013,Water & Sewer - Late Payment Penalty,-0.52,CA
+52374,10/21/2013,Rodriguez's Bar and Grill,-33.96,CA
+52374,10/21/2013,Ralph's Grocery Store,-33.23,CA
+52374,10/21/2013,Bowling,-43.7,CA
+52374,10/21/2013,Seaside Bar,-58.36,CA
+52374,10/21/2013,Karaoke Bar,-42.68,CA
+52374,10/21/2013,John's Bar & Restaurant,-23.5,CA
+52374,10/21/2013,Restaurant - Burgers,-8.67,CA
+52374,10/21/2013,John's Bar & Restaurant,-20.1,CA
+52374,10/22/2013,Ralph's Grocery Store,-10.6,CA
+52374,10/23/2013,Seaside Bar,-18.49,CA
+52374,10/23/2013,Restaurant - Steakhouse,-28.99,CA
+52374,10/23/2013,Movie Ticket,-29.73,CA
+52374,10/23/2013,Rodriguez's Bar and Grill,-23.6,CA
+52374,10/23/2013,Ice Skating Rink,-29.69,CA
+52374,10/23/2013,Karaoke Bar,-14.38,CA
+52374,10/23/2013,Rodriguez's Bar and Grill,-16.27,CA
+52374,10/24/2013,Sprouts Market,-51.93,CA
+52374,10/24/2013,Bowling,-12.18,CA
+52374,10/24/2013,Movie Ticket,-34.27,CA
+52374,10/24/2013,Lyft,-36.73,CA
+52374,10/24/2013,Taxi,-101.42,CA
+52374,10/25/2013,Ice Skating Rink,-10.54,CA
+52374,10/25/2013,Uber,-16.67,CA
+52374,10/25/2013,Lyft,-64.07,CA
+52374,10/25/2013,Public Transportation - Train Pass,-24.16,CA
+52374,10/25/2013,Public Transportation - Bus Pass,-32.87,CA
+52374,10/25/2013,Restaurant - Steakhouse,-36.38,CA
+52374,10/25/2013,John's Bar & Restaurant,-20.63,CA
+52374,10/25/2013,Food Delivery - GrubHub,-77.18,CA
+52374,10/25/2013,Public Transportation - Train Pass,-25.94,CA
+52374,10/25/2013,John's Bar & Restaurant,-9.54,CA
+52374,10/25/2013,Karaoke Bar,-32.91,CA
+52374,10/25/2013,Public Transportation - Bus Pass,-90.92,CA
+52374,10/25/2013,Housing Rent - Late Fee,-106.71,CA
+52374,10/25/2013,Green Flash Brewery,-0.13,CA
+52374,10/26/2013,Rodriguez's Bar and Grill,-39.89,CA
+52374,10/26/2013,Taxi,-12.65,CA
+52374,10/27/2013,Owl Night Club,-39.64,CA
+52374,10/28/2013,Public Transportation - Bus Pass,-19.23,CA
+52374,10/28/2013,Bank Fee - Negative Balance,-113.5,CA
+52374,10/29/2013,Restaurant - Steakhouse,-4.65,CA
+52374,10/29/2013,Fisker Night Club,-2.39,CA
+52374,10/29/2013,Taxi,-3.64,CA
+52374,10/29/2013,John's Bar & Restaurant,-25.26,CA
+52374,10/30/2013,Taxi,-20.19,CA
+52374,11/2/2013,Paycheck,3185,CA
+52374,11/2/2013,Housing Rent,-1169,CA
+52374,11/2/2013,Time Warner Cable,-25,CA
+52374,11/2/2013,Water & Sewer,-53,CA
+52374,11/2/2013,Sprouts Market,-5.16,CA
+52374,11/2/2013,Von's Groceries,-10.48,CA
+52374,11/2/2013,Fisker Night Club,-100.48,CA
+52374,11/2/2013,Ice Skating Rink,-12.81,CA
+52374,11/3/2013,Starbucks Coffee,-15.25,CA
+52374,11/3/2013,Bowling,-23.65,CA
+52374,11/3/2013,Uber,-2.23,CA
+52374,11/4/2013,Bowling,-1.56,CA
+52374,11/5/2013,Uber,-19.04,CA
+52374,11/5/2013,Public Transportation - Bus Pass,-102.44,CA
+52374,11/5/2013,Owl Night Club,-9.34,CA
+52374,11/6/2013,Public Transportation - Bus Pass,-12,CA
+52374,11/6/2013,Sprouts Market,-82.26,CA
+52374,11/6/2013,John's Bar & Restaurant,-21.03,CA
+52374,11/6/2013,Owl Night Club,-32.83,CA
+52374,11/6/2013,Concert Ticket,-33.96,CA
+52374,11/6/2013,Karaoke Bar,-91.09,CA
+52374,11/7/2013,Credit Card Overdraft Fee,-36.94,CA
+52374,11/7/2013,John's Bar & Restaurant,-2.7,CA
+52374,11/7/2013,Credit Card Overdraft Fee,-3.65,CA
+52374,11/7/2013,Concert Ticket,-23.05,CA
+52374,11/7/2013,Wine Bar,-23.53,CA
+52374,11/7/2013,Owl Night Club,-0.96,CA
+52374,11/7/2013,Rodriguez's Bar and Grill,-39.79,CA
+52374,11/7/2013,Movie Ticket,-36.05,CA
+52374,11/7/2013,Movie Ticket,-17.49,CA
+52374,11/7/2013,Public Transportation - Bus Pass,-76.71,CA
+52374,11/8/2013,Owl Night Club,-9.38,CA
+52374,11/8/2013,Ice Skating Rink,-75.26,CA
+52374,11/8/2013,Public Transportation - Train Pass,-17.63,CA
+52374,11/9/2013,Movie Ticket,-22.38,CA
+52374,11/9/2013,Food Delivery - GrubHub,-34.7,CA
+52374,11/9/2013,Lyft,-0.04,CA
+52374,11/9/2013,Owl Night Club,-36.53,CA
+52374,11/9/2013,John's Bar & Restaurant,-5.04,CA
+52374,11/10/2013,Owl Night Club,-21.07,CA
+52374,11/11/2013,Green Flash Brewery,-25.08,CA
+52374,11/11/2013,Sprouts Market,-1.85,CA
+52374,11/11/2013,Karaoke Bar,-17.67,CA
+52374,11/12/2013,Movie Ticket,-33.03,CA
+52374,11/12/2013,Water & Sewer - Late Payment Penalty,-110.13,CA
+52374,11/12/2013,Food Delivery - GrubHub,-10.36,CA
+52374,11/12/2013,Owl Night Club,-36.53,CA
+52374,11/13/2013,Green Flash Brewery,-1.14,CA
+52374,11/14/2013,Concert Ticket,-36.51,CA
+52374,11/14/2013,Lyft,-9.66,CA
+52374,11/15/2013,Time Warne Cable - Late Payment Fee,-37.06,CA
+52374,11/15/2013,Credit Card Overdraft Fee,-13.15,CA
+52374,11/15/2013,Ralph's Grocery Store,-4.14,CA
+52374,11/15/2013,Von's Groceries,-67.55,CA
+52374,11/16/2013,Starbucks Coffee,-29.09,CA
+52374,11/16/2013,Owl Night Club,-39.76,CA
+52374,11/16/2013,John's Bar & Restaurant,-35.23,CA
+52374,11/16/2013,John's Bar & Restaurant,-12.52,CA
+52374,11/16/2013,Uber,-3.74,CA
+52374,11/17/2013,Uber,-39.36,CA
+52374,11/17/2013,Seaside Bar,-35.29,CA
+52374,11/17/2013,Seaside Bar,-21.02,CA
+52374,11/17/2013,Movie Ticket,-31.53,CA
+52374,11/17/2013,Karaoke Bar,-10.97,CA
+52374,11/17/2013,Public Transportation - Train Pass,-0.02,CA
+52374,11/18/2013,Public Transportation - Bus Pass,-35.8,CA
+52374,11/18/2013,Karaoke Bar,-115.14,CA
+52374,11/18/2013,Movie Ticket,-13.18,CA
+52374,11/18/2013,Uber,-10.58,CA
+52374,11/19/2013,Water & Sewer - Late Payment Penalty,-13.25,CA
+52374,11/19/2013,Ice Skating Rink,-21.32,CA
+52374,11/19/2013,Karaoke Bar,-17.91,CA
+52374,11/19/2013,Restaurant - Burgers,-38.77,CA
+52374,11/19/2013,Rodriguez's Bar and Grill,-3.36,CA
+52374,11/19/2013,Bowling,-24.95,CA
+52374,11/19/2013,Movie Ticket,-42.33,CA
+52374,11/19/2013,Restaurant - Chinese,-12.65,CA
+52374,11/20/2013,Karaoke Bar,-34.05,CA
+52374,11/20/2013,John's Bar & Restaurant,-17.96,CA
+52374,11/20/2013,Taxi,-28.94,CA
+52374,11/20/2013,Credit Card Overdraft Fee,-33.61,CA
+52374,11/20/2013,Karaoke Bar,-20.04,CA
+52374,11/20/2013,Concert Ticket,-17.12,CA
+52374,11/20/2013,Housing Rent - Late Fee,-21.27,CA
+52374,11/20/2013,Bowling,-16.45,CA
+52374,11/21/2013,Seaside Bar,-3.77,CA
+52374,11/21/2013,Seaside Bar,-10.03,CA
+52374,11/21/2013,Ice Skating Rink,-35.06,CA
+52374,11/21/2013,Green Flash Brewery,-11.75,CA
+52374,11/21/2013,Uber,-17.17,CA
+52374,11/21/2013,Concert Ticket,-46.34,CA
+52374,11/21/2013,Karaoke Bar,-15.08,CA
+52374,11/21/2013,Green Flash Brewery,-27.6,CA
+52374,11/21/2013,Owl Night Club,-4.09,CA
+52374,11/21/2013,Rodriguez's Bar and Grill,-3.25,CA
+52374,11/21/2013,Ralph's Grocery Store,-44.21,CA
+52374,11/21/2013,Food Delivery - GrubHub,-23.26,CA
+52374,11/22/2013,Restaurant - Pizza,-23.61,CA
+52374,11/22/2013,Rodriguez's Bar and Grill,-29.31,CA
+52374,11/22/2013,Owl Night Club,-5.52,CA
+52374,11/22/2013,Taxi,-13.48,CA
+52374,11/23/2013,Restaurant - Burgers,-29.79,CA
+52374,11/24/2013,Credit Card Overdraft Fee,-39.49,CA
+52374,11/25/2013,Rodriguez's Bar and Grill,-35.91,CA
+52374,11/25/2013,Movie Ticket,-26.19,CA
+52374,11/26/2013,Uber,-10.92,CA
+52374,11/26/2013,Starbucks Coffee,-6.52,CA
+52374,11/26/2013,Public Transportation - Bus Pass,-37.54,CA
+52374,11/27/2013,Owl Night Club,-2.32,CA
+52374,11/28/2013,Lyft,-113.39,CA
+52374,11/29/2013,Movie Ticket,-55.79,CA
+52374,11/29/2013,Sprouts Market,-11.45,CA
+52374,11/30/2013,Sprouts Market,-14.89,CA
+52374,12/2/2013,Paycheck,3185,CA
+52374,12/2/2013,Housing Rent,-1324,CA
+52374,12/2/2013,Time Warner Cable,-25,CA
+52374,12/2/2013,Water & Sewer,-53,CA
+52374,12/2/2013,Bowling,-42.29,CA
+52374,12/2/2013,Uber,-60.89,CA
+52374,12/2/2013,Taxi,-19.51,CA
+52374,12/2/2013,Concert Ticket,-36.44,CA
+52374,12/2/2013,Ralph's Grocery Store,-54.88,CA
+52374,12/3/2013,Lyft,-18.23,CA
+52374,12/3/2013,Owl Night Club,-22.41,CA
+52374,12/3/2013,Wine Bar,-77.82,CA
+52374,12/4/2013,Bowling,-17.78,CA
+52374,12/4/2013,Concert Ticket,-91.55,CA
+52374,12/4/2013,Movie Ticket,-21.14,CA
+52374,12/5/2013,Taxi,-27.03,CA
+52374,12/5/2013,Green Flash Brewery,-33.57,CA
+52374,12/6/2013,Rodriguez's Bar and Grill,-29.08,CA
+52374,12/6/2013,Credit Card Overdraft Fee,-31.55,CA
+52374,12/6/2013,Rodriguez's Bar and Grill,-1.35,CA
+52374,12/6/2013,Owl Night Club,-26.75,CA
+52374,12/6/2013,John's Bar & Restaurant,-2.17,CA
+52374,12/6/2013,Ice Skating Rink,-7.65,CA
+52374,12/7/2013,Uber,-77.77,CA
+52374,12/7/2013,Starbucks Coffee,-8.94,CA
+52374,12/7/2013,Karaoke Bar,-11.62,CA
+52374,12/7/2013,Credit Card Overdraft Fee,-27.81,CA
+52374,12/7/2013,Concert Ticket,-21.5,CA
+52374,12/7/2013,Karaoke Bar,-30.43,CA
+52374,12/7/2013,Housing Rent - Late Fee,-39.1,CA
+52374,12/7/2013,Taxi,-36.98,CA
+52374,12/8/2013,Public Transportation - Train Pass,-3.26,CA
+52374,12/8/2013,Movie Ticket,-14.54,CA
+52374,12/8/2013,Public Transportation - Bus Pass,-31.15,CA
+52374,12/9/2013,Restaurant - Burgers,-33.4,CA
+52374,12/10/2013,Bowling,-35.78,CA
+52374,12/10/2013,Whole Foods,-29.97,CA
+52374,12/10/2013,John's Bar & Restaurant,-21.55,CA
+52374,12/11/2013,Restaurant - Steakhouse,-17.83,CA
+52374,12/11/2013,Owl Night Club,-35.29,CA
+52374,12/12/2013,Green Flash Brewery,-19.12,CA
+52374,12/12/2013,Bowling,-11.2,CA
+52374,12/13/2013,Rodriguez's Bar and Grill,-3.63,CA
+52374,12/14/2013,Restaurant - Burgers,-17.38,CA
+52374,12/14/2013,Wine Bar,-37.31,CA
+52374,12/15/2013,Concert Ticket,-22.99,CA
+52374,12/15/2013,Movie Ticket,-7.69,CA
+52374,12/15/2013,Public Transportation - Train Pass,-70.38,CA
+52374,12/15/2013,Whole Foods,-98.51,CA
+52374,12/16/2013,Ralph's Grocery Store,-1.25,CA
+52374,12/16/2013,Wine Bar,-49.81,CA
+52374,12/16/2013,Public Transportation - Train Pass,-91.43,CA
+52374,12/16/2013,John's Bar & Restaurant,-28.95,CA
+52374,12/17/2013,Food Delivery - GrubHub,-16.03,CA
+52374,12/17/2013,Seaside Bar,-7.46,CA
+52374,12/17/2013,Fisker Night Club,-15.88,CA
+52374,12/17/2013,Ice Skating Rink,-110.49,CA
+52374,12/18/2013,Taxi,-104.33,CA
+52374,12/18/2013,Ice Skating Rink,-17.74,CA
+52374,12/19/2013,Fisker Night Club,-67.95,CA
+52374,12/19/2013,Ralph's Grocery Store,-25.42,CA
+52374,12/20/2013,Bowling,-17.4,CA
+52374,12/20/2013,Green Flash Brewery,-64.57,CA
+52374,12/20/2013,Sprouts Market,-12.72,CA
+52374,12/21/2013,Karaoke Bar,-27.03,CA
+52374,12/21/2013,Public Transportation - Train Pass,-60.74,CA
+52374,12/21/2013,Whole Foods,-36.12,CA
+52374,12/21/2013,Sprouts Market,-6.76,CA
+52374,12/22/2013,Public Transportation - Bus Pass,-22.97,CA
+52374,12/22/2013,Fisker Night Club,-28.61,CA
+52374,12/22/2013,Owl Night Club,-4.78,CA
+52374,12/23/2013,Ralph's Grocery Store,-34.21,CA
+52374,12/23/2013,John's Bar & Restaurant,-13.65,CA
+52374,12/23/2013,Food Delivery - GrubHub,-20.87,CA
+52374,12/23/2013,Seaside Bar,-28.98,CA
+52374,12/23/2013,Green Flash Brewery,-6.39,CA
+52374,12/24/2013,Fisker Night Club,-34.07,CA
+52374,12/24/2013,Restaurant - Chinese,-4.13,CA
+52374,12/24/2013,Restaurant - Chinese,-10.94,CA
+52374,12/24/2013,Movie Ticket,-31.56,CA
+52374,12/24/2013,Ice Skating Rink,-21.85,CA
+52374,12/24/2013,Concert Ticket,-25.88,CA
+52374,12/24/2013,Restaurant - Pizza,-19.9,CA
+52374,12/24/2013,Time Warne Cable - Late Payment Fee,-88.38,CA
+52374,12/24/2013,Bowling,-0.05,CA
+52374,12/24/2013,Ralph's Grocery Store,-5.37,CA
+52374,12/24/2013,Housing Rent - Late Fee,-22.67,CA
+52374,12/24/2013,Fisker Night Club,-12.63,CA
+52374,12/24/2013,Ice Skating Rink,-5,CA
+52374,12/24/2013,Public Transportation - Train Pass,-26.92,CA
+52374,12/24/2013,Starbucks Coffee,-39.61,CA
+52374,12/25/2013,Wine Bar,-18.24,CA
+52374,12/25/2013,Food Delivery - GrubHub,-25.72,CA
+52374,12/25/2013,Bowling,-9.91,CA
+52374,12/26/2013,Seaside Bar,-16.28,CA
+52374,12/26/2013,Owl Night Club,-21.68,CA
+52374,12/26/2013,Restaurant - Pizza,-1.6,CA
+52374,12/26/2013,Concert Ticket,-5.46,CA
+52374,12/26/2013,Concert Ticket,-32.19,CA
+52374,12/27/2013,Seaside Bar,-22.28,CA
+52374,12/27/2013,Bowling,-2.4,CA
+52374,12/27/2013,Rodriguez's Bar and Grill,-6.1,CA
+52374,12/27/2013,Public Transportation - Bus Pass,-13.07,CA
+52374,12/27/2013,Concert Ticket,-38.88,CA
+52374,12/28/2013,Concert Ticket,-60.62,CA
+52374,12/28/2013,Bank Fee - Negative Balance,-3.25,CA
+52374,12/28/2013,Restaurant - Pizza,-38.23,CA
+52374,12/29/2013,Whole Foods,-41.67,CA
+52374,12/29/2013,Starbucks Coffee,-25.27,CA
+52374,12/29/2013,Karaoke Bar,-42.36,CA
+52374,12/29/2013,Seaside Bar,-3.15,CA
+52374,12/30/2013,Seaside Bar,-87.95,CA
+52374,12/32/2013,Concert Ticket,-3.3,CA
+52374,12/32/2013,Public Transportation - Bus Pass,-100.2,CA
+52374,12/32/2013,Time Warne Cable - Late Payment Fee,-38.24,CA
+52374,1/2/2014,Taxi,-12.91,CA
+52374,1/3/2014,Bowling,-23.93,CA
+52374,1/4/2014,Fisker Night Club,-15.16,CA
+52374,1/5/2014,Ice Skating Rink,-1.44,CA
+52374,1/5/2014,Concert Ticket,-14.2,CA
+52374,1/5/2014,Lyft,-33.93,CA
+52374,1/5/2014,Karaoke Bar,-33.45,CA
+52374,1/5/2014,Movie Ticket,-14.76,CA
+52374,1/5/2014,Starbucks Coffee,-10.15,CA
+52374,1/6/2014,Concert Ticket,-28.06,CA
+52374,1/6/2014,Owl Night Club,-15.92,CA
+52374,1/6/2014,Owl Night Club,-35.21,CA
+52374,1/7/2014,Lyft,-24.43,CA
+52374,1/7/2014,Restaurant - Steakhouse,-33.44,CA
+52374,1/7/2014,Housing Rent - Late Fee,-7.96,CA
+52374,1/7/2014,Taxi,-19.96,CA
+52374,1/7/2014,Restaurant - Burgers,-38.56,CA
+52374,1/8/2014,Bank Fee - Negative Balance,-25.15,CA
+52374,1/8/2014,Public Transportation - Train Pass,-18.58,CA
+52374,1/8/2014,Time Warne Cable - Late Payment Fee,-14.98,CA
+52374,1/8/2014,Movie Ticket,-27.27,CA
+52374,1/8/2014,Fisker Night Club,-61.94,CA
+52374,1/8/2014,Owl Night Club,-17.32,CA
+52374,1/8/2014,Movie Ticket,-8.05,CA
+52374,1/8/2014,Concert Ticket,-3.42,CA
+52374,1/9/2014,Credit Card Overdraft Fee,-14.65,CA
+52374,1/10/2014,Sprouts Market,-3.91,CA
+52374,1/10/2014,Taxi,-88.76,CA
+52374,1/11/2014,Seaside Bar,-23.16,CA
+52374,1/11/2014,Rodriguez's Bar and Grill,-39.36,CA
+52374,1/11/2014,Restaurant - Pizza,-32.24,CA
+52374,1/12/2014,Fisker Night Club,-8.2,CA
+52374,1/13/2014,Uber,-30.08,CA
+52374,1/13/2014,Restaurant - Steakhouse,-3.7,CA
+52374,1/14/2014,Sprouts Market,-37.54,CA
+52374,1/14/2014,Taxi,-32.7,CA
+52374,1/14/2014,Movie Ticket,-35.54,CA
+52374,1/14/2014,Taxi,-23.47,CA
+52374,1/15/2014,Lyft,-5.24,CA
+52374,1/15/2014,Seaside Bar,-29.14,CA
+52374,1/16/2014,Ice Skating Rink,-11.23,CA
+52374,1/17/2014,Restaurant - Burgers,-18.64,CA
+52374,1/17/2014,Owl Night Club,-96.71,CA
+52374,1/17/2014,Karaoke Bar,-95.13,CA
+52374,1/17/2014,Rodriguez's Bar and Grill,-0.05,CA
+52374,1/17/2014,Movie Ticket,-3.21,CA
+52374,1/18/2014,Taxi,-43.1,CA
+52374,1/18/2014,Lyft,-3.96,CA
+52374,1/18/2014,Karaoke Bar,-31.45,CA
+52374,1/18/2014,Public Transportation - Train Pass,-21.75,CA
+52374,1/18/2014,Owl Night Club,-8.03,CA
+52374,1/18/2014,John's Bar & Restaurant,-14.54,CA
+52374,1/19/2014,Lyft,-26.93,CA
+52374,1/20/2014,Rodriguez's Bar and Grill,-93.22,CA
+52374,1/20/2014,Whole Foods,-9.96,CA
+52374,1/20/2014,Bowling,-81.23,CA
+52374,1/21/2014,Restaurant - Steakhouse,-33.7,CA
+52374,1/21/2014,Restaurant - Pizza,-25.46,CA
+52374,1/22/2014,Concert Ticket,-2.22,CA
+52374,1/22/2014,Karaoke Bar,-14.08,CA
+52374,1/22/2014,Rodriguez's Bar and Grill,-12.88,CA
+52374,1/22/2014,Seaside Bar,-7.04,CA
+52374,1/23/2014,John's Bar & Restaurant,-32.16,CA
+52374,1/23/2014,Rodriguez's Bar and Grill,-8.02,CA
+52374,1/24/2014,Restaurant - Pizza,-27.74,CA
+52374,1/24/2014,Food Delivery - GrubHub,-17.74,CA
+52374,1/24/2014,Bowling,-20.7,CA
+52374,1/24/2014,Movie Ticket,-58.72,CA
+52374,1/25/2014,Uber,-1.15,CA
+52374,1/25/2014,Restaurant - Burgers,-7.01,CA
+52374,1/25/2014,Movie Ticket,-22.66,CA
+52374,1/25/2014,Concert Ticket,-21.25,CA
+52374,1/25/2014,Uber,-16.57,CA
+52374,1/25/2014,Wine Bar,-36.85,CA
+52374,1/25/2014,Concert Ticket,-26.5,CA
+52374,1/25/2014,Movie Ticket,-25.71,CA
+52374,1/26/2014,Whole Foods,-32.15,CA
+52374,1/26/2014,Food Delivery - GrubHub,-24.24,CA
+52374,1/26/2014,Credit Card Overdraft Fee,-101.55,CA
+52374,1/26/2014,Seaside Bar,-26.31,CA
+52374,1/26/2014,Fisker Night Club,-28.5,CA
+52374,1/27/2014,Wine Bar,-17.93,CA
+52374,1/27/2014,Restaurant - Chinese,-11.98,CA
+52374,1/27/2014,Wine Bar,-24.31,CA
+52374,1/27/2014,Bank Fee - Negative Balance,-70.13,CA
+52374,1/27/2014,Public Transportation - Train Pass,-29.17,CA
+52374,1/28/2014,Water & Sewer - Late Payment Penalty,-45.86,CA
+52374,1/28/2014,Uber,-34.01,CA
+52374,1/28/2014,Owl Night Club,-26.41,CA
+52374,1/28/2014,Bowling,-9.59,CA
+52374,1/28/2014,Public Transportation - Bus Pass,-81.37,CA
+52374,1/28/2014,Uber,-1.41,CA
+52374,1/28/2014,Owl Night Club,-14.73,CA
+52374,1/28/2014,Ice Skating Rink,-3.73,CA
+52374,1/28/2014,Green Flash Brewery,-36.44,CA
+52374,1/28/2014,Sprouts Market,-13.36,CA
+52374,1/28/2014,Public Transportation - Train Pass,-26.63,CA
+52374,1/28/2014,Ice Skating Rink,-84.51,CA
+52374,1/28/2014,Wine Bar,-11.45,CA
+52374,1/28/2014,Bank Fee - Negative Balance,-34.72,CA
+52374,1/29/2014,Taxi,-15.26,CA
+52374,1/29/2014,Movie Ticket,-39.37,CA
+52374,1/29/2014,Owl Night Club,-23.18,CA
+52374,1/29/2014,Wine Bar,-2.41,CA
+52374,1/30/2014,Von's Groceries,-3.08,CA
+52374,1/30/2014,Seaside Bar,-27.9,CA
+52374,1/30/2014,Karaoke Bar,-19.45,CA
+52374,1/30/2014,Bowling,-72.56,CA
+52374,1/30/2014,Wine Bar,-5.47,CA
+52374,1/30/2014,Fisker Night Club,-25.57,CA
+52374,1/30/2014,Wine Bar,-20.86,CA
+52374,1/30/2014,Lyft,-30.22,CA
+52374,3/2/2014,Paycheck,3185,CA
+52374,3/2/2014,Housing Rent,-1227,CA
+52374,3/2/2014,Time Warner Cable,-25,CA
+52374,3/2/2014,Water & Sewer,-53,CA
+52374,3/2/2014,Public Transportation - Bus Pass,-26.11,CA
+52374,3/3/2014,Uber,-30.85,CA
+52374,3/3/2014,Whole Foods,-37.28,CA
+52374,3/3/2014,Concert Ticket,-3.01,CA
+52374,3/3/2014,Public Transportation - Train Pass,-23.11,CA
+52374,3/3/2014,Public Transportation - Train Pass,-76.2,CA
+52374,3/3/2014,Starbucks Coffee,-32.67,CA
+52374,3/3/2014,Credit Card Overdraft Fee,-7.82,CA
+52374,3/4/2014,Seaside Bar,-12.51,CA
+52374,3/4/2014,Fisker Night Club,-18.6,CA
+52374,3/4/2014,Fisker Night Club,-1.75,CA
+52374,3/4/2014,Public Transportation - Train Pass,-36.22,CA
+52374,3/4/2014,Concert Ticket,-74.41,CA
+52374,3/4/2014,Concert Ticket,-21.78,CA
+52374,3/4/2014,Seaside Bar,-61.16,CA
+52374,3/5/2014,Movie Ticket,-71.78,CA
+52374,3/5/2014,Uber,-13.28,CA
+52374,3/5/2014,Movie Ticket,-27.21,CA
+52374,3/6/2014,Movie Ticket,-11.02,CA
+52374,3/7/2014,Bowling,-37.3,CA
+52374,3/8/2014,Restaurant - Steakhouse,-24.57,CA
+52374,3/9/2014,Ralph's Grocery Store,-74.3,CA
+52374,3/9/2014,Ice Skating Rink,-30.39,CA
+52374,3/9/2014,Green Flash Brewery,-36.06,CA
+52374,3/10/2014,Ice Skating Rink,-34.53,CA
+52374,3/10/2014,Restaurant - Chinese,-16.18,CA
+52374,3/10/2014,Von's Groceries,-92.16,CA
+52374,3/10/2014,Karaoke Bar,-18.63,CA
+52374,3/11/2014,Wine Bar,-38.33,CA
+52374,3/12/2014,Ralph's Grocery Store,-6.27,CA
+52374,3/12/2014,Public Transportation - Train Pass,-23.73,CA
+52374,3/13/2014,Concert Ticket,-31.71,CA
+52374,3/13/2014,Karaoke Bar,-8.72,CA
+52374,3/13/2014,Uber,-13.12,CA
+52374,3/13/2014,Lyft,-31.38,CA
+52374,3/14/2014,Public Transportation - Train Pass,-17.96,CA
+52374,3/14/2014,Von's Groceries,-37.84,CA
+52374,3/14/2014,John's Bar & Restaurant,-3.1,CA
+52374,3/14/2014,Karaoke Bar,-5.37,CA
+52374,3/14/2014,Movie Ticket,-2.57,CA
+52374,3/15/2014,Taxi,-52.5,CA
+52374,3/15/2014,Sprouts Market,-6.3,CA
+52374,3/15/2014,Rodriguez's Bar and Grill,-8.26,CA
+52374,3/15/2014,Fisker Night Club,-38.9,CA
+52374,3/15/2014,Wine Bar,-4.31,CA
+52374,3/15/2014,Taxi,-14.27,CA
+52374,3/15/2014,Water & Sewer - Late Payment Penalty,-59.14,CA
+52374,3/16/2014,Taxi,-15.32,CA
+52374,3/16/2014,Lyft,-14.44,CA
+52374,3/17/2014,Movie Ticket,-13.71,CA
+52374,3/17/2014,Bank Fee - Negative Balance,-39.84,CA
+52374,3/18/2014,Sprouts Market,-11.96,CA
+52374,3/18/2014,Taxi,-83,CA
+52374,3/19/2014,Movie Ticket,-37.48,CA
+52374,3/19/2014,Rodriguez's Bar and Grill,-26.88,CA
+52374,3/20/2014,Fisker Night Club,-17.36,CA
+52374,3/20/2014,John's Bar & Restaurant,-39.03,CA
+52374,3/21/2014,Green Flash Brewery,-30.5,CA
+52374,3/21/2014,Public Transportation - Bus Pass,-25.91,CA
+52374,3/22/2014,Ice Skating Rink,-19.64,CA
+52374,3/23/2014,Lyft,-35.03,CA
+52374,3/24/2014,Public Transportation - Bus Pass,-11.34,CA
+52374,3/24/2014,Lyft,-75.93,CA
+52374,3/25/2014,Public Transportation - Bus Pass,-29.32,CA
+52374,3/25/2014,Restaurant - Burgers,-8.75,CA
+52374,3/25/2014,Uber,-22.82,CA
+52374,3/25/2014,Rodriguez's Bar and Grill,-4.7,CA
+52374,3/25/2014,Lyft,-29.59,CA
+52374,3/25/2014,Restaurant - Steakhouse,-17.62,CA
+52374,3/25/2014,Restaurant - Chinese,-28.3,CA
+52374,3/25/2014,Bowling,-36.95,CA
+52374,3/25/2014,Green Flash Brewery,-1.03,CA
+52374,3/25/2014,Food Delivery - GrubHub,-27.57,CA
+52374,3/25/2014,Ralph's Grocery Store,-11.99,CA
+52374,3/26/2014,Restaurant - Pizza,-70.06,CA
+52374,3/26/2014,John's Bar & Restaurant,-31.9,CA
+52374,3/27/2014,Public Transportation - Bus Pass,-37.25,CA
+52374,3/28/2014,Whole Foods,-6.54,CA
+52374,3/29/2014,Rodriguez's Bar and Grill,-56.35,CA
+52374,3/29/2014,Water & Sewer - Late Payment Penalty,-34.48,CA
+52374,3/29/2014,Restaurant - Pizza,-5.25,CA
+52374,3/29/2014,Rodriguez's Bar and Grill,-83.1,CA
+52374,3/29/2014,Karaoke Bar,-0.6,CA
+52374,3/29/2014,Public Transportation - Train Pass,-25.82,CA
+52374,3/29/2014,Public Transportation - Bus Pass,-23.37,CA
+52374,3/29/2014,Food Delivery - GrubHub,-19.79,CA
+52374,3/29/2014,Karaoke Bar,-29.66,CA
+52374,3/29/2014,Movie Ticket,-13.78,CA
+52374,3/29/2014,Owl Night Club,-1.67,CA
+52374,3/29/2014,Movie Ticket,-55.37,CA
+52374,3/30/2014,Restaurant - Pizza,-6.19,CA
+52374,4/2/2014,Paycheck,3185,CA
+52374,4/2/2014,Housing Rent,-1374,CA
+52374,4/2/2014,Time Warner Cable,-25,CA
+52374,4/2/2014,Water & Sewer,-53,CA
+52374,4/2/2014,Ralph's Grocery Store,-20.66,CA
+52374,4/3/2014,John's Bar & Restaurant,-39.67,CA
+52374,4/3/2014,Green Flash Brewery,-41.4,CA
+52374,4/4/2014,Taxi,-16.37,CA
+52374,4/4/2014,Movie Ticket,-100.48,CA
+52374,4/4/2014,Bowling,-13.66,CA
+52374,4/4/2014,Lyft,-36.03,CA
+52374,4/5/2014,Taxi,-39.14,CA
+52374,4/5/2014,John's Bar & Restaurant,-14,CA
+52374,4/6/2014,Movie Ticket,-7.82,CA
+52374,4/7/2014,Owl Night Club,-87.67,CA
+52374,4/7/2014,Lyft,-7.43,CA
+52374,4/7/2014,Concert Ticket,-10.52,CA
+52374,4/8/2014,Bowling,-3.04,CA
+52374,4/9/2014,Wine Bar,-6.29,CA
+52374,4/9/2014,Concert Ticket,-1.09,CA
+52374,4/10/2014,Food Delivery - GrubHub,-29,CA
+52374,4/10/2014,Karaoke Bar,-2.91,CA
+52374,4/10/2014,Ice Skating Rink,-13.96,CA
+52374,4/10/2014,Water & Sewer - Late Payment Penalty,-11.93,CA
+52374,4/10/2014,Rodriguez's Bar and Grill,-31.62,CA
+52374,4/10/2014,Uber,-31.38,CA
+52374,4/10/2014,Karaoke Bar,-48.61,CA
+52374,4/11/2014,Taxi,-27.88,CA
+52374,4/12/2014,Seaside Bar,-39.79,CA
+52374,4/12/2014,Movie Ticket,-38,CA
+52374,4/12/2014,Whole Foods,-70.52,CA
+52374,4/12/2014,Movie Ticket,-46.15,CA
+52374,4/12/2014,Seaside Bar,-9.79,CA
+52374,4/13/2014,Public Transportation - Train Pass,-29.84,CA
+52374,4/13/2014,Taxi,-100.85,CA
+52374,4/13/2014,Lyft,-0.4,CA
+52374,4/13/2014,Public Transportation - Train Pass,-2.38,CA
+52374,4/14/2014,Lyft,-12.7,CA
+52374,4/15/2014,Sprouts Market,-5.14,CA
+52374,4/16/2014,Restaurant - Pizza,-7.06,CA
+52374,4/16/2014,Public Transportation - Bus Pass,-18.44,CA
+52374,4/17/2014,Rodriguez's Bar and Grill,-11.57,CA
+52374,4/18/2014,Movie Ticket,-35.13,CA
+52374,4/19/2014,Public Transportation - Train Pass,-9.54,CA
+52374,4/19/2014,Bowling,-5.07,CA
+52374,4/19/2014,Restaurant - Pizza,-26.2,CA
+52374,4/19/2014,Bowling,-3.25,CA
+52374,4/20/2014,Wine Bar,-0.63,CA
+52374,4/21/2014,Food Delivery - GrubHub,-4.64,CA
+52374,4/21/2014,Concert Ticket,-16.52,CA
+52374,4/21/2014,John's Bar & Restaurant,-37.65,CA
+52374,4/22/2014,Taxi,-30.45,CA
+52374,4/23/2014,Restaurant - Burgers,-54.54,CA
+52374,4/23/2014,Fisker Night Club,-13.63,CA
+52374,4/23/2014,Ice Skating Rink,-25.91,CA
+52374,4/23/2014,John's Bar & Restaurant,-1.53,CA
+52374,4/23/2014,Taxi,-0.12,CA
+52374,4/24/2014,Restaurant - Burgers,-81.4,CA
+52374,4/24/2014,Uber,-35.68,CA
+52374,4/25/2014,Public Transportation - Train Pass,-32.67,CA
+52374,4/26/2014,Bank Fee - Negative Balance,-30.72,CA
+52374,4/26/2014,Public Transportation - Bus Pass,-6.03,CA
+52374,4/26/2014,Fisker Night Club,-26.07,CA
+52374,4/26/2014,Uber,-112.54,CA
+52374,4/26/2014,Lyft,-7.47,CA
+52374,4/27/2014,Bowling,-30.74,CA
+52374,4/27/2014,Bank Fee - Negative Balance,-38.95,CA
+52374,4/27/2014,Restaurant - Pizza,-53.56,CA
+52374,4/27/2014,Uber,-33.15,CA
+52374,4/27/2014,Owl Night Club,-59.15,CA
+52374,4/27/2014,Concert Ticket,-20.05,CA
+52374,4/27/2014,Concert Ticket,-118.79,CA
+52374,4/27/2014,Restaurant - Burgers,-35.86,CA
+52374,4/27/2014,Bowling,-16.61,CA
+52374,4/27/2014,Seaside Bar,-32.74,CA
+52374,4/27/2014,Fisker Night Club,-21.2,CA
+52374,4/28/2014,Uber,-14.39,CA
+52374,4/29/2014,Concert Ticket,-2.38,CA
+52374,4/29/2014,Green Flash Brewery,-0.1,CA
+52374,4/29/2014,Karaoke Bar,-100.92,CA
+52374,4/29/2014,Green Flash Brewery,-26.07,CA
+52374,4/29/2014,Bank Fee - Negative Balance,-8.15,CA
+52374,4/29/2014,Restaurant - Chinese,-12.37,CA
+52374,4/30/2014,Water & Sewer - Late Payment Penalty,-27.56,CA
+52374,4/30/2014,Food Delivery - GrubHub,-38.56,CA
+52374,4/30/2014,Seaside Bar,-0.16,CA
+52374,5/2/2014,Paycheck,3185,CA
+52374,5/2/2014,Housing Rent,-822,CA
+52374,5/2/2014,Time Warner Cable,-25,CA
+52374,5/2/2014,Water & Sewer,-53,CA
+52374,5/2/2014,Ralph's Grocery Store,-18,CA
+52374,5/2/2014,Movie Ticket,-17.81,CA
+52374,5/2/2014,Rodriguez's Bar and Grill,-78.61,CA
+52374,5/3/2014,Ice Skating Rink,-35.39,CA
+52374,5/3/2014,Movie Ticket,-45.46,CA
+52374,5/3/2014,Rodriguez's Bar and Grill,-24.6,CA
+52374,5/3/2014,Rodriguez's Bar and Grill,-28.83,CA
+52374,5/4/2014,Movie Ticket,-84.44,CA
+52374,5/4/2014,Von's Groceries,-15.6,CA
+52374,5/5/2014,Wine Bar,-19.99,CA
+52374,5/6/2014,Taxi,-26.23,CA
+52374,5/6/2014,Uber,-17.7,CA
+52374,5/6/2014,Restaurant - Steakhouse,-25.17,CA
+52374,5/7/2014,Movie Ticket,-0.57,CA
+52374,5/7/2014,Public Transportation - Bus Pass,-23.73,CA
+52374,5/8/2014,Ice Skating Rink,-45.8,CA
+52374,5/8/2014,Fisker Night Club,-9.3,CA
+52374,5/8/2014,Owl Night Club,-17.9,CA
+52374,5/8/2014,Movie Ticket,-17.35,CA
+52374,5/8/2014,Public Transportation - Train Pass,-3.08,CA
+52374,5/8/2014,Restaurant - Steakhouse,-11.21,CA
+52374,5/9/2014,Karaoke Bar,-6.49,CA
+52374,5/9/2014,Restaurant - Chinese,-30.07,CA
+52374,5/9/2014,Karaoke Bar,-38.48,CA
+52374,5/9/2014,Green Flash Brewery,-27.31,CA
+52374,5/9/2014,Lyft,-11.46,CA
+52374,5/10/2014,Ice Skating Rink,-12.06,CA
+52374,5/10/2014,Concert Ticket,-3.94,CA
+52374,5/10/2014,Ice Skating Rink,-0.44,CA
+52374,5/11/2014,Owl Night Club,-31.15,CA
+52374,5/11/2014,Public Transportation - Bus Pass,-6.37,CA
+52374,5/12/2014,Green Flash Brewery,-8.63,CA
+52374,5/12/2014,Fisker Night Club,-66.82,CA
+52374,5/12/2014,Starbucks Coffee,-27.9,CA
+52374,5/12/2014,John's Bar & Restaurant,-113.88,CA
+52374,5/12/2014,Ice Skating Rink,-27.07,CA
+52374,5/12/2014,John's Bar & Restaurant,-35.92,CA
+52374,5/12/2014,Green Flash Brewery,-21.87,CA
+52374,5/12/2014,Fisker Night Club,-10.17,CA
+52374,5/13/2014,Wine Bar,-34.1,CA
+52374,5/13/2014,Ice Skating Rink,-20.49,CA
+52374,5/13/2014,Movie Ticket,-31.81,CA
+52374,5/13/2014,Bowling,-22.1,CA
+52374,5/13/2014,Bowling,-30.16,CA
+52374,5/14/2014,Owl Night Club,-23.73,CA
+52374,5/14/2014,Owl Night Club,-27.96,CA
+52374,5/14/2014,Green Flash Brewery,-7.76,CA
+52374,5/14/2014,John's Bar & Restaurant,-8.83,CA
+52374,5/14/2014,Bowling,-53.54,CA
+52374,5/14/2014,Restaurant - Chinese,-37.59,CA
+52374,5/15/2014,Credit Card Overdraft Fee,-26.35,CA
+52374,5/16/2014,Uber,-66.46,CA
+52374,5/16/2014,Restaurant - Burgers,-19.46,CA
+52374,5/16/2014,Whole Foods,-0.24,CA
+52374,5/16/2014,Green Flash Brewery,-25.31,CA
+52374,5/17/2014,Restaurant - Chinese,-22.74,CA
+52374,5/17/2014,Wine Bar,-35.15,CA
+52374,5/17/2014,Green Flash Brewery,-39.44,CA
+52374,5/17/2014,Credit Card Overdraft Fee,-22.28,CA
+52374,5/17/2014,Seaside Bar,-20.15,CA
+52374,5/18/2014,Karaoke Bar,-24.76,CA
+52374,5/18/2014,Restaurant - Pizza,-29.05,CA
+52374,5/18/2014,Fisker Night Club,-35.6,CA
+52374,5/18/2014,Public Transportation - Bus Pass,-35.07,CA
+52374,5/18/2014,Whole Foods,-7.67,CA
+52374,5/18/2014,Ralph's Grocery Store,-7.49,CA
+52374,5/18/2014,Food Delivery - GrubHub,-27.29,CA
+52374,5/18/2014,Bowling,-25.94,CA
+52374,5/18/2014,Food Delivery - GrubHub,-8.1,CA
+52374,5/18/2014,Concert Ticket,-12.94,CA
+52374,5/19/2014,Restaurant - Pizza,-36.71,CA
+52374,5/20/2014,Green Flash Brewery,-27.72,CA
+52374,5/20/2014,Uber,-29.25,CA
+52374,5/20/2014,Restaurant - Steakhouse,-107.28,CA
+52374,5/20/2014,Lyft,-35.66,CA
+52374,5/20/2014,Uber,-38.1,CA
+52374,5/21/2014,Movie Ticket,-41.72,CA
+52374,5/21/2014,Bowling,-38.17,CA
+52374,5/21/2014,Concert Ticket,-18.26,CA
+52374,5/21/2014,Movie Ticket,-2.11,CA
+52374,5/21/2014,Bowling,-16.73,CA
+52374,5/21/2014,Public Transportation - Bus Pass,-23.17,CA
+52374,5/22/2014,Owl Night Club,-4.47,CA
+52374,5/22/2014,Starbucks Coffee,-32.59,CA
+52374,5/22/2014,Ice Skating Rink,-29.41,CA
+52374,5/22/2014,Uber,-30.74,CA
+52374,5/22/2014,Fisker Night Club,-87.25,CA
+52374,5/22/2014,Bank Fee - Negative Balance,-18.61,CA
+52374,5/22/2014,Seaside Bar,-0.81,CA
+52374,5/22/2014,Green Flash Brewery,-10.04,CA
+52374,5/23/2014,Green Flash Brewery,-63.4,CA
+52374,5/23/2014,Public Transportation - Train Pass,-37.55,CA
+52374,5/23/2014,Restaurant - Pizza,-27.03,CA
+52374,5/23/2014,Seaside Bar,-6.72,CA
+52374,5/23/2014,John's Bar & Restaurant,-34.62,CA
+52374,5/24/2014,Public Transportation - Train Pass,-11.22,CA
+52374,5/24/2014,Bank Fee - Negative Balance,-30.58,CA
+52374,5/25/2014,Sprouts Market,-28.96,CA
+52374,5/25/2014,Owl Night Club,-23.61,CA
+52374,5/25/2014,Credit Card Overdraft Fee,-119.48,CA
+52374,5/25/2014,Seaside Bar,-27.97,CA
+52374,5/25/2014,Bank Fee - Negative Balance,-1.03,CA
+52374,5/25/2014,Seaside Bar,-6.11,CA
+52374,5/26/2014,Owl Night Club,-60.21,CA
+52374,5/26/2014,Concert Ticket,-8.44,CA
+52374,5/26/2014,Ice Skating Rink,-22.68,CA
+52374,5/26/2014,Time Warne Cable - Late Payment Fee,-19.92,CA
+52374,5/27/2014,Movie Ticket,-17.26,CA
+52374,5/27/2014,Whole Foods,-113.91,CA
+52374,5/27/2014,Karaoke Bar,-35.37,CA
+52374,5/28/2014,Restaurant - Chinese,-36.76,CA
+52374,5/29/2014,Time Warne Cable - Late Payment Fee,-10.46,CA
+52374,5/29/2014,Food Delivery - GrubHub,-1.08,CA
+52374,5/29/2014,Restaurant - Chinese,-101,CA
+52374,5/29/2014,Restaurant - Burgers,-17.47,CA
+52374,5/29/2014,Ice Skating Rink,-23.04,CA
+52374,5/30/2014,Movie Ticket,-25.44,CA
+52374,5/30/2014,Rodriguez's Bar and Grill,-24.14,CA
+52374,6/2/2014,Paycheck,3185,CA
+52374,6/2/2014,Housing Rent,-890,CA
+52374,6/2/2014,Time Warner Cable,-25,CA
+52374,6/2/2014,Water & Sewer,-53,CA
+52374,6/2/2014,Public Transportation - Train Pass,-12.18,CA
+52374,6/2/2014,Taxi,-1.72,CA
+52374,6/2/2014,Rodriguez's Bar and Grill,-76.62,CA
+52374,6/3/2014,Sprouts Market,-92.24,CA
+52374,6/3/2014,Taxi,-85.22,CA
+52374,6/3/2014,Public Transportation - Bus Pass,-34.47,CA
+52374,6/4/2014,Seaside Bar,-22.77,CA
+52374,6/4/2014,Movie Ticket,-1.14,CA
+52374,6/5/2014,Karaoke Bar,-16.05,CA
+52374,6/6/2014,Ice Skating Rink,-17.6,CA
+52374,6/6/2014,Ice Skating Rink,-0.98,CA
+52374,6/6/2014,Public Transportation - Bus Pass,-13.81,CA
+52374,6/6/2014,Restaurant - Pizza,-12.46,CA
+52374,6/6/2014,Wine Bar,-92.75,CA
+52374,6/6/2014,Movie Ticket,-37.52,CA
+52374,6/6/2014,Credit Card Overdraft Fee,-52.85,CA
+52374,6/6/2014,Public Transportation - Train Pass,-38.49,CA
+52374,6/7/2014,Owl Night Club,-59.89,CA
+52374,6/8/2014,Public Transportation - Bus Pass,-107.16,CA
+52374,6/9/2014,Karaoke Bar,-34.83,CA
+52374,6/9/2014,Restaurant - Burgers,-30.01,CA
+52374,6/9/2014,Taxi,-28.91,CA
+52374,6/9/2014,Bowling,-13.41,CA
+52374,6/9/2014,Owl Night Club,-14.59,CA
+52374,6/9/2014,Owl Night Club,-31.94,CA
+52374,6/10/2014,Von's Groceries,-19.14,CA
+52374,6/11/2014,Food Delivery - GrubHub,-65.92,CA
+52374,6/12/2014,Seaside Bar,-26.61,CA
+52374,6/13/2014,Taxi,-16.22,CA
+52374,6/13/2014,Movie Ticket,-2.63,CA
+52374,6/14/2014,Movie Ticket,-29.31,CA
+52374,6/14/2014,Owl Night Club,-15.76,CA
+52374,6/15/2014,Fisker Night Club,-36.39,CA
+52374,6/15/2014,Seaside Bar,-21.1,CA
+52374,6/15/2014,Whole Foods,-17.99,CA
+52374,6/15/2014,Public Transportation - Train Pass,-99.84,CA
+52374,6/15/2014,Karaoke Bar,-19.61,CA
+52374,6/15/2014,Fisker Night Club,-20.66,CA
+52374,6/15/2014,Concert Ticket,-14.1,CA
+52374,6/16/2014,Taxi,-46.76,CA
+52374,6/16/2014,Karaoke Bar,-37.37,CA
+52374,6/17/2014,Starbucks Coffee,-9.45,CA
+52374,6/18/2014,Uber,-25.54,CA
+52374,6/18/2014,Green Flash Brewery,-27.1,CA
+52374,6/19/2014,Green Flash Brewery,-5.56,CA
+52374,6/19/2014,Public Transportation - Bus Pass,-27.69,CA
+52374,6/20/2014,Public Transportation - Train Pass,-5.33,CA
+52374,6/20/2014,Taxi,-13.34,CA
+52374,6/21/2014,Lyft,-59.95,CA
+52374,6/22/2014,John's Bar & Restaurant,-0.09,CA
+52374,6/22/2014,Housing Rent - Late Fee,-27.9,CA
+52374,6/22/2014,Public Transportation - Train Pass,-36.23,CA
+52374,6/22/2014,Public Transportation - Bus Pass,-25.97,CA
+52374,6/22/2014,Fisker Night Club,-0.25,CA
+52374,6/22/2014,Ice Skating Rink,-6.68,CA
+52374,6/22/2014,Ice Skating Rink,-52.17,CA
+52374,6/23/2014,Taxi,-24.58,CA
+52374,6/23/2014,Taxi,-27.96,CA
+52374,6/24/2014,Ralph's Grocery Store,-23.57,CA
+52374,6/24/2014,Ice Skating Rink,-23.82,CA
+52374,6/24/2014,Seaside Bar,-27.54,CA
+52374,6/24/2014,Water & Sewer - Late Payment Penalty,-15.11,CA
+52374,6/24/2014,Ralph's Grocery Store,-83.28,CA
+52374,6/25/2014,Lyft,-48.74,CA
+52374,6/25/2014,Lyft,-9.33,CA
+52374,6/26/2014,Seaside Bar,-34.16,CA
+52374,6/27/2014,Movie Ticket,-14.96,CA
+52374,6/28/2014,Von's Groceries,-32.46,CA
+52374,6/28/2014,Credit Card Overdraft Fee,-76.64,CA
+52374,6/28/2014,Housing Rent - Late Fee,-37.97,CA
+52374,6/28/2014,Bowling,-34.16,CA
+52374,6/29/2014,Fisker Night Club,-47.19,CA
+52374,6/29/2014,Ice Skating Rink,-28.47,CA
+52374,6/29/2014,Bowling,-16.02,CA
+52374,6/30/2014,Fisker Night Club,-32.56,CA
+52374,6/30/2014,Concert Ticket,-1.03,CA
+52374,6/30/2014,Karaoke Bar,-14.86,CA
+52374,6/30/2014,Fisker Night Club,-2.79,CA
+52374,6/30/2014,Seaside Bar,-28.76,CA
+52374,6/30/2014,Restaurant - Steakhouse,-36.51,CA
+52374,6/30/2014,Ice Skating Rink,-23.43,CA
+52374,6/30/2014,Fisker Night Club,-30.16,CA
+52374,6/30/2014,Movie Ticket,-18.22,CA
+52374,6/30/2014,Wine Bar,-35.44,CA
+52374,6/30/2014,Sprouts Market,-31.5,CA
+52374,6/30/2014,Green Flash Brewery,-13.77,CA
+52374,6/30/2014,Concert Ticket,-22.36,CA
+52374,6/30/2014,Taxi,-38.43,CA
+52374,6/30/2014,Movie Ticket,-12.38,CA
+52374,6/30/2014,Restaurant - Pizza,-38.48,CA
+52374,7/2/2014,Paycheck,3185,CA
+52374,7/2/2014,Housing Rent,-763,CA
+52374,7/2/2014,Time Warner Cable,-25,CA
+52374,7/2/2014,Water & Sewer,-53,CA
+52374,7/2/2014,Karaoke Bar,-13,CA
+52374,7/3/2014,Whole Foods,-44.46,CA
+52374,7/4/2014,Credit Card Overdraft Fee,-25.11,CA
+52374,7/5/2014,Credit Card Overdraft Fee,-3.96,CA
+52374,7/6/2014,Public Transportation - Bus Pass,-82.72,CA
+52374,7/6/2014,Housing Rent - Late Fee,-12.81,CA
+52374,7/6/2014,Food Delivery - GrubHub,-36.48,CA
+52374,7/6/2014,Uber,-38.36,CA
+52374,7/6/2014,Public Transportation - Train Pass,-15.84,CA
+52374,7/7/2014,Sprouts Market,-33.9,CA
+52374,7/7/2014,Fisker Night Club,-28.33,CA
+52374,7/7/2014,Starbucks Coffee,-4.89,CA
+52374,7/7/2014,Fisker Night Club,-17.43,CA
+52374,7/7/2014,Green Flash Brewery,-27.19,CA
+52374,7/8/2014,Public Transportation - Bus Pass,-21.1,CA
+52374,7/8/2014,Green Flash Brewery,-21.99,CA
+52374,7/8/2014,Credit Card Overdraft Fee,-0.07,CA
+52374,7/8/2014,Restaurant - Pizza,-0.22,CA
+52374,7/8/2014,Bowling,-4.49,CA
+52374,7/8/2014,Ice Skating Rink,-74.05,CA
+52374,7/8/2014,Wine Bar,-35.84,CA
+52374,7/9/2014,Public Transportation - Bus Pass,-7.03,CA
+52374,7/9/2014,Public Transportation - Train Pass,-10.82,CA
+52374,7/10/2014,Credit Card Overdraft Fee,-26.86,CA
+52374,7/10/2014,Ice Skating Rink,-38.83,CA
+52374,7/10/2014,Credit Card Overdraft Fee,-4.85,CA
+52374,7/10/2014,Fisker Night Club,-17.02,CA
+52374,7/10/2014,John's Bar & Restaurant,-35.34,CA
+52374,7/10/2014,Fisker Night Club,-30.5,CA
+52374,7/10/2014,Sprouts Market,-27.34,CA
+52374,7/10/2014,Taxi,-14.64,CA
+52374,7/11/2014,Rodriguez's Bar and Grill,-117.2,CA
+52374,7/11/2014,Housing Rent - Late Fee,-50.75,CA
+52374,7/11/2014,Owl Night Club,-27.96,CA
+52374,7/12/2014,Public Transportation - Train Pass,-11.21,CA
+52374,7/12/2014,Movie Ticket,-36.23,CA
+52374,7/13/2014,Time Warne Cable - Late Payment Fee,-18.95,CA
+52374,7/14/2014,Lyft,-19.92,CA
+52374,7/14/2014,Restaurant - Pizza,-9.86,CA
+52374,7/14/2014,Restaurant - Steakhouse,-24.78,CA
+52374,7/14/2014,Wine Bar,-34.45,CA
+52374,7/14/2014,Wine Bar,-5.96,CA
+52374,7/14/2014,Fisker Night Club,-30.52,CA
+52374,7/14/2014,Taxi,-22.92,CA
+52374,7/14/2014,Concert Ticket,-61.32,CA
+52374,7/14/2014,Lyft,-9.41,CA
+52374,7/14/2014,Seaside Bar,-76.13,CA
+52374,7/15/2014,Concert Ticket,-36.65,CA
+52374,7/15/2014,Public Transportation - Bus Pass,-7.45,CA
+52374,7/15/2014,Public Transportation - Bus Pass,-6,CA
+52374,7/16/2014,Von's Groceries,-105.22,CA
+52374,7/16/2014,Uber,-26.27,CA
+52374,7/16/2014,Green Flash Brewery,-29.75,CA
+52374,7/16/2014,Seaside Bar,-98.75,CA
+52374,7/17/2014,Seaside Bar,-12.61,CA
+52374,7/17/2014,Seaside Bar,-4.06,CA
+52374,7/17/2014,Rodriguez's Bar and Grill,-9.89,CA
+52374,7/18/2014,Sprouts Market,-27.16,CA
+52374,7/18/2014,Ralph's Grocery Store,-1.16,CA
+52374,7/18/2014,Restaurant - Burgers,-6.58,CA
+52374,7/19/2014,Rodriguez's Bar and Grill,-64.72,CA
+52374,7/20/2014,Public Transportation - Train Pass,-115.84,CA
+52374,7/20/2014,Whole Foods,-90.72,CA
+52374,7/20/2014,Uber,-20.52,CA
+52374,7/21/2014,Sprouts Market,-36.43,CA
+52374,7/21/2014,Ice Skating Rink,-38.77,CA
+52374,7/21/2014,Seaside Bar,-1.37,CA
+52374,7/21/2014,Bank Fee - Negative Balance,-20.13,CA
+52374,7/21/2014,Public Transportation - Bus Pass,-11.41,CA
+52374,7/22/2014,Credit Card Overdraft Fee,-95.82,CA
+52374,7/22/2014,Credit Card Overdraft Fee,-21.87,CA
+52374,7/22/2014,Public Transportation - Train Pass,-9.29,CA
+52374,7/22/2014,Taxi,-25.39,CA
+52374,7/22/2014,Restaurant - Chinese,-33.29,CA
+52374,7/23/2014,Rodriguez's Bar and Grill,-10.8,CA
+52374,7/23/2014,Seaside Bar,-25.47,CA
+52374,7/24/2014,Bank Fee - Negative Balance,-16.71,CA
+52374,7/24/2014,Food Delivery - GrubHub,-28.25,CA
+52374,7/24/2014,Public Transportation - Train Pass,-10,CA
+52374,7/24/2014,Lyft,-26.71,CA
+52374,7/24/2014,Housing Rent - Late Fee,-11.42,CA
+52374,7/24/2014,John's Bar & Restaurant,-32.63,CA
+52374,7/25/2014,Green Flash Brewery,-5.58,CA
+52374,7/26/2014,Green Flash Brewery,-21.51,CA
+52374,7/27/2014,Time Warne Cable - Late Payment Fee,-22.13,CA
+52374,7/28/2014,Public Transportation - Bus Pass,-22.95,CA
+52374,7/28/2014,Wine Bar,-6.82,CA
+52374,7/28/2014,Public Transportation - Bus Pass,-11.34,CA
+52374,7/29/2014,Movie Ticket,-10.49,CA
+52374,7/30/2014,Whole Foods,-14.75,CA
+52374,7/30/2014,Rodriguez's Bar and Grill,-31.64,CA
+52374,7/30/2014,Green Flash Brewery,-63.12,CA
+52374,7/30/2014,Uber,-27.35,CA
+52374,8/2/2014,Paycheck,3185,CA
+52374,8/2/2014,Housing Rent,-1220,CA
+52374,8/2/2014,Time Warner Cable,-25,CA
+52374,8/2/2014,Water & Sewer,-53,CA
+52374,8/2/2014,Restaurant - Chinese,-2.31,CA
+52374,8/2/2014,Fisker Night Club,-50.65,CA
+52374,8/3/2014,Seaside Bar,-17.72,CA
+52374,8/4/2014,Sprouts Market,-16.12,CA
+52374,8/4/2014,Karaoke Bar,-11.76,CA
+52374,8/5/2014,John's Bar & Restaurant,-16.92,CA
+52374,8/5/2014,Wine Bar,-21.9,CA
+52374,8/6/2014,Uber,-2.59,CA
+52374,8/6/2014,Whole Foods,-24.45,CA
+52374,8/7/2014,Karaoke Bar,-23.43,CA
+52374,8/7/2014,Restaurant - Chinese,-52.8,CA
+52374,8/7/2014,Food Delivery - GrubHub,-32.38,CA
+52374,8/7/2014,Seaside Bar,-4.46,CA
+52374,8/7/2014,Public Transportation - Train Pass,-32.92,CA
+52374,8/7/2014,Wine Bar,-15.87,CA
+52374,8/7/2014,Fisker Night Club,-3.75,CA
+52374,8/7/2014,Rodriguez's Bar and Grill,-24.4,CA
+52374,8/7/2014,Restaurant - Pizza,-28.95,CA
+52374,8/7/2014,Bowling,-16.3,CA
+52374,8/8/2014,Concert Ticket,-67.29,CA
+52374,8/9/2014,Fisker Night Club,-72.87,CA
+52374,8/9/2014,Ice Skating Rink,-85.24,CA
+52374,8/9/2014,Lyft,-30.37,CA
+52374,8/9/2014,Ice Skating Rink,-38.11,CA
+52374,8/9/2014,Rodriguez's Bar and Grill,-8.08,CA
+52374,8/10/2014,Karaoke Bar,-13.41,CA
+52374,8/10/2014,Public Transportation - Bus Pass,-5.6,CA
+52374,8/10/2014,Ice Skating Rink,-3.15,CA
+52374,8/10/2014,Uber,-0.89,CA
+52374,8/10/2014,Whole Foods,-11.77,CA
+52374,8/10/2014,Bowling,-40,CA
+52374,8/10/2014,Concert Ticket,-19.23,CA
+52374,8/10/2014,Ice Skating Rink,-19.67,CA
+52374,8/11/2014,Concert Ticket,-15.22,CA
+52374,8/12/2014,Sprouts Market,-52.24,CA
+52374,8/13/2014,Lyft,-36.98,CA
+52374,8/13/2014,Wine Bar,-118.62,CA
+52374,8/13/2014,Restaurant - Burgers,-18.37,CA
+52374,8/13/2014,Public Transportation - Train Pass,-3.9,CA
+52374,8/13/2014,Taxi,-9.19,CA
+52374,8/13/2014,Bank Fee - Negative Balance,-72.82,CA
+52374,8/13/2014,Seaside Bar,-72.1,CA
+52374,8/13/2014,Wine Bar,-118.47,CA
+52374,8/13/2014,Taxi,-4.5,CA
+52374,8/13/2014,Restaurant - Chinese,-31.33,CA
+52374,8/13/2014,Concert Ticket,-5.09,CA
+52374,8/13/2014,Ice Skating Rink,-10.75,CA
+52374,8/13/2014,Concert Ticket,-18.14,CA
+52374,8/13/2014,Ice Skating Rink,-15.35,CA
+52374,8/14/2014,Time Warne Cable - Late Payment Fee,-3.78,CA
+52374,8/14/2014,Public Transportation - Train Pass,-100.19,CA
+52374,8/14/2014,Wine Bar,-52.59,CA
+52374,8/14/2014,Owl Night Club,-59.28,CA
+52374,8/14/2014,Karaoke Bar,-22.53,CA
+52374,8/15/2014,Uber,-23.29,CA
+52374,8/15/2014,John's Bar & Restaurant,-109.87,CA
+52374,8/15/2014,Fisker Night Club,-61.22,CA
+52374,8/15/2014,Owl Night Club,-33.83,CA
+52374,8/15/2014,Concert Ticket,-7.1,CA
+52374,8/15/2014,Karaoke Bar,-5.42,CA
+52374,8/15/2014,Bowling,-27.55,CA
+52374,8/15/2014,Wine Bar,-79.24,CA
+52374,8/15/2014,Concert Ticket,-0.86,CA
+52374,8/16/2014,Green Flash Brewery,-20.17,CA
+52374,8/16/2014,Uber,-19.16,CA
+52374,8/17/2014,Wine Bar,-97.38,CA
+52374,8/18/2014,Starbucks Coffee,-38.82,CA
+52374,8/18/2014,Housing Rent - Late Fee,-12.43,CA
+52374,8/18/2014,Seaside Bar,-70.16,CA
+52374,8/18/2014,Taxi,-12.48,CA
+52374,8/18/2014,Food Delivery - GrubHub,-7.53,CA
+52374,8/18/2014,Owl Night Club,-4.33,CA
+52374,8/18/2014,Concert Ticket,-22.03,CA
+52374,8/18/2014,Bowling,-23.84,CA
+52374,8/18/2014,Credit Card Overdraft Fee,-13.64,CA
+52374,8/18/2014,Taxi,-4.18,CA
+52374,8/18/2014,Seaside Bar,-29.23,CA
+52374,8/18/2014,Fisker Night Club,-13.11,CA
+52374,8/19/2014,Credit Card Overdraft Fee,-6.38,CA
+52374,8/20/2014,Ice Skating Rink,-39.26,CA
+52374,8/20/2014,Green Flash Brewery,-27.85,CA
+52374,8/21/2014,Wine Bar,-108.53,CA
+52374,8/21/2014,Restaurant - Pizza,-39.87,CA
+52374,8/21/2014,John's Bar & Restaurant,-25.44,CA
+52374,8/21/2014,Restaurant - Chinese,-24.88,CA
+52374,8/21/2014,Uber,-38.27,CA
+52374,8/21/2014,Restaurant - Chinese,-0.46,CA
+52374,8/21/2014,Seaside Bar,-12.42,CA
+52374,8/22/2014,Bowling,-22.79,CA
+52374,8/23/2014,Rodriguez's Bar and Grill,-20.56,CA
+52374,8/23/2014,Movie Ticket,-105.62,CA
+52374,8/23/2014,Sprouts Market,-12.45,CA
+52374,8/23/2014,Starbucks Coffee,-12.93,CA
+52374,8/24/2014,John's Bar & Restaurant,-94.23,CA
+52374,8/25/2014,Green Flash Brewery,-39.2,CA
+52374,8/25/2014,John's Bar & Restaurant,-42.96,CA
+52374,8/25/2014,Public Transportation - Bus Pass,-8.77,CA
+52374,8/26/2014,Public Transportation - Train Pass,-47.38,CA
+52374,8/26/2014,Rodriguez's Bar and Grill,-15.79,CA
+52374,8/27/2014,Public Transportation - Train Pass,-4.87,CA
+52374,8/28/2014,Ice Skating Rink,-0.19,CA
+52374,8/28/2014,Restaurant - Chinese,-22.75,CA
+52374,8/29/2014,Rodriguez's Bar and Grill,-4.77,CA
+52374,8/30/2014,Owl Night Club,-27.56,CA
+52374,8/30/2014,Whole Foods,-15.42,CA
+52374,9/2/2014,Paycheck,3185,CA
+52374,9/2/2014,Housing Rent,-1353,CA
+52374,9/2/2014,Time Warner Cable,-25,CA
+52374,9/2/2014,Water & Sewer,-53,CA
+52374,9/2/2014,Uber,-26.84,CA
+52374,9/2/2014,Sprouts Market,-28.88,CA
+52374,9/2/2014,Karaoke Bar,-38.84,CA
+52374,9/2/2014,Concert Ticket,-31.31,CA
+52374,9/2/2014,Movie Ticket,-8.76,CA
+52374,9/3/2014,Bowling,-20.55,CA
+52374,9/3/2014,Starbucks Coffee,-17.45,CA
+52374,9/3/2014,Credit Card Overdraft Fee,-86.39,CA
+52374,9/4/2014,Concert Ticket,-10.46,CA
+52374,9/4/2014,Owl Night Club,-28.76,CA
+52374,9/4/2014,Seaside Bar,-5.12,CA
+52374,9/4/2014,Owl Night Club,-28.11,CA
+52374,9/4/2014,Rodriguez's Bar and Grill,-102.49,CA
+52374,9/4/2014,Movie Ticket,-37.48,CA
+52374,9/5/2014,Ice Skating Rink,-16.87,CA
+52374,9/5/2014,Water & Sewer - Late Payment Penalty,-17.73,CA
+52374,9/6/2014,Rodriguez's Bar and Grill,-7.27,CA
+52374,9/6/2014,Ralph's Grocery Store,-37.71,CA
+52374,9/6/2014,Lyft,-7.15,CA
+52374,9/7/2014,Karaoke Bar,-30.01,CA
+52374,9/7/2014,Public Transportation - Train Pass,-38.46,CA
+52374,9/7/2014,Seaside Bar,-20.1,CA
+52374,9/7/2014,Concert Ticket,-29.96,CA
+52374,9/8/2014,Movie Ticket,-32.41,CA
+52374,9/8/2014,Green Flash Brewery,-17.69,CA
+52374,9/8/2014,Karaoke Bar,-26.76,CA
+52374,9/9/2014,Ice Skating Rink,-46.11,CA
+52374,9/9/2014,Wine Bar,-23.55,CA
+52374,9/9/2014,Movie Ticket,-6.73,CA
+52374,9/9/2014,Public Transportation - Bus Pass,-38.56,CA
+52374,9/9/2014,Fisker Night Club,-20.11,CA
+52374,9/10/2014,Restaurant - Chinese,-14.29,CA
+52374,9/11/2014,Owl Night Club,-38.83,CA
+52374,9/11/2014,Lyft,-59.73,CA
+52374,9/12/2014,Housing Rent - Late Fee,-30.53,CA
+52374,9/12/2014,Public Transportation - Train Pass,-34.78,CA
+52374,9/13/2014,Wine Bar,-27.65,CA
+52374,9/13/2014,Concert Ticket,-7.35,CA
+52374,9/13/2014,Movie Ticket,-38.52,CA
+52374,9/13/2014,Lyft,-26.59,CA
+52374,9/13/2014,Restaurant - Chinese,-39.69,CA
+52374,9/14/2014,Movie Ticket,-6.71,CA
+52374,9/15/2014,John's Bar & Restaurant,-15.88,CA
+52374,9/15/2014,Public Transportation - Bus Pass,-31.69,CA
+52374,9/15/2014,Karaoke Bar,-23.37,CA
+52374,9/16/2014,Lyft,-5.96,CA
+52374,9/16/2014,Rodriguez's Bar and Grill,-18.05,CA
+52374,9/16/2014,Movie Ticket,-30.24,CA
+52374,9/16/2014,Green Flash Brewery,-13.92,CA
+52374,9/16/2014,Taxi,-22.41,CA
+52374,9/16/2014,Karaoke Bar,-93.26,CA
+52374,9/16/2014,Public Transportation - Bus Pass,-35.25,CA
+52374,9/16/2014,Credit Card Overdraft Fee,-16.42,CA
+52374,9/16/2014,Concert Ticket,-36.45,CA
+52374,9/17/2014,Fisker Night Club,-2.83,CA
+52374,9/17/2014,Lyft,-46.76,CA
+52374,9/17/2014,Owl Night Club,-109.23,CA
+52374,9/17/2014,Lyft,-10,CA
+52374,9/17/2014,Seaside Bar,-14.62,CA
+52374,9/17/2014,Fisker Night Club,-53.66,CA
+52374,9/18/2014,Ice Skating Rink,-21.26,CA
+52374,9/18/2014,Ice Skating Rink,-40.62,CA
+52374,9/18/2014,Public Transportation - Bus Pass,-76.27,CA
+52374,9/18/2014,Concert Ticket,-13.88,CA
+52374,9/19/2014,Sprouts Market,-13.8,CA
+52374,9/19/2014,Movie Ticket,-6.77,CA
+52374,9/19/2014,Taxi,-14.45,CA
+52374,9/19/2014,Restaurant - Burgers,-6.73,CA
+52374,9/19/2014,Von's Groceries,-18.42,CA
+52374,9/19/2014,Rodriguez's Bar and Grill,-82.86,CA
+52374,9/19/2014,Wine Bar,-39.15,CA
+52374,9/19/2014,Bowling,-6.31,CA
+52374,9/19/2014,Food Delivery - GrubHub,-51.8,CA
+52374,9/19/2014,Starbucks Coffee,-31.5,CA
+52374,9/20/2014,Lyft,-0.91,CA
+52374,9/20/2014,Taxi,-27.75,CA
+52374,9/21/2014,Wine Bar,-103.15,CA
+52374,9/21/2014,Fisker Night Club,-15.4,CA
+52374,9/22/2014,Movie Ticket,-18.9,CA
+52374,9/22/2014,Owl Night Club,-16.33,CA
+52374,9/22/2014,Ralph's Grocery Store,-33.75,CA
+52374,9/22/2014,Concert Ticket,-17.38,CA
+52374,9/22/2014,Uber,-12.12,CA
+52374,9/22/2014,Credit Card Overdraft Fee,-31.51,CA
+52374,9/23/2014,Movie Ticket,-26.49,CA
+52374,9/23/2014,Movie Ticket,-7.91,CA
+52374,9/24/2014,Owl Night Club,-2.91,CA
+52374,9/25/2014,Rodriguez's Bar and Grill,-30.9,CA
+52374,9/25/2014,Bowling,-1.21,CA
+52374,9/25/2014,Fisker Night Club,-3.92,CA
+52374,9/26/2014,Restaurant - Steakhouse,-59.09,CA
+52374,9/26/2014,Bowling,-29.7,CA
+52374,9/26/2014,Uber,-8.93,CA
+52374,9/27/2014,Von's Groceries,-3.53,CA
+52374,9/27/2014,Ice Skating Rink,-26.69,CA
+52374,9/28/2014,Restaurant - Burgers,-11.49,CA
+52374,9/28/2014,Karaoke Bar,-15.92,CA
+52374,9/28/2014,Wine Bar,-5.83,CA
+52374,9/28/2014,Uber,-7.95,CA
+52374,9/28/2014,Rodriguez's Bar and Grill,-27.43,CA
+52374,9/28/2014,Rodriguez's Bar and Grill,-18.36,CA
+52374,9/28/2014,Von's Groceries,-14.11,CA
+52374,9/28/2014,Public Transportation - Train Pass,-28.03,CA
+52374,9/29/2014,Bowling,-7.19,CA
+52374,9/30/2014,Public Transportation - Bus Pass,-14.79,CA
+52374,9/30/2014,Water & Sewer - Late Payment Penalty,-31.5,CA
+52374,10/2/2014,Paycheck,3185,CA
+52374,10/2/2014,Housing Rent,-1356,CA
+52374,10/2/2014,Time Warner Cable,-25,CA
+52374,10/2/2014,Water & Sewer,-53,CA
+52374,10/2/2014,Time Warne Cable - Late Payment Fee,-31.49,CA
+52374,10/2/2014,Movie Ticket,-29.88,CA
+52374,10/3/2014,Seaside Bar,-16.22,CA
+52374,10/3/2014,Karaoke Bar,-66.11,CA
+52374,10/3/2014,Restaurant - Burgers,-23.58,CA
+52374,10/3/2014,Public Transportation - Train Pass,-23.5,CA
+52374,10/3/2014,Concert Ticket,-17.4,CA
+52374,10/3/2014,Seaside Bar,-28.63,CA
+52374,10/4/2014,Bowling,-12.7,CA
+52374,10/4/2014,Whole Foods,-32.54,CA
+52374,10/4/2014,Bowling,-24.79,CA
+52374,10/4/2014,Lyft,-14.95,CA
+52374,10/4/2014,Green Flash Brewery,-21.98,CA
+52374,10/4/2014,Wine Bar,-31.46,CA
+52374,10/5/2014,Owl Night Club,-22.11,CA
+52374,10/6/2014,Seaside Bar,-4.49,CA
+52374,10/7/2014,Lyft,-2.44,CA
+52374,10/8/2014,Restaurant - Chinese,-23.68,CA
+52374,10/8/2014,Uber,-35.82,CA
+52374,10/8/2014,Fisker Night Club,-22.43,CA
+52374,10/8/2014,Taxi,-42.49,CA
+52374,10/9/2014,Taxi,-23.68,CA
+52374,10/10/2014,Restaurant - Chinese,-13.43,CA
+52374,10/11/2014,Bank Fee - Negative Balance,-30.68,CA
+52374,10/12/2014,Water & Sewer - Late Payment Penalty,-11.85,CA
+52374,10/13/2014,Green Flash Brewery,-103.05,CA
+52374,10/13/2014,Lyft,-33.24,CA
+52374,10/13/2014,Fisker Night Club,-6.6,CA
+52374,10/13/2014,Green Flash Brewery,-15,CA
+52374,10/14/2014,Concert Ticket,-30.77,CA
+52374,10/15/2014,Restaurant - Pizza,-24.46,CA
+52374,10/15/2014,Green Flash Brewery,-18.55,CA
+52374,10/15/2014,Ralph's Grocery Store,-0.37,CA
+52374,10/15/2014,Public Transportation - Train Pass,-0.92,CA
+52374,10/15/2014,Restaurant - Steakhouse,-25.25,CA
+52374,10/15/2014,Restaurant - Pizza,-5.92,CA
+52374,10/15/2014,Owl Night Club,-18.81,CA
+52374,10/15/2014,Restaurant - Burgers,-9.57,CA
+52374,10/16/2014,Bowling,-96.7,CA
+52374,10/16/2014,Starbucks Coffee,-14.13,CA
+52374,10/16/2014,Owl Night Club,-20.4,CA
+52374,10/17/2014,Restaurant - Steakhouse,-15.28,CA
+52374,10/18/2014,Housing Rent - Late Fee,-4.81,CA
+52374,10/19/2014,Fisker Night Club,-39.27,CA
+52374,10/20/2014,Public Transportation - Train Pass,-29.97,CA
+52374,10/20/2014,Taxi,-4.02,CA
+52374,10/20/2014,Rodriguez's Bar and Grill,-18.22,CA
+52374,10/21/2014,Movie Ticket,-28.7,CA
+52374,10/21/2014,Bowling,-37.98,CA
+52374,10/21/2014,Restaurant - Chinese,-7.31,CA
+52374,10/21/2014,Green Flash Brewery,-15.71,CA
+52374,10/21/2014,Seaside Bar,-53.84,CA
+52374,10/21/2014,Public Transportation - Bus Pass,-25.83,CA
+52374,10/21/2014,Public Transportation - Train Pass,-36.64,CA
+52374,10/21/2014,Restaurant - Burgers,-24.72,CA
+52374,10/21/2014,Restaurant - Burgers,-5.88,CA
+52374,10/21/2014,Karaoke Bar,-99.21,CA
+52374,10/21/2014,Ralph's Grocery Store,-4.22,CA
+52374,10/21/2014,Rodriguez's Bar and Grill,-9.62,CA
+52374,10/21/2014,Food Delivery - GrubHub,-6.04,CA
+52374,10/22/2014,Public Transportation - Train Pass,-34.93,CA
+52374,10/22/2014,Karaoke Bar,-15.21,CA
+52374,10/22/2014,Rodriguez's Bar and Grill,-57.57,CA
+52374,10/22/2014,Uber,-16.27,CA
+52374,10/22/2014,Fisker Night Club,-16.5,CA
+52374,10/23/2014,Restaurant - Chinese,-22.81,CA
+52374,10/24/2014,Rodriguez's Bar and Grill,-22.67,CA
+52374,10/25/2014,Von's Groceries,-15.74,CA
+52374,10/26/2014,Public Transportation - Bus Pass,-107.62,CA
+52374,10/27/2014,Movie Ticket,-35.86,CA
+52374,10/27/2014,Movie Ticket,-28.78,CA
+52374,10/27/2014,Uber,-19.54,CA
+52374,10/28/2014,Green Flash Brewery,-0.12,CA
+52374,10/29/2014,Restaurant - Steakhouse,-30.27,CA
+52374,10/29/2014,Water & Sewer - Late Payment Penalty,-32.24,CA
+52374,10/29/2014,Seaside Bar,-3.17,CA
+52374,10/29/2014,John's Bar & Restaurant,-48.43,CA
+52374,10/30/2014,Public Transportation - Train Pass,-29.1,CA
+52374,10/30/2014,Concert Ticket,-18.56,CA
+52374,11/2/2014,Paycheck,3185,CA
+52374,11/2/2014,Housing Rent,-1047,CA
+52374,11/2/2014,Time Warner Cable,-25,CA
+52374,11/2/2014,Water & Sewer,-53,CA
+52374,11/2/2014,Lyft,-37.41,CA
+52374,11/2/2014,Fisker Night Club,-39.6,CA
+52374,11/2/2014,Bowling,-33.17,CA
+52374,11/2/2014,Wine Bar,-73.65,CA
+52374,11/3/2014,Rodriguez's Bar and Grill,-22.48,CA
+52374,11/4/2014,Concert Ticket,-103.04,CA
+52374,11/4/2014,Public Transportation - Train Pass,-35.51,CA
+52374,11/4/2014,Starbucks Coffee,-38.78,CA
+52374,11/4/2014,Public Transportation - Train Pass,-113.27,CA
+52374,11/5/2014,Food Delivery - GrubHub,-22.41,CA
+52374,11/5/2014,Concert Ticket,-23.13,CA
+52374,11/5/2014,John's Bar & Restaurant,-1.65,CA
+52374,11/5/2014,Seaside Bar,-15.78,CA
+52374,11/5/2014,Public Transportation - Train Pass,-34.1,CA
+52374,11/5/2014,Restaurant - Steakhouse,-33.06,CA
+52374,11/5/2014,Bowling,-82.99,CA
+52374,11/6/2014,Fisker Night Club,-24.19,CA
+52374,11/6/2014,Restaurant - Chinese,-9.6,CA
+52374,11/6/2014,John's Bar & Restaurant,-20.56,CA
+52374,11/6/2014,Restaurant - Chinese,-21.99,CA
+52374,11/6/2014,Seaside Bar,-6.79,CA
+52374,11/7/2014,Uber,-26.83,CA
+52374,11/7/2014,Taxi,-11.93,CA
+52374,11/7/2014,Food Delivery - GrubHub,-105.4,CA
+52374,11/7/2014,Taxi,-5.91,CA
+52374,11/7/2014,Taxi,-29.88,CA
+52374,11/8/2014,Food Delivery - GrubHub,-108.21,CA
+52374,11/8/2014,Lyft,-37.51,CA
+52374,11/8/2014,Taxi,-27.66,CA
+52374,11/9/2014,Lyft,-38.16,CA
+52374,11/9/2014,Taxi,-35.69,CA
+52374,11/9/2014,Restaurant - Burgers,-30.16,CA
+52374,11/9/2014,Housing Rent - Late Fee,-19.87,CA
+52374,11/9/2014,Public Transportation - Bus Pass,-68.91,CA
+52374,11/9/2014,Public Transportation - Bus Pass,-9.12,CA
+52374,11/9/2014,Taxi,-13.64,CA
+52374,11/10/2014,Bowling,-92.66,CA
+52374,11/10/2014,Public Transportation - Bus Pass,-22.78,CA
+52374,11/10/2014,Uber,-38.55,CA
+52374,11/11/2014,Restaurant - Chinese,-11.83,CA
+52374,11/11/2014,John's Bar & Restaurant,-6.21,CA
+52374,11/12/2014,Public Transportation - Train Pass,-24.45,CA
+52374,11/12/2014,Credit Card Overdraft Fee,-4.74,CA
+52374,11/12/2014,Bowling,-6.44,CA
+52374,11/12/2014,Owl Night Club,-34.51,CA
+52374,11/12/2014,Public Transportation - Train Pass,-26.46,CA
+52374,11/13/2014,Uber,-19.66,CA
+52374,11/13/2014,Rodriguez's Bar and Grill,-10.37,CA
+52374,11/14/2014,Karaoke Bar,-26.92,CA
+52374,11/14/2014,Starbucks Coffee,-10.95,CA
+52374,11/15/2014,Taxi,-77.69,CA
+52374,11/15/2014,John's Bar & Restaurant,-36.1,CA
+52374,11/15/2014,Bank Fee - Negative Balance,-28.99,CA
+52374,11/15/2014,Movie Ticket,-0.2,CA
+52374,11/16/2014,Restaurant - Steakhouse,-23.12,CA
+52374,11/17/2014,Bowling,-2.25,CA
+52374,11/18/2014,Movie Ticket,-14.41,CA
+52374,11/18/2014,Lyft,-15.05,CA
+52374,11/19/2014,Taxi,-37.14,CA
+52374,11/20/2014,Restaurant - Steakhouse,-75.77,CA
+52374,11/20/2014,Time Warne Cable - Late Payment Fee,-7.47,CA
+52374,11/21/2014,Seaside Bar,-28.43,CA
+52374,11/21/2014,Bowling,-21.35,CA
+52374,11/21/2014,John's Bar & Restaurant,-0.44,CA
+52374,11/21/2014,Concert Ticket,-4.06,CA
+52374,11/21/2014,Starbucks Coffee,-21.78,CA
+52374,11/21/2014,Bowling,-20.06,CA
+52374,11/21/2014,Ralph's Grocery Store,-62.76,CA
+52374,11/21/2014,Green Flash Brewery,-6.23,CA
+52374,11/21/2014,John's Bar & Restaurant,-21.51,CA
+52374,11/21/2014,Wine Bar,-42.88,CA
+52374,11/21/2014,Public Transportation - Bus Pass,-4.75,CA
+52374,11/21/2014,Owl Night Club,-39.11,CA
+52374,11/21/2014,Restaurant - Pizza,-27.19,CA
+52374,11/22/2014,Whole Foods,-0.97,CA
+52374,11/23/2014,Taxi,-15.48,CA
+52374,11/23/2014,Wine Bar,-104.16,CA
+52374,11/23/2014,Concert Ticket,-26.39,CA
+52374,11/23/2014,Owl Night Club,-50.52,CA
+52374,11/24/2014,Public Transportation - Train Pass,-30.45,CA
+52374,11/24/2014,John's Bar & Restaurant,-37.84,CA
+52374,11/24/2014,Von's Groceries,-28.16,CA
+52374,11/25/2014,Wine Bar,-10.8,CA
+52374,11/25/2014,Public Transportation - Train Pass,-31.86,CA
+52374,11/25/2014,Restaurant - Chinese,-15.23,CA
+52374,11/26/2014,Ice Skating Rink,-114.14,CA
+52374,11/26/2014,Ralph's Grocery Store,-16.73,CA
+52374,11/26/2014,Wine Bar,-106.22,CA
+52374,11/27/2014,Public Transportation - Train Pass,-36.22,CA
+52374,11/27/2014,Credit Card Overdraft Fee,-28.76,CA
+52374,11/27/2014,Green Flash Brewery,-30.39,CA
+52374,11/28/2014,Public Transportation - Train Pass,-34.65,CA
+52374,11/28/2014,Restaurant - Chinese,-38.12,CA
+52374,11/28/2014,Housing Rent - Late Fee,-2.71,CA
+52374,11/28/2014,Sprouts Market,-15.83,CA
+52374,11/29/2014,Restaurant - Chinese,-20.82,CA
+52374,11/30/2014,Seaside Bar,-31.35,CA
+52374,11/30/2014,Karaoke Bar,-104.02,CA
+52374,11/30/2014,Owl Night Club,-15.77,CA
+52374,11/30/2014,Restaurant - Pizza,-27.75,CA
+52374,11/30/2014,Time Warne Cable - Late Payment Fee,-13.68,CA
+52374,11/30/2014,Green Flash Brewery,-10.88,CA
+52374,11/30/2014,Taxi,-22.85,CA
+52374,12/2/2014,Paycheck,3185,CA
+52374,12/2/2014,Housing Rent,-1060,CA
+52374,12/2/2014,Time Warner Cable,-25,CA
+52374,12/2/2014,Water & Sewer,-53,CA
+52374,12/2/2014,Owl Night Club,-18.45,CA
+52374,12/2/2014,Restaurant - Steakhouse,-37.08,CA
+52374,12/2/2014,Owl Night Club,-43.18,CA
+52374,12/3/2014,Bowling,-67.02,CA
+52374,12/3/2014,Wine Bar,-6.71,CA
+52374,12/3/2014,Sprouts Market,-13.11,CA
+52374,12/3/2014,Public Transportation - Bus Pass,-38,CA
+52374,12/3/2014,Green Flash Brewery,-17.38,CA
+52374,12/3/2014,Rodriguez's Bar and Grill,-6.7,CA
+52374,12/4/2014,Owl Night Club,-7.54,CA
+52374,12/4/2014,Bank Fee - Negative Balance,-1.44,CA
+52374,12/4/2014,Von's Groceries,-11.86,CA
+52374,12/4/2014,Owl Night Club,-30.64,CA
+52374,12/4/2014,Green Flash Brewery,-38.56,CA
+52374,12/4/2014,Green Flash Brewery,-32.73,CA
+52374,12/4/2014,Fisker Night Club,-23.29,CA
+52374,12/4/2014,Whole Foods,-36.11,CA
+52374,12/5/2014,Public Transportation - Bus Pass,-20.25,CA
+52374,12/5/2014,Uber,-37.68,CA
+52374,12/6/2014,Wine Bar,-25.04,CA
+52374,12/7/2014,Restaurant - Steakhouse,-17.57,CA
+52374,12/7/2014,Starbucks Coffee,-0.81,CA
+52374,12/8/2014,Public Transportation - Bus Pass,-3.9,CA
+52374,12/8/2014,Restaurant - Chinese,-5.25,CA
+52374,12/8/2014,Lyft,-37,CA
+52374,12/8/2014,Public Transportation - Train Pass,-75.11,CA
+52374,12/8/2014,Lyft,-16.85,CA
+52374,12/8/2014,Restaurant - Steakhouse,-1.78,CA
+52374,12/8/2014,Rodriguez's Bar and Grill,-2.27,CA
+52374,12/8/2014,Wine Bar,-103.63,CA
+52374,12/9/2014,Owl Night Club,-38.2,CA
+52374,12/10/2014,Rodriguez's Bar and Grill,-43,CA
+52374,12/10/2014,Starbucks Coffee,-33.46,CA
+52374,12/10/2014,Wine Bar,-16,CA
+52374,12/10/2014,Karaoke Bar,-6.31,CA
+52374,12/10/2014,Restaurant - Pizza,-12.26,CA
+52374,12/11/2014,Fisker Night Club,-23.57,CA
+52374,12/11/2014,Uber,-33.48,CA
+52374,12/12/2014,Public Transportation - Bus Pass,-30.69,CA
+52374,12/12/2014,Starbucks Coffee,-16.1,CA
+52374,12/13/2014,Movie Ticket,-4.2,CA
+52374,12/13/2014,Rodriguez's Bar and Grill,-35.72,CA
+52374,12/13/2014,John's Bar & Restaurant,-10.12,CA
+52374,12/14/2014,Wine Bar,-7.21,CA
+52374,12/14/2014,Movie Ticket,-20.77,CA
+52374,12/14/2014,Movie Ticket,-10.76,CA
+52374,12/14/2014,Restaurant - Steakhouse,-18.61,CA
+52374,12/14/2014,Public Transportation - Train Pass,-39.25,CA
+52374,12/15/2014,Bowling,-29.46,CA
+52374,12/16/2014,Food Delivery - GrubHub,-21.35,CA
+52374,12/17/2014,Movie Ticket,-22.64,CA
+52374,12/18/2014,Wine Bar,-10.53,CA
+52374,12/18/2014,Ralph's Grocery Store,-82.61,CA
+52374,12/19/2014,Public Transportation - Train Pass,-2.87,CA
+52374,12/20/2014,Starbucks Coffee,-38.31,CA
+52374,12/21/2014,Fisker Night Club,-2.27,CA
+52374,12/21/2014,Food Delivery - GrubHub,-20.19,CA
+52374,12/22/2014,Restaurant - Pizza,-2.78,CA
+52374,12/22/2014,Concert Ticket,-22.44,CA
+52374,12/23/2014,Wine Bar,-61.07,CA
+52374,12/23/2014,Rodriguez's Bar and Grill,-5.22,CA
+52374,12/24/2014,Concert Ticket,-9.5,CA
+52374,12/25/2014,Wine Bar,-11.54,CA
+52374,12/25/2014,John's Bar & Restaurant,-7.8,CA
+52374,12/25/2014,Owl Night Club,-7.17,CA
+52374,12/25/2014,Whole Foods,-33.54,CA
+52374,12/26/2014,Bowling,-87.25,CA
+52374,12/26/2014,Whole Foods,-8.63,CA
+52374,12/26/2014,Uber,-1.37,CA
+52374,12/26/2014,Uber,-25.8,CA
+52374,12/27/2014,Uber,-28.73,CA
+52374,12/27/2014,Ice Skating Rink,-17.4,CA
+52374,12/27/2014,Green Flash Brewery,-36.76,CA
+52374,12/27/2014,Food Delivery - GrubHub,-14.1,CA
+52374,12/27/2014,Taxi,-25,CA
+52374,12/28/2014,Credit Card Overdraft Fee,-25.21,CA
+52374,12/29/2014,Water & Sewer - Late Payment Penalty,-3.3,CA
+52374,12/30/2014,Restaurant - Chinese,-78.84,CA
+52374,12/30/2014,Public Transportation - Bus Pass,-14.71,CA
+52374,12/30/2014,Housing Rent - Late Fee,-28.47,CA
+52374,12/30/2014,Movie Ticket,-9.69,CA
+52374,12/30/2014,Seaside Bar,-47.56,CA
+52374,12/30/2014,Restaurant - Chinese,-9.87,CA
+52374,12/32/2014,Taxi,-39.35,CA

@@ -1,0 +1,2176 @@
+auth_id, Date, Vendor, Amount, Location 
+56930,1/2/2013,Restaurant - Burgers,-20.83,CA
+56930,1/3/2013,Guitar Center,-32.78,CA
+56930,1/4/2013,Ashley's Craft Store,-1.16,CA
+56930,1/4/2013,Michael's Crafts,-0.34,CA
+56930,1/5/2013,Art's Art Supplies,-14.86,CA
+56930,1/6/2013,Taxi,-77.87,CA
+56930,1/7/2013,Amazon Order - Paint Bushes,-25.59,CA
+56930,1/7/2013,Restaurant - Chinese,-82.05,CA
+56930,1/7/2013,Music Lessons - Piano,-116.49,CA
+56930,1/7/2013,Restaurant - Steakhouse,-2.63,CA
+56930,1/7/2013,Painting Course Fees,-12.14,CA
+56930,1/7/2013,Art Auction,-19.11,CA
+56930,1/8/2013,Restaurant - Steakhouse,-17.88,CA
+56930,1/8/2013,Public Transportation - Train Pass,-35.96,CA
+56930,1/9/2013,Painting Course Fees,-14.93,CA
+56930,1/9/2013,Art's Art Supplies,-26.18,CA
+56930,1/9/2013,Music Lessons - Piano,-7.96,CA
+56930,1/9/2013,Ashley's Craft Store,-23.19,CA
+56930,1/10/2013,Guitar Center,-13.53,CA
+56930,1/10/2013,Guitar Center,-21.41,CA
+56930,1/10/2013,Uber,-18.22,CA
+56930,1/10/2013,Painting Course Fees,-68.67,CA
+56930,1/11/2013,Michael's Crafts,-23.43,CA
+56930,1/12/2013,Art's Art Supplies,-14.95,CA
+56930,1/13/2013,Public Transportation - Train Pass,-3.16,CA
+56930,1/13/2013,Painting Course Fees,-21.76,CA
+56930,1/14/2013,Lyft,-26.4,CA
+56930,1/14/2013,Public Transportation - Bus Pass,-9.33,CA
+56930,1/14/2013,Amazon Order - Paint Bushes,-24.6,CA
+56930,1/14/2013,Lyft,-19.37,CA
+56930,1/14/2013,Guitar Center,-75.43,CA
+56930,1/15/2013,Public Transportation - Bus Pass,-0.44,CA
+56930,1/15/2013,Art Auction,-8.47,CA
+56930,1/15/2013,Music Lessons - Piano,-26.41,CA
+56930,1/16/2013,Art's Art Supplies,-10.23,CA
+56930,1/17/2013,Public Transportation - Train Pass,-21.63,CA
+56930,1/17/2013,Michael's Crafts,-74.21,CA
+56930,1/17/2013,Art's Art Supplies,-11.27,CA
+56930,1/17/2013,Ashley's Craft Store,-21.7,CA
+56930,1/17/2013,Art Auction,-17.32,CA
+56930,1/18/2013,Amazon Order - Paint Bushes,-3.08,CA
+56930,1/18/2013,Lyft,-16.21,CA
+56930,1/18/2013,Music Lessons - Piano,-34.22,CA
+56930,1/18/2013,Guitar Center,-30.59,CA
+56930,1/18/2013,Ashley's Craft Store,-19,CA
+56930,1/18/2013,Amazon Order - Paint Canvas,-29.86,CA
+56930,1/19/2013,Whole Foods,-14.1,CA
+56930,1/20/2013,Restaurant - Pizza,-32.21,CA
+56930,1/20/2013,Painting Course Fees,-38.09,CA
+56930,1/20/2013,Von's Groceries,-17.5,CA
+56930,1/20/2013,Art's Art Supplies,-11.79,CA
+56930,1/20/2013,Music Lessons - Piano,-24.65,CA
+56930,1/21/2013,Painting Course Fees,-38.61,CA
+56930,1/21/2013,Taxi,-118.17,CA
+56930,1/21/2013,Amazon Order - Paint Canvas,-30.09,CA
+56930,1/21/2013,Ashley's Craft Store,-5.41,CA
+56930,1/22/2013,Music Lessons - Piano,-12.85,CA
+56930,1/23/2013,Music Lessons - Piano,-9.88,CA
+56930,1/23/2013,Ashley's Craft Store,-16.56,CA
+56930,1/24/2013,Music Lessons - Piano,-84.3,CA
+56930,1/24/2013,Michael's Crafts,-3.86,CA
+56930,1/24/2013,Amazon Order - Paint Canvas,-7.56,CA
+56930,1/24/2013,Restaurant - Chinese,-13.47,CA
+56930,1/25/2013,Whole Foods,-25.56,CA
+56930,1/26/2013,Music Lessons - Piano,-25.02,CA
+56930,1/27/2013,Art's Art Supplies,-11.78,CA
+56930,1/28/2013,Music Lessons - Piano,-31.35,CA
+56930,1/29/2013,Art's Art Supplies,-1.83,CA
+56930,1/29/2013,Amazon Order - Paint Bushes,-25.84,CA
+56930,1/30/2013,Sprouts Market,-20.03,CA
+56930,1/30/2013,Amazon Order - Paint Bushes,-9.81,CA
+56930,1/30/2013,Uber,-4.64,CA
+56930,1/30/2013,Food Delivery - GrubHub,-33.02,CA
+56930,1/30/2013,Restaurant - Pizza,-117.64,CA
+56930,3/2/2013,Housing Rent,-1070,CA
+56930,3/2/2013,Water & Sewer,-53,CA
+56930,3/2/2013,Credit Card Payment,-154,CA
+56930,3/2/2013,Time Warner Cable,-25,CA
+56930,3/2/2013,Von's Groceries,-35.09,CA
+56930,3/2/2013,Art's Art Supplies,-11.85,CA
+56930,3/3/2013,Music Lessons - Piano,-37.27,CA
+56930,3/3/2013,Music Lessons - Piano,-16.94,CA
+56930,3/4/2013,Guitar Center,-8.2,CA
+56930,3/4/2013,Public Transportation - Bus Pass,-12.33,CA
+56930,3/4/2013,Amazon Order - Paint Bushes,-70.08,CA
+56930,3/5/2013,Starbucks Coffee,-13.39,CA
+56930,3/5/2013,Food Delivery - GrubHub,-16.96,CA
+56930,3/6/2013,Public Transportation - Bus Pass,-8.27,CA
+56930,3/6/2013,Michael's Crafts,-41.36,CA
+56930,3/6/2013,Michael's Crafts,-38.36,CA
+56930,3/6/2013,Uber,-113.11,CA
+56930,3/7/2013,Restaurant - Chinese,-45.01,CA
+56930,3/8/2013,Guitar Center,-37.77,CA
+56930,3/9/2013,Art's Art Supplies,-7.94,CA
+56930,3/10/2013,Von's Groceries,-44.37,CA
+56930,3/10/2013,Art Auction,-8.26,CA
+56930,3/11/2013,Lyft,-23.49,CA
+56930,3/11/2013,Amazon Order - Paint Bushes,-25.12,CA
+56930,3/11/2013,Ashley's Craft Store,-5.97,CA
+56930,3/12/2013,Music Lessons - Piano,-110.11,CA
+56930,3/13/2013,Public Transportation - Train Pass,-25.72,CA
+56930,3/14/2013,Music Lessons - Piano,-39.2,CA
+56930,3/15/2013,Lyft,-15.67,CA
+56930,3/15/2013,Public Transportation - Train Pass,-4.79,CA
+56930,3/15/2013,Amazon Order - Paint Canvas,-24.29,CA
+56930,3/15/2013,Amazon Order - Baby Crib,-57.89,CA
+56930,3/15/2013,Hospital - Prenatal Care,-13.87,CA
+56930,3/15/2013,Babies "R" Us,-89.02,CA
+56930,3/15/2013,BuyBuyBaby.com,-3.2,CA
+56930,3/16/2013,Amazon Order - Paint Bushes,-6.87,CA
+56930,3/16/2013,Amazon Order - Paint Canvas,-54.5,CA
+56930,3/17/2013,Amazon Order - Paint Bushes,-38.86,CA
+56930,3/17/2013,Art's Art Supplies,-83.11,CA
+56930,3/18/2013,Amazon Order - Paint Canvas,-29.88,CA
+56930,3/19/2013,Von's Groceries,-7.04,CA
+56930,3/19/2013,Lyft,-33.7,CA
+56930,3/19/2013,Art's Art Supplies,-23.04,CA
+56930,3/19/2013,Painting Course Fees,-0.59,CA
+56930,3/19/2013,Guitar Center,-32.46,CA
+56930,3/20/2013,Restaurant - Steakhouse,-116.59,CA
+56930,3/20/2013,Ashley's Craft Store,-17.92,CA
+56930,3/21/2013,Public Transportation - Bus Pass,-24.37,CA
+56930,3/22/2013,Amazon Order - Paint Bushes,-20.46,CA
+56930,3/23/2013,Michael's Crafts,-26.59,CA
+56930,3/23/2013,Uber,-21.83,CA
+56930,3/23/2013,Restaurant - Burgers,-113.1,CA
+56930,3/23/2013,Uber,-6.63,CA
+56930,3/24/2013,Von's Groceries,-39.12,CA
+56930,3/24/2013,Uber,-1.39,CA
+56930,3/24/2013,Taxi,-66.66,CA
+56930,3/25/2013,Michael's Crafts,-28.09,CA
+56930,3/25/2013,Michael's Crafts,-16.75,CA
+56930,3/25/2013,Uber,-53.89,CA
+56930,3/25/2013,Guitar Center,-22.18,CA
+56930,3/25/2013,Guitar Center,-28.57,CA
+56930,3/25/2013,Art Auction,-35.66,CA
+56930,3/26/2013,Public Transportation - Bus Pass,-6.47,CA
+56930,3/26/2013,Taxi,-39.46,CA
+56930,3/26/2013,Art Auction,-38.96,CA
+56930,3/26/2013,Taxi,-11.26,CA
+56930,3/26/2013,Sprouts Market,-8.89,CA
+56930,3/27/2013,Uber,-10.72,CA
+56930,3/28/2013,Music Lessons - Piano,-95.61,CA
+56930,3/28/2013,Music Lessons - Piano,-7.24,CA
+56930,3/28/2013,Art's Art Supplies,-10.72,CA
+56930,3/28/2013,Michael's Crafts,-24.09,CA
+56930,3/28/2013,Lyft,-24.49,CA
+56930,3/28/2013,Ashley's Craft Store,-0.14,CA
+56930,3/28/2013,Painting Course Fees,-35.37,CA
+56930,3/29/2013,Restaurant - Steakhouse,-20.51,CA
+56930,3/29/2013,Amazon Order - Paint Canvas,-26.34,CA
+56930,3/29/2013,Ashley's Craft Store,-96.66,CA
+56930,3/30/2013,Painting Course Fees,-16.49,CA
+56930,3/30/2013,Restaurant - Burgers,-19.89,CA
+56930,3/30/2013,Lyft,-31.4,CA
+56930,4/2/2013,Housing Rent,-937,CA
+56930,4/2/2013,Water & Sewer,-53,CA
+56930,4/2/2013,Credit Card Payment,-154,CA
+56930,4/2/2013,Time Warner Cable,-25,CA
+56930,4/2/2013,Public Transportation - Train Pass,-34.52,CA
+56930,4/2/2013,Ashley's Craft Store,-30.13,CA
+56930,4/2/2013,Whole Foods,-19.32,CA
+56930,4/2/2013,Amazon Order - Paint Canvas,-14.7,CA
+56930,4/3/2013,Restaurant - Steakhouse,-7.85,CA
+56930,4/3/2013,Sprouts Market,-2.54,CA
+56930,4/4/2013,Amazon Order - Paint Bushes,-39.79,CA
+56930,4/4/2013,Painting Course Fees,-19.51,CA
+56930,4/4/2013,Sprouts Market,-6.28,CA
+56930,4/5/2013,Music Lessons - Piano,-28.23,CA
+56930,4/5/2013,Ashley's Craft Store,-28.29,CA
+56930,4/6/2013,Music Lessons - Piano,-29.37,CA
+56930,4/6/2013,Michael's Crafts,-36.23,CA
+56930,4/7/2013,Amazon Order - Paint Canvas,-28.31,CA
+56930,4/7/2013,Public Transportation - Bus Pass,-26.63,CA
+56930,4/7/2013,Music Lessons - Piano,-23.44,CA
+56930,4/7/2013,Art Auction,-23.99,CA
+56930,4/8/2013,Ashley's Craft Store,-59.75,CA
+56930,4/9/2013,Art Auction,-10,CA
+56930,4/9/2013,Painting Course Fees,-32.77,CA
+56930,4/9/2013,Public Transportation - Bus Pass,-35.72,CA
+56930,4/10/2013,Ashley's Craft Store,-36.03,CA
+56930,4/10/2013,Michael's Crafts,-48.31,CA
+56930,4/10/2013,Starbucks Coffee,-0.58,CA
+56930,4/10/2013,Amazon Order - Paint Canvas,-60.06,CA
+56930,4/10/2013,Art Auction,-21.03,CA
+56930,4/10/2013,Lyft,-15.82,CA
+56930,4/10/2013,Art Auction,-13.31,CA
+56930,4/11/2013,Food Delivery - GrubHub,-13.29,CA
+56930,4/11/2013,Painting Course Fees,-49.9,CA
+56930,4/12/2013,Food Delivery - GrubHub,-9.76,CA
+56930,4/12/2013,Ralph's Grocery Store,-18.47,CA
+56930,4/12/2013,Amazon Order - Paint Canvas,-9.82,CA
+56930,4/13/2013,Taxi,-17.02,CA
+56930,4/13/2013,Art Auction,-61.6,CA
+56930,4/13/2013,Whole Foods,-0.97,CA
+56930,4/13/2013,Painting Course Fees,-0.62,CA
+56930,4/14/2013,Ashley's Craft Store,-2.96,CA
+56930,4/14/2013,Music Lessons - Piano,-21.56,CA
+56930,4/14/2013,Ralph's Grocery Store,-21.42,CA
+56930,4/14/2013,Painting Course Fees,-38.11,CA
+56930,4/15/2013,Public Transportation - Train Pass,-34.93,CA
+56930,4/16/2013,Public Transportation - Train Pass,-30.64,CA
+56930,4/16/2013,Painting Course Fees,-27.31,CA
+56930,4/16/2013,Restaurant - Burgers,-19.26,CA
+56930,4/16/2013,Music Lessons - Piano,-14.42,CA
+56930,4/16/2013,Art Auction,-3.83,CA
+56930,4/16/2013,Ashley's Craft Store,-28.53,CA
+56930,4/16/2013,Amazon Order - Paint Bushes,-39.24,CA
+56930,4/16/2013,Michael's Crafts,-32.38,CA
+56930,4/16/2013,Guitar Center,-25.89,CA
+56930,4/16/2013,Music Lessons - Piano,-35.05,CA
+56930,4/16/2013,Art Auction,-39.2,CA
+56930,4/16/2013,Guitar Center,-39.01,CA
+56930,4/16/2013,Lyft,-0.4,CA
+56930,4/16/2013,Whole Foods,-26.43,CA
+56930,4/17/2013,Ralph's Grocery Store,-33.95,CA
+56930,4/17/2013,Art Auction,-2.44,CA
+56930,4/17/2013,Guitar Center,-36.74,CA
+56930,4/17/2013,Restaurant - Steakhouse,-45.16,CA
+56930,4/18/2013,Amazon Order - Paint Canvas,-37.04,CA
+56930,4/18/2013,Painting Course Fees,-36.29,CA
+56930,4/19/2013,Amazon Order - Paint Canvas,-9.2,CA
+56930,4/19/2013,Amazon Order - Paint Canvas,-100.34,CA
+56930,4/20/2013,Art's Art Supplies,-78.38,CA
+56930,4/20/2013,Restaurant - Steakhouse,-14.22,CA
+56930,4/20/2013,Public Transportation - Train Pass,-37.68,CA
+56930,4/20/2013,Guitar Center,-33.2,CA
+56930,4/20/2013,Guitar Center,-37.04,CA
+56930,4/20/2013,Restaurant - Burgers,-37.17,CA
+56930,4/21/2013,Painting Course Fees,-65.78,CA
+56930,4/21/2013,Ashley's Craft Store,-18.5,CA
+56930,4/22/2013,Painting Course Fees,-38.34,CA
+56930,4/22/2013,Public Transportation - Bus Pass,-36.1,CA
+56930,4/22/2013,Whole Foods,-35.89,CA
+56930,4/23/2013,Restaurant - Pizza,-28.03,CA
+56930,4/24/2013,Art Auction,-3.89,CA
+56930,4/24/2013,Restaurant - Chinese,-17.28,CA
+56930,4/25/2013,Restaurant - Chinese,-1.24,CA
+56930,4/26/2013,Public Transportation - Train Pass,-17.31,CA
+56930,4/26/2013,Restaurant - Chinese,-91.25,CA
+56930,4/26/2013,Restaurant - Pizza,-24.98,CA
+56930,4/27/2013,Restaurant - Steakhouse,-114.87,CA
+56930,4/27/2013,Amazon Order - Paint Bushes,-0.9,CA
+56930,4/27/2013,Art's Art Supplies,-1.47,CA
+56930,4/28/2013,Whole Foods,-39.42,CA
+56930,4/28/2013,Uber,-1.48,CA
+56930,4/28/2013,Ashley's Craft Store,-78.93,CA
+56930,4/28/2013,Amazon Order - Paint Canvas,-2.29,CA
+56930,4/28/2013,Restaurant - Burgers,-104.68,CA
+56930,4/29/2013,Ashley's Craft Store,-3.33,CA
+56930,4/29/2013,Restaurant - Steakhouse,-21.14,CA
+56930,4/29/2013,Art's Art Supplies,-21.23,CA
+56930,4/30/2013,Lyft,-85.77,CA
+56930,4/30/2013,Whole Foods,-67.28,CA
+56930,4/30/2013,Uber,-52.77,CA
+56930,4/30/2013,Amazon Order - Paint Bushes,-37.05,CA
+56930,4/30/2013,Von's Groceries,-33.47,CA
+56930,4/30/2013,Art Auction,-14.76,CA
+56930,4/30/2013,Lyft,-28.89,CA
+56930,4/30/2013,Michael's Crafts,-26.15,CA
+56930,4/30/2013,Art Auction,-12.31,CA
+56930,4/30/2013,Whole Foods,-86.65,CA
+56930,5/2/2013,Housing Rent,-1257,CA
+56930,5/2/2013,Water & Sewer,-53,CA
+56930,5/2/2013,Credit Card Payment,-154,CA
+56930,5/2/2013,Time Warner Cable,-25,CA
+56930,5/2/2013,Whole Foods,-38.8,CA
+56930,5/2/2013,Amazon Order - Paint Bushes,-20.89,CA
+56930,5/2/2013,Taxi,-9.93,CA
+56930,5/2/2013,Amazon Order - Paint Bushes,-97.89,CA
+56930,5/2/2013,Amazon Order - Paint Canvas,-38.7,CA
+56930,5/2/2013,Ashley's Craft Store,-112.49,CA
+56930,5/3/2013,Art Auction,-23.39,CA
+56930,5/4/2013,Guitar Center,-17.78,CA
+56930,5/4/2013,Amazon Order - Paint Bushes,-9.9,CA
+56930,5/4/2013,Music Lessons - Piano,-29.8,CA
+56930,5/4/2013,Painting Course Fees,-15.98,CA
+56930,5/4/2013,Amazon Order - Paint Canvas,-71.96,CA
+56930,5/4/2013,Public Transportation - Bus Pass,-41.7,CA
+56930,5/5/2013,Von's Groceries,-10.37,CA
+56930,5/6/2013,Amazon Order - Paint Canvas,-11.53,CA
+56930,5/6/2013,Music Lessons - Piano,-60.19,CA
+56930,5/6/2013,Ashley's Craft Store,-34.44,CA
+56930,5/6/2013,Lyft,-27.17,CA
+56930,5/6/2013,Sprouts Market,-29.67,CA
+56930,5/7/2013,Michael's Crafts,-7.93,CA
+56930,5/8/2013,Painting Course Fees,-27.41,CA
+56930,5/8/2013,Restaurant - Burgers,-28.57,CA
+56930,5/9/2013,Painting Course Fees,-29.16,CA
+56930,5/9/2013,Guitar Center,-11.41,CA
+56930,5/9/2013,Music Lessons - Piano,-29.24,CA
+56930,5/9/2013,Food Delivery - GrubHub,-57.13,CA
+56930,5/9/2013,Ashley's Craft Store,-15.12,CA
+56930,5/9/2013,Public Transportation - Train Pass,-26.4,CA
+56930,5/9/2013,Lyft,-10.86,CA
+56930,5/10/2013,Painting Course Fees,-77.92,CA
+56930,5/11/2013,Amazon Order - Paint Bushes,-16.37,CA
+56930,5/12/2013,Amazon Order - Paint Bushes,-83.05,CA
+56930,5/13/2013,Ralph's Grocery Store,-24.94,CA
+56930,5/13/2013,Music Lessons - Piano,-27.02,CA
+56930,5/13/2013,Taxi,-30.61,CA
+56930,5/13/2013,Art Auction,-38.02,CA
+56930,5/14/2013,Art Auction,-21,CA
+56930,5/15/2013,Ashley's Craft Store,-11.52,CA
+56930,5/15/2013,Public Transportation - Train Pass,-20.19,CA
+56930,5/15/2013,Art Auction,-13,CA
+56930,5/15/2013,Ashley's Craft Store,-10.13,CA
+56930,5/15/2013,Restaurant - Chinese,-36.47,CA
+56930,5/16/2013,Music Lessons - Piano,-75.49,CA
+56930,5/16/2013,Art Auction,-35.03,CA
+56930,5/16/2013,Guitar Center,-36.98,CA
+56930,5/16/2013,Amazon Order - Paint Canvas,-35.17,CA
+56930,5/16/2013,Amazon Order - Paint Bushes,-53.34,CA
+56930,5/16/2013,Amazon Order - Paint Bushes,-24.15,CA
+56930,5/16/2013,Amazon Order - Paint Bushes,-3.8,CA
+56930,5/16/2013,Amazon Order - Paint Bushes,-36.9,CA
+56930,5/16/2013,Uber,-27.04,CA
+56930,5/16/2013,Painting Course Fees,-35.74,CA
+56930,5/16/2013,Guitar Center,-14.76,CA
+56930,5/16/2013,Ashley's Craft Store,-27,CA
+56930,5/16/2013,Amazon Order - Paint Canvas,-10.53,CA
+56930,5/16/2013,Lyft,-34.18,CA
+56930,5/16/2013,Ashley's Craft Store,-58.32,CA
+56930,5/16/2013,Amazon Order - Paint Canvas,-13.51,CA
+56930,5/16/2013,Amazon Order - Paint Canvas,-4.52,CA
+56930,5/16/2013,Painting Course Fees,-22.88,CA
+56930,5/17/2013,Music Lessons - Piano,-11.05,CA
+56930,5/18/2013,Food Delivery - GrubHub,-18.26,CA
+56930,5/19/2013,Michael's Crafts,-22.82,CA
+56930,5/20/2013,Guitar Center,-23.11,CA
+56930,5/20/2013,Amazon Order - Paint Canvas,-15.93,CA
+56930,5/20/2013,Art Auction,-18.44,CA
+56930,5/20/2013,Music Lessons - Piano,-78.41,CA
+56930,5/21/2013,Amazon Order - Paint Canvas,-14.62,CA
+56930,5/21/2013,Art's Art Supplies,-6.68,CA
+56930,5/21/2013,Ralph's Grocery Store,-14.08,CA
+56930,5/22/2013,Art's Art Supplies,-72.09,CA
+56930,5/22/2013,Music Lessons - Piano,-23.64,CA
+56930,5/22/2013,Ashley's Craft Store,-26.67,CA
+56930,5/23/2013,Art Auction,-24.37,CA
+56930,5/23/2013,Uber,-27.75,CA
+56930,5/23/2013,Amazon Order - Paint Canvas,-12.52,CA
+56930,5/24/2013,Food Delivery - GrubHub,-35.69,CA
+56930,5/24/2013,Art's Art Supplies,-38.6,CA
+56930,5/24/2013,Art's Art Supplies,-65.86,CA
+56930,5/24/2013,Ashley's Craft Store,-12.27,CA
+56930,5/25/2013,Food Delivery - GrubHub,-20.76,CA
+56930,5/26/2013,Painting Course Fees,-12.76,CA
+56930,5/26/2013,Art's Art Supplies,-25.13,CA
+56930,5/27/2013,Ashley's Craft Store,-119.83,CA
+56930,5/28/2013,Amazon Order - Paint Bushes,-17.03,CA
+56930,5/28/2013,Art's Art Supplies,-6.77,CA
+56930,5/28/2013,Uber,-31.47,CA
+56930,5/28/2013,Music Lessons - Piano,-30.22,CA
+56930,5/28/2013,Painting Course Fees,-29.06,CA
+56930,5/28/2013,Art Auction,-30,CA
+56930,5/28/2013,Art's Art Supplies,-27.53,CA
+56930,5/28/2013,Guitar Center,-27.52,CA
+56930,5/28/2013,Art Auction,-32.34,CA
+56930,5/29/2013,Music Lessons - Piano,-21.27,CA
+56930,5/29/2013,Food Delivery - GrubHub,-38.44,CA
+56930,5/29/2013,Art Auction,-7.19,CA
+56930,5/29/2013,Music Lessons - Piano,-29.78,CA
+56930,5/29/2013,Uber,-90.83,CA
+56930,5/29/2013,Ashley's Craft Store,-33.85,CA
+56930,5/29/2013,Guitar Center,-57.87,CA
+56930,5/30/2013,Whole Foods,-65.61,CA
+56930,5/30/2013,Amazon Order - Paint Canvas,-29.2,CA
+56930,5/30/2013,Restaurant - Chinese,-5.98,CA
+56930,5/30/2013,Art's Art Supplies,-93.22,CA
+56930,5/30/2013,Restaurant - Chinese,-18.76,CA
+56930,6/2/2013,Housing Rent,-1198,CA
+56930,6/2/2013,Water & Sewer,-53,CA
+56930,6/2/2013,Credit Card Payment,-154,CA
+56930,6/2/2013,Time Warner Cable,-25,CA
+56930,6/2/2013,Painting Course Fees,-9.07,CA
+56930,6/2/2013,Starbucks Coffee,-39.43,CA
+56930,6/2/2013,Restaurant - Burgers,-0.81,CA
+56930,6/2/2013,Sprouts Market,-30.36,CA
+56930,6/2/2013,Art's Art Supplies,-9.77,CA
+56930,6/2/2013,Public Transportation - Bus Pass,-22.03,CA
+56930,6/3/2013,Guitar Center,-20.59,CA
+56930,6/3/2013,Public Transportation - Bus Pass,-36.77,CA
+56930,6/3/2013,Ralph's Grocery Store,-39.33,CA
+56930,6/3/2013,Von's Groceries,-22.58,CA
+56930,6/4/2013,Guitar Center,-15.53,CA
+56930,6/4/2013,Amazon Order - Paint Bushes,-69.66,CA
+56930,6/4/2013,Amazon Order - Paint Bushes,-37.23,CA
+56930,6/4/2013,Music Lessons - Piano,-35.05,CA
+56930,6/4/2013,Public Transportation - Bus Pass,-27.98,CA
+56930,6/4/2013,Amazon Order - Paint Canvas,-2.91,CA
+56930,6/5/2013,Amazon Order - Paint Canvas,-113.62,CA
+56930,6/5/2013,Music Lessons - Piano,-13.77,CA
+56930,6/5/2013,Art Auction,-6.77,CA
+56930,6/5/2013,Ashley's Craft Store,-18.45,CA
+56930,6/5/2013,Guitar Center,-39.94,CA
+56930,6/5/2013,Amazon Order - Paint Canvas,-119.69,CA
+56930,6/5/2013,Lyft,-10.74,CA
+56930,6/5/2013,Amazon Order - Paint Bushes,-17.29,CA
+56930,6/6/2013,Guitar Center,-23.86,CA
+56930,6/7/2013,Ashley's Craft Store,-7.87,CA
+56930,6/7/2013,Ashley's Craft Store,-45.49,CA
+56930,6/8/2013,Amazon Order - Paint Bushes,-39.48,CA
+56930,6/8/2013,Music Lessons - Piano,-60.02,CA
+56930,6/8/2013,Painting Course Fees,-9.72,CA
+56930,6/9/2013,Painting Course Fees,-25.73,CA
+56930,6/10/2013,Taxi,-8.43,CA
+56930,6/10/2013,Art's Art Supplies,-22.25,CA
+56930,6/10/2013,Amazon Order - Paint Canvas,-34.26,CA
+56930,6/10/2013,Amazon Order - Paint Canvas,-14.5,CA
+56930,6/10/2013,Art Auction,-14.89,CA
+56930,6/11/2013,Public Transportation - Bus Pass,-8.22,CA
+56930,6/12/2013,Sprouts Market,-77.28,CA
+56930,6/13/2013,Lyft,-106.3,CA
+56930,6/13/2013,Lyft,-29.31,CA
+56930,6/13/2013,Art Auction,-18.86,CA
+56930,6/13/2013,Ashley's Craft Store,-20.97,CA
+56930,6/14/2013,Painting Course Fees,-15.73,CA
+56930,6/15/2013,Restaurant - Burgers,-5.19,CA
+56930,6/15/2013,Art's Art Supplies,-1.08,CA
+56930,6/15/2013,Painting Course Fees,-32.46,CA
+56930,6/16/2013,Michael's Crafts,-53.31,CA
+56930,6/16/2013,Art Auction,-17.64,CA
+56930,6/16/2013,Painting Course Fees,-20.99,CA
+56930,6/17/2013,Amazon Order - Paint Bushes,-11.23,CA
+56930,6/17/2013,Ashley's Craft Store,-18.62,CA
+56930,6/17/2013,Art Auction,-11.3,CA
+56930,6/18/2013,Lyft,-27.49,CA
+56930,6/18/2013,Taxi,-23.68,CA
+56930,6/18/2013,Guitar Center,-12.41,CA
+56930,6/18/2013,Amazon Order - Paint Canvas,-23.18,CA
+56930,6/18/2013,Ashley's Craft Store,-39.14,CA
+56930,6/19/2013,Ralph's Grocery Store,-0.5,CA
+56930,6/20/2013,Michael's Crafts,-36.13,CA
+56930,6/20/2013,Von's Groceries,-20.52,CA
+56930,6/20/2013,Michael's Crafts,-103.08,CA
+56930,6/20/2013,Amazon Order - Paint Bushes,-20.29,CA
+56930,6/20/2013,Amazon Order - Paint Bushes,-27.52,CA
+56930,6/20/2013,Michael's Crafts,-12.68,CA
+56930,6/20/2013,Ralph's Grocery Store,-17.77,CA
+56930,6/21/2013,Lyft,-21.97,CA
+56930,6/21/2013,Lyft,-34.96,CA
+56930,6/21/2013,Sprouts Market,-31.99,CA
+56930,6/21/2013,Guitar Center,-5.68,CA
+56930,6/21/2013,Guitar Center,-36.62,CA
+56930,6/22/2013,Music Lessons - Piano,-18.25,CA
+56930,6/22/2013,Music Lessons - Piano,-4.44,CA
+56930,6/23/2013,Music Lessons - Piano,-66.94,CA
+56930,6/23/2013,Ashley's Craft Store,-31.82,CA
+56930,6/24/2013,Guitar Center,-38.95,CA
+56930,6/25/2013,Lyft,-9.56,CA
+56930,6/25/2013,Public Transportation - Train Pass,-4.19,CA
+56930,6/25/2013,Food Delivery - GrubHub,-8.07,CA
+56930,6/25/2013,Whole Foods,-77.52,CA
+56930,6/25/2013,Public Transportation - Train Pass,-103.1,CA
+56930,6/25/2013,Art Auction,-12.2,CA
+56930,6/25/2013,Food Delivery - GrubHub,-7.43,CA
+56930,6/25/2013,Ashley's Craft Store,-32.46,CA
+56930,6/26/2013,Restaurant - Burgers,-36.64,CA
+56930,6/26/2013,Food Delivery - GrubHub,-66.66,CA
+56930,6/26/2013,Lyft,-12.02,CA
+56930,6/26/2013,Painting Course Fees,-35.3,CA
+56930,6/26/2013,Ashley's Craft Store,-20.55,CA
+56930,6/26/2013,Painting Course Fees,-16.21,CA
+56930,6/26/2013,Guitar Center,-22.21,CA
+56930,6/26/2013,Amazon Order - Paint Canvas,-26.39,CA
+56930,6/26/2013,Music Lessons - Piano,-10.61,CA
+56930,6/26/2013,Public Transportation - Bus Pass,-22.89,CA
+56930,6/27/2013,Taxi,-23.74,CA
+56930,6/27/2013,Public Transportation - Train Pass,-39.71,CA
+56930,6/27/2013,Amazon Order - Paint Canvas,-27.58,CA
+56930,6/27/2013,Restaurant - Burgers,-30.11,CA
+56930,6/27/2013,Ashley's Craft Store,-40.98,CA
+56930,6/28/2013,Restaurant - Chinese,-19.88,CA
+56930,6/28/2013,Art Auction,-15.12,CA
+56930,6/28/2013,Music Lessons - Piano,-30.37,CA
+56930,6/28/2013,Amazon Order - Paint Canvas,-25.32,CA
+56930,6/29/2013,Amazon Order - Paint Bushes,-20.46,CA
+56930,6/30/2013,Art's Art Supplies,-2.12,CA
+56930,6/30/2013,Music Lessons - Piano,-35.31,CA
+56930,7/2/2013,Housing Rent,-975,CA
+56930,7/2/2013,Water & Sewer,-53,CA
+56930,7/2/2013,Credit Card Payment,-154,CA
+56930,7/2/2013,Time Warner Cable,-25,CA
+56930,7/2/2013,Amazon Order - Paint Canvas,-10.92,CA
+56930,7/2/2013,Von's Groceries,-17.61,CA
+56930,7/2/2013,Uber,-58.56,CA
+56930,7/3/2013,Art Auction,-7.38,CA
+56930,7/4/2013,Amazon Order - Paint Canvas,-15.35,CA
+56930,7/4/2013,Starbucks Coffee,-21.48,CA
+56930,7/5/2013,Painting Course Fees,-29.16,CA
+56930,7/5/2013,Food Delivery - GrubHub,-3.83,CA
+56930,7/5/2013,Taxi,-77.09,CA
+56930,7/5/2013,Guitar Center,-17.8,CA
+56930,7/5/2013,Taxi,-13.81,CA
+56930,7/5/2013,Art Auction,-40.16,CA
+56930,7/5/2013,Art Auction,-31.77,CA
+56930,7/6/2013,Amazon Order - Paint Bushes,-31.41,CA
+56930,7/6/2013,Amazon Order - Paint Canvas,-11.44,CA
+56930,7/6/2013,Music Lessons - Piano,-14.66,CA
+56930,7/7/2013,Public Transportation - Bus Pass,-9.5,CA
+56930,7/7/2013,Taxi,-1.1,CA
+56930,7/8/2013,Amazon Order - Paint Canvas,-64.34,CA
+56930,7/9/2013,Amazon Order - Paint Bushes,-5.66,CA
+56930,7/9/2013,Amazon Order - Paint Bushes,-104.78,CA
+56930,7/10/2013,Restaurant - Burgers,-0.95,CA
+56930,7/10/2013,Art Auction,-55.43,CA
+56930,7/10/2013,Amazon Order - Paint Bushes,-23.29,CA
+56930,7/10/2013,Music Lessons - Piano,-5,CA
+56930,7/10/2013,Lyft,-31.13,CA
+56930,7/11/2013,Guitar Center,-1.12,CA
+56930,7/11/2013,Art's Art Supplies,-9.85,CA
+56930,7/11/2013,Public Transportation - Train Pass,-6.82,CA
+56930,7/11/2013,Whole Foods,-3.25,CA
+56930,7/11/2013,Lyft,-20.42,CA
+56930,7/11/2013,Guitar Center,-25.55,CA
+56930,7/11/2013,Taxi,-15.09,CA
+56930,7/12/2013,Painting Course Fees,-11.6,CA
+56930,7/12/2013,Guitar Center,-8.52,CA
+56930,7/13/2013,Ashley's Craft Store,-12.7,CA
+56930,7/14/2013,Ashley's Craft Store,-14.81,CA
+56930,7/14/2013,Restaurant - Chinese,-5.5,CA
+56930,7/15/2013,Kay Jewelry,-37.93,CA
+56930,7/15/2013,Wedding Planner,-13.57,CA
+56930,7/15/2013,Southwest Flights - Cancun,-79.23,CA
+56930,7/15/2013,Cancun Beach Resort,-39.31,CA
+56930,7/15/2013,Art's Art Supplies,-11.55,CA
+56930,7/15/2013,Music Lessons - Piano,-18.32,CA
+56930,7/15/2013,Public Transportation - Bus Pass,-24.16,CA
+56930,7/15/2013,Music Lessons - Piano,-26.14,CA
+56930,7/15/2013,Amazon Order - Paint Bushes,-29.06,CA
+56930,7/16/2013,Starbucks Coffee,-10.92,CA
+56930,7/16/2013,Von's Groceries,-11.16,CA
+56930,7/16/2013,Lyft,-97.28,CA
+56930,7/17/2013,Art Auction,-117.44,CA
+56930,7/17/2013,Uber,-62.96,CA
+56930,7/18/2013,Uber,-12.06,CA
+56930,7/18/2013,Art Auction,-38.4,CA
+56930,7/18/2013,Amazon Order - Paint Canvas,-12.33,CA
+56930,7/18/2013,Uber,-10.71,CA
+56930,7/18/2013,Whole Foods,-19.22,CA
+56930,7/18/2013,Michael's Crafts,-101.23,CA
+56930,7/19/2013,Art Auction,-22.11,CA
+56930,7/19/2013,Amazon Order - Paint Canvas,-34.86,CA
+56930,7/20/2013,Art Auction,-68.49,CA
+56930,7/21/2013,Amazon Order - Paint Canvas,-7.38,CA
+56930,7/21/2013,Public Transportation - Bus Pass,-38.06,CA
+56930,7/21/2013,Painting Course Fees,-18.6,CA
+56930,7/22/2013,Art's Art Supplies,-35.14,CA
+56930,7/22/2013,Ashley's Craft Store,-38.87,CA
+56930,7/22/2013,Amazon Order - Paint Canvas,-37.01,CA
+56930,7/22/2013,Amazon Order - Paint Bushes,-25.69,CA
+56930,7/23/2013,Music Lessons - Piano,-60.41,CA
+56930,7/24/2013,Public Transportation - Bus Pass,-9.21,CA
+56930,7/24/2013,Taxi,-30.14,CA
+56930,7/24/2013,Restaurant - Burgers,-19.65,CA
+56930,7/24/2013,Whole Foods,-29.66,CA
+56930,7/24/2013,Ashley's Craft Store,-74.15,CA
+56930,7/24/2013,Guitar Center,-111.18,CA
+56930,7/24/2013,Restaurant - Chinese,-36.6,CA
+56930,7/24/2013,Art Auction,-23.75,CA
+56930,7/25/2013,Art Auction,-16.92,CA
+56930,7/25/2013,Amazon Order - Paint Canvas,-116.58,CA
+56930,7/25/2013,Ralph's Grocery Store,-11.56,CA
+56930,7/25/2013,Painting Course Fees,-14.43,CA
+56930,7/26/2013,Ashley's Craft Store,-34.08,CA
+56930,7/26/2013,Painting Course Fees,-56.67,CA
+56930,7/26/2013,Michael's Crafts,-48.92,CA
+56930,7/27/2013,Ashley's Craft Store,-20.97,CA
+56930,7/27/2013,Art Auction,-96.29,CA
+56930,7/27/2013,Michael's Crafts,-36.76,CA
+56930,7/27/2013,Public Transportation - Bus Pass,-8.72,CA
+56930,7/28/2013,Sprouts Market,-18.52,CA
+56930,7/28/2013,Public Transportation - Bus Pass,-11.09,CA
+56930,7/28/2013,Restaurant - Chinese,-75.78,CA
+56930,7/28/2013,Music Lessons - Piano,-88.96,CA
+56930,7/28/2013,Michael's Crafts,-15.57,CA
+56930,7/28/2013,Music Lessons - Piano,-30.62,CA
+56930,7/29/2013,Sprouts Market,-13.28,CA
+56930,7/29/2013,Art Auction,-11.56,CA
+56930,7/29/2013,Michael's Crafts,-23.05,CA
+56930,7/29/2013,Painting Course Fees,-8.57,CA
+56930,7/30/2013,Painting Course Fees,-27.97,CA
+56930,7/30/2013,Ashley's Craft Store,-22.14,CA
+56930,8/2/2013,Housing Rent,-1204,CA
+56930,8/2/2013,Water & Sewer,-53,CA
+56930,8/2/2013,Credit Card Payment,-154,CA
+56930,8/2/2013,Time Warner Cable,-25,CA
+56930,8/2/2013,Taxi,-36.19,CA
+56930,8/2/2013,Starbucks Coffee,-0.63,CA
+56930,8/2/2013,Restaurant - Chinese,-20.18,CA
+56930,8/2/2013,Public Transportation - Bus Pass,-9.12,CA
+56930,8/3/2013,Restaurant - Burgers,-21.73,CA
+56930,8/4/2013,Art's Art Supplies,-118.04,CA
+56930,8/5/2013,Ashley's Craft Store,-22.66,CA
+56930,8/5/2013,Amazon Order - Paint Bushes,-10.51,CA
+56930,8/5/2013,Von's Groceries,-16.8,CA
+56930,8/5/2013,Michael's Crafts,-2.38,CA
+56930,8/5/2013,Amazon Order - Paint Bushes,-33.6,CA
+56930,8/5/2013,Music Lessons - Piano,-9.34,CA
+56930,8/5/2013,Art Auction,-38.99,CA
+56930,8/5/2013,Food Delivery - GrubHub,-12.19,CA
+56930,8/5/2013,Art's Art Supplies,-20.12,CA
+56930,8/6/2013,Art's Art Supplies,-28.32,CA
+56930,8/7/2013,Art Auction,-3.61,CA
+56930,8/8/2013,Music Lessons - Piano,-11.33,CA
+56930,8/8/2013,Amazon Order - Paint Bushes,-1.32,CA
+56930,8/8/2013,Restaurant - Pizza,-38.83,CA
+56930,8/9/2013,Michael's Crafts,-2.33,CA
+56930,8/10/2013,Public Transportation - Train Pass,-37.34,CA
+56930,8/10/2013,Music Lessons - Piano,-15.12,CA
+56930,8/10/2013,Amazon Order - Paint Bushes,-5.57,CA
+56930,8/10/2013,Guitar Center,-27.39,CA
+56930,8/10/2013,Guitar Center,-114.47,CA
+56930,8/11/2013,Amazon Order - Paint Bushes,-13.27,CA
+56930,8/11/2013,Art's Art Supplies,-33.55,CA
+56930,8/11/2013,Uber,-5.35,CA
+56930,8/11/2013,Public Transportation - Bus Pass,-39.98,CA
+56930,8/11/2013,Public Transportation - Train Pass,-87.59,CA
+56930,8/11/2013,Ralph's Grocery Store,-26.19,CA
+56930,8/12/2013,Lyft,-34.18,CA
+56930,8/12/2013,Restaurant - Chinese,-69.3,CA
+56930,8/12/2013,Whole Foods,-13.16,CA
+56930,8/12/2013,Public Transportation - Bus Pass,-23.13,CA
+56930,8/13/2013,Restaurant - Chinese,-13.07,CA
+56930,8/13/2013,Guitar Center,-10.26,CA
+56930,8/14/2013,Amazon Order - Paint Canvas,-10.02,CA
+56930,8/14/2013,Music Lessons - Piano,-10.77,CA
+56930,8/15/2013,Art's Art Supplies,-16.08,CA
+56930,8/15/2013,Music Lessons - Piano,-5.15,CA
+56930,8/16/2013,Sprouts Market,-6.77,CA
+56930,8/17/2013,Amazon Order - Paint Canvas,-110.01,CA
+56930,8/17/2013,Taxi,-20.42,CA
+56930,8/18/2013,Ashley's Craft Store,-6.89,CA
+56930,8/18/2013,Restaurant - Pizza,-1.97,CA
+56930,8/18/2013,Restaurant - Steakhouse,-21.42,CA
+56930,8/19/2013,Sprouts Market,-29.26,CA
+56930,8/20/2013,Amazon Order - Paint Bushes,-22.13,CA
+56930,8/20/2013,Art's Art Supplies,-23.73,CA
+56930,8/20/2013,Amazon Order - Paint Bushes,-3.35,CA
+56930,8/21/2013,Von's Groceries,-74.84,CA
+56930,8/21/2013,Starbucks Coffee,-9.74,CA
+56930,8/21/2013,Art's Art Supplies,-26.2,CA
+56930,8/21/2013,Amazon Order - Paint Canvas,-35.28,CA
+56930,8/21/2013,Restaurant - Pizza,-29.21,CA
+56930,8/21/2013,Painting Course Fees,-30.6,CA
+56930,8/21/2013,Public Transportation - Bus Pass,-12.04,CA
+56930,8/21/2013,Ashley's Craft Store,-50.97,CA
+56930,8/22/2013,Art's Art Supplies,-83.7,CA
+56930,8/22/2013,Michael's Crafts,-7.6,CA
+56930,8/22/2013,Michael's Crafts,-2.21,CA
+56930,8/22/2013,Restaurant - Pizza,-12.04,CA
+56930,8/22/2013,Ashley's Craft Store,-18.96,CA
+56930,8/22/2013,Art's Art Supplies,-87.08,CA
+56930,8/22/2013,Public Transportation - Train Pass,-10.32,CA
+56930,8/22/2013,Taxi,-10.56,CA
+56930,8/22/2013,Uber,-5.55,CA
+56930,8/22/2013,Amazon Order - Paint Bushes,-24.52,CA
+56930,8/22/2013,Amazon Order - Paint Canvas,-17.16,CA
+56930,8/23/2013,Uber,-16.37,CA
+56930,8/23/2013,Starbucks Coffee,-3.34,CA
+56930,8/24/2013,Music Lessons - Piano,-2.25,CA
+56930,8/24/2013,Amazon Order - Paint Bushes,-28.71,CA
+56930,8/24/2013,Public Transportation - Bus Pass,-7.63,CA
+56930,8/24/2013,Music Lessons - Piano,-31.37,CA
+56930,8/24/2013,Amazon Order - Paint Canvas,-53.02,CA
+56930,8/25/2013,Art's Art Supplies,-16.65,CA
+56930,8/25/2013,Ashley's Craft Store,-2.63,CA
+56930,8/25/2013,Painting Course Fees,-29.06,CA
+56930,8/25/2013,Painting Course Fees,-2.77,CA
+56930,8/25/2013,Amazon Order - Paint Canvas,-10.6,CA
+56930,8/25/2013,Michael's Crafts,-4.19,CA
+56930,8/25/2013,Uber,-11.28,CA
+56930,8/25/2013,Art Auction,-12.32,CA
+56930,8/25/2013,Painting Course Fees,-25.73,CA
+56930,8/25/2013,Michael's Crafts,-112.51,CA
+56930,8/25/2013,Whole Foods,-23.11,CA
+56930,8/25/2013,Restaurant - Chinese,-14.29,CA
+56930,8/25/2013,Painting Course Fees,-117.11,CA
+56930,8/25/2013,Sprouts Market,-36.15,CA
+56930,8/25/2013,Amazon Order - Paint Canvas,-9.57,CA
+56930,8/25/2013,Art Auction,-17.35,CA
+56930,8/26/2013,Music Lessons - Piano,-33.34,CA
+56930,8/26/2013,Painting Course Fees,-3.52,CA
+56930,8/26/2013,Restaurant - Pizza,-10.7,CA
+56930,8/26/2013,Amazon Order - Paint Canvas,-28.44,CA
+56930,8/27/2013,Public Transportation - Bus Pass,-11.13,CA
+56930,8/28/2013,Public Transportation - Bus Pass,-37.28,CA
+56930,8/28/2013,Restaurant - Pizza,-28.69,CA
+56930,8/29/2013,Public Transportation - Train Pass,-4.11,CA
+56930,8/30/2013,Ashley's Craft Store,-30.83,CA
+56930,8/30/2013,Restaurant - Burgers,-6.38,CA
+56930,8/30/2013,Amazon Order - Paint Bushes,-34.65,CA
+56930,9/2/2013,Housing Rent,-843,CA
+56930,9/2/2013,Water & Sewer,-53,CA
+56930,9/2/2013,Credit Card Payment,-154,CA
+56930,9/2/2013,Time Warner Cable,-25,CA
+56930,9/2/2013,Art Auction,-15.91,CA
+56930,9/2/2013,Painting Course Fees,-58.97,CA
+56930,9/2/2013,Uber,-18.38,CA
+56930,9/3/2013,Ralph's Grocery Store,-11.32,CA
+56930,9/4/2013,Starbucks Coffee,-28.42,CA
+56930,9/4/2013,Michael's Crafts,-38.67,CA
+56930,9/4/2013,Art Auction,-39.68,CA
+56930,9/4/2013,Amazon Order - Paint Bushes,-13.59,CA
+56930,9/4/2013,Ralph's Grocery Store,-5.92,CA
+56930,9/5/2013,Taxi,-6.35,CA
+56930,9/5/2013,Sprouts Market,-8.61,CA
+56930,9/5/2013,Painting Course Fees,-15.99,CA
+56930,9/5/2013,Ashley's Craft Store,-4.65,CA
+56930,9/5/2013,Restaurant - Pizza,-7.03,CA
+56930,9/5/2013,Von's Groceries,-14.32,CA
+56930,9/5/2013,Art's Art Supplies,-25.75,CA
+56930,9/5/2013,Guitar Center,-25.28,CA
+56930,9/5/2013,Painting Course Fees,-1.46,CA
+56930,9/5/2013,Taxi,-9.86,CA
+56930,9/5/2013,Amazon Order - Paint Canvas,-25.41,CA
+56930,9/5/2013,Public Transportation - Bus Pass,-38.13,CA
+56930,9/5/2013,Ashley's Craft Store,-75.5,CA
+56930,9/5/2013,Amazon Order - Paint Canvas,-38.91,CA
+56930,9/6/2013,Music Lessons - Piano,-22.42,CA
+56930,9/6/2013,Public Transportation - Train Pass,-22.4,CA
+56930,9/7/2013,Music Lessons - Piano,-3.41,CA
+56930,9/8/2013,Restaurant - Pizza,-11.05,CA
+56930,9/8/2013,Restaurant - Pizza,-8.24,CA
+56930,9/8/2013,Art Auction,-0.6,CA
+56930,9/9/2013,Starbucks Coffee,-17.98,CA
+56930,9/10/2013,Taxi,-62.54,CA
+56930,9/11/2013,Michael's Crafts,-5.54,CA
+56930,9/12/2013,Public Transportation - Bus Pass,-32.59,CA
+56930,9/12/2013,Taxi,-5.96,CA
+56930,9/13/2013,Taxi,-22.24,CA
+56930,9/13/2013,Restaurant - Chinese,-12.32,CA
+56930,9/14/2013,Guitar Center,-95.51,CA
+56930,9/14/2013,Painting Course Fees,-38.65,CA
+56930,9/14/2013,Taxi,-35.92,CA
+56930,9/15/2013,Music Lessons - Piano,-36.38,CA
+56930,9/15/2013,Taxi,-34.08,CA
+56930,9/15/2013,Music Lessons - Piano,-17.95,CA
+56930,9/16/2013,Michael's Crafts,-14.31,CA
+56930,9/16/2013,Restaurant - Steakhouse,-5.98,CA
+56930,9/16/2013,Restaurant - Steakhouse,-15.24,CA
+56930,9/16/2013,Music Lessons - Piano,-24.18,CA
+56930,9/16/2013,Art's Art Supplies,-21.41,CA
+56930,9/16/2013,Art Auction,-88.62,CA
+56930,9/16/2013,Art's Art Supplies,-27.64,CA
+56930,9/16/2013,Lyft,-28.23,CA
+56930,9/16/2013,Amazon Order - Paint Bushes,-24.04,CA
+56930,9/16/2013,Amazon Order - Paint Canvas,-20.05,CA
+56930,9/17/2013,Amazon Order - Paint Bushes,-113.48,CA
+56930,9/17/2013,Ashley's Craft Store,-6.52,CA
+56930,9/18/2013,Music Lessons - Piano,-23.61,CA
+56930,9/18/2013,Restaurant - Pizza,-21.93,CA
+56930,9/18/2013,Ralph's Grocery Store,-10.21,CA
+56930,9/18/2013,Taxi,-18.16,CA
+56930,9/18/2013,Public Transportation - Train Pass,-28.71,CA
+56930,9/18/2013,Michael's Crafts,-39.34,CA
+56930,9/18/2013,Restaurant - Burgers,-27.91,CA
+56930,9/18/2013,Michael's Crafts,-32.47,CA
+56930,9/18/2013,Guitar Center,-0.63,CA
+56930,9/18/2013,Public Transportation - Bus Pass,-23.81,CA
+56930,9/19/2013,Public Transportation - Train Pass,-15.95,CA
+56930,9/19/2013,Restaurant - Burgers,-31.39,CA
+56930,9/19/2013,Sprouts Market,-41.74,CA
+56930,9/19/2013,Taxi,-19.7,CA
+56930,9/19/2013,Art Auction,-18.82,CA
+56930,9/20/2013,Lyft,-22.39,CA
+56930,9/20/2013,Art's Art Supplies,-31,CA
+56930,9/20/2013,Public Transportation - Bus Pass,-32.44,CA
+56930,9/20/2013,Ashley's Craft Store,-8.4,CA
+56930,9/20/2013,Amazon Order - Paint Bushes,-37.55,CA
+56930,9/20/2013,Taxi,-93.29,CA
+56930,9/20/2013,Starbucks Coffee,-31.54,CA
+56930,9/20/2013,Amazon Order - Paint Bushes,-19.28,CA
+56930,9/21/2013,Ashley's Craft Store,-46.68,CA
+56930,9/21/2013,Amazon Order - Paint Bushes,-17.35,CA
+56930,9/22/2013,Art Auction,-28.44,CA
+56930,9/22/2013,Art's Art Supplies,-20.03,CA
+56930,9/22/2013,Von's Groceries,-27.17,CA
+56930,9/22/2013,Ashley's Craft Store,-11.44,CA
+56930,9/22/2013,Guitar Center,-73.75,CA
+56930,9/22/2013,Public Transportation - Bus Pass,-38.63,CA
+56930,9/22/2013,Sprouts Market,-12.4,CA
+56930,9/22/2013,Art's Art Supplies,-36.32,CA
+56930,9/22/2013,Uber,-15.26,CA
+56930,9/23/2013,Painting Course Fees,-1.01,CA
+56930,9/24/2013,Art Auction,-82.39,CA
+56930,9/25/2013,Food Delivery - GrubHub,-22.73,CA
+56930,9/26/2013,Amazon Order - Paint Bushes,-111.79,CA
+56930,9/26/2013,Sprouts Market,-30.14,CA
+56930,9/26/2013,Art Auction,-24.42,CA
+56930,9/26/2013,Restaurant - Steakhouse,-38.38,CA
+56930,9/26/2013,Amazon Order - Paint Bushes,-41.11,CA
+56930,9/26/2013,Ralph's Grocery Store,-114.82,CA
+56930,9/26/2013,Music Lessons - Piano,-85.14,CA
+56930,9/26/2013,Food Delivery - GrubHub,-3.8,CA
+56930,9/26/2013,Amazon Order - Paint Canvas,-94.13,CA
+56930,9/26/2013,Ashley's Craft Store,-15.78,CA
+56930,9/26/2013,Uber,-1.64,CA
+56930,9/26/2013,Music Lessons - Piano,-20.78,CA
+56930,9/26/2013,Restaurant - Chinese,-19.4,CA
+56930,9/27/2013,Sprouts Market,-39.59,CA
+56930,9/28/2013,Ashley's Craft Store,-26.07,CA
+56930,9/28/2013,Sprouts Market,-60.45,CA
+56930,9/28/2013,Art Auction,-29.94,CA
+56930,9/29/2013,Guitar Center,-3.77,CA
+56930,9/30/2013,Lyft,-25.39,CA
+56930,10/2/2013,Housing Rent,-1068,CA
+56930,10/2/2013,Water & Sewer,-53,CA
+56930,10/2/2013,Credit Card Payment,-154,CA
+56930,10/2/2013,Time Warner Cable,-25,CA
+56930,10/2/2013,Music Lessons - Piano,-31.43,CA
+56930,10/2/2013,Art's Art Supplies,-13.49,CA
+56930,10/2/2013,Restaurant - Burgers,-59.08,CA
+56930,10/2/2013,Ashley's Craft Store,-18.27,CA
+56930,10/3/2013,Amazon Order - Paint Canvas,-33.59,CA
+56930,10/3/2013,Von's Groceries,-5.11,CA
+56930,10/3/2013,Uber,-94.91,CA
+56930,10/3/2013,Restaurant - Chinese,-36.38,CA
+56930,10/3/2013,Taxi,-8.54,CA
+56930,10/3/2013,Taxi,-5.89,CA
+56930,10/3/2013,Art's Art Supplies,-16.88,CA
+56930,10/3/2013,Art's Art Supplies,-35.78,CA
+56930,10/3/2013,Guitar Center,-19.88,CA
+56930,10/3/2013,Taxi,-79.21,CA
+56930,10/3/2013,Amazon Order - Paint Canvas,-29.4,CA
+56930,10/3/2013,Public Transportation - Train Pass,-24.43,CA
+56930,10/3/2013,Whole Foods,-31.2,CA
+56930,10/4/2013,Michael's Crafts,-79.1,CA
+56930,10/4/2013,Michael's Crafts,-92.09,CA
+56930,10/5/2013,Sprouts Market,-39.95,CA
+56930,10/6/2013,Amazon Order - Paint Canvas,-25,CA
+56930,10/6/2013,Ashley's Craft Store,-31.17,CA
+56930,10/6/2013,Guitar Center,-36.26,CA
+56930,10/6/2013,Music Lessons - Piano,-68.57,CA
+56930,10/7/2013,Uber,-5.57,CA
+56930,10/7/2013,Michael's Crafts,-35.53,CA
+56930,10/7/2013,Lyft,-42.39,CA
+56930,10/8/2013,Lyft,-1.85,CA
+56930,10/8/2013,Restaurant - Burgers,-7.42,CA
+56930,10/8/2013,Art Auction,-13.94,CA
+56930,10/9/2013,Music Lessons - Piano,-4.69,CA
+56930,10/9/2013,Michael's Crafts,-114.83,CA
+56930,10/10/2013,Painting Course Fees,-30.45,CA
+56930,10/10/2013,Restaurant - Burgers,-15.18,CA
+56930,10/10/2013,Restaurant - Burgers,-36.75,CA
+56930,10/11/2013,Whole Foods,-13.23,CA
+56930,10/11/2013,Painting Course Fees,-41.11,CA
+56930,10/12/2013,Taxi,-89.19,CA
+56930,10/13/2013,Restaurant - Steakhouse,-23.89,CA
+56930,10/13/2013,Ashley's Craft Store,-24.36,CA
+56930,10/13/2013,Art Auction,-24.89,CA
+56930,10/14/2013,Lyft,-32.24,CA
+56930,10/14/2013,Michael's Crafts,-15.44,CA
+56930,10/14/2013,Ashley's Craft Store,-29.63,CA
+56930,10/15/2013,Art's Art Supplies,-11.39,CA
+56930,10/15/2013,Amazon Order - Paint Canvas,-36.4,CA
+56930,10/15/2013,Michael's Crafts,-32.48,CA
+56930,10/15/2013,Public Transportation - Bus Pass,-34.46,CA
+56930,10/15/2013,Taxi,-1.31,CA
+56930,10/15/2013,Public Transportation - Bus Pass,-6.47,CA
+56930,10/15/2013,Art Auction,-33,CA
+56930,10/15/2013,Music Lessons - Piano,-12.19,CA
+56930,10/15/2013,Art's Art Supplies,-11.54,CA
+56930,10/15/2013,Michael's Crafts,-15.2,CA
+56930,10/15/2013,Painting Course Fees,-12.09,CA
+56930,10/15/2013,Restaurant - Pizza,-5.48,CA
+56930,10/15/2013,Food Delivery - GrubHub,-27.66,CA
+56930,10/16/2013,Amazon Order - Paint Bushes,-5.72,CA
+56930,10/16/2013,Art's Art Supplies,-9.46,CA
+56930,10/16/2013,Painting Course Fees,-68.45,CA
+56930,10/16/2013,Michael's Crafts,-2.34,CA
+56930,10/16/2013,Public Transportation - Bus Pass,-11.53,CA
+56930,10/16/2013,Michael's Crafts,-17.88,CA
+56930,10/16/2013,Painting Course Fees,-42.17,CA
+56930,10/16/2013,Public Transportation - Bus Pass,-36.96,CA
+56930,10/16/2013,Art Auction,-13.21,CA
+56930,10/17/2013,Michael's Crafts,-29.56,CA
+56930,10/18/2013,Music Lessons - Piano,-25.67,CA
+56930,10/18/2013,Lyft,-31.58,CA
+56930,10/18/2013,Taxi,-24.22,CA
+56930,10/19/2013,Restaurant - Steakhouse,-17.18,CA
+56930,10/20/2013,Painting Course Fees,-11.55,CA
+56930,10/21/2013,Public Transportation - Train Pass,-39.47,CA
+56930,10/21/2013,Ralph's Grocery Store,-68.24,CA
+56930,10/21/2013,Guitar Center,-37.57,CA
+56930,10/21/2013,Music Lessons - Piano,-1.87,CA
+56930,10/22/2013,Food Delivery - GrubHub,-33.63,CA
+56930,10/22/2013,Painting Course Fees,-15.91,CA
+56930,10/23/2013,Music Lessons - Piano,-7.05,CA
+56930,10/24/2013,Uber,-23.31,CA
+56930,10/24/2013,Ashley's Craft Store,-58.25,CA
+56930,10/24/2013,Sprouts Market,-10.07,CA
+56930,10/24/2013,Lyft,-8.18,CA
+56930,10/24/2013,Amazon Order - Paint Canvas,-16.19,CA
+56930,10/24/2013,Mark's Movers,-15.5,CA
+56930,10/24/2013,FedEx Shipping,-6.41,CA
+56930,10/24/2013,Jerome's Furniture,-29.28,CA
+56930,10/24/2013,Home Depot,-17.73,CA
+56930,10/24/2013,Refrigerator Depot,-94.14,CA
+56930,10/24/2013,Hamilton Move & Storage,-24.1,CA
+56930,10/24/2013,Art's Art Supplies,-13.95,CA
+56930,10/24/2013,Guitar Center,-19.86,CA
+56930,10/24/2013,Food Delivery - GrubHub,-26.49,CA
+56930,10/24/2013,Food Delivery - GrubHub,-87.72,CA
+56930,10/24/2013,Public Transportation - Bus Pass,-7.47,CA
+56930,10/24/2013,Painting Course Fees,-20.87,CA
+56930,10/24/2013,Ashley's Craft Store,-13.21,CA
+56930,10/25/2013,Restaurant - Pizza,-29.98,CA
+56930,10/25/2013,Painting Course Fees,-3.98,CA
+56930,10/26/2013,Art Auction,-22.53,CA
+56930,10/27/2013,Amazon Order - Paint Canvas,-21.46,CA
+56930,10/28/2013,Music Lessons - Piano,-22.28,CA
+56930,10/28/2013,Painting Course Fees,-32.52,CA
+56930,10/28/2013,Ralph's Grocery Store,-28.02,CA
+56930,10/28/2013,Restaurant - Steakhouse,-31,CA
+56930,10/28/2013,Guitar Center,-38.28,CA
+56930,10/28/2013,Restaurant - Burgers,-16.22,CA
+56930,10/29/2013,Starbucks Coffee,-4.2,CA
+56930,10/29/2013,Lyft,-39.98,CA
+56930,10/30/2013,Amazon Order - Paint Bushes,-110.23,CA
+56930,10/30/2013,Music Lessons - Piano,-119.43,CA
+56930,11/2/2013,Housing Rent,-1172,CA
+56930,11/2/2013,Water & Sewer,-53,CA
+56930,11/2/2013,Credit Card Payment,-154,CA
+56930,11/2/2013,Time Warner Cable,-25,CA
+56930,11/2/2013,Uber,-7.17,CA
+56930,11/2/2013,Art Auction,-4,CA
+56930,11/2/2013,Amazon Order - Paint Bushes,-4.67,CA
+56930,11/2/2013,Restaurant - Burgers,-32.31,CA
+56930,11/2/2013,Art's Art Supplies,-25.5,CA
+56930,11/2/2013,Michael's Crafts,-19.3,CA
+56930,11/2/2013,Taxi,-18.57,CA
+56930,11/3/2013,Lyft,-4.92,CA
+56930,11/4/2013,Ralph's Grocery Store,-5,CA
+56930,11/5/2013,Art's Art Supplies,-32.49,CA
+56930,11/5/2013,Art Auction,-26.39,CA
+56930,11/6/2013,Painting Course Fees,-30.56,CA
+56930,11/7/2013,Music Lessons - Piano,-10.61,CA
+56930,11/7/2013,Uber,-2.88,CA
+56930,11/7/2013,Public Transportation - Bus Pass,-9.51,CA
+56930,11/7/2013,Painting Course Fees,-6.5,CA
+56930,11/7/2013,Uber,-63.18,CA
+56930,11/7/2013,Taxi,-16.18,CA
+56930,11/8/2013,Art Auction,-15.36,CA
+56930,11/8/2013,Amazon Order - Paint Canvas,-9.14,CA
+56930,11/8/2013,Public Transportation - Train Pass,-18.47,CA
+56930,11/8/2013,Restaurant - Pizza,-71.89,CA
+56930,11/9/2013,Amazon Order - Paint Canvas,-9.37,CA
+56930,11/10/2013,Michael's Crafts,-97.78,CA
+56930,11/10/2013,Uber,-11.67,CA
+56930,11/10/2013,Amazon Order - Paint Bushes,-17.25,CA
+56930,11/10/2013,Lyft,-14.71,CA
+56930,11/11/2013,Painting Course Fees,-3.83,CA
+56930,11/12/2013,Public Transportation - Train Pass,-46.79,CA
+56930,11/12/2013,Art Auction,-30.8,CA
+56930,11/13/2013,Amazon Order - Paint Canvas,-70,CA
+56930,11/13/2013,Art's Art Supplies,-51.19,CA
+56930,11/14/2013,Sprouts Market,-34.11,CA
+56930,11/14/2013,Michael's Crafts,-22.54,CA
+56930,11/14/2013,Painting Course Fees,-5.7,CA
+56930,11/14/2013,Ashley's Craft Store,-37.74,CA
+56930,11/14/2013,Music Lessons - Piano,-32.94,CA
+56930,11/14/2013,Painting Course Fees,-2.41,CA
+56930,11/14/2013,Amazon Order - Paint Bushes,-39.35,CA
+56930,11/15/2013,Music Lessons - Piano,-12.09,CA
+56930,11/16/2013,Amazon Order - Paint Bushes,-7.82,CA
+56930,11/16/2013,Taxi,-25.07,CA
+56930,11/17/2013,Restaurant - Chinese,-0.53,CA
+56930,11/17/2013,Art's Art Supplies,-20.46,CA
+56930,11/17/2013,Guitar Center,-28.31,CA
+56930,11/17/2013,Art's Art Supplies,-39.71,CA
+56930,11/18/2013,Amazon Order - Paint Bushes,-0.57,CA
+56930,11/19/2013,Uber,-7.17,CA
+56930,11/19/2013,Von's Groceries,-77.76,CA
+56930,11/19/2013,Music Lessons - Piano,-38.68,CA
+56930,11/19/2013,Public Transportation - Train Pass,-18.96,CA
+56930,11/19/2013,Art's Art Supplies,-2.49,CA
+56930,11/19/2013,Restaurant - Steakhouse,-24.12,CA
+56930,11/19/2013,Taxi,-8.77,CA
+56930,11/20/2013,Uber,-7.11,CA
+56930,11/20/2013,Painting Course Fees,-21.78,CA
+56930,11/20/2013,Lyft,-0.25,CA
+56930,11/20/2013,Restaurant - Burgers,-65.57,CA
+56930,11/20/2013,Ashley's Craft Store,-46.9,CA
+56930,11/20/2013,Sprouts Market,-20.93,CA
+56930,11/20/2013,Taxi,-16.47,CA
+56930,11/21/2013,Taxi,-109.19,CA
+56930,11/21/2013,Lyft,-55.78,CA
+56930,11/21/2013,Amazon Order - Paint Canvas,-12.4,CA
+56930,11/22/2013,Music Lessons - Piano,-38.95,CA
+56930,11/22/2013,Amazon Order - Paint Canvas,-8.03,CA
+56930,11/22/2013,Starbucks Coffee,-21.59,CA
+56930,11/23/2013,Restaurant - Pizza,-21.11,CA
+56930,11/23/2013,Amazon Order - Paint Bushes,-34.51,CA
+56930,11/24/2013,Art Auction,-2.98,CA
+56930,11/24/2013,Starbucks Coffee,-25.48,CA
+56930,11/24/2013,Restaurant - Chinese,-12.19,CA
+56930,11/25/2013,Restaurant - Chinese,-24.35,CA
+56930,11/25/2013,Michael's Crafts,-22.85,CA
+56930,11/25/2013,Amazon Order - Paint Bushes,-11.75,CA
+56930,11/25/2013,Restaurant - Pizza,-30.22,CA
+56930,11/25/2013,Amazon Order - Paint Canvas,-46.62,CA
+56930,11/25/2013,Public Transportation - Bus Pass,-31.13,CA
+56930,11/26/2013,Von's Groceries,-3.67,CA
+56930,11/26/2013,Public Transportation - Train Pass,-14.43,CA
+56930,11/27/2013,Painting Course Fees,-10.31,CA
+56930,11/27/2013,Guitar Center,-22.27,CA
+56930,11/27/2013,Art's Art Supplies,-52.51,CA
+56930,11/27/2013,Amazon Order - Paint Canvas,-17.45,CA
+56930,11/28/2013,Amazon Order - Paint Bushes,-19.91,CA
+56930,11/28/2013,Art's Art Supplies,-23.53,CA
+56930,11/29/2013,Guitar Center,-26,CA
+56930,11/30/2013,Music Lessons - Piano,-114.4,CA
+56930,11/30/2013,Public Transportation - Train Pass,-9.03,CA
+56930,12/2/2013,Housing Rent,-1208,CA
+56930,12/2/2013,Water & Sewer,-53,CA
+56930,12/2/2013,Credit Card Payment,-154,CA
+56930,12/2/2013,Time Warner Cable,-25,CA
+56930,12/2/2013,Michael's Crafts,-24.28,CA
+56930,12/2/2013,Michael's Crafts,-22.75,CA
+56930,12/2/2013,Amazon Order - Paint Canvas,-23.32,CA
+56930,12/2/2013,Food Delivery - GrubHub,-27.55,CA
+56930,12/2/2013,Lyft,-32.86,CA
+56930,12/2/2013,Art Auction,-33.74,CA
+56930,12/2/2013,Guitar Center,-38.3,CA
+56930,12/2/2013,Taxi,-8.88,CA
+56930,12/3/2013,Lyft,-6.58,CA
+56930,12/4/2013,Music Lessons - Piano,-94.27,CA
+56930,12/4/2013,Michael's Crafts,-49.24,CA
+56930,12/4/2013,Food Delivery - GrubHub,-105.3,CA
+56930,12/4/2013,Public Transportation - Bus Pass,-29.92,CA
+56930,12/5/2013,Taxi,-75.61,CA
+56930,12/6/2013,Art's Art Supplies,-49.09,CA
+56930,12/6/2013,Amazon Order - Paint Canvas,-34.91,CA
+56930,12/6/2013,Michael's Crafts,-34.97,CA
+56930,12/6/2013,Starbucks Coffee,-29.05,CA
+56930,12/6/2013,Painting Course Fees,-98.19,CA
+56930,12/6/2013,Guitar Center,-12.65,CA
+56930,12/7/2013,Public Transportation - Train Pass,-78.34,CA
+56930,12/7/2013,Amazon Order - Paint Bushes,-9.89,CA
+56930,12/7/2013,Food Delivery - GrubHub,-75.25,CA
+56930,12/7/2013,Lyft,-34.56,CA
+56930,12/7/2013,Guitar Center,-24.85,CA
+56930,12/7/2013,Guitar Center,-7.37,CA
+56930,12/7/2013,Restaurant - Pizza,-35.73,CA
+56930,12/7/2013,Von's Groceries,-30.39,CA
+56930,12/8/2013,Art's Art Supplies,-3.57,CA
+56930,12/8/2013,Lyft,-18.8,CA
+56930,12/8/2013,Michael's Crafts,-86.89,CA
+56930,12/8/2013,Art Auction,-30.21,CA
+56930,12/9/2013,Lyft,-92.16,CA
+56930,12/9/2013,Von's Groceries,-90.87,CA
+56930,12/9/2013,Michael's Crafts,-4.76,CA
+56930,12/9/2013,Von's Groceries,-20.54,CA
+56930,12/10/2013,Guitar Center,-55.75,CA
+56930,12/10/2013,Ashley's Craft Store,-33.04,CA
+56930,12/10/2013,Painting Course Fees,-62.59,CA
+56930,12/10/2013,Lyft,-11.06,CA
+56930,12/10/2013,Ashley's Craft Store,-16.51,CA
+56930,12/10/2013,Guitar Center,-24.62,CA
+56930,12/11/2013,Restaurant - Pizza,-31.49,CA
+56930,12/11/2013,Art's Art Supplies,-10.73,CA
+56930,12/11/2013,Public Transportation - Train Pass,-54.74,CA
+56930,12/12/2013,Lyft,-61.82,CA
+56930,12/12/2013,Lyft,-62.55,CA
+56930,12/12/2013,Public Transportation - Train Pass,-6.67,CA
+56930,12/12/2013,Art Auction,-108.07,CA
+56930,12/12/2013,Ashley's Craft Store,-32.18,CA
+56930,12/12/2013,Painting Course Fees,-0.54,CA
+56930,12/12/2013,Ralph's Grocery Store,-51.29,CA
+56930,12/12/2013,Art's Art Supplies,-21,CA
+56930,12/12/2013,Ashley's Craft Store,-37.49,CA
+56930,12/12/2013,Uber,-36.14,CA
+56930,12/13/2013,Amazon Order - Paint Bushes,-21.43,CA
+56930,12/13/2013,Sprouts Market,-20.25,CA
+56930,12/13/2013,Public Transportation - Bus Pass,-0.4,CA
+56930,12/13/2013,Guitar Center,-4.16,CA
+56930,12/13/2013,Taxi,-2.07,CA
+56930,12/13/2013,Amazon Order - Paint Canvas,-18.32,CA
+56930,12/13/2013,Amazon Order - Paint Canvas,-16.52,CA
+56930,12/13/2013,Public Transportation - Train Pass,-34.98,CA
+56930,12/14/2013,Amazon Order - Paint Bushes,-77.16,CA
+56930,12/15/2013,Amazon Order - Paint Canvas,-5.25,CA
+56930,12/16/2013,Taxi,-2.27,CA
+56930,12/16/2013,Art's Art Supplies,-0.62,CA
+56930,12/17/2013,Starbucks Coffee,-3.72,CA
+56930,12/17/2013,Art's Art Supplies,-22.67,CA
+56930,12/18/2013,Amazon Order - Paint Bushes,-35.45,CA
+56930,12/18/2013,Ashley's Craft Store,-113.45,CA
+56930,12/18/2013,Art's Art Supplies,-19.08,CA
+56930,12/18/2013,Starbucks Coffee,-30.22,CA
+56930,12/18/2013,Restaurant - Pizza,-12.02,CA
+56930,12/19/2013,Painting Course Fees,-80.44,CA
+56930,12/19/2013,Starbucks Coffee,-30.24,CA
+56930,12/19/2013,Von's Groceries,-50.54,CA
+56930,12/19/2013,Starbucks Coffee,-12.71,CA
+56930,12/19/2013,Public Transportation - Train Pass,-26.93,CA
+56930,12/19/2013,Uber,-33.72,CA
+56930,12/20/2013,Starbucks Coffee,-26.7,CA
+56930,12/20/2013,Taxi,-30.4,CA
+56930,12/20/2013,Restaurant - Burgers,-5.46,CA
+56930,12/20/2013,Amazon Order - Paint Canvas,-2.02,CA
+56930,12/20/2013,Ashley's Craft Store,-32.95,CA
+56930,12/20/2013,Food Delivery - GrubHub,-7.2,CA
+56930,12/20/2013,Ashley's Craft Store,-84.47,CA
+56930,12/20/2013,Sprouts Market,-37.22,CA
+56930,12/20/2013,Ashley's Craft Store,-117.1,CA
+56930,12/21/2013,Starbucks Coffee,-28.04,CA
+56930,12/21/2013,Ashley's Craft Store,-29.43,CA
+56930,12/21/2013,Guitar Center,-26.71,CA
+56930,12/21/2013,Whole Foods,-103.98,CA
+56930,12/22/2013,Taxi,-37.25,CA
+56930,12/22/2013,Amazon Order - Paint Bushes,-9.71,CA
+56930,12/22/2013,Guitar Center,-36.57,CA
+56930,12/22/2013,Restaurant - Burgers,-30.32,CA
+56930,12/22/2013,Uber,-33.77,CA
+56930,12/22/2013,Von's Groceries,-37.64,CA
+56930,12/22/2013,Starbucks Coffee,-35.96,CA
+56930,12/23/2013,Amazon Order - Paint Canvas,-24.25,CA
+56930,12/23/2013,Von's Groceries,-26.2,CA
+56930,12/24/2013,Music Lessons - Piano,-12.03,CA
+56930,12/25/2013,Restaurant - Chinese,-34.55,CA
+56930,12/25/2013,Restaurant - Burgers,-3.32,CA
+56930,12/26/2013,Sprouts Market,-34.33,CA
+56930,12/27/2013,Amazon Order - Paint Bushes,-11.2,CA
+56930,12/27/2013,Ashley's Craft Store,-25.15,CA
+56930,12/27/2013,Painting Course Fees,-36.61,CA
+56930,12/27/2013,Restaurant - Chinese,-54.59,CA
+56930,12/27/2013,Public Transportation - Bus Pass,-34.8,CA
+56930,12/27/2013,Lyft,-16.43,CA
+56930,12/27/2013,Music Lessons - Piano,-4.73,CA
+56930,12/28/2013,Restaurant - Pizza,-32,CA
+56930,12/28/2013,Art Auction,-105.34,CA
+56930,12/29/2013,Guitar Center,-13.25,CA
+56930,12/30/2013,Food Delivery - GrubHub,-6.07,CA
+56930,12/30/2013,Whole Foods,-41.19,CA
+56930,12/30/2013,Michael's Crafts,-108.51,CA
+56930,12/30/2013,Painting Course Fees,-39.06,CA
+56930,12/30/2013,Public Transportation - Train Pass,-10.67,CA
+56930,12/30/2013,Ashley's Craft Store,-1.89,CA
+56930,12/32/2013,Ralph's Grocery Store,-25.1,CA
+56930,12/32/2013,Michael's Crafts,-41.28,CA
+56930,12/32/2013,Taxi,-4.9,CA
+56930,12/32/2013,Music Lessons - Piano,-0.79,CA
+56930,12/32/2013,Art Auction,-17.73,CA
+56930,12/32/2013,Food Delivery - GrubHub,-65.87,CA
+56930,1/2/2014,Music Lessons - Piano,-34.29,CA
+56930,1/2/2014,Restaurant - Chinese,-13.24,CA
+56930,1/3/2014,Amazon Order - Paint Canvas,-37.17,CA
+56930,1/4/2014,Art's Art Supplies,-10.92,CA
+56930,1/4/2014,Amazon Order - Paint Canvas,-24.33,CA
+56930,1/4/2014,Amazon Order - Paint Canvas,-9.1,CA
+56930,1/4/2014,Painting Course Fees,-27.04,CA
+56930,1/5/2014,Michael's Crafts,-29.79,CA
+56930,1/5/2014,Restaurant - Pizza,-6.31,CA
+56930,1/5/2014,Painting Course Fees,-82.74,CA
+56930,1/5/2014,Restaurant - Chinese,-78.31,CA
+56930,1/5/2014,Restaurant - Pizza,-31.53,CA
+56930,1/5/2014,Michael's Crafts,-116.15,CA
+56930,1/5/2014,Public Transportation - Bus Pass,-27.45,CA
+56930,1/5/2014,Restaurant - Pizza,-22.49,CA
+56930,1/6/2014,Amazon Order - Paint Canvas,-104.82,CA
+56930,1/6/2014,Art's Art Supplies,-11.88,CA
+56930,1/7/2014,Ashley's Craft Store,-12.95,CA
+56930,1/7/2014,Taxi,-28.06,CA
+56930,1/8/2014,Music Lessons - Piano,-28.53,CA
+56930,1/8/2014,Painting Course Fees,-37.11,CA
+56930,1/9/2014,Art's Art Supplies,-5.38,CA
+56930,1/9/2014,Painting Course Fees,-23.67,CA
+56930,1/9/2014,Taxi,-17.61,CA
+56930,1/9/2014,Food Delivery - GrubHub,-34.88,CA
+56930,1/10/2014,Uber,-39.85,CA
+56930,1/11/2014,Amazon Order - Paint Bushes,-13.16,CA
+56930,1/11/2014,Whole Foods,-30.26,CA
+56930,1/11/2014,Public Transportation - Train Pass,-57.82,CA
+56930,1/12/2014,Michael's Crafts,-13.87,CA
+56930,1/12/2014,Von's Groceries,-21.22,CA
+56930,1/13/2014,Lyft,-113.81,CA
+56930,1/14/2014,Art's Art Supplies,-38.58,CA
+56930,1/14/2014,Michael's Crafts,-37.77,CA
+56930,1/14/2014,Restaurant - Pizza,-16.27,CA
+56930,1/14/2014,Art Auction,-8.53,CA
+56930,1/14/2014,Art Auction,-117.81,CA
+56930,1/15/2014,Amazon Order - Paint Canvas,-2.15,CA
+56930,1/15/2014,Music Lessons - Piano,-38.73,CA
+56930,1/15/2014,Ashley's Craft Store,-23.09,CA
+56930,1/15/2014,Restaurant - Chinese,-30.94,CA
+56930,1/15/2014,Public Transportation - Train Pass,-3,CA
+56930,1/15/2014,Michael's Crafts,-88.73,CA
+56930,1/15/2014,Public Transportation - Bus Pass,-37.31,CA
+56930,1/16/2014,Amazon Order - Paint Canvas,-24.16,CA
+56930,1/16/2014,Amazon Order - Paint Canvas,-91.99,CA
+56930,1/16/2014,Music Lessons - Piano,-12.86,CA
+56930,1/17/2014,Public Transportation - Train Pass,-8.78,CA
+56930,1/17/2014,Sprouts Market,-38.99,CA
+56930,1/18/2014,Taxi,-70.06,CA
+56930,1/18/2014,Painting Course Fees,-16.58,CA
+56930,1/18/2014,Guitar Center,-32.23,CA
+56930,1/18/2014,Food Delivery - GrubHub,-20.37,CA
+56930,1/18/2014,Amazon Order - Paint Canvas,-7.51,CA
+56930,1/18/2014,Art's Art Supplies,-35.68,CA
+56930,1/18/2014,Amazon Order - Paint Canvas,-84.22,CA
+56930,1/18/2014,Guitar Center,-31.98,CA
+56930,1/19/2014,Restaurant - Steakhouse,-11.65,CA
+56930,1/20/2014,Ashley's Craft Store,-0.85,CA
+56930,1/21/2014,Restaurant - Burgers,-75.06,CA
+56930,1/22/2014,Public Transportation - Train Pass,-0.91,CA
+56930,1/22/2014,Amazon Order - Paint Canvas,-108.5,CA
+56930,1/22/2014,Public Transportation - Bus Pass,-13.61,CA
+56930,1/22/2014,Painting Course Fees,-17.09,CA
+56930,1/22/2014,Uber,-27,CA
+56930,1/22/2014,Art Auction,-9.74,CA
+56930,1/23/2014,Taxi,-14.66,CA
+56930,1/23/2014,Food Delivery - GrubHub,-1.69,CA
+56930,1/23/2014,Music Lessons - Piano,-22.37,CA
+56930,1/24/2014,Ashley's Craft Store,-30.68,CA
+56930,1/24/2014,Amazon Order - Paint Bushes,-36.2,CA
+56930,1/24/2014,Restaurant - Pizza,-116.95,CA
+56930,1/25/2014,Ashley's Craft Store,-8.92,CA
+56930,1/25/2014,Public Transportation - Train Pass,-38.24,CA
+56930,1/26/2014,Painting Course Fees,-1.06,CA
+56930,1/27/2014,Restaurant - Burgers,-34.45,CA
+56930,1/27/2014,Art Auction,-33.9,CA
+56930,1/27/2014,Art Auction,-10.63,CA
+56930,1/27/2014,Lyft,-2.44,CA
+56930,1/27/2014,Music Lessons - Piano,-26.57,CA
+56930,1/27/2014,Art Auction,-15.59,CA
+56930,1/27/2014,Lyft,-4.27,CA
+56930,1/27/2014,Lyft,-23.59,CA
+56930,1/27/2014,Ashley's Craft Store,-16.21,CA
+56930,1/28/2014,Guitar Center,-110.35,CA
+56930,1/28/2014,Guitar Center,-1.45,CA
+56930,1/28/2014,Restaurant - Pizza,-68.18,CA
+56930,1/28/2014,Restaurant - Steakhouse,-8.27,CA
+56930,1/29/2014,Painting Course Fees,-27.54,CA
+56930,1/29/2014,Taxi,-0.34,CA
+56930,1/30/2014,Painting Course Fees,-13.37,CA
+56930,1/30/2014,Guitar Center,-36.54,CA
+56930,3/2/2014,Housing Rent,-889,CA
+56930,3/2/2014,Water & Sewer,-53,CA
+56930,3/2/2014,Credit Card Payment,-154,CA
+56930,3/2/2014,Time Warner Cable,-25,CA
+56930,3/2/2014,Art's Art Supplies,-23.33,CA
+56930,3/2/2014,Restaurant - Chinese,-18.68,CA
+56930,3/3/2014,Uber,-19.77,CA
+56930,3/3/2014,Art Auction,-25.27,CA
+56930,3/3/2014,Amazon Order - Paint Bushes,-3.64,CA
+56930,3/3/2014,Amazon Order - Paint Bushes,-10.72,CA
+56930,3/3/2014,Art's Art Supplies,-33.09,CA
+56930,3/4/2014,Von's Groceries,-28.67,CA
+56930,3/4/2014,Art's Art Supplies,-90.84,CA
+56930,3/4/2014,Guitar Center,-8.46,CA
+56930,3/4/2014,Amazon Order - Paint Canvas,-12.93,CA
+56930,3/5/2014,Music Lessons - Piano,-92.2,CA
+56930,3/6/2014,Art Auction,-7,CA
+56930,3/6/2014,Restaurant - Chinese,-105.2,CA
+56930,3/6/2014,Restaurant - Chinese,-86.62,CA
+56930,3/7/2014,Public Transportation - Bus Pass,-52.84,CA
+56930,3/7/2014,Michael's Crafts,-69.98,CA
+56930,3/8/2014,Painting Course Fees,-20.81,CA
+56930,3/8/2014,Food Delivery - GrubHub,-4.34,CA
+56930,3/8/2014,Guitar Center,-1.9,CA
+56930,3/9/2014,Amazon Order - Paint Bushes,-31.88,CA
+56930,3/9/2014,Art Auction,-115.72,CA
+56930,3/10/2014,Von's Groceries,-19.61,CA
+56930,3/10/2014,Public Transportation - Train Pass,-94.14,CA
+56930,3/10/2014,Food Delivery - GrubHub,-17.06,CA
+56930,3/11/2014,Ashley's Craft Store,-30.57,CA
+56930,3/11/2014,Amazon Order - Paint Canvas,-34.33,CA
+56930,3/11/2014,Art's Art Supplies,-37.76,CA
+56930,3/11/2014,Food Delivery - GrubHub,-34.37,CA
+56930,3/11/2014,Painting Course Fees,-83.65,CA
+56930,3/11/2014,Amazon Order - Paint Bushes,-8.26,CA
+56930,3/11/2014,Amazon Order - Paint Canvas,-6.95,CA
+56930,3/12/2014,Ashley's Craft Store,-16.84,CA
+56930,3/13/2014,Amazon Order - Paint Bushes,-39.03,CA
+56930,3/13/2014,Ashley's Craft Store,-25.92,CA
+56930,3/13/2014,Amazon Order - Paint Canvas,-24.54,CA
+56930,3/14/2014,Art Auction,-28.18,CA
+56930,3/14/2014,Amazon Order - Paint Canvas,-27.21,CA
+56930,3/14/2014,Music Lessons - Piano,-20.89,CA
+56930,3/14/2014,Lyft,-63.62,CA
+56930,3/15/2014,Food Delivery - GrubHub,-37.9,CA
+56930,3/16/2014,Painting Course Fees,-32.48,CA
+56930,3/17/2014,Art's Art Supplies,-45.58,CA
+56930,3/18/2014,Music Lessons - Piano,-28.01,CA
+56930,3/18/2014,Guitar Center,-4.51,CA
+56930,3/19/2014,Lyft,-6.1,CA
+56930,3/19/2014,Art Auction,-35.86,CA
+56930,3/19/2014,Ashley's Craft Store,-26.67,CA
+56930,3/19/2014,Food Delivery - GrubHub,-32.91,CA
+56930,3/19/2014,Painting Course Fees,-25.43,CA
+56930,3/19/2014,Restaurant - Pizza,-33.31,CA
+56930,3/20/2014,Restaurant - Pizza,-13.08,CA
+56930,3/20/2014,Painting Course Fees,-3.86,CA
+56930,3/20/2014,Art's Art Supplies,-8.47,CA
+56930,3/20/2014,Michael's Crafts,-39.85,CA
+56930,3/20/2014,Public Transportation - Bus Pass,-26.84,CA
+56930,3/20/2014,Restaurant - Pizza,-7.73,CA
+56930,3/20/2014,Whole Foods,-39.09,CA
+56930,3/20/2014,Restaurant - Pizza,-26.57,CA
+56930,3/20/2014,Art Auction,-25.9,CA
+56930,3/20/2014,Restaurant - Chinese,-1.14,CA
+56930,3/20/2014,Whole Foods,-31.06,CA
+56930,3/21/2014,Ashley's Craft Store,-39.39,CA
+56930,3/21/2014,Restaurant - Steakhouse,-35.11,CA
+56930,3/21/2014,Whole Foods,-2.05,CA
+56930,3/21/2014,Art's Art Supplies,-1.73,CA
+56930,3/21/2014,Restaurant - Steakhouse,-17.42,CA
+56930,3/22/2014,Guitar Center,-62.13,CA
+56930,3/23/2014,Amazon Order - Paint Bushes,-36.63,CA
+56930,3/23/2014,Amazon Order - Paint Bushes,-7.61,CA
+56930,3/23/2014,Guitar Center,-8.08,CA
+56930,3/24/2014,Starbucks Coffee,-21.58,CA
+56930,3/24/2014,Amazon Order - Paint Canvas,-19.71,CA
+56930,3/24/2014,Amazon Order - Paint Canvas,-36.28,CA
+56930,3/24/2014,Sprouts Market,-32.57,CA
+56930,3/25/2014,Music Lessons - Piano,-71.33,CA
+56930,3/25/2014,Public Transportation - Train Pass,-31.07,CA
+56930,3/25/2014,Restaurant - Pizza,-4.69,CA
+56930,3/25/2014,Lyft,-33.65,CA
+56930,3/26/2014,Amazon Order - Paint Bushes,-34.41,CA
+56930,3/26/2014,Ralph's Grocery Store,-19.16,CA
+56930,3/26/2014,Amazon Order - Paint Bushes,-31.5,CA
+56930,3/26/2014,Amazon Order - Paint Canvas,-119.67,CA
+56930,3/27/2014,Michael's Crafts,-38.16,CA
+56930,3/27/2014,Guitar Center,-60.92,CA
+56930,3/27/2014,Music Lessons - Piano,-105.5,CA
+56930,3/27/2014,Amazon Order - Paint Bushes,-2.75,CA
+56930,3/28/2014,Art's Art Supplies,-102.63,CA
+56930,3/29/2014,Amazon Order - Paint Canvas,-58.85,CA
+56930,3/29/2014,Amazon Order - Paint Canvas,-27.53,CA
+56930,3/29/2014,Michael's Crafts,-5.11,CA
+56930,3/30/2014,Uber,-27.31,CA
+56930,3/30/2014,Amazon Order - Paint Canvas,-9.09,CA
+56930,3/30/2014,Whole Foods,-5.15,CA
+56930,3/30/2014,Michael's Crafts,-36.8,CA
+56930,3/30/2014,Lyft,-3.27,CA
+56930,3/30/2014,Music Lessons - Piano,-68.85,CA
+56930,4/2/2014,Housing Rent,-1111,CA
+56930,4/2/2014,Water & Sewer,-53,CA
+56930,4/2/2014,Credit Card Payment,-154,CA
+56930,4/2/2014,Time Warner Cable,-25,CA
+56930,4/2/2014,Amazon Order - Paint Canvas,-45.23,CA
+56930,4/2/2014,Guitar Center,-19.61,CA
+56930,4/3/2014,Lyft,-3.73,CA
+56930,4/3/2014,Taxi,-17.38,CA
+56930,4/4/2014,Amazon Order - Paint Canvas,-14.31,CA
+56930,4/5/2014,Amazon Order - Paint Bushes,-9.41,CA
+56930,4/5/2014,Painting Course Fees,-0.98,CA
+56930,4/6/2014,Uber,-25.95,CA
+56930,4/6/2014,Lyft,-111.02,CA
+56930,4/6/2014,Painting Course Fees,-82.14,CA
+56930,4/6/2014,Lyft,-37.77,CA
+56930,4/6/2014,Restaurant - Burgers,-27.12,CA
+56930,4/7/2014,Lyft,-51.8,CA
+56930,4/7/2014,Taxi,-29.38,CA
+56930,4/7/2014,Von's Groceries,-2.22,CA
+56930,4/7/2014,Lyft,-53.04,CA
+56930,4/8/2014,Painting Course Fees,-9.84,CA
+56930,4/8/2014,Whole Foods,-34.95,CA
+56930,4/8/2014,Food Delivery - GrubHub,-15.42,CA
+56930,4/8/2014,Art's Art Supplies,-23,CA
+56930,4/8/2014,Art Auction,-26.16,CA
+56930,4/8/2014,Restaurant - Chinese,-16.99,CA
+56930,4/9/2014,Ashley's Craft Store,-14.6,CA
+56930,4/9/2014,Public Transportation - Train Pass,-9.43,CA
+56930,4/10/2014,Ashley's Craft Store,-34.59,CA
+56930,4/10/2014,Art's Art Supplies,-21.42,CA
+56930,4/11/2014,Music Lessons - Piano,-4.56,CA
+56930,4/11/2014,Public Transportation - Bus Pass,-2.83,CA
+56930,4/11/2014,Ashley's Craft Store,-26.89,CA
+56930,4/11/2014,Ralph's Grocery Store,-71.66,CA
+56930,4/12/2014,Lyft,-26.38,CA
+56930,4/12/2014,Painting Course Fees,-6.35,CA
+56930,4/13/2014,Painting Course Fees,-34.03,CA
+56930,4/13/2014,Restaurant - Steakhouse,-37.17,CA
+56930,4/14/2014,Von's Groceries,-4.38,CA
+56930,4/14/2014,Whole Foods,-32.58,CA
+56930,4/15/2014,Amazon Order - Paint Canvas,-31.78,CA
+56930,4/15/2014,Restaurant - Pizza,-35.2,CA
+56930,4/16/2014,Guitar Center,-34.12,CA
+56930,4/16/2014,Ashley's Craft Store,-29.76,CA
+56930,4/16/2014,Guitar Center,-1.31,CA
+56930,4/16/2014,Public Transportation - Bus Pass,-14.37,CA
+56930,4/16/2014,Amazon Order - Paint Bushes,-102.12,CA
+56930,4/17/2014,Ashley's Craft Store,-24.51,CA
+56930,4/17/2014,Uber,-12.34,CA
+56930,4/18/2014,Art's Art Supplies,-86.12,CA
+56930,4/19/2014,Public Transportation - Bus Pass,-35.69,CA
+56930,4/19/2014,Ralph's Grocery Store,-38.54,CA
+56930,4/20/2014,Restaurant - Steakhouse,-83.84,CA
+56930,4/20/2014,Whole Foods,-25.95,CA
+56930,4/20/2014,Public Transportation - Train Pass,-24.45,CA
+56930,4/21/2014,Art's Art Supplies,-17.7,CA
+56930,4/22/2014,Painting Course Fees,-0.77,CA
+56930,4/22/2014,Art's Art Supplies,-34.97,CA
+56930,4/22/2014,Art's Art Supplies,-10.76,CA
+56930,4/23/2014,Amazon Order - Paint Bushes,-29.54,CA
+56930,4/23/2014,Art Auction,-38.66,CA
+56930,4/23/2014,Lyft,-1.56,CA
+56930,4/23/2014,Painting Course Fees,-23.16,CA
+56930,4/23/2014,Starbucks Coffee,-3.19,CA
+56930,4/23/2014,Guitar Center,-8.32,CA
+56930,4/23/2014,Von's Groceries,-18.8,CA
+56930,4/23/2014,Painting Course Fees,-36.73,CA
+56930,4/23/2014,Amazon Order - Paint Bushes,-35.8,CA
+56930,4/23/2014,Michael's Crafts,-36.69,CA
+56930,4/24/2014,Art Auction,-8.89,CA
+56930,4/24/2014,Ashley's Craft Store,-1.99,CA
+56930,4/25/2014,Von's Groceries,-10.48,CA
+56930,4/26/2014,Public Transportation - Train Pass,-20.66,CA
+56930,4/26/2014,Michael's Crafts,-1.94,CA
+56930,4/26/2014,Amazon Order - Paint Canvas,-69.56,CA
+56930,4/27/2014,Art's Art Supplies,-90.04,CA
+56930,4/27/2014,Music Lessons - Piano,-0.33,CA
+56930,4/27/2014,Amazon Order - Paint Canvas,-10.15,CA
+56930,4/28/2014,Art's Art Supplies,-5.07,CA
+56930,4/28/2014,Amazon Order - Paint Canvas,-30.08,CA
+56930,4/29/2014,Art Auction,-37.41,CA
+56930,4/30/2014,Michael's Crafts,-70.38,CA
+56930,4/30/2014,Art Auction,-21.39,CA
+56930,4/30/2014,Guitar Center,-57.79,CA
+56930,4/30/2014,Guitar Center,-37.13,CA
+56930,4/30/2014,Taxi,-27.74,CA
+56930,4/30/2014,Music Lessons - Piano,-10.56,CA
+56930,5/2/2014,Housing Rent,-1269,CA
+56930,5/2/2014,Water & Sewer,-53,CA
+56930,5/2/2014,Credit Card Payment,-154,CA
+56930,5/2/2014,Time Warner Cable,-25,CA
+56930,5/2/2014,Art Auction,-26.27,CA
+56930,5/2/2014,Public Transportation - Bus Pass,-11.65,CA
+56930,5/3/2014,Sprouts Market,-13.6,CA
+56930,5/4/2014,Amazon Order - Paint Canvas,-1.47,CA
+56930,5/5/2014,Art Auction,-7.54,CA
+56930,5/5/2014,Public Transportation - Bus Pass,-116.01,CA
+56930,5/5/2014,Michael's Crafts,-1.7,CA
+56930,5/5/2014,Ashley's Craft Store,-16.26,CA
+56930,5/6/2014,Art Auction,-66.81,CA
+56930,5/6/2014,Public Transportation - Bus Pass,-93.69,CA
+56930,5/6/2014,Restaurant - Steakhouse,-10.01,CA
+56930,5/7/2014,Lyft,-8.87,CA
+56930,5/7/2014,Music Lessons - Piano,-25.52,CA
+56930,5/7/2014,Music Lessons - Piano,-28.7,CA
+56930,5/8/2014,Amazon Order - Paint Canvas,-8.41,CA
+56930,5/8/2014,Guitar Center,-31.64,CA
+56930,5/8/2014,Restaurant - Pizza,-2.9,CA
+56930,5/8/2014,Sprouts Market,-4.51,CA
+56930,5/8/2014,Michael's Crafts,-6.98,CA
+56930,5/8/2014,Amazon Order - Paint Bushes,-28.02,CA
+56930,5/9/2014,Restaurant - Pizza,-10.56,CA
+56930,5/10/2014,Art Auction,-10.07,CA
+56930,5/10/2014,Guitar Center,-43.06,CA
+56930,5/11/2014,Lyft,-30.44,CA
+56930,5/12/2014,Michael's Crafts,-41.85,CA
+56930,5/13/2014,Food Delivery - GrubHub,-5.63,CA
+56930,5/14/2014,Ashley's Craft Store,-8.8,CA
+56930,5/15/2014,Amazon Order - Paint Canvas,-41.28,CA
+56930,5/16/2014,Amazon Order - Paint Canvas,-32.34,CA
+56930,5/16/2014,Music Lessons - Piano,-106.41,CA
+56930,5/16/2014,Art Auction,-9.3,CA
+56930,5/16/2014,Art's Art Supplies,-2.46,CA
+56930,5/16/2014,Lyft,-113.55,CA
+56930,5/16/2014,Public Transportation - Train Pass,-0.15,CA
+56930,5/17/2014,Amazon Order - Paint Bushes,-20.5,CA
+56930,5/18/2014,Uber,-3.41,CA
+56930,5/19/2014,Art's Art Supplies,-37.06,CA
+56930,5/20/2014,Sprouts Market,-6.54,CA
+56930,5/21/2014,Amazon Order - Paint Canvas,-33.67,CA
+56930,5/21/2014,Public Transportation - Train Pass,-88.74,CA
+56930,5/21/2014,Public Transportation - Train Pass,-26.58,CA
+56930,5/21/2014,Art's Art Supplies,-26.66,CA
+56930,5/21/2014,Lyft,-105.82,CA
+56930,5/21/2014,Food Delivery - GrubHub,-72.6,CA
+56930,5/21/2014,Public Transportation - Bus Pass,-2.98,CA
+56930,5/21/2014,Art Auction,-37.06,CA
+56930,5/22/2014,Amazon Order - Paint Bushes,-33.39,CA
+56930,5/23/2014,Uber,-26.75,CA
+56930,5/23/2014,Amazon Order - Paint Bushes,-116.98,CA
+56930,5/23/2014,Guitar Center,-20.77,CA
+56930,5/23/2014,Taxi,-13.96,CA
+56930,5/24/2014,Art's Art Supplies,-25.52,CA
+56930,5/24/2014,Guitar Center,-71.64,CA
+56930,5/24/2014,Uber,-33.5,CA
+56930,5/24/2014,Art's Art Supplies,-33.22,CA
+56930,5/25/2014,Starbucks Coffee,-23.73,CA
+56930,5/25/2014,Lyft,-36.11,CA
+56930,5/25/2014,Public Transportation - Bus Pass,-16.74,CA
+56930,5/25/2014,Michael's Crafts,-23.45,CA
+56930,5/25/2014,Ashley's Craft Store,-33.22,CA
+56930,5/26/2014,Lyft,-35.02,CA
+56930,5/26/2014,Food Delivery - GrubHub,-12.33,CA
+56930,5/26/2014,Public Transportation - Bus Pass,-16.13,CA
+56930,5/26/2014,Art's Art Supplies,-5.72,CA
+56930,5/26/2014,Von's Groceries,-26.54,CA
+56930,5/26/2014,Lyft,-1.14,CA
+56930,5/26/2014,Music Lessons - Piano,-24.46,CA
+56930,5/26/2014,Amazon Order - Paint Canvas,-101.07,CA
+56930,5/27/2014,Ashley's Craft Store,-29.31,CA
+56930,5/27/2014,Restaurant - Steakhouse,-1.69,CA
+56930,5/28/2014,Amazon Order - Paint Canvas,-96.83,CA
+56930,5/28/2014,Amazon Order - Paint Canvas,-15.76,CA
+56930,5/28/2014,Painting Course Fees,-35.08,CA
+56930,5/28/2014,Lyft,-32.54,CA
+56930,5/29/2014,Art's Art Supplies,-6.32,CA
+56930,5/29/2014,Public Transportation - Bus Pass,-61.19,CA
+56930,5/29/2014,Guitar Center,-27.34,CA
+56930,5/29/2014,Public Transportation - Train Pass,-7.5,CA
+56930,5/29/2014,Art's Art Supplies,-7.25,CA
+56930,5/29/2014,Michael's Crafts,-32.89,CA
+56930,5/29/2014,Taxi,-27.18,CA
+56930,5/29/2014,Ashley's Craft Store,-13.6,CA
+56930,5/29/2014,Restaurant - Steakhouse,-25.23,CA
+56930,5/30/2014,Art Auction,-33.48,CA
+56930,6/2/2014,Housing Rent,-1300,CA
+56930,6/2/2014,Water & Sewer,-53,CA
+56930,6/2/2014,Credit Card Payment,-154,CA
+56930,6/2/2014,Time Warner Cable,-25,CA
+56930,6/2/2014,Ashley's Craft Store,-16.7,CA
+56930,6/2/2014,Public Transportation - Train Pass,-23.88,CA
+56930,6/3/2014,Painting Course Fees,-28.69,CA
+56930,6/4/2014,Music Lessons - Piano,-10.74,CA
+56930,6/4/2014,Michael's Crafts,-26.79,CA
+56930,6/4/2014,Music Lessons - Piano,-14.4,CA
+56930,6/4/2014,Public Transportation - Train Pass,-12.37,CA
+56930,6/4/2014,Food Delivery - GrubHub,-40.12,CA
+56930,6/4/2014,Sprouts Market,-12.14,CA
+56930,6/4/2014,Sprouts Market,-16.32,CA
+56930,6/5/2014,Amazon Order - Paint Bushes,-23.35,CA
+56930,6/6/2014,Art Auction,-105.06,CA
+56930,6/6/2014,Amazon Order - Paint Bushes,-27.54,CA
+56930,6/6/2014,Guitar Center,-38.14,CA
+56930,6/6/2014,Art's Art Supplies,-29.49,CA
+56930,6/6/2014,Guitar Center,-37.17,CA
+56930,6/7/2014,Painting Course Fees,-94.77,CA
+56930,6/7/2014,Amazon Order - Paint Canvas,-4.82,CA
+56930,6/8/2014,Uber,-27.15,CA
+56930,6/9/2014,Ashley's Craft Store,-24.16,CA
+56930,6/9/2014,Lyft,-21.7,CA
+56930,6/9/2014,Von's Groceries,-27.81,CA
+56930,6/9/2014,Art's Art Supplies,-37.49,CA
+56930,6/9/2014,Amazon Order - Paint Bushes,-38.77,CA
+56930,6/9/2014,Taxi,-22.87,CA
+56930,6/9/2014,Ralph's Grocery Store,-28.54,CA
+56930,6/9/2014,Music Lessons - Piano,-21.69,CA
+56930,6/10/2014,Michael's Crafts,-22.04,CA
+56930,6/10/2014,Amazon Order - Paint Bushes,-91.28,CA
+56930,6/11/2014,Lyft,-41.34,CA
+56930,6/11/2014,Music Lessons - Piano,-6.39,CA
+56930,6/11/2014,Lyft,-6.04,CA
+56930,6/12/2014,Music Lessons - Piano,-10.31,CA
+56930,6/12/2014,Restaurant - Burgers,-8.57,CA
+56930,6/12/2014,Music Lessons - Piano,-37.41,CA
+56930,6/12/2014,Amazon Order - Paint Bushes,-57.8,CA
+56930,6/12/2014,Ashley's Craft Store,-35.03,CA
+56930,6/12/2014,Music Lessons - Piano,-27.24,CA
+56930,6/12/2014,Amazon Order - Paint Canvas,-106.96,CA
+56930,6/12/2014,Taxi,-15.75,CA
+56930,6/12/2014,Restaurant - Pizza,-2.5,CA
+56930,6/12/2014,Ashley's Craft Store,-7.56,CA
+56930,6/12/2014,Starbucks Coffee,-38.84,CA
+56930,6/12/2014,Whole Foods,-13.45,CA
+56930,6/13/2014,Michael's Crafts,-17.6,CA
+56930,6/13/2014,Public Transportation - Bus Pass,-15.71,CA
+56930,6/13/2014,Amazon Order - Paint Bushes,-26.92,CA
+56930,6/14/2014,Michael's Crafts,-0.57,CA
+56930,6/14/2014,Taxi,-24.91,CA
+56930,6/14/2014,Whole Foods,-105.95,CA
+56930,6/14/2014,Painting Course Fees,-37.18,CA
+56930,6/14/2014,Restaurant - Burgers,-112.17,CA
+56930,6/15/2014,Taxi,-2.48,CA
+56930,6/15/2014,Painting Course Fees,-8.39,CA
+56930,6/15/2014,Art Auction,-22.86,CA
+56930,6/15/2014,Public Transportation - Bus Pass,-31.17,CA
+56930,6/15/2014,Lyft,-20.58,CA
+56930,6/15/2014,Von's Groceries,-17.21,CA
+56930,6/15/2014,Art Auction,-24.85,CA
+56930,6/15/2014,Music Lessons - Piano,-12.01,CA
+56930,6/15/2014,Art's Art Supplies,-18.1,CA
+56930,6/15/2014,Ashley's Craft Store,-24.96,CA
+56930,6/15/2014,Restaurant - Pizza,-37.49,CA
+56930,6/15/2014,Art Auction,-80.83,CA
+56930,6/15/2014,Art's Art Supplies,-7.03,CA
+56930,6/15/2014,Art's Art Supplies,-92.4,CA
+56930,6/16/2014,Starbucks Coffee,-33.7,CA
+56930,6/16/2014,Restaurant - Steakhouse,-72.5,CA
+56930,6/16/2014,Public Transportation - Bus Pass,-11.59,CA
+56930,6/16/2014,Von's Groceries,-10.76,CA
+56930,6/17/2014,Art Auction,-7.14,CA
+56930,6/17/2014,Lyft,-28.28,CA
+56930,6/17/2014,Restaurant - Chinese,-39.12,CA
+56930,6/17/2014,Uber,-22.75,CA
+56930,6/17/2014,Art Auction,-5.96,CA
+56930,6/18/2014,Painting Course Fees,-35.8,CA
+56930,6/19/2014,Art Auction,-23.83,CA
+56930,6/19/2014,Amazon Order - Paint Bushes,-9.6,CA
+56930,6/19/2014,Amazon Order - Paint Canvas,-27.17,CA
+56930,6/20/2014,Public Transportation - Train Pass,-59.88,CA
+56930,6/21/2014,Public Transportation - Train Pass,-109.15,CA
+56930,6/21/2014,Ashley's Craft Store,-5.13,CA
+56930,6/21/2014,Restaurant - Chinese,-32.23,CA
+56930,6/21/2014,Michael's Crafts,-54.5,CA
+56930,6/22/2014,Guitar Center,-0.68,CA
+56930,6/23/2014,Taxi,-4.4,CA
+56930,6/24/2014,Taxi,-26.7,CA
+56930,6/24/2014,Painting Course Fees,-37.88,CA
+56930,6/25/2014,Ashley's Craft Store,-39.26,CA
+56930,6/25/2014,Restaurant - Steakhouse,-26.55,CA
+56930,6/25/2014,Ralph's Grocery Store,-26.57,CA
+56930,6/26/2014,Art Auction,-58.69,CA
+56930,6/26/2014,Ashley's Craft Store,-32.7,CA
+56930,6/26/2014,Music Lessons - Piano,-13.28,CA
+56930,6/26/2014,Amazon Order - Paint Canvas,-11.53,CA
+56930,6/26/2014,Uber,-37.82,CA
+56930,6/26/2014,Lyft,-5.67,CA
+56930,6/26/2014,Guitar Center,-35.24,CA
+56930,6/27/2014,Amazon Order - Paint Canvas,-19.83,CA
+56930,6/27/2014,Michael's Crafts,-0.93,CA
+56930,6/27/2014,Painting Course Fees,-36.44,CA
+56930,6/27/2014,Music Lessons - Piano,-33.25,CA
+56930,6/28/2014,Art Auction,-25.87,CA
+56930,6/28/2014,Painting Course Fees,-19.18,CA
+56930,6/29/2014,Art Auction,-36.78,CA
+56930,6/29/2014,Painting Course Fees,-33,CA
+56930,6/29/2014,Restaurant - Pizza,-32.46,CA
+56930,6/29/2014,Whole Foods,-72.59,CA
+56930,6/29/2014,Ashley's Craft Store,-74.03,CA
+56930,6/29/2014,Ashley's Craft Store,-21.11,CA
+56930,6/30/2014,Painting Course Fees,-26.87,CA
+56930,6/30/2014,Amazon Order - Paint Bushes,-30.49,CA
+56930,6/30/2014,Ralph's Grocery Store,-11.52,CA
+56930,6/30/2014,Public Transportation - Train Pass,-46.38,CA
+56930,6/30/2014,Amazon Order - Paint Canvas,-53.33,CA
+56930,6/30/2014,Amazon Order - Paint Bushes,-62.57,CA
+56930,6/30/2014,Michael's Crafts,-26.82,CA
+56930,6/30/2014,Art's Art Supplies,-2.15,CA
+56930,6/30/2014,Ashley's Craft Store,-39.46,CA
+56930,6/30/2014,Painting Course Fees,-25.58,CA
+56930,6/30/2014,Guitar Center,-2.91,CA
+56930,6/30/2014,Whole Foods,-36.84,CA
+56930,7/2/2014,Housing Rent,-1363,CA
+56930,7/2/2014,Water & Sewer,-53,CA
+56930,7/2/2014,Credit Card Payment,-154,CA
+56930,7/2/2014,Time Warner Cable,-25,CA
+56930,7/2/2014,Guitar Center,-6.75,CA
+56930,7/3/2014,Art's Art Supplies,-26.06,CA
+56930,7/3/2014,Von's Groceries,-39.47,CA
+56930,7/3/2014,Uber,-30.76,CA
+56930,7/4/2014,Restaurant - Burgers,-23.46,CA
+56930,7/5/2014,Michael's Crafts,-8.81,CA
+56930,7/5/2014,Ashley's Craft Store,-25.14,CA
+56930,7/5/2014,Taxi,-24.94,CA
+56930,7/5/2014,Public Transportation - Bus Pass,-24.74,CA
+56930,7/6/2014,Art's Art Supplies,-67.85,CA
+56930,7/7/2014,Amazon Order - Paint Canvas,-35.33,CA
+56930,7/7/2014,Lyft,-117.75,CA
+56930,7/8/2014,Restaurant - Burgers,-19.43,CA
+56930,7/8/2014,Art's Art Supplies,-8.84,CA
+56930,7/8/2014,Amazon Order - Paint Canvas,-39.35,CA
+56930,7/9/2014,Taxi,-1.55,CA
+56930,7/9/2014,Michael's Crafts,-16.2,CA
+56930,7/9/2014,Guitar Center,-13.63,CA
+56930,7/9/2014,Public Transportation - Bus Pass,-11.08,CA
+56930,7/9/2014,Painting Course Fees,-13.7,CA
+56930,7/9/2014,Art Auction,-13.84,CA
+56930,7/10/2014,Von's Groceries,-32.15,CA
+56930,7/11/2014,Painting Course Fees,-34.49,CA
+56930,7/11/2014,Ralph's Grocery Store,-29.79,CA
+56930,7/11/2014,Uber,-31.26,CA
+56930,7/11/2014,Painting Course Fees,-35.65,CA
+56930,7/11/2014,Guitar Center,-86.77,CA
+56930,7/12/2014,Music Lessons - Piano,-16.21,CA
+56930,7/12/2014,Painting Course Fees,-42.19,CA
+56930,7/12/2014,Guitar Center,-9.33,CA
+56930,7/12/2014,Uber,-11.03,CA
+56930,7/12/2014,Restaurant - Burgers,-6.79,CA
+56930,7/12/2014,Von's Groceries,-19.84,CA
+56930,7/12/2014,Painting Course Fees,-4.37,CA
+56930,7/12/2014,Public Transportation - Train Pass,-13.38,CA
+56930,7/13/2014,Ralph's Grocery Store,-0.39,CA
+56930,7/14/2014,Amazon Order - Paint Canvas,-6.96,CA
+56930,7/14/2014,Public Transportation - Train Pass,-66.89,CA
+56930,7/15/2014,Michael's Crafts,-9.07,CA
+56930,7/15/2014,Public Transportation - Bus Pass,-13,CA
+56930,7/15/2014,Taxi,-4.96,CA
+56930,7/15/2014,Amazon Order - Paint Canvas,-8.33,CA
+56930,7/16/2014,Public Transportation - Bus Pass,-12.28,CA
+56930,7/16/2014,Amazon Order - Paint Bushes,-37.07,CA
+56930,7/17/2014,Michael's Crafts,-12.18,CA
+56930,7/17/2014,Amazon Order - Paint Bushes,-1.89,CA
+56930,7/18/2014,Public Transportation - Train Pass,-36.22,CA
+56930,7/18/2014,Guitar Center,-29.72,CA
+56930,7/18/2014,Art's Art Supplies,-12.66,CA
+56930,7/18/2014,Music Lessons - Piano,-25.61,CA
+56930,7/18/2014,Painting Course Fees,-33.43,CA
+56930,7/18/2014,Music Lessons - Piano,-0.51,CA
+56930,7/18/2014,Guitar Center,-3.02,CA
+56930,7/18/2014,Uber,-8.65,CA
+56930,7/19/2014,Restaurant - Pizza,-22.66,CA
+56930,7/20/2014,Amazon Order - Paint Canvas,-11.77,CA
+56930,7/21/2014,Amazon Order - Paint Canvas,-116,CA
+56930,7/22/2014,Restaurant - Steakhouse,-7.08,CA
+56930,7/23/2014,Lyft,-17.38,CA
+56930,7/24/2014,Public Transportation - Train Pass,-108.05,CA
+56930,7/24/2014,Amazon Order - Paint Canvas,-96.84,CA
+56930,7/25/2014,Taxi,-2.74,CA
+56930,7/25/2014,Amazon Order - Paint Canvas,-21.33,CA
+56930,7/25/2014,Painting Course Fees,-8.74,CA
+56930,7/25/2014,Ashley's Craft Store,-39.14,CA
+56930,7/26/2014,Music Lessons - Piano,-34.88,CA
+56930,7/26/2014,Taxi,-32.88,CA
+56930,7/26/2014,Michael's Crafts,-35.34,CA
+56930,7/27/2014,Ashley's Craft Store,-34.5,CA
+56930,7/28/2014,Art's Art Supplies,-19.81,CA
+56930,7/29/2014,Restaurant - Steakhouse,-1.53,CA
+56930,7/30/2014,Amazon Order - Paint Bushes,-62.91,CA
+56930,7/30/2014,Public Transportation - Train Pass,-8.97,CA
+56930,8/2/2014,Housing Rent,-995,CA
+56930,8/2/2014,Water & Sewer,-53,CA
+56930,8/2/2014,Credit Card Payment,-154,CA
+56930,8/2/2014,Time Warner Cable,-25,CA
+56930,8/2/2014,Michael's Crafts,-30.57,CA
+56930,8/2/2014,Amazon Order - Paint Bushes,-20.26,CA
+56930,8/3/2014,Art Auction,-39.9,CA
+56930,8/4/2014,Lyft,-12.28,CA
+56930,8/4/2014,Guitar Center,-14.87,CA
+56930,8/4/2014,Whole Foods,-9.42,CA
+56930,8/5/2014,Lyft,-12.63,CA
+56930,8/6/2014,Guitar Center,-0.64,CA
+56930,8/6/2014,Art's Art Supplies,-37.26,CA
+56930,8/6/2014,Restaurant - Pizza,-26.21,CA
+56930,8/6/2014,Uber,-27.62,CA
+56930,8/6/2014,Restaurant - Chinese,-16.95,CA
+56930,8/6/2014,Painting Course Fees,-69.44,CA
+56930,8/7/2014,Taxi,-31.91,CA
+56930,8/7/2014,Music Lessons - Piano,-7.44,CA
+56930,8/8/2014,Restaurant - Pizza,-36.9,CA
+56930,8/9/2014,Von's Groceries,-9.24,CA
+56930,8/10/2014,Taxi,-98.4,CA
+56930,8/10/2014,Guitar Center,-21.92,CA
+56930,8/10/2014,Guitar Center,-28.13,CA
+56930,8/10/2014,Art Auction,-26,CA
+56930,8/11/2014,Uber,-6.08,CA
+56930,8/11/2014,Amazon Order - Paint Canvas,-57.57,CA
+56930,8/11/2014,Uber,-30.28,CA
+56930,8/12/2014,Michael's Crafts,-117.4,CA
+56930,8/12/2014,Public Transportation - Train Pass,-18.05,CA
+56930,8/13/2014,Guitar Center,-13.44,CA
+56930,8/13/2014,Amazon Order - Paint Canvas,-36.07,CA
+56930,8/13/2014,Guitar Center,-21.45,CA
+56930,8/13/2014,Uber,-10.7,CA
+56930,8/13/2014,Ashley's Craft Store,-14.51,CA
+56930,8/13/2014,Amazon Order - Paint Bushes,-24.01,CA
+56930,8/13/2014,Art Auction,-36.29,CA
+56930,8/13/2014,Art's Art Supplies,-6.77,CA
+56930,8/13/2014,Painting Course Fees,-31.36,CA
+56930,8/13/2014,Ralph's Grocery Store,-26.3,CA
+56930,8/13/2014,Guitar Center,-10.27,CA
+56930,8/13/2014,Painting Course Fees,-16.58,CA
+56930,8/13/2014,Guitar Center,-29.62,CA
+56930,8/13/2014,Uber,-37.53,CA
+56930,8/13/2014,Ashley's Craft Store,-35.38,CA
+56930,8/13/2014,Ashley's Craft Store,-11.2,CA
+56930,8/13/2014,Art Auction,-26.89,CA
+56930,8/13/2014,Taxi,-7.78,CA
+56930,8/13/2014,Amazon Order - Paint Bushes,-35.97,CA
+56930,8/13/2014,Michael's Crafts,-36.67,CA
+56930,8/13/2014,Painting Course Fees,-37.95,CA
+56930,8/13/2014,Ashley's Craft Store,-70.37,CA
+56930,8/13/2014,Art Auction,-20,CA
+56930,8/13/2014,Ashley's Craft Store,-17.17,CA
+56930,8/14/2014,Michael's Crafts,-29.36,CA
+56930,8/14/2014,Art Auction,-11.16,CA
+56930,8/15/2014,Music Lessons - Piano,-7.34,CA
+56930,8/16/2014,Amazon Order - Paint Canvas,-3.37,CA
+56930,8/17/2014,Lyft,-28.36,CA
+56930,8/18/2014,Whole Foods,-32.76,CA
+56930,8/19/2014,Music Lessons - Piano,-28.73,CA
+56930,8/19/2014,Painting Course Fees,-6.64,CA
+56930,8/19/2014,Lyft,-22.02,CA
+56930,8/19/2014,Uber,-66.14,CA
+56930,8/20/2014,Guitar Center,-38.05,CA
+56930,8/20/2014,Sprouts Market,-117.53,CA
+56930,8/21/2014,Lyft,-14.75,CA
+56930,8/22/2014,Art Auction,-66.7,CA
+56930,8/23/2014,Public Transportation - Bus Pass,-104.13,CA
+56930,8/23/2014,Taxi,-32.02,CA
+56930,8/23/2014,Whole Foods,-37.97,CA
+56930,8/23/2014,Amazon Order - Paint Bushes,-26.61,CA
+56930,8/23/2014,Music Lessons - Piano,-22.96,CA
+56930,8/24/2014,Public Transportation - Bus Pass,-9.75,CA
+56930,8/24/2014,Amazon Order - Paint Bushes,-11.66,CA
+56930,8/25/2014,Guitar Center,-31.77,CA
+56930,8/25/2014,Food Delivery - GrubHub,-6.75,CA
+56930,8/26/2014,Amazon Order - Paint Bushes,-38.24,CA
+56930,8/26/2014,Art Auction,-16.46,CA
+56930,8/26/2014,Guitar Center,-10.59,CA
+56930,8/26/2014,Amazon Order - Paint Canvas,-33.36,CA
+56930,8/26/2014,Music Lessons - Piano,-11.25,CA
+56930,8/27/2014,Ralph's Grocery Store,-21.49,CA
+56930,8/28/2014,Restaurant - Chinese,-29.31,CA
+56930,8/28/2014,Whole Foods,-23.79,CA
+56930,8/29/2014,Ashley's Craft Store,-23.31,CA
+56930,8/29/2014,Painting Course Fees,-2.74,CA
+56930,8/30/2014,Amazon Order - Paint Canvas,-10.77,CA
+56930,9/2/2014,Housing Rent,-834,CA
+56930,9/2/2014,Water & Sewer,-53,CA
+56930,9/2/2014,Credit Card Payment,-154,CA
+56930,9/2/2014,Time Warner Cable,-25,CA
+56930,9/2/2014,Lyft,-7.48,CA
+56930,9/2/2014,Taxi,-0.36,CA
+56930,9/2/2014,Von's Groceries,-38.12,CA
+56930,9/3/2014,Von's Groceries,-38.64,CA
+56930,9/3/2014,Guitar Center,-111.82,CA
+56930,9/3/2014,Whole Foods,-46.9,CA
+56930,9/3/2014,Lyft,-9.99,CA
+56930,9/4/2014,Art's Art Supplies,-13.2,CA
+56930,9/4/2014,Amazon Order - Paint Canvas,-2.62,CA
+56930,9/4/2014,Uber,-7.47,CA
+56930,9/4/2014,Whole Foods,-20.67,CA
+56930,9/4/2014,Guitar Center,-26.81,CA
+56930,9/5/2014,Painting Course Fees,-24.03,CA
+56930,9/5/2014,Restaurant - Pizza,-48,CA
+56930,9/5/2014,Uber,-112.22,CA
+56930,9/5/2014,Public Transportation - Train Pass,-7.96,CA
+56930,9/5/2014,Starbucks Coffee,-56.51,CA
+56930,9/5/2014,Lyft,-1.39,CA
+56930,9/5/2014,Painting Course Fees,-16.7,CA
+56930,9/6/2014,Uber,-95.77,CA
+56930,9/6/2014,Painting Course Fees,-28.33,CA
+56930,9/6/2014,Michael's Crafts,-2.91,CA
+56930,9/7/2014,Public Transportation - Bus Pass,-28.94,CA
+56930,9/7/2014,Public Transportation - Bus Pass,-116.35,CA
+56930,9/8/2014,Food Delivery - GrubHub,-20.4,CA
+56930,9/9/2014,Art Auction,-29.7,CA
+56930,9/9/2014,Amazon Order - Paint Canvas,-12.6,CA
+56930,9/9/2014,Ralph's Grocery Store,-99.85,CA
+56930,9/10/2014,Art Auction,-5.84,CA
+56930,9/10/2014,Sprouts Market,-8.7,CA
+56930,9/10/2014,Art's Art Supplies,-35.33,CA
+56930,9/11/2014,Amazon Order - Paint Bushes,-69.79,CA
+56930,9/12/2014,Michael's Crafts,-14.97,CA
+56930,9/13/2014,Food Delivery - GrubHub,-29.96,CA
+56930,9/13/2014,Art Auction,-21.21,CA
+56930,9/14/2014,Amazon Order - Paint Canvas,-16.14,CA
+56930,9/14/2014,Art Auction,-117.18,CA
+56930,9/15/2014,Guitar Center,-13.71,CA
+56930,9/15/2014,Ashley's Craft Store,-11.13,CA
+56930,9/15/2014,Michael's Crafts,-2.46,CA
+56930,9/15/2014,Amazon Order - Paint Canvas,-36.13,CA
+56930,9/15/2014,Amazon Order - Paint Canvas,-6.72,CA
+56930,9/15/2014,Starbucks Coffee,-33.46,CA
+56930,9/16/2014,Amazon Order - Paint Canvas,-1.78,CA
+56930,9/17/2014,Food Delivery - GrubHub,-19.86,CA
+56930,9/17/2014,Uber,-35.9,CA
+56930,9/18/2014,Restaurant - Steakhouse,-16.99,CA
+56930,9/18/2014,Art Auction,-5.76,CA
+56930,9/18/2014,Taxi,-28.17,CA
+56930,9/18/2014,Restaurant - Steakhouse,-59.96,CA
+56930,9/18/2014,Amazon Order - Paint Bushes,-16.65,CA
+56930,9/18/2014,Sprouts Market,-24.62,CA
+56930,9/18/2014,Uber,-69.61,CA
+56930,9/18/2014,Amazon Order - Paint Bushes,-32.56,CA
+56930,9/18/2014,Guitar Center,-11.15,CA
+56930,9/18/2014,Michael's Crafts,-19.14,CA
+56930,9/19/2014,Art's Art Supplies,-62.83,CA
+56930,9/19/2014,Lyft,-83.19,CA
+56930,9/20/2014,Ashley's Craft Store,-82.19,CA
+56930,9/20/2014,Art Auction,-32.63,CA
+56930,9/21/2014,Taxi,-35.39,CA
+56930,9/21/2014,Public Transportation - Bus Pass,-37.57,CA
+56930,9/22/2014,Starbucks Coffee,-20.89,CA
+56930,9/22/2014,Whole Foods,-12.15,CA
+56930,9/23/2014,Michael's Crafts,-112.3,CA
+56930,9/23/2014,Art's Art Supplies,-26.62,CA
+56930,9/24/2014,Sprouts Market,-2.78,CA
+56930,9/24/2014,Sprouts Market,-7.89,CA
+56930,9/24/2014,Taxi,-9.58,CA
+56930,9/25/2014,Public Transportation - Bus Pass,-19.82,CA
+56930,9/25/2014,Art Auction,-86.45,CA
+56930,9/26/2014,Art's Art Supplies,-29.51,CA
+56930,9/26/2014,Art Auction,-88.55,CA
+56930,9/26/2014,Art Auction,-0.28,CA
+56930,9/27/2014,Restaurant - Burgers,-34.1,CA
+56930,9/28/2014,Amazon Order - Paint Canvas,-25.8,CA
+56930,9/28/2014,Painting Course Fees,-25.54,CA
+56930,9/28/2014,Starbucks Coffee,-22.82,CA
+56930,9/29/2014,Amazon Order - Paint Canvas,-34.44,CA
+56930,9/29/2014,Ralph's Grocery Store,-53.06,CA
+56930,9/29/2014,Painting Course Fees,-15.83,CA
+56930,9/30/2014,Art's Art Supplies,-41.46,CA
+56930,9/30/2014,Music Lessons - Piano,-9.7,CA
+56930,9/30/2014,Public Transportation - Bus Pass,-13.69,CA
+56930,10/2/2014,Paycheck,3639,CA
+56930,10/2/2014,Housing Rent,-806,CA
+56930,10/2/2014,Water & Sewer,-53,CA
+56930,10/2/2014,Credit Card Payment,-154,CA
+56930,10/2/2014,Time Warner Cable,-25,CA
+56930,10/2/2014,Whole Foods,-16.92,CA
+56930,10/2/2014,Amazon Order - Paint Bushes,-15.18,CA
+56930,10/2/2014,Art Auction,-17.69,CA
+56930,10/3/2014,Painting Course Fees,-5.64,CA
+56930,10/4/2014,Painting Course Fees,-18.47,CA
+56930,10/5/2014,Sprouts Market,-27.04,CA
+56930,10/5/2014,Lyft,-2.02,CA
+56930,10/6/2014,Amazon Order - Paint Bushes,-7.67,CA
+56930,10/6/2014,Von's Groceries,-52.81,CA
+56930,10/7/2014,Restaurant - Steakhouse,-107.61,CA
+56930,10/7/2014,Painting Course Fees,-19.63,CA
+56930,10/7/2014,Public Transportation - Bus Pass,-14.92,CA
+56930,10/7/2014,Lyft,-94.56,CA
+56930,10/8/2014,Public Transportation - Bus Pass,-30.52,CA
+56930,10/8/2014,Music Lessons - Piano,-35.6,CA
+56930,10/8/2014,Art's Art Supplies,-34.91,CA
+56930,10/8/2014,Restaurant - Steakhouse,-6.97,CA
+56930,10/8/2014,Lyft,-36.63,CA
+56930,10/8/2014,Music Lessons - Piano,-0.14,CA
+56930,10/8/2014,Public Transportation - Bus Pass,-20.84,CA
+56930,10/8/2014,Guitar Center,-11.14,CA
+56930,10/9/2014,Art's Art Supplies,-33.43,CA
+56930,10/9/2014,Art Auction,-29.62,CA
+56930,10/10/2014,Music Lessons - Piano,-13.84,CA
+56930,10/10/2014,Whole Foods,-19.29,CA
+56930,10/10/2014,Art Auction,-11.11,CA
+56930,10/10/2014,Ashley's Craft Store,-27.57,CA
+56930,10/10/2014,Von's Groceries,-0.99,CA
+56930,10/11/2014,Michael's Crafts,-34.43,CA
+56930,10/11/2014,Lyft,-14.96,CA
+56930,10/11/2014,Public Transportation - Train Pass,-59.12,CA
+56930,10/12/2014,Uber,-10.84,CA
+56930,10/12/2014,Michael's Crafts,-20.42,CA
+56930,10/12/2014,Restaurant - Steakhouse,-10.42,CA
+56930,10/12/2014,Painting Course Fees,-101.59,CA
+56930,10/12/2014,Von's Groceries,-12.49,CA
+56930,10/13/2014,Taxi,-18.22,CA
+56930,10/14/2014,Amazon Order - Paint Bushes,-0.24,CA
+56930,10/14/2014,Ashley's Craft Store,-21.3,CA
+56930,10/15/2014,Restaurant - Chinese,-30.96,CA
+56930,10/16/2014,Starbucks Coffee,-3.48,CA
+56930,10/17/2014,Amazon Order - Paint Canvas,-33.35,CA
+56930,10/17/2014,Michael's Crafts,-24.91,CA
+56930,10/18/2014,Art Auction,-31.62,CA
+56930,10/19/2014,Ashley's Craft Store,-97.2,CA
+56930,10/19/2014,Michael's Crafts,-20.86,CA
+56930,10/19/2014,Music Lessons - Piano,-15.46,CA
+56930,10/19/2014,Taxi,-11.29,CA
+56930,10/20/2014,Michael's Crafts,-31.07,CA
+56930,10/20/2014,Michael's Crafts,-38.29,CA
+56930,10/21/2014,Lyft,-3.83,CA
+56930,10/21/2014,Art's Art Supplies,-29.42,CA
+56930,10/21/2014,Ashley's Craft Store,-11.62,CA
+56930,10/21/2014,Public Transportation - Train Pass,-3.59,CA
+56930,10/21/2014,Restaurant - Chinese,-1.69,CA
+56930,10/21/2014,Art's Art Supplies,-18.57,CA
+56930,10/21/2014,Art's Art Supplies,-19.87,CA
+56930,10/22/2014,Amazon Order - Paint Bushes,-33.59,CA
+56930,10/22/2014,Amazon Order - Paint Canvas,-38.19,CA
+56930,10/22/2014,Guitar Center,-72.55,CA
+56930,10/23/2014,Michael's Crafts,-33.32,CA
+56930,10/23/2014,Amazon Order - Paint Bushes,-16.07,CA
+56930,10/23/2014,Ashley's Craft Store,-68.43,CA
+56930,10/23/2014,Art's Art Supplies,-0.03,CA
+56930,10/24/2014,Whole Foods,-25.1,CA
+56930,10/24/2014,Taxi,-102.42,CA
+56930,10/24/2014,Amazon Order - Paint Canvas,-11.25,CA
+56930,10/25/2014,Art Auction,-68.21,CA
+56930,10/25/2014,Music Lessons - Piano,-5.62,CA
+56930,10/25/2014,Michael's Crafts,-13.84,CA
+56930,10/25/2014,Restaurant - Burgers,-12.2,CA
+56930,10/25/2014,Art Auction,-8.07,CA
+56930,10/26/2014,Michael's Crafts,-32.43,CA
+56930,10/26/2014,Starbucks Coffee,-24.06,CA
+56930,10/26/2014,Public Transportation - Bus Pass,-11.77,CA
+56930,10/26/2014,Amazon Order - Paint Bushes,-22.87,CA
+56930,10/27/2014,Amazon Order - Paint Bushes,-3.91,CA
+56930,10/27/2014,Restaurant - Burgers,-8.52,CA
+56930,10/28/2014,Painting Course Fees,-19.65,CA
+56930,10/29/2014,Taxi,-35.33,CA
+56930,10/30/2014,Amazon Order - Paint Canvas,-26.13,CA
+56930,11/2/2014,Paycheck,3639,CA
+56930,11/2/2014,Housing Rent,-1247,CA
+56930,11/2/2014,Water & Sewer,-53,CA
+56930,11/2/2014,Credit Card Payment,-154,CA
+56930,11/2/2014,Time Warner Cable,-25,CA
+56930,11/2/2014,Guitar Center,-25,CA
+56930,11/2/2014,Amazon Order - Paint Bushes,-0.43,CA
+56930,11/2/2014,Music Lessons - Piano,-26.06,CA
+56930,11/3/2014,Art's Art Supplies,-29,CA
+56930,11/3/2014,Lyft,-34.1,CA
+56930,11/3/2014,Starbucks Coffee,-9.16,CA
+56930,11/4/2014,Art's Art Supplies,-8.02,CA
+56930,11/4/2014,Painting Course Fees,-9.93,CA
+56930,11/4/2014,Uber,-6.82,CA
+56930,11/4/2014,Music Lessons - Piano,-29.54,CA
+56930,11/4/2014,Music Lessons - Piano,-71.88,CA
+56930,11/4/2014,Ralph's Grocery Store,-28.03,CA
+56930,11/4/2014,Music Lessons - Piano,-24.54,CA
+56930,11/4/2014,Guitar Center,-109.86,CA
+56930,11/4/2014,Amazon Order - Paint Canvas,-38.31,CA
+56930,11/4/2014,Painting Course Fees,-4.1,CA
+56930,11/4/2014,Public Transportation - Train Pass,-27.3,CA
+56930,11/4/2014,Starbucks Coffee,-13.62,CA
+56930,11/4/2014,Amazon Order - Paint Bushes,-36.71,CA
+56930,11/4/2014,Painting Course Fees,-27.82,CA
+56930,11/5/2014,Guitar Center,-12.81,CA
+56930,11/5/2014,Guitar Center,-23.68,CA
+56930,11/5/2014,Von's Groceries,-12.35,CA
+56930,11/5/2014,Whole Foods,-34.02,CA
+56930,11/5/2014,Whole Foods,-72.78,CA
+56930,11/6/2014,Sprouts Market,-11.56,CA
+56930,11/7/2014,Ashley's Craft Store,-51.59,CA
+56930,11/7/2014,Michael's Crafts,-26.11,CA
+56930,11/7/2014,Public Transportation - Train Pass,-26.84,CA
+56930,11/7/2014,Guitar Center,-32.19,CA
+56930,11/8/2014,Amazon Order - Paint Canvas,-13.58,CA
+56930,11/9/2014,Taxi,-73.17,CA
+56930,11/9/2014,Amazon Order - Paint Canvas,-12.4,CA
+56930,11/9/2014,Art Auction,-13.48,CA
+56930,11/9/2014,Painting Course Fees,-39.76,CA
+56930,11/10/2014,Amazon Order - Paint Canvas,-19.87,CA
+56930,11/11/2014,Uber,-97.76,CA
+56930,11/11/2014,Amazon Order - Paint Bushes,-31.75,CA
+56930,11/12/2014,Painting Course Fees,-107.36,CA
+56930,11/13/2014,Amazon Order - Paint Bushes,-18.57,CA
+56930,11/13/2014,Guitar Center,-64.18,CA
+56930,11/13/2014,Public Transportation - Train Pass,-23.36,CA
+56930,11/14/2014,Whole Foods,-39.9,CA
+56930,11/15/2014,Art's Art Supplies,-26.49,CA
+56930,11/16/2014,Amazon Order - Paint Bushes,-6.47,CA
+56930,11/16/2014,Public Transportation - Train Pass,-38.46,CA
+56930,11/16/2014,Michael's Crafts,-0.33,CA
+56930,11/16/2014,Public Transportation - Bus Pass,-10.06,CA
+56930,11/16/2014,Painting Course Fees,-27.9,CA
+56930,11/17/2014,Restaurant - Pizza,-38.48,CA
+56930,11/17/2014,Ashley's Craft Store,-29.35,CA
+56930,11/17/2014,Ashley's Craft Store,-33.5,CA
+56930,11/17/2014,Uber,-11.47,CA
+56930,11/17/2014,Lyft,-1.71,CA
+56930,11/17/2014,Von's Groceries,-38.17,CA
+56930,11/18/2014,Guitar Center,-31.14,CA
+56930,11/18/2014,Michael's Crafts,-28.44,CA
+56930,11/19/2014,Lyft,-25.63,CA
+56930,11/20/2014,Amazon Order - Paint Bushes,-38.35,CA
+56930,11/20/2014,Michael's Crafts,-35.94,CA
+56930,11/21/2014,Restaurant - Pizza,-76.46,CA
+56930,11/21/2014,Uber,-35.07,CA
+56930,11/21/2014,Restaurant - Burgers,-13.51,CA
+56930,11/21/2014,Art Auction,-39.68,CA
+56930,11/21/2014,Amazon Order - Paint Canvas,-24.84,CA
+56930,11/22/2014,Art Auction,-32.01,CA
+56930,11/22/2014,Art's Art Supplies,-24.68,CA
+56930,11/22/2014,Music Lessons - Piano,-22.37,CA
+56930,11/23/2014,Painting Course Fees,-36.83,CA
+56930,11/24/2014,Amazon Order - Paint Canvas,-38.76,CA
+56930,11/24/2014,Michael's Crafts,-20.86,CA
+56930,11/24/2014,Ashley's Craft Store,-7.11,CA
+56930,11/24/2014,Taxi,-28.63,CA
+56930,11/24/2014,Public Transportation - Bus Pass,-32.11,CA
+56930,11/24/2014,Michael's Crafts,-20.2,CA
+56930,11/24/2014,Restaurant - Chinese,-4.21,CA
+56930,11/25/2014,Music Lessons - Piano,-20.92,CA
+56930,11/25/2014,Public Transportation - Train Pass,-9.2,CA
+56930,11/26/2014,Michael's Crafts,-8.63,CA
+56930,11/26/2014,Music Lessons - Piano,-36.62,CA
+56930,11/27/2014,Ashley's Craft Store,-38.99,CA
+56930,11/27/2014,Michael's Crafts,-8.79,CA
+56930,11/27/2014,Painting Course Fees,-29.71,CA
+56930,11/27/2014,Sprouts Market,-22.96,CA
+56930,11/27/2014,Art's Art Supplies,-17.29,CA
+56930,11/27/2014,Lyft,-75.19,CA
+56930,11/27/2014,Guitar Center,-51.94,CA
+56930,11/27/2014,Restaurant - Chinese,-50.1,CA
+56930,11/27/2014,Restaurant - Steakhouse,-13.48,CA
+56930,11/27/2014,Amazon Order - Paint Canvas,-96.92,CA
+56930,11/27/2014,Painting Course Fees,-105.09,CA
+56930,11/27/2014,Guitar Center,-7.29,CA
+56930,11/27/2014,Guitar Center,-32.42,CA
+56930,11/27/2014,Sprouts Market,-23.77,CA
+56930,11/27/2014,Public Transportation - Train Pass,-2.35,CA
+56930,11/27/2014,Art Auction,-31.95,CA
+56930,11/27/2014,Painting Course Fees,-5.84,CA
+56930,11/28/2014,Taxi,-66.11,CA
+56930,11/28/2014,Painting Course Fees,-4.57,CA
+56930,11/29/2014,Music Lessons - Piano,-35.65,CA
+56930,11/29/2014,Ashley's Craft Store,-28.4,CA
+56930,11/29/2014,Amazon Order - Paint Bushes,-33.18,CA
+56930,11/30/2014,Uber,-34.35,CA
+56930,11/30/2014,Uber,-34.08,CA
+56930,11/30/2014,Michael's Crafts,-84.34,CA
+56930,12/2/2014,Paycheck,3639,CA
+56930,12/2/2014,Housing Rent,-1305,CA
+56930,12/2/2014,Water & Sewer,-53,CA
+56930,12/2/2014,Credit Card Payment,-154,CA
+56930,12/2/2014,Time Warner Cable,-25,CA
+56930,12/2/2014,Music Lessons - Piano,-107.07,CA
+56930,12/3/2014,Music Lessons - Piano,-37.72,CA
+56930,12/3/2014,Amazon Order - Paint Bushes,-36.16,CA
+56930,12/3/2014,Art's Art Supplies,-30.84,CA
+56930,12/3/2014,Music Lessons - Piano,-47.29,CA
+56930,12/3/2014,Art Auction,-37.11,CA
+56930,12/3/2014,Ashley's Craft Store,-23.31,CA
+56930,12/3/2014,Lyft,-29.17,CA
+56930,12/4/2014,Michael's Crafts,-34.71,CA
+56930,12/4/2014,Amazon Order - Paint Bushes,-16.05,CA
+56930,12/4/2014,Amazon Order - Paint Bushes,-34.09,CA
+56930,12/4/2014,Art Auction,-37.32,CA
+56930,12/5/2014,Amazon Order - Paint Canvas,-26.39,CA
+56930,12/5/2014,Guitar Center,-21.81,CA
+56930,12/5/2014,Guitar Center,-6.65,CA
+56930,12/5/2014,Art's Art Supplies,-4.77,CA
+56930,12/5/2014,Art Auction,-1.24,CA
+56930,12/6/2014,Ashley's Craft Store,-3.59,CA
+56930,12/7/2014,Guitar Center,-8.67,CA
+56930,12/8/2014,Starbucks Coffee,-35.19,CA
+56930,12/8/2014,Ashley's Craft Store,-36.86,CA
+56930,12/9/2014,Taxi,-89.24,CA
+56930,12/9/2014,Taxi,-34.85,CA
+56930,12/9/2014,Amazon Order - Paint Bushes,-20.4,CA
+56930,12/10/2014,Painting Course Fees,-21.94,CA
+56930,12/11/2014,Art's Art Supplies,-35.6,CA
+56930,12/11/2014,Public Transportation - Bus Pass,-13.6,CA
+56930,12/11/2014,Ralph's Grocery Store,-34.12,CA
+56930,12/11/2014,Painting Course Fees,-21.88,CA
+56930,12/12/2014,Restaurant - Chinese,-29.45,CA
+56930,12/12/2014,Von's Groceries,-2.64,CA
+56930,12/13/2014,Whole Foods,-4.48,CA
+56930,12/13/2014,Restaurant - Burgers,-23.41,CA
+56930,12/13/2014,Art Auction,-31.68,CA
+56930,12/13/2014,Ashley's Craft Store,-27.98,CA
+56930,12/13/2014,Michael's Crafts,-10.56,CA
+56930,12/14/2014,Whole Foods,-83.28,CA
+56930,12/14/2014,Amazon Order - Paint Bushes,-11.69,CA
+56930,12/14/2014,Ashley's Craft Store,-79.71,CA
+56930,12/14/2014,Michael's Crafts,-36.78,CA
+56930,12/14/2014,Public Transportation - Bus Pass,-6.84,CA
+56930,12/14/2014,Art's Art Supplies,-4.38,CA
+56930,12/14/2014,Michael's Crafts,-36.08,CA
+56930,12/14/2014,Restaurant - Steakhouse,-7.08,CA
+56930,12/15/2014,Uber,-23.65,CA
+56930,12/16/2014,Amazon Order - Paint Bushes,-34.73,CA
+56930,12/16/2014,Painting Course Fees,-32.59,CA
+56930,12/17/2014,Painting Course Fees,-35.82,CA
+56930,12/18/2014,Public Transportation - Bus Pass,-1.2,CA
+56930,12/19/2014,Public Transportation - Bus Pass,-13.86,CA
+56930,12/20/2014,Amazon Order - Paint Canvas,-117.59,CA
+56930,12/21/2014,Amazon Order - Paint Bushes,-25.39,CA
+56930,12/21/2014,Lyft,-59.92,CA
+56930,12/21/2014,Art Auction,-25.58,CA
+56930,12/21/2014,Ashley's Craft Store,-29.24,CA
+56930,12/22/2014,Ashley's Craft Store,-30.29,CA
+56930,12/22/2014,Whole Foods,-10.02,CA
+56930,12/23/2014,Art Auction,-35.69,CA
+56930,12/24/2014,Michael's Crafts,-13.37,CA
+56930,12/25/2014,Michael's Crafts,-61.05,CA
+56930,12/26/2014,Art's Art Supplies,-78.51,CA
+56930,12/27/2014,Painting Course Fees,-29.61,CA
+56930,12/27/2014,Public Transportation - Bus Pass,-65.69,CA
+56930,12/27/2014,Lyft,-1.9,CA
+56930,12/27/2014,Michael's Crafts,-34.05,CA
+56930,12/27/2014,Amazon Order - Paint Bushes,-2.56,CA
+56930,12/27/2014,Whole Foods,-19.98,CA
+56930,12/28/2014,Ralph's Grocery Store,-17.7,CA
+56930,12/28/2014,Ashley's Craft Store,-4.52,CA
+56930,12/28/2014,Amazon Order - Paint Bushes,-5.82,CA
+56930,12/29/2014,Sprouts Market,-10.55,CA
+56930,12/29/2014,Amazon Order - Paint Canvas,-15.09,CA
+56930,12/29/2014,Ashley's Craft Store,-31.6,CA
+56930,12/29/2014,Amazon Order - Paint Canvas,-15.5,CA
+56930,12/29/2014,Michael's Crafts,-35.29,CA
+56930,12/29/2014,Restaurant - Pizza,-65.42,CA
+56930,12/30/2014,Amazon Order - Paint Canvas,-18.76,CA
+56930,12/32/2014,Music Lessons - Piano,-25.16,CA
+56930,12/32/2014,Food Delivery - GrubHub,-38.36,CA
+56930,12/32/2014,Taxi,-29.06,CA
