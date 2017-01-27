@@ -29,3 +29,11 @@ Your task is to identify features – details about the individual and their lif
  
 # Disclaimer:
 This is merely an exercise to test your thinking about a problem that we are passionate about. It is not intended to create any stereotypes or make relevant suggestions regarding relationships. Please take all learnings from this problem with a grain of salt.
+
+
+### Some Helpful Tools
+These tools provide machine learning utilities so feel free to use them or anything else:
+
+* http://scikit-learn.org/ (python)
+* https://www.npmjs.com/package/scikit-learn (JavaScript)
+* http://java-ml.sourceforge.net/ (Java)
