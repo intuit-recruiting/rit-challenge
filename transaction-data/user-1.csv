@@ -1,0 +1,2321 @@
+auth_id, Date, Vendor, Amount, Location 
+63891,1/2/2013,Ice Skating Rink,-4.49,CA
+63891,1/2/2013,Bowling,-16.3,CA
+63891,1/2/2013,Owl Night Club,-36.73,CA
+63891,1/3/2013,Concert Ticket,-16.64,CA
+63891,1/3/2013,Public Transportation - Bus Pass,-4.34,CA
+63891,1/3/2013,Sprouts Market,-7.6,CA
+63891,1/3/2013,Uber,-29.75,CA
+63891,1/3/2013,Bowling,-9.16,CA
+63891,1/3/2013,Seaside Bar,-2.74,CA
+63891,1/3/2013,Movie Ticket,-13.99,CA
+63891,1/3/2013,Bowling,-18.73,CA
+63891,1/4/2013,John's Bar & Restaurant,-42.22,CA
+63891,1/4/2013,Fisker Night Club,-41.32,CA
+63891,1/4/2013,Karaoke Bar,-28.19,CA
+63891,1/4/2013,Taxi,-39.16,CA
+63891,1/4/2013,Bowling,-31.39,CA
+63891,1/4/2013,Wine Bar,-11.95,CA
+63891,1/5/2013,Karaoke Bar,-28.55,CA
+63891,1/6/2013,Fisker Night Club,-12.48,CA
+63891,1/6/2013,Fisker Night Club,-19.34,CA
+63891,1/7/2013,Restaurant - Burgers,-14.15,CA
+63891,1/8/2013,Concert Ticket,-3.01,CA
+63891,1/9/2013,Von's Groceries,-1.14,CA
+63891,1/9/2013,Bowling,-39.34,CA
+63891,1/10/2013,John's Bar & Restaurant,-1.49,CA
+63891,1/11/2013,Bowling,-39.56,CA
+63891,1/11/2013,Bowling,-10.75,CA
+63891,1/11/2013,Public Transportation - Bus Pass,-15.67,CA
+63891,1/12/2013,Owl Night Club,-35.92,CA
+63891,1/13/2013,John's Bar & Restaurant,-2.26,CA
+63891,1/13/2013,Lyft,-29.14,CA
+63891,1/13/2013,Fisker Night Club,-119.09,CA
+63891,1/14/2013,Owl Night Club,-7.2,CA
+63891,1/14/2013,Seaside Bar,-54.02,CA
+63891,1/15/2013,Karaoke Bar,-23.67,CA
+63891,1/15/2013,Movie Ticket,-26.45,CA
+63891,1/15/2013,Ice Skating Rink,-27.36,CA
+63891,1/16/2013,Sprouts Market,-32.26,CA
+63891,1/16/2013,Ralph's Grocery Store,-15.28,CA
+63891,1/16/2013,Concert Ticket,-55.61,CA
+63891,1/16/2013,Divorce Lawyer Fees,-17.23,CA
+63891,1/16/2013,Comfort Inn,-8.25,CA
+63891,1/16/2013,Best Western Hotel,-33.84,CA
+63891,1/17/2013,Green Flash Brewery,-18.69,CA
+63891,1/17/2013,Fisker Night Club,-8.48,CA
+63891,1/18/2013,Restaurant - Pizza,-24.43,CA
+63891,1/19/2013,Fisker Night Club,-24.5,CA
+63891,1/20/2013,Public Transportation - Train Pass,-36.03,CA
+63891,1/20/2013,Movie Ticket,-28.13,CA
+63891,1/20/2013,Wine Bar,-13.56,CA
+63891,1/21/2013,Uber,-19.19,CA
+63891,1/21/2013,Concert Ticket,-7.33,CA
+63891,1/22/2013,Public Transportation - Train Pass,-0.85,CA
+63891,1/22/2013,Von's Groceries,-26.54,CA
+63891,1/22/2013,Lyft,-13.24,CA
+63891,1/23/2013,Public Transportation - Bus Pass,-33.82,CA
+63891,1/23/2013,Karaoke Bar,-35.25,CA
+63891,1/23/2013,Restaurant - Burgers,-3.43,CA
+63891,1/24/2013,Restaurant - Pizza,-9.01,CA
+63891,1/24/2013,Food Delivery - GrubHub,-20.14,CA
+63891,1/24/2013,Sprouts Market,-55.04,CA
+63891,1/24/2013,Public Transportation - Train Pass,-11.42,CA
+63891,1/24/2013,Movie Ticket,-35.69,CA
+63891,1/24/2013,Karaoke Bar,-27.27,CA
+63891,1/24/2013,Restaurant - Chinese,-28.77,CA
+63891,1/24/2013,Green Flash Brewery,-8.37,CA
+63891,1/25/2013,Sprouts Market,-2.58,CA
+63891,1/25/2013,Whole Foods,-29.05,CA
+63891,1/25/2013,Movie Ticket,-63.3,CA
+63891,1/25/2013,Starbucks Coffee,-36.11,CA
+63891,1/26/2013,Fisker Night Club,-1.3,CA
+63891,1/26/2013,Ralph's Grocery Store,-22.22,CA
+63891,1/26/2013,Green Flash Brewery,-29.06,CA
+63891,1/26/2013,Taxi,-39.92,CA
+63891,1/26/2013,Starbucks Coffee,-33.62,CA
+63891,1/27/2013,Rodriguez's Bar and Grill,-12.37,CA
+63891,1/28/2013,Ice Skating Rink,-22.22,CA
+63891,1/29/2013,Bowling,-107.29,CA
+63891,1/29/2013,Ralph's Grocery Store,-37.21,CA
+63891,1/29/2013,Whole Foods,-3.01,CA
+63891,1/29/2013,Starbucks Coffee,-21.82,CA
+63891,1/30/2013,Owl Night Club,-5.44,CA
+63891,1/30/2013,Green Flash Brewery,-31.15,CA
+63891,1/30/2013,Restaurant - Burgers,-23.71,CA
+63891,1/30/2013,Seaside Bar,-9.88,CA
+63891,3/2/2013,Housing Rent,-968,CA
+63891,3/2/2013,Gas & Electric,-32,CA
+63891,3/2/2013,ACS - Student Loans,-135,CA
+63891,3/2/2013,Netflix Subscription,-4.99,CA
+63891,3/2/2013,Navient - Student Loans,-197,CA
+63891,3/2/2013,Water & Sewer,-53,CA
+63891,3/2/2013,Credit Card Payment,-154,CA
+63891,3/2/2013,Time Warner Cable,-25,CA
+63891,3/2/2013,Bowling,-54.53,CA
+63891,3/2/2013,Bowling,-13.8,CA
+63891,3/2/2013,Concert Ticket,-112.22,CA
+63891,3/2/2013,Public Transportation - Bus Pass,-14.15,CA
+63891,3/2/2013,Seaside Bar,-7.55,CA
+63891,3/2/2013,Karaoke Bar,-7.68,CA
+63891,3/2/2013,Von's Groceries,-32.56,CA
+63891,3/3/2013,Rodriguez's Bar and Grill,-78.39,CA
+63891,3/3/2013,Restaurant - Pizza,-15.85,CA
+63891,3/3/2013,Public Transportation - Train Pass,-107.52,CA
+63891,3/3/2013,Wine Bar,-7.43,CA
+63891,3/3/2013,Karaoke Bar,-10.8,CA
+63891,3/3/2013,Lyft,-4.65,CA
+63891,3/3/2013,Bowling,-30.68,CA
+63891,3/4/2013,Public Transportation - Train Pass,-64.46,CA
+63891,3/4/2013,Ralph's Grocery Store,-23.06,CA
+63891,3/4/2013,Owl Night Club,-36.91,CA
+63891,3/5/2013,Uber,-4.72,CA
+63891,3/5/2013,Owl Night Club,-24.79,CA
+63891,3/6/2013,Wine Bar,-95.45,CA
+63891,3/6/2013,Taxi,-22.25,CA
+63891,3/7/2013,Bowling,-74.67,CA
+63891,3/7/2013,Wine Bar,-16.73,CA
+63891,3/8/2013,Karaoke Bar,-7.38,CA
+63891,3/9/2013,Rodriguez's Bar and Grill,-58.69,CA
+63891,3/9/2013,Concert Ticket,-30.51,CA
+63891,3/9/2013,Restaurant - Chinese,-23.94,CA
+63891,3/9/2013,Rodriguez's Bar and Grill,-39.57,CA
+63891,3/9/2013,Movie Ticket,-28.14,CA
+63891,3/9/2013,Owl Night Club,-19.74,CA
+63891,3/9/2013,Green Flash Brewery,-35.22,CA
+63891,3/9/2013,Public Transportation - Train Pass,-102.85,CA
+63891,3/9/2013,Restaurant - Chinese,-28.74,CA
+63891,3/10/2013,Owl Night Club,-73.76,CA
+63891,3/11/2013,Karaoke Bar,-23.45,CA
+63891,3/11/2013,Ralph's Grocery Store,-37.46,CA
+63891,3/12/2013,Restaurant - Chinese,-38.01,CA
+63891,3/12/2013,Owl Night Club,-9.28,CA
+63891,3/12/2013,Food Delivery - GrubHub,-7.55,CA
+63891,3/12/2013,Ralph's Grocery Store,-14.17,CA
+63891,3/12/2013,Taxi,-12.72,CA
+63891,3/12/2013,Fisker Night Club,-7.88,CA
+63891,3/12/2013,Taxi,-24.72,CA
+63891,3/12/2013,Public Transportation - Bus Pass,-12.75,CA
+63891,3/13/2013,Wine Bar,-106.23,CA
+63891,3/13/2013,Public Transportation - Bus Pass,-21.7,CA
+63891,3/13/2013,Karaoke Bar,-16.48,CA
+63891,3/13/2013,Lyft,-85.02,CA
+63891,3/13/2013,John's Bar & Restaurant,-7.16,CA
+63891,3/14/2013,Bowling,-10.38,CA
+63891,3/14/2013,Movie Ticket,-15.58,CA
+63891,3/15/2013,Ice Skating Rink,-32.79,CA
+63891,3/15/2013,Seaside Bar,-15.86,CA
+63891,3/16/2013,Public Transportation - Bus Pass,-2.95,CA
+63891,3/16/2013,Von's Groceries,-23.81,CA
+63891,3/16/2013,Bowling,-7.96,CA
+63891,3/16/2013,Seaside Bar,-82.18,CA
+63891,3/16/2013,Karaoke Bar,-26.56,CA
+63891,3/16/2013,Fisker Night Club,-13.93,CA
+63891,3/16/2013,Wine Bar,-34.53,CA
+63891,3/16/2013,Public Transportation - Bus Pass,-32.78,CA
+63891,3/16/2013,Fisker Night Club,-2.37,CA
+63891,3/16/2013,Taxi,-18.67,CA
+63891,3/16/2013,Taxi,-29.14,CA
+63891,3/17/2013,Von's Groceries,-39.28,CA
+63891,3/18/2013,Ralph's Grocery Store,-48.94,CA
+63891,3/18/2013,Restaurant - Burgers,-76.64,CA
+63891,3/18/2013,Ice Skating Rink,-30.31,CA
+63891,3/18/2013,Wine Bar,-27.55,CA
+63891,3/19/2013,Concert Ticket,-39.79,CA
+63891,3/19/2013,Restaurant - Burgers,-22.6,CA
+63891,3/19/2013,Owl Night Club,-101.28,CA
+63891,3/20/2013,Public Transportation - Bus Pass,-31.46,CA
+63891,3/20/2013,Sprouts Market,-4.43,CA
+63891,3/20/2013,Movie Ticket,-26.67,CA
+63891,3/20/2013,Restaurant - Burgers,-10.52,CA
+63891,3/21/2013,Restaurant - Pizza,-1.21,CA
+63891,3/21/2013,Karaoke Bar,-5.73,CA
+63891,3/21/2013,Bowling,-38.08,CA
+63891,3/21/2013,Lyft,-6.33,CA
+63891,3/22/2013,Taxi,-12.83,CA
+63891,3/22/2013,Food Delivery - GrubHub,-0.98,CA
+63891,3/22/2013,Rodriguez's Bar and Grill,-53.65,CA
+63891,3/23/2013,Restaurant - Chinese,-87.5,CA
+63891,3/23/2013,John's Bar & Restaurant,-24.44,CA
+63891,3/23/2013,Public Transportation - Bus Pass,-32.91,CA
+63891,3/23/2013,Public Transportation - Train Pass,-17.15,CA
+63891,3/23/2013,Seaside Bar,-21.35,CA
+63891,3/23/2013,Movie Ticket,-102.48,CA
+63891,3/23/2013,Movie Ticket,-4.69,CA
+63891,3/23/2013,Fisker Night Club,-8.57,CA
+63891,3/23/2013,Restaurant - Chinese,-54.39,CA
+63891,3/23/2013,John's Bar & Restaurant,-33.71,CA
+63891,3/23/2013,Ice Skating Rink,-37.38,CA
+63891,3/24/2013,Fisker Night Club,-39.98,CA
+63891,3/24/2013,Fisker Night Club,-15.53,CA
+63891,3/25/2013,Movie Ticket,-26.87,CA
+63891,3/26/2013,Movie Ticket,-103.76,CA
+63891,3/26/2013,Green Flash Brewery,-119.65,CA
+63891,3/26/2013,Restaurant - Burgers,-20.47,CA
+63891,3/26/2013,Fisker Night Club,-15.68,CA
+63891,3/26/2013,Bowling,-118.81,CA
+63891,3/26/2013,Bowling,-31.14,CA
+63891,3/26/2013,Restaurant - Steakhouse,-39.08,CA
+63891,3/27/2013,Taxi,-17.9,CA
+63891,3/27/2013,Restaurant - Burgers,-11.37,CA
+63891,3/27/2013,Ice Skating Rink,-25.09,CA
+63891,3/27/2013,John's Bar & Restaurant,-28.04,CA
+63891,3/27/2013,Lyft,-0.88,CA
+63891,3/27/2013,Bowling,-56.64,CA
+63891,3/28/2013,Restaurant - Pizza,-21.75,CA
+63891,3/29/2013,Karaoke Bar,-17.73,CA
+63891,3/29/2013,Seaside Bar,-54.06,CA
+63891,3/30/2013,Restaurant - Chinese,-9.7,CA
+63891,3/30/2013,Ice Skating Rink,-39.91,CA
+63891,3/30/2013,Rodriguez's Bar and Grill,-24.71,CA
+63891,3/30/2013,Wine Bar,-83.29,CA
+63891,4/2/2013,Housing Rent,-823,CA
+63891,4/2/2013,Gas & Electric,-32,CA
+63891,4/2/2013,ACS - Student Loans,-135,CA
+63891,4/2/2013,Netflix Subscription,-4.99,CA
+63891,4/2/2013,Navient - Student Loans,-197,CA
+63891,4/2/2013,Water & Sewer,-53,CA
+63891,4/2/2013,Credit Card Payment,-154,CA
+63891,4/2/2013,Time Warner Cable,-25,CA
+63891,4/2/2013,Movie Ticket,-59.51,CA
+63891,4/3/2013,Bowling,-5.3,CA
+63891,4/4/2013,Seaside Bar,-30.28,CA
+63891,4/4/2013,John's Bar & Restaurant,-0.55,CA
+63891,4/4/2013,Seaside Bar,-29.85,CA
+63891,4/5/2013,Public Transportation - Bus Pass,-4.81,CA
+63891,4/5/2013,John's Bar & Restaurant,-34.89,CA
+63891,4/5/2013,Concert Ticket,-100.04,CA
+63891,4/5/2013,Karaoke Bar,-31.64,CA
+63891,4/5/2013,Owl Night Club,-30,CA
+63891,4/5/2013,Ice Skating Rink,-80.02,CA
+63891,4/5/2013,Rodriguez's Bar and Grill,-16.65,CA
+63891,4/5/2013,Lyft,-31.47,CA
+63891,4/5/2013,John's Bar & Restaurant,-15.67,CA
+63891,4/6/2013,Green Flash Brewery,-15.73,CA
+63891,4/6/2013,Ice Skating Rink,-33.53,CA
+63891,4/6/2013,Karaoke Bar,-20.07,CA
+63891,4/6/2013,Taxi,-22.12,CA
+63891,4/6/2013,Green Flash Brewery,-6.09,CA
+63891,4/6/2013,Wine Bar,-30.29,CA
+63891,4/7/2013,Wine Bar,-31.95,CA
+63891,4/7/2013,Ice Skating Rink,-37.74,CA
+63891,4/7/2013,Ice Skating Rink,-38.93,CA
+63891,4/8/2013,Public Transportation - Train Pass,-58.35,CA
+63891,4/8/2013,Seaside Bar,-34.19,CA
+63891,4/8/2013,Sprouts Market,-21.82,CA
+63891,4/8/2013,Rodriguez's Bar and Grill,-22.42,CA
+63891,4/8/2013,Von's Groceries,-16.87,CA
+63891,4/9/2013,John's Bar & Restaurant,-7.49,CA
+63891,4/9/2013,Green Flash Brewery,-31.78,CA
+63891,4/9/2013,Rodriguez's Bar and Grill,-11.84,CA
+63891,4/9/2013,Uber,-39.08,CA
+63891,4/10/2013,Movie Ticket,-27.81,CA
+63891,4/10/2013,Whole Foods,-68.07,CA
+63891,4/10/2013,Rodriguez's Bar and Grill,-17.18,CA
+63891,4/10/2013,Restaurant - Burgers,-78.66,CA
+63891,4/10/2013,Karaoke Bar,-36.3,CA
+63891,4/10/2013,Wine Bar,-6.59,CA
+63891,4/10/2013,Whole Foods,-81.34,CA
+63891,4/10/2013,Lyft,-31.19,CA
+63891,4/10/2013,Karaoke Bar,-7.44,CA
+63891,4/10/2013,Public Transportation - Bus Pass,-62.47,CA
+63891,4/11/2013,Public Transportation - Train Pass,-1.62,CA
+63891,4/11/2013,Movie Ticket,-12.31,CA
+63891,4/11/2013,Movie Ticket,-119.96,CA
+63891,4/11/2013,Bowling,-9.5,CA
+63891,4/11/2013,Lyft,-75.82,CA
+63891,4/12/2013,Fisker Night Club,-33.24,CA
+63891,4/12/2013,Ralph's Grocery Store,-6.95,CA
+63891,4/12/2013,Public Transportation - Bus Pass,-6.11,CA
+63891,4/13/2013,Movie Ticket,-15.23,CA
+63891,4/13/2013,John's Bar & Restaurant,-30.79,CA
+63891,4/14/2013,Wine Bar,-76.33,CA
+63891,4/14/2013,Mark's Movers,-24.32,CA
+63891,4/14/2013,FedEx Shipping,-19.92,CA
+63891,4/14/2013,Jerome's Furniture,-12.21,CA
+63891,4/14/2013,Home Depot,-41.56,CA
+63891,4/14/2013,Refrigerator Depot,-116.25,CA
+63891,4/14/2013,Hamilton Move & Storage,-37.4,CA
+63891,4/15/2013,Whole Foods,-11.86,CA
+63891,4/15/2013,Fisker Night Club,-19.78,CA
+63891,4/15/2013,Wine Bar,-21.29,CA
+63891,4/15/2013,John's Bar & Restaurant,-80.08,CA
+63891,4/15/2013,John's Bar & Restaurant,-22.6,CA
+63891,4/15/2013,Movie Ticket,-9.48,CA
+63891,4/15/2013,Whole Foods,-36.87,CA
+63891,4/16/2013,John's Bar & Restaurant,-13.42,CA
+63891,4/16/2013,Fisker Night Club,-37.8,CA
+63891,4/16/2013,Uber,-9.96,CA
+63891,4/17/2013,Seaside Bar,-25.86,CA
+63891,4/17/2013,Taxi,-36.42,CA
+63891,4/17/2013,Restaurant - Chinese,-6.93,CA
+63891,4/18/2013,Uber,-87.62,CA
+63891,4/18/2013,Fisker Night Club,-109.31,CA
+63891,4/18/2013,Owl Night Club,-29.78,CA
+63891,4/19/2013,Uber,-39.5,CA
+63891,4/19/2013,Restaurant - Chinese,-30.41,CA
+63891,4/19/2013,Rodriguez's Bar and Grill,-14.84,CA
+63891,4/19/2013,Bowling,-15.76,CA
+63891,4/19/2013,Bowling,-34.54,CA
+63891,4/19/2013,Fisker Night Club,-4.66,CA
+63891,4/19/2013,Movie Ticket,-95.81,CA
+63891,4/19/2013,Von's Groceries,-22.7,CA
+63891,4/19/2013,Public Transportation - Bus Pass,-21.4,CA
+63891,4/19/2013,Movie Ticket,-93.54,CA
+63891,4/20/2013,Karaoke Bar,-35.27,CA
+63891,4/20/2013,Green Flash Brewery,-30.16,CA
+63891,4/21/2013,Owl Night Club,-15.83,CA
+63891,4/21/2013,Fisker Night Club,-32.57,CA
+63891,4/21/2013,Ice Skating Rink,-16.37,CA
+63891,4/22/2013,Restaurant - Chinese,-22.81,CA
+63891,4/23/2013,Taxi,-95.72,CA
+63891,4/24/2013,Public Transportation - Train Pass,-30.73,CA
+63891,4/24/2013,Seaside Bar,-2.35,CA
+63891,4/24/2013,John's Bar & Restaurant,-7.25,CA
+63891,4/24/2013,Seaside Bar,-45.11,CA
+63891,4/25/2013,Concert Ticket,-5.3,CA
+63891,4/25/2013,Owl Night Club,-118.16,CA
+63891,4/25/2013,Owl Night Club,-103.5,CA
+63891,4/25/2013,Karaoke Bar,-4.6,CA
+63891,4/25/2013,Fisker Night Club,-77.56,CA
+63891,4/25/2013,Karaoke Bar,-24.4,CA
+63891,4/25/2013,Bowling,-59.7,CA
+63891,4/25/2013,Restaurant - Chinese,-42.83,CA
+63891,4/26/2013,Owl Night Club,-3.54,CA
+63891,4/26/2013,Taxi,-28.23,CA
+63891,4/26/2013,Lyft,-17.47,CA
+63891,4/27/2013,John's Bar & Restaurant,-11.13,CA
+63891,4/28/2013,Sprouts Market,-101.42,CA
+63891,4/29/2013,Owl Night Club,-38.72,CA
+63891,4/30/2013,Public Transportation - Bus Pass,-31.44,CA
+63891,4/30/2013,Lyft,-36.88,CA
+63891,4/30/2013,Seaside Bar,-1.4,CA
+63891,4/30/2013,Concert Ticket,-75.12,CA
+63891,5/2/2013,Housing Rent,-983,CA
+63891,5/2/2013,Gas & Electric,-32,CA
+63891,5/2/2013,ACS - Student Loans,-135,CA
+63891,5/2/2013,Netflix Subscription,-4.99,CA
+63891,5/2/2013,Navient - Student Loans,-197,CA
+63891,5/2/2013,Water & Sewer,-53,CA
+63891,5/2/2013,Credit Card Payment,-154,CA
+63891,5/2/2013,Time Warner Cable,-25,CA
+63891,5/2/2013,Owl Night Club,-32.74,CA
+63891,5/2/2013,Restaurant - Chinese,-20.82,CA
+63891,5/2/2013,Uber,-64.04,CA
+63891,5/2/2013,Rodriguez's Bar and Grill,-24.24,CA
+63891,5/2/2013,Public Transportation - Train Pass,-92.31,CA
+63891,5/2/2013,Sprouts Market,-10.9,CA
+63891,5/3/2013,Fisker Night Club,-117.67,CA
+63891,5/4/2013,Public Transportation - Train Pass,-5.04,CA
+63891,5/4/2013,Fisker Night Club,-8.96,CA
+63891,5/5/2013,Bowling,-30.27,CA
+63891,5/5/2013,Fisker Night Club,-24.62,CA
+63891,5/6/2013,Concert Ticket,-2.58,CA
+63891,5/7/2013,Karaoke Bar,-6.78,CA
+63891,5/8/2013,Seaside Bar,-19.05,CA
+63891,5/8/2013,Karaoke Bar,-14.7,CA
+63891,5/8/2013,Seaside Bar,-33.94,CA
+63891,5/8/2013,Seaside Bar,-101.98,CA
+63891,5/9/2013,Public Transportation - Bus Pass,-105.35,CA
+63891,5/10/2013,John's Bar & Restaurant,-12.66,CA
+63891,5/10/2013,Karaoke Bar,-38.05,CA
+63891,5/11/2013,Movie Ticket,-8.02,CA
+63891,5/12/2013,Concert Ticket,-10.13,CA
+63891,5/13/2013,Owl Night Club,-0.5,CA
+63891,5/14/2013,Public Transportation - Train Pass,-19.07,CA
+63891,5/14/2013,Owl Night Club,-6.27,CA
+63891,5/14/2013,Owl Night Club,-2.13,CA
+63891,5/14/2013,Rodriguez's Bar and Grill,-1.67,CA
+63891,5/14/2013,Rodriguez's Bar and Grill,-104.72,CA
+63891,5/15/2013,Movie Ticket,-9.76,CA
+63891,5/16/2013,Uber,-93.95,CA
+63891,5/17/2013,Wine Bar,-16.3,CA
+63891,5/18/2013,Von's Groceries,-8.31,CA
+63891,5/18/2013,Food Delivery - GrubHub,-5.78,CA
+63891,5/19/2013,Owl Night Club,-15.83,CA
+63891,5/19/2013,Owl Night Club,-6.24,CA
+63891,5/19/2013,Restaurant - Steakhouse,-23.93,CA
+63891,5/20/2013,Concert Ticket,-33.5,CA
+63891,5/20/2013,Starbucks Coffee,-7.67,CA
+63891,5/20/2013,Taxi,-35.06,CA
+63891,5/20/2013,Uber,-28.86,CA
+63891,5/21/2013,Bowling,-28.76,CA
+63891,5/21/2013,Wine Bar,-28.45,CA
+63891,5/22/2013,Public Transportation - Train Pass,-32.41,CA
+63891,5/22/2013,Bowling,-25.19,CA
+63891,5/22/2013,Restaurant - Steakhouse,-12.85,CA
+63891,5/23/2013,Rodriguez's Bar and Grill,-30.68,CA
+63891,5/23/2013,John's Bar & Restaurant,-30.56,CA
+63891,5/23/2013,Restaurant - Burgers,-96.57,CA
+63891,5/23/2013,Public Transportation - Bus Pass,-19.89,CA
+63891,5/23/2013,Public Transportation - Train Pass,-19.63,CA
+63891,5/23/2013,Public Transportation - Train Pass,-39.34,CA
+63891,5/24/2013,Lyft,-10.29,CA
+63891,5/24/2013,Karaoke Bar,-1.72,CA
+63891,5/25/2013,Owl Night Club,-16.17,CA
+63891,5/25/2013,Sprouts Market,-32.73,CA
+63891,5/25/2013,Restaurant - Burgers,-18.02,CA
+63891,5/26/2013,Karaoke Bar,-22.28,CA
+63891,5/27/2013,Movie Ticket,-72.88,CA
+63891,5/27/2013,Rodriguez's Bar and Grill,-27.15,CA
+63891,5/27/2013,Public Transportation - Train Pass,-22.18,CA
+63891,5/27/2013,Public Transportation - Train Pass,-86.61,CA
+63891,5/27/2013,Rodriguez's Bar and Grill,-35.01,CA
+63891,5/28/2013,Green Flash Brewery,-61.24,CA
+63891,5/29/2013,Fisker Night Club,-12.09,CA
+63891,5/29/2013,Wine Bar,-27.45,CA
+63891,5/30/2013,Concert Ticket,-104.9,CA
+63891,6/2/2013,Housing Rent,-877,CA
+63891,6/2/2013,Gas & Electric,-32,CA
+63891,6/2/2013,ACS - Student Loans,-135,CA
+63891,6/2/2013,Netflix Subscription,-4.99,CA
+63891,6/2/2013,Navient - Student Loans,-197,CA
+63891,6/2/2013,Water & Sewer,-53,CA
+63891,6/2/2013,Credit Card Payment,-154,CA
+63891,6/2/2013,Time Warner Cable,-25,CA
+63891,6/2/2013,Seaside Bar,-39.01,CA
+63891,6/2/2013,Public Transportation - Train Pass,-9.93,CA
+63891,6/3/2013,Food Delivery - GrubHub,-18.67,CA
+63891,6/3/2013,Public Transportation - Train Pass,-102.62,CA
+63891,6/3/2013,Fisker Night Club,-19.55,CA
+63891,6/3/2013,Karaoke Bar,-10.73,CA
+63891,6/3/2013,Bowling,-57.77,CA
+63891,6/3/2013,Green Flash Brewery,-66.19,CA
+63891,6/4/2013,Concert Ticket,-2.05,CA
+63891,6/5/2013,Uber,-29.38,CA
+63891,6/5/2013,John's Bar & Restaurant,-89.73,CA
+63891,6/5/2013,Karaoke Bar,-27.39,CA
+63891,6/5/2013,Starbucks Coffee,-11.02,CA
+63891,6/5/2013,Whole Foods,-11.64,CA
+63891,6/5/2013,Fisker Night Club,-70.18,CA
+63891,6/5/2013,Rodriguez's Bar and Grill,-24.95,CA
+63891,6/5/2013,Ice Skating Rink,-34.49,CA
+63891,6/5/2013,Rodriguez's Bar and Grill,-7.61,CA
+63891,6/5/2013,John's Bar & Restaurant,-9.76,CA
+63891,6/5/2013,Public Transportation - Train Pass,-8.89,CA
+63891,6/5/2013,Whole Foods,-33,CA
+63891,6/5/2013,Karaoke Bar,-35.55,CA
+63891,6/5/2013,Ice Skating Rink,-33.7,CA
+63891,6/5/2013,Ice Skating Rink,-81.11,CA
+63891,6/5/2013,Ice Skating Rink,-36.82,CA
+63891,6/5/2013,Starbucks Coffee,-12.18,CA
+63891,6/5/2013,John's Bar & Restaurant,-58.91,CA
+63891,6/5/2013,Karaoke Bar,-27.93,CA
+63891,6/6/2013,Fisker Night Club,-30.12,CA
+63891,6/6/2013,Green Flash Brewery,-2.77,CA
+63891,6/7/2013,Restaurant - Chinese,-105.21,CA
+63891,6/7/2013,Lyft,-16.33,CA
+63891,6/7/2013,Uber,-24.33,CA
+63891,6/7/2013,Fisker Night Club,-28.73,CA
+63891,6/7/2013,Lyft,-39.96,CA
+63891,6/7/2013,Concert Ticket,-31.97,CA
+63891,6/7/2013,Food Delivery - GrubHub,-14.24,CA
+63891,6/7/2013,Lyft,-37.89,CA
+63891,6/7/2013,Lyft,-25.78,CA
+63891,6/7/2013,Uber,-1.51,CA
+63891,6/7/2013,Restaurant - Chinese,-35.8,CA
+63891,6/8/2013,Rodriguez's Bar and Grill,-24.58,CA
+63891,6/8/2013,Public Transportation - Train Pass,-11.92,CA
+63891,6/8/2013,Lyft,-28.13,CA
+63891,6/8/2013,Ice Skating Rink,-34.05,CA
+63891,6/8/2013,Karaoke Bar,-36.09,CA
+63891,6/8/2013,Bowling,-5.86,CA
+63891,6/8/2013,Concert Ticket,-0.97,CA
+63891,6/8/2013,Ralph's Grocery Store,-4.63,CA
+63891,6/8/2013,Whole Foods,-35.76,CA
+63891,6/8/2013,Fisker Night Club,-19.91,CA
+63891,6/8/2013,Green Flash Brewery,-7.48,CA
+63891,6/8/2013,Wine Bar,-20.12,CA
+63891,6/8/2013,Whole Foods,-107.32,CA
+63891,6/8/2013,Lyft,-23.61,CA
+63891,6/8/2013,Taxi,-16.22,CA
+63891,6/8/2013,Owl Night Club,-4.84,CA
+63891,6/8/2013,Whole Foods,-14.52,CA
+63891,6/8/2013,Lyft,-9.9,CA
+63891,6/8/2013,Green Flash Brewery,-33.97,CA
+63891,6/9/2013,Green Flash Brewery,-1.56,CA
+63891,6/9/2013,John's Bar & Restaurant,-36.04,CA
+63891,6/9/2013,Seaside Bar,-15.17,CA
+63891,6/9/2013,Movie Ticket,-32.19,CA
+63891,6/9/2013,Uber,-41.58,CA
+63891,6/9/2013,Movie Ticket,-8.66,CA
+63891,6/9/2013,Whole Foods,-65.74,CA
+63891,6/10/2013,Food Delivery - GrubHub,-27.65,CA
+63891,6/10/2013,Seaside Bar,-12.09,CA
+63891,6/10/2013,Fisker Night Club,-98.75,CA
+63891,6/11/2013,Ice Skating Rink,-6.47,CA
+63891,6/11/2013,Green Flash Brewery,-24.18,CA
+63891,6/12/2013,Uber,-88.61,CA
+63891,6/13/2013,Uber,-119.24,CA
+63891,6/14/2013,Fisker Night Club,-9.34,CA
+63891,6/14/2013,Restaurant - Chinese,-21.12,CA
+63891,6/14/2013,Starbucks Coffee,-9.56,CA
+63891,6/15/2013,Von's Groceries,-11.11,CA
+63891,6/15/2013,Fisker Night Club,-43.94,CA
+63891,6/16/2013,Green Flash Brewery,-26.47,CA
+63891,6/17/2013,Seaside Bar,-39.15,CA
+63891,6/18/2013,Lyft,-8.81,CA
+63891,6/19/2013,Fisker Night Club,-24.54,CA
+63891,6/20/2013,Public Transportation - Bus Pass,-21.37,CA
+63891,6/20/2013,Public Transportation - Train Pass,-72.5,CA
+63891,6/20/2013,Restaurant - Steakhouse,-71.71,CA
+63891,6/20/2013,Rodriguez's Bar and Grill,-34.15,CA
+63891,6/20/2013,Sprouts Market,-38.45,CA
+63891,6/20/2013,Ice Skating Rink,-6.77,CA
+63891,6/20/2013,Public Transportation - Train Pass,-30.33,CA
+63891,6/20/2013,Lyft,-1.33,CA
+63891,6/21/2013,Restaurant - Steakhouse,-32.07,CA
+63891,6/21/2013,Restaurant - Pizza,-35.43,CA
+63891,6/21/2013,Restaurant - Steakhouse,-15.63,CA
+63891,6/21/2013,Public Transportation - Train Pass,-29.15,CA
+63891,6/21/2013,Sprouts Market,-23.55,CA
+63891,6/21/2013,Sprouts Market,-117.06,CA
+63891,6/21/2013,Owl Night Club,-26.11,CA
+63891,6/21/2013,Restaurant - Steakhouse,-18.55,CA
+63891,6/21/2013,John's Bar & Restaurant,-7.48,CA
+63891,6/21/2013,Fisker Night Club,-24.55,CA
+63891,6/22/2013,Food Delivery - GrubHub,-103.2,CA
+63891,6/22/2013,Starbucks Coffee,-17.1,CA
+63891,6/22/2013,Von's Groceries,-19.97,CA
+63891,6/22/2013,Starbucks Coffee,-1.97,CA
+63891,6/22/2013,Bowling,-6.53,CA
+63891,6/23/2013,Bowling,-29.94,CA
+63891,6/24/2013,Bowling,-23.52,CA
+63891,6/24/2013,Sprouts Market,-5.02,CA
+63891,6/25/2013,Rodriguez's Bar and Grill,-26.77,CA
+63891,6/25/2013,Bowling,-36.47,CA
+63891,6/25/2013,Movie Ticket,-15.47,CA
+63891,6/25/2013,Wine Bar,-42.78,CA
+63891,6/26/2013,Concert Ticket,-7.86,CA
+63891,6/26/2013,Concert Ticket,-37.64,CA
+63891,6/26/2013,Public Transportation - Train Pass,-52.22,CA
+63891,6/27/2013,Public Transportation - Train Pass,-11.02,CA
+63891,6/28/2013,Seaside Bar,-50.74,CA
+63891,6/28/2013,Owl Night Club,-27.38,CA
+63891,6/28/2013,Concert Ticket,-6.71,CA
+63891,6/29/2013,Seaside Bar,-31.53,CA
+63891,6/29/2013,Fisker Night Club,-8.87,CA
+63891,6/29/2013,Movie Ticket,-34.47,CA
+63891,6/30/2013,Taxi,-66.9,CA
+63891,7/2/2013,Housing Rent,-960,CA
+63891,7/2/2013,Gas & Electric,-32,CA
+63891,7/2/2013,ACS - Student Loans,-135,CA
+63891,7/2/2013,Netflix Subscription,-4.99,CA
+63891,7/2/2013,Navient - Student Loans,-197,CA
+63891,7/2/2013,Water & Sewer,-53,CA
+63891,7/2/2013,Credit Card Payment,-154,CA
+63891,7/2/2013,Time Warner Cable,-25,CA
+63891,7/2/2013,Wine Bar,-27.29,CA
+63891,7/3/2013,Restaurant - Steakhouse,-92.03,CA
+63891,7/3/2013,Whole Foods,-4.88,CA
+63891,7/3/2013,Karaoke Bar,-33.11,CA
+63891,7/3/2013,Food Delivery - GrubHub,-8.54,CA
+63891,7/3/2013,Concert Ticket,-34.66,CA
+63891,7/3/2013,Concert Ticket,-6.66,CA
+63891,7/3/2013,Concert Ticket,-22.75,CA
+63891,7/3/2013,Movie Ticket,-33.28,CA
+63891,7/3/2013,Public Transportation - Bus Pass,-12.46,CA
+63891,7/3/2013,Public Transportation - Train Pass,-7.5,CA
+63891,7/4/2013,Wine Bar,-34.09,CA
+63891,7/4/2013,Public Transportation - Bus Pass,-11.07,CA
+63891,7/4/2013,Movie Ticket,-20.13,CA
+63891,7/5/2013,Lyft,-10.41,CA
+63891,7/5/2013,Public Transportation - Train Pass,-15.88,CA
+63891,7/6/2013,Ice Skating Rink,-34.56,CA
+63891,7/6/2013,Ice Skating Rink,-32.1,CA
+63891,7/7/2013,Karaoke Bar,-23.38,CA
+63891,7/7/2013,Karaoke Bar,-7.62,CA
+63891,7/7/2013,Green Flash Brewery,-8.28,CA
+63891,7/7/2013,Green Flash Brewery,-6.21,CA
+63891,7/7/2013,Taxi,-4.36,CA
+63891,7/8/2013,Seaside Bar,-61.16,CA
+63891,7/8/2013,Bowling,-32.66,CA
+63891,7/8/2013,Rodriguez's Bar and Grill,-108.27,CA
+63891,7/8/2013,Wine Bar,-6.61,CA
+63891,7/8/2013,Concert Ticket,-21.83,CA
+63891,7/8/2013,Seaside Bar,-68.46,CA
+63891,7/8/2013,Taxi,-23.93,CA
+63891,7/8/2013,Owl Night Club,-25.92,CA
+63891,7/9/2013,Karaoke Bar,-10.49,CA
+63891,7/9/2013,Green Flash Brewery,-36.9,CA
+63891,7/9/2013,Rodriguez's Bar and Grill,-104,CA
+63891,7/9/2013,Concert Ticket,-26.77,CA
+63891,7/9/2013,Food Delivery - GrubHub,-32.07,CA
+63891,7/9/2013,Green Flash Brewery,-68.74,CA
+63891,7/10/2013,Uber,-3.07,CA
+63891,7/11/2013,Taxi,-13.97,CA
+63891,7/12/2013,Uber,-13.05,CA
+63891,7/12/2013,Restaurant - Steakhouse,-72.8,CA
+63891,7/13/2013,Whole Foods,-96.85,CA
+63891,7/14/2013,Rodriguez's Bar and Grill,-29.34,CA
+63891,7/14/2013,Movie Ticket,-13.04,CA
+63891,7/15/2013,Rodriguez's Bar and Grill,-82.53,CA
+63891,7/15/2013,Rodriguez's Bar and Grill,-34.31,CA
+63891,7/16/2013,Uber,-91.96,CA
+63891,7/16/2013,Seaside Bar,-11.04,CA
+63891,7/17/2013,Seaside Bar,-12.09,CA
+63891,7/17/2013,John's Bar & Restaurant,-0.32,CA
+63891,7/17/2013,Movie Ticket,-9.41,CA
+63891,7/18/2013,Rodriguez's Bar and Grill,-22.28,CA
+63891,7/18/2013,Taxi,-16.57,CA
+63891,7/18/2013,Owl Night Club,-21.65,CA
+63891,7/18/2013,Movie Ticket,-30.46,CA
+63891,7/18/2013,Owl Night Club,-3.59,CA
+63891,7/18/2013,Uber,-53.01,CA
+63891,7/19/2013,Uber,-31.96,CA
+63891,7/20/2013,Concert Ticket,-0.5,CA
+63891,7/21/2013,Public Transportation - Train Pass,-96.76,CA
+63891,7/21/2013,Ralph's Grocery Store,-7.84,CA
+63891,7/21/2013,Public Transportation - Train Pass,-21.09,CA
+63891,7/22/2013,Green Flash Brewery,-22.8,CA
+63891,7/22/2013,Bowling,-10.65,CA
+63891,7/22/2013,Seaside Bar,-48.26,CA
+63891,7/22/2013,Seaside Bar,-4.94,CA
+63891,7/23/2013,Lyft,-8.51,CA
+63891,7/24/2013,Wine Bar,-25.27,CA
+63891,7/25/2013,Seaside Bar,-113.02,CA
+63891,7/26/2013,Ralph's Grocery Store,-37.76,CA
+63891,7/26/2013,Wine Bar,-108.34,CA
+63891,7/26/2013,Bowling,-6.96,CA
+63891,7/26/2013,Uber,-9.39,CA
+63891,7/26/2013,Public Transportation - Bus Pass,-26.7,CA
+63891,7/27/2013,Owl Night Club,-27.23,CA
+63891,7/27/2013,Whole Foods,-31.61,CA
+63891,7/28/2013,Rodriguez's Bar and Grill,-98.83,CA
+63891,7/28/2013,Rodriguez's Bar and Grill,-32.58,CA
+63891,7/29/2013,Food Delivery - GrubHub,-2.55,CA
+63891,7/29/2013,Karaoke Bar,-13.51,CA
+63891,7/30/2013,Taxi,-81.2,CA
+63891,8/2/2013,Housing Rent,-1097,CA
+63891,8/2/2013,Gas & Electric,-32,CA
+63891,8/2/2013,ACS - Student Loans,-135,CA
+63891,8/2/2013,Netflix Subscription,-4.99,CA
+63891,8/2/2013,Navient - Student Loans,-197,CA
+63891,8/2/2013,Water & Sewer,-53,CA
+63891,8/2/2013,Credit Card Payment,-154,CA
+63891,8/2/2013,Time Warner Cable,-25,CA
+63891,8/2/2013,Lyft,-0.27,CA
+63891,8/2/2013,Rodriguez's Bar and Grill,-28.68,CA
+63891,8/2/2013,Fisker Night Club,-2,CA
+63891,8/2/2013,Taxi,-31.36,CA
+63891,8/3/2013,Wine Bar,-9.04,CA
+63891,8/4/2013,Ice Skating Rink,-7.9,CA
+63891,8/4/2013,Taxi,-5.34,CA
+63891,8/4/2013,Green Flash Brewery,-5.37,CA
+63891,8/4/2013,Rodriguez's Bar and Grill,-8.05,CA
+63891,8/4/2013,Restaurant - Pizza,-30.29,CA
+63891,8/4/2013,Food Delivery - GrubHub,-5.14,CA
+63891,8/4/2013,Seaside Bar,-2.97,CA
+63891,8/5/2013,Taxi,-50.78,CA
+63891,8/5/2013,Concert Ticket,-28.21,CA
+63891,8/5/2013,John's Bar & Restaurant,-19.58,CA
+63891,8/6/2013,Public Transportation - Bus Pass,-35.01,CA
+63891,8/7/2013,Seaside Bar,-38.88,CA
+63891,8/7/2013,Green Flash Brewery,-36.36,CA
+63891,8/7/2013,Taxi,-23.58,CA
+63891,8/8/2013,Seaside Bar,-28.16,CA
+63891,8/8/2013,Restaurant - Burgers,-27.34,CA
+63891,8/8/2013,Seaside Bar,-19.11,CA
+63891,8/8/2013,Bowling,-3.45,CA
+63891,8/8/2013,Wine Bar,-40.3,CA
+63891,8/8/2013,Concert Ticket,-22.17,CA
+63891,8/9/2013,Sprouts Market,-17.94,CA
+63891,8/9/2013,Starbucks Coffee,-54.63,CA
+63891,8/9/2013,Fisker Night Club,-18.82,CA
+63891,8/9/2013,Restaurant - Chinese,-9.3,CA
+63891,8/10/2013,Concert Ticket,-25.71,CA
+63891,8/11/2013,Public Transportation - Bus Pass,-5.07,CA
+63891,8/11/2013,Ralph's Grocery Store,-32.76,CA
+63891,8/11/2013,Movie Ticket,-37.18,CA
+63891,8/11/2013,Ice Skating Rink,-18.34,CA
+63891,8/11/2013,Ice Skating Rink,-14.78,CA
+63891,8/11/2013,Owl Night Club,-26.31,CA
+63891,8/12/2013,Public Transportation - Train Pass,-86.81,CA
+63891,8/13/2013,Owl Night Club,-33.1,CA
+63891,8/14/2013,Rodriguez's Bar and Grill,-10.83,CA
+63891,8/14/2013,Concert Ticket,-27.07,CA
+63891,8/14/2013,Public Transportation - Bus Pass,-33.81,CA
+63891,8/14/2013,Food Delivery - GrubHub,-29.03,CA
+63891,8/15/2013,Lyft,-15.83,CA
+63891,8/15/2013,Restaurant - Steakhouse,-104.84,CA
+63891,8/15/2013,Sprouts Market,-35.83,CA
+63891,8/16/2013,Lyft,-16.28,CA
+63891,8/17/2013,Concert Ticket,-22.62,CA
+63891,8/17/2013,John's Bar & Restaurant,-27.74,CA
+63891,8/17/2013,Public Transportation - Bus Pass,-34.1,CA
+63891,8/18/2013,Restaurant - Steakhouse,-23.34,CA
+63891,8/19/2013,Fisker Night Club,-7.62,CA
+63891,8/20/2013,Wine Bar,-15.02,CA
+63891,8/20/2013,Restaurant - Pizza,-9.8,CA
+63891,8/21/2013,Owl Night Club,-30.48,CA
+63891,8/22/2013,Public Transportation - Train Pass,-12.57,CA
+63891,8/22/2013,John's Bar & Restaurant,-7.89,CA
+63891,8/22/2013,Owl Night Club,-25.47,CA
+63891,8/22/2013,Bowling,-112.6,CA
+63891,8/22/2013,Rodriguez's Bar and Grill,-23.17,CA
+63891,8/22/2013,Rodriguez's Bar and Grill,-47.27,CA
+63891,8/22/2013,Whole Foods,-0.57,CA
+63891,8/22/2013,Ralph's Grocery Store,-23.54,CA
+63891,8/22/2013,Concert Ticket,-23.13,CA
+63891,8/22/2013,Taxi,-0.85,CA
+63891,8/22/2013,Taxi,-44.11,CA
+63891,8/23/2013,Taxi,-38,CA
+63891,8/23/2013,Restaurant - Pizza,-19.89,CA
+63891,8/24/2013,Rodriguez's Bar and Grill,-102.72,CA
+63891,8/24/2013,Lyft,-51.62,CA
+63891,8/24/2013,Bowling,-6.49,CA
+63891,8/24/2013,Green Flash Brewery,-107.49,CA
+63891,8/24/2013,Restaurant - Burgers,-27.49,CA
+63891,8/25/2013,Lyft,-4.43,CA
+63891,8/25/2013,John's Bar & Restaurant,-41.1,CA
+63891,8/25/2013,Uber,-28.37,CA
+63891,8/26/2013,Bowling,-13.32,CA
+63891,8/26/2013,Fisker Night Club,-7.38,CA
+63891,8/26/2013,Owl Night Club,-38.67,CA
+63891,8/26/2013,Restaurant - Chinese,-35.86,CA
+63891,8/26/2013,Owl Night Club,-50.94,CA
+63891,8/26/2013,Ice Skating Rink,-15.98,CA
+63891,8/26/2013,Wine Bar,-26.11,CA
+63891,8/27/2013,John's Bar & Restaurant,-43.39,CA
+63891,8/27/2013,Ralph's Grocery Store,-29.01,CA
+63891,8/27/2013,Public Transportation - Bus Pass,-18.38,CA
+63891,8/28/2013,Restaurant - Chinese,-28.34,CA
+63891,8/28/2013,Seaside Bar,-30.55,CA
+63891,8/28/2013,Movie Ticket,-114.19,CA
+63891,8/28/2013,Taxi,-18.28,CA
+63891,8/28/2013,Restaurant - Burgers,-4.08,CA
+63891,8/29/2013,Green Flash Brewery,-21.05,CA
+63891,8/29/2013,Concert Ticket,-13.81,CA
+63891,8/29/2013,Food Delivery - GrubHub,-30.35,CA
+63891,8/30/2013,Seaside Bar,-71.01,CA
+63891,8/30/2013,Wine Bar,-9.48,CA
+63891,8/30/2013,Wine Bar,-31.55,CA
+63891,8/30/2013,Starbucks Coffee,-37.2,CA
+63891,8/30/2013,Restaurant - Steakhouse,-44.35,CA
+63891,8/30/2013,Restaurant - Burgers,-5.72,CA
+63891,8/30/2013,Green Flash Brewery,-20.02,CA
+63891,8/30/2013,Bowling,-21.29,CA
+63891,9/2/2013,Housing Rent,-1010,CA
+63891,9/2/2013,Gas & Electric,-32,CA
+63891,9/2/2013,ACS - Student Loans,-135,CA
+63891,9/2/2013,Netflix Subscription,-4.99,CA
+63891,9/2/2013,Navient - Student Loans,-197,CA
+63891,9/2/2013,Water & Sewer,-53,CA
+63891,9/2/2013,Credit Card Payment,-154,CA
+63891,9/2/2013,Time Warner Cable,-25,CA
+63891,9/2/2013,John's Bar & Restaurant,-42.09,CA
+63891,9/3/2013,Starbucks Coffee,-17.03,CA
+63891,9/4/2013,Sprouts Market,-9.11,CA
+63891,9/5/2013,Sprouts Market,-113.63,CA
+63891,9/5/2013,Fisker Night Club,-13.91,CA
+63891,9/6/2013,Sprouts Market,-19.24,CA
+63891,9/6/2013,Karaoke Bar,-18.5,CA
+63891,9/7/2013,Lyft,-20.18,CA
+63891,9/7/2013,Rodriguez's Bar and Grill,-19.15,CA
+63891,9/7/2013,Sprouts Market,-38.04,CA
+63891,9/7/2013,Rodriguez's Bar and Grill,-5.8,CA
+63891,9/7/2013,Seaside Bar,-8.58,CA
+63891,9/8/2013,Restaurant - Steakhouse,-9.97,CA
+63891,9/9/2013,Concert Ticket,-6.9,CA
+63891,9/9/2013,Green Flash Brewery,-114.35,CA
+63891,9/9/2013,Wine Bar,-33.78,CA
+63891,9/9/2013,John's Bar & Restaurant,-30.4,CA
+63891,9/9/2013,Owl Night Club,-34.64,CA
+63891,9/9/2013,Restaurant - Chinese,-16.2,CA
+63891,9/9/2013,Taxi,-11.54,CA
+63891,9/9/2013,Owl Night Club,-41.12,CA
+63891,9/10/2013,Owl Night Club,-64.57,CA
+63891,9/11/2013,Green Flash Brewery,-110.52,CA
+63891,9/11/2013,Restaurant - Steakhouse,-88.02,CA
+63891,9/11/2013,Fisker Night Club,-33.19,CA
+63891,9/12/2013,Rodriguez's Bar and Grill,-12.51,CA
+63891,9/12/2013,Bowling,-26,CA
+63891,9/12/2013,Movie Ticket,-12.92,CA
+63891,9/13/2013,Green Flash Brewery,-29.71,CA
+63891,9/14/2013,Karaoke Bar,-70.22,CA
+63891,9/14/2013,Rodriguez's Bar and Grill,-20.35,CA
+63891,9/14/2013,Restaurant - Chinese,-23.7,CA
+63891,9/14/2013,Ice Skating Rink,-13.98,CA
+63891,9/15/2013,Starbucks Coffee,-0.04,CA
+63891,9/15/2013,Public Transportation - Train Pass,-8.83,CA
+63891,9/15/2013,Concert Ticket,-21.67,CA
+63891,9/16/2013,Movie Ticket,-12.41,CA
+63891,9/16/2013,Restaurant - Burgers,-2.56,CA
+63891,9/17/2013,Lyft,-12.73,CA
+63891,9/17/2013,Owl Night Club,-5.21,CA
+63891,9/17/2013,Ice Skating Rink,-22.05,CA
+63891,9/18/2013,Movie Ticket,-36.48,CA
+63891,9/18/2013,Public Transportation - Bus Pass,-27.53,CA
+63891,9/18/2013,Seaside Bar,-32.7,CA
+63891,9/18/2013,John's Bar & Restaurant,-82.99,CA
+63891,9/18/2013,Bowling,-12.51,CA
+63891,9/19/2013,Green Flash Brewery,-34.07,CA
+63891,9/19/2013,Fisker Night Club,-89.24,CA
+63891,9/19/2013,Seaside Bar,-9.92,CA
+63891,9/19/2013,Restaurant - Burgers,-22.86,CA
+63891,9/19/2013,Owl Night Club,-3.97,CA
+63891,9/19/2013,Karaoke Bar,-100.67,CA
+63891,9/19/2013,Restaurant - Chinese,-14.92,CA
+63891,9/19/2013,Green Flash Brewery,-108.8,CA
+63891,9/19/2013,Sprouts Market,-33.19,CA
+63891,9/20/2013,John's Bar & Restaurant,-37.06,CA
+63891,9/21/2013,Wine Bar,-23.2,CA
+63891,9/21/2013,Ice Skating Rink,-22.52,CA
+63891,9/22/2013,Green Flash Brewery,-110.72,CA
+63891,9/22/2013,Taxi,-2.33,CA
+63891,9/22/2013,Sprouts Market,-16.19,CA
+63891,9/22/2013,Green Flash Brewery,-22.04,CA
+63891,9/22/2013,Ralph's Grocery Store,-103.36,CA
+63891,9/22/2013,John's Bar & Restaurant,-1.67,CA
+63891,9/23/2013,Restaurant - Chinese,-24.8,CA
+63891,9/24/2013,John's Bar & Restaurant,-6.64,CA
+63891,9/24/2013,Taxi,-27.89,CA
+63891,9/25/2013,Rodriguez's Bar and Grill,-30.72,CA
+63891,9/26/2013,Bowling,-32.64,CA
+63891,9/26/2013,Von's Groceries,-1.16,CA
+63891,9/26/2013,Sprouts Market,-22.17,CA
+63891,9/26/2013,Public Transportation - Bus Pass,-7.06,CA
+63891,9/27/2013,John's Bar & Restaurant,-15.54,CA
+63891,9/28/2013,Owl Night Club,-26.53,CA
+63891,9/29/2013,Movie Ticket,-15.28,CA
+63891,9/29/2013,Bowling,-8.97,CA
+63891,9/29/2013,Uber,-32.08,CA
+63891,9/30/2013,John's Bar & Restaurant,-16.56,CA
+63891,9/30/2013,Seaside Bar,-30.59,CA
+63891,9/30/2013,Public Transportation - Train Pass,-115.71,CA
+63891,9/30/2013,Uber,-0.95,CA
+63891,9/30/2013,Ice Skating Rink,-37.39,CA
+63891,9/30/2013,Owl Night Club,-25.25,CA
+63891,9/30/2013,Fisker Night Club,-9.41,CA
+63891,9/30/2013,Food Delivery - GrubHub,-27.36,CA
+63891,9/30/2013,Bowling,-14.78,CA
+63891,10/2/2013,Housing Rent,-901,CA
+63891,10/2/2013,Gas & Electric,-32,CA
+63891,10/2/2013,ACS - Student Loans,-135,CA
+63891,10/2/2013,Netflix Subscription,-4.99,CA
+63891,10/2/2013,Navient - Student Loans,-197,CA
+63891,10/2/2013,Water & Sewer,-53,CA
+63891,10/2/2013,Credit Card Payment,-154,CA
+63891,10/2/2013,Time Warner Cable,-25,CA
+63891,10/2/2013,Restaurant - Pizza,-11.91,CA
+63891,10/2/2013,Owl Night Club,-21.66,CA
+63891,10/2/2013,Concert Ticket,-31.61,CA
+63891,10/2/2013,Ralph's Grocery Store,-14.68,CA
+63891,10/3/2013,Public Transportation - Train Pass,-24.85,CA
+63891,10/4/2013,Ice Skating Rink,-26.24,CA
+63891,10/5/2013,Public Transportation - Bus Pass,-29.39,CA
+63891,10/5/2013,Rodriguez's Bar and Grill,-30.4,CA
+63891,10/5/2013,Ralph's Grocery Store,-0.14,CA
+63891,10/5/2013,Lyft,-24.75,CA
+63891,10/6/2013,Karaoke Bar,-7.6,CA
+63891,10/6/2013,Uber,-18.7,CA
+63891,10/7/2013,Owl Night Club,-102.36,CA
+63891,10/7/2013,Restaurant - Steakhouse,-36.18,CA
+63891,10/7/2013,Owl Night Club,-15.34,CA
+63891,10/8/2013,Bowling,-50.31,CA
+63891,10/8/2013,Wine Bar,-21.95,CA
+63891,10/9/2013,Rodriguez's Bar and Grill,-21.5,CA
+63891,10/9/2013,Seaside Bar,-24.57,CA
+63891,10/9/2013,Restaurant - Pizza,-115.17,CA
+63891,10/9/2013,Restaurant - Chinese,-38.83,CA
+63891,10/10/2013,Whole Foods,-24.87,CA
+63891,10/10/2013,Ice Skating Rink,-69.54,CA
+63891,10/11/2013,Bowling,-22.54,CA
+63891,10/12/2013,Food Delivery - GrubHub,-16.69,CA
+63891,10/12/2013,Fisker Night Club,-23.2,CA
+63891,10/12/2013,Restaurant - Steakhouse,-7.09,CA
+63891,10/12/2013,Ralph's Grocery Store,-8.44,CA
+63891,10/12/2013,Movie Ticket,-5.91,CA
+63891,10/12/2013,Wine Bar,-93.03,CA
+63891,10/13/2013,Bowling,-44.82,CA
+63891,10/13/2013,Green Flash Brewery,-26.93,CA
+63891,10/13/2013,Rodriguez's Bar and Grill,-24.57,CA
+63891,10/13/2013,Concert Ticket,-47.49,CA
+63891,10/13/2013,Public Transportation - Train Pass,-10.7,CA
+63891,10/13/2013,Ice Skating Rink,-31.19,CA
+63891,10/14/2013,Concert Ticket,-22.88,CA
+63891,10/14/2013,Green Flash Brewery,-9.94,CA
+63891,10/14/2013,Starbucks Coffee,-96.31,CA
+63891,10/14/2013,Uber,-11.91,CA
+63891,10/14/2013,Bowling,-21.14,CA
+63891,10/14/2013,Uber,-14.38,CA
+63891,10/15/2013,Owl Night Club,-30.55,CA
+63891,10/15/2013,Lyft,-4.13,CA
+63891,10/15/2013,Ice Skating Rink,-11.26,CA
+63891,10/15/2013,Taxi,-21.03,CA
+63891,10/15/2013,Owl Night Club,-10.36,CA
+63891,10/15/2013,Restaurant - Chinese,-15.65,CA
+63891,10/15/2013,Lyft,-101.74,CA
+63891,10/15/2013,John's Bar & Restaurant,-37.28,CA
+63891,10/15/2013,Restaurant - Chinese,-20.31,CA
+63891,10/15/2013,Restaurant - Steakhouse,-37.89,CA
+63891,10/15/2013,Bowling,-9.51,CA
+63891,10/15/2013,Concert Ticket,-37.29,CA
+63891,10/15/2013,Starbucks Coffee,-88.02,CA
+63891,10/16/2013,Concert Ticket,-12.86,CA
+63891,10/16/2013,John's Bar & Restaurant,-4.78,CA
+63891,10/16/2013,Restaurant - Pizza,-7.94,CA
+63891,10/16/2013,Wine Bar,-54.8,CA
+63891,10/16/2013,Von's Groceries,-103.46,CA
+63891,10/16/2013,Lyft,-80.17,CA
+63891,10/17/2013,Green Flash Brewery,-34.27,CA
+63891,10/18/2013,Concert Ticket,-40.51,CA
+63891,10/18/2013,Public Transportation - Train Pass,-6.05,CA
+63891,10/19/2013,Ralph's Grocery Store,-38.02,CA
+63891,10/19/2013,Ralph's Grocery Store,-9.99,CA
+63891,10/20/2013,Lyft,-16.12,CA
+63891,10/20/2013,Seaside Bar,-28.85,CA
+63891,10/21/2013,Food Delivery - GrubHub,-6.43,CA
+63891,10/21/2013,John's Bar & Restaurant,-2.97,CA
+63891,10/22/2013,Movie Ticket,-16.71,CA
+63891,10/22/2013,Owl Night Club,-31.22,CA
+63891,10/23/2013,Karaoke Bar,-2.89,CA
+63891,10/24/2013,Restaurant - Pizza,-95.53,CA
+63891,10/25/2013,Taxi,-14.85,CA
+63891,10/26/2013,Uber,-31.18,CA
+63891,10/26/2013,Karaoke Bar,-32.98,CA
+63891,10/27/2013,Starbucks Coffee,-46.92,CA
+63891,10/28/2013,Restaurant - Chinese,-79.72,CA
+63891,10/29/2013,John's Bar & Restaurant,-36.86,CA
+63891,10/29/2013,Taxi,-16.44,CA
+63891,10/30/2013,Rodriguez's Bar and Grill,-18.32,CA
+63891,10/30/2013,Restaurant - Chinese,-85.94,CA
+63891,10/30/2013,Bowling,-32.05,CA
+63891,10/30/2013,Uber,-12.58,CA
+63891,10/30/2013,Green Flash Brewery,-3.01,CA
+63891,10/30/2013,Von's Groceries,-21.17,CA
+63891,10/30/2013,Wine Bar,-58.28,CA
+63891,11/2/2013,Housing Rent,-1380,CA
+63891,11/2/2013,Gas & Electric,-32,CA
+63891,11/2/2013,ACS - Student Loans,-135,CA
+63891,11/2/2013,Netflix Subscription,-4.99,CA
+63891,11/2/2013,Navient - Student Loans,-197,CA
+63891,11/2/2013,Water & Sewer,-53,CA
+63891,11/2/2013,Credit Card Payment,-154,CA
+63891,11/2/2013,Time Warner Cable,-25,CA
+63891,11/2/2013,John's Bar & Restaurant,-38.36,CA
+63891,11/2/2013,Uber,-29.01,CA
+63891,11/2/2013,Movie Ticket,-37.46,CA
+63891,11/2/2013,Owl Night Club,-26.99,CA
+63891,11/3/2013,Food Delivery - GrubHub,-32.93,CA
+63891,11/3/2013,Public Transportation - Train Pass,-39.14,CA
+63891,11/3/2013,Bowling,-27.03,CA
+63891,11/4/2013,Public Transportation - Train Pass,-12.89,CA
+63891,11/4/2013,Owl Night Club,-33.47,CA
+63891,11/4/2013,Public Transportation - Bus Pass,-15.26,CA
+63891,11/4/2013,Bowling,-65.07,CA
+63891,11/5/2013,Green Flash Brewery,-114.31,CA
+63891,11/5/2013,Green Flash Brewery,-35.44,CA
+63891,11/5/2013,Green Flash Brewery,-24.64,CA
+63891,11/5/2013,Concert Ticket,-34.42,CA
+63891,11/5/2013,Fisker Night Club,-20.5,CA
+63891,11/5/2013,Restaurant - Chinese,-39.03,CA
+63891,11/5/2013,Restaurant - Steakhouse,-5.33,CA
+63891,11/5/2013,Ice Skating Rink,-23.28,CA
+63891,11/5/2013,Food Delivery - GrubHub,-6.72,CA
+63891,11/5/2013,Public Transportation - Bus Pass,-5.97,CA
+63891,11/5/2013,John's Bar & Restaurant,-16.41,CA
+63891,11/5/2013,Starbucks Coffee,-38.43,CA
+63891,11/5/2013,Von's Groceries,-90.98,CA
+63891,11/5/2013,Green Flash Brewery,-36.4,CA
+63891,11/5/2013,Amazon Order - Baby Crib,-34.93,CA
+63891,11/5/2013,Hospital - Prenatal Care,-16.89,CA
+63891,11/5/2013,Babies "R" Us,-39.54,CA
+63891,11/5/2013,BuyBuyBaby.com,-29.6,CA
+63891,11/6/2013,Public Transportation - Train Pass,-116.35,CA
+63891,11/6/2013,Public Transportation - Train Pass,-2.51,CA
+63891,11/6/2013,Karaoke Bar,-25.71,CA
+63891,11/6/2013,Ice Skating Rink,-26,CA
+63891,11/6/2013,Wine Bar,-80.65,CA
+63891,11/6/2013,Fisker Night Club,-16.94,CA
+63891,11/6/2013,Ralph's Grocery Store,-11.83,CA
+63891,11/7/2013,Ice Skating Rink,-21.75,CA
+63891,11/8/2013,Fisker Night Club,-20.34,CA
+63891,11/9/2013,Green Flash Brewery,-35.05,CA
+63891,11/9/2013,Owl Night Club,-0.46,CA
+63891,11/10/2013,Owl Night Club,-6.64,CA
+63891,11/10/2013,Owl Night Club,-28.11,CA
+63891,11/10/2013,Uber,-20.65,CA
+63891,11/10/2013,Movie Ticket,-91.17,CA
+63891,11/11/2013,Wine Bar,-12.8,CA
+63891,11/11/2013,Restaurant - Burgers,-24.77,CA
+63891,11/11/2013,Lyft,-11.42,CA
+63891,11/12/2013,Owl Night Club,-19.91,CA
+63891,11/12/2013,Taxi,-51.83,CA
+63891,11/13/2013,Rodriguez's Bar and Grill,-3.92,CA
+63891,11/14/2013,Bowling,-24.66,CA
+63891,11/14/2013,Seaside Bar,-25.56,CA
+63891,11/15/2013,Concert Ticket,-67.92,CA
+63891,11/16/2013,Ice Skating Rink,-20.42,CA
+63891,11/16/2013,Seaside Bar,-5.78,CA
+63891,11/16/2013,Restaurant - Burgers,-85.74,CA
+63891,11/16/2013,Ice Skating Rink,-17.42,CA
+63891,11/16/2013,Food Delivery - GrubHub,-8.65,CA
+63891,11/17/2013,Restaurant - Steakhouse,-26.63,CA
+63891,11/17/2013,Von's Groceries,-28.62,CA
+63891,11/18/2013,Ice Skating Rink,-14.48,CA
+63891,11/19/2013,Fisker Night Club,-7.01,CA
+63891,11/20/2013,Von's Groceries,-35.1,CA
+63891,11/21/2013,Green Flash Brewery,-20.83,CA
+63891,11/21/2013,Von's Groceries,-25.56,CA
+63891,11/21/2013,Rodriguez's Bar and Grill,-32.53,CA
+63891,11/21/2013,John's Bar & Restaurant,-7.9,CA
+63891,11/21/2013,Seaside Bar,-38.5,CA
+63891,11/21/2013,Wine Bar,-20.86,CA
+63891,11/21/2013,John's Bar & Restaurant,-72.75,CA
+63891,11/21/2013,Green Flash Brewery,-34.06,CA
+63891,11/21/2013,Restaurant - Chinese,-34.55,CA
+63891,11/22/2013,Sprouts Market,-16.36,CA
+63891,11/23/2013,Rodriguez's Bar and Grill,-34.06,CA
+63891,11/23/2013,Ralph's Grocery Store,-32.36,CA
+63891,11/23/2013,Restaurant - Burgers,-0.72,CA
+63891,11/23/2013,Rodriguez's Bar and Grill,-7.91,CA
+63891,11/23/2013,Lyft,-75.29,CA
+63891,11/23/2013,Lyft,-10.28,CA
+63891,11/24/2013,Bowling,-25.86,CA
+63891,11/25/2013,Restaurant - Chinese,-10.56,CA
+63891,11/25/2013,Taxi,-113.77,CA
+63891,11/25/2013,Bowling,-0.38,CA
+63891,11/26/2013,Ice Skating Rink,-2.71,CA
+63891,11/26/2013,Uber,-28.43,CA
+63891,11/26/2013,Public Transportation - Bus Pass,-28.67,CA
+63891,11/27/2013,Seaside Bar,-16.2,CA
+63891,11/27/2013,Starbucks Coffee,-98.08,CA
+63891,11/27/2013,Ice Skating Rink,-17.15,CA
+63891,11/27/2013,Fisker Night Club,-3.29,CA
+63891,11/28/2013,Green Flash Brewery,-16.06,CA
+63891,11/28/2013,Seaside Bar,-16.67,CA
+63891,11/29/2013,Bowling,-21.62,CA
+63891,11/29/2013,Public Transportation - Bus Pass,-13.28,CA
+63891,11/30/2013,Restaurant - Burgers,-11.86,CA
+63891,11/30/2013,Taxi,-82.51,CA
+63891,11/30/2013,John's Bar & Restaurant,-26.53,CA
+63891,12/2/2013,Housing Rent,-1245,CA
+63891,12/2/2013,Gas & Electric,-32,CA
+63891,12/2/2013,ACS - Student Loans,-135,CA
+63891,12/2/2013,Netflix Subscription,-4.99,CA
+63891,12/2/2013,Navient - Student Loans,-197,CA
+63891,12/2/2013,Water & Sewer,-53,CA
+63891,12/2/2013,Credit Card Payment,-154,CA
+63891,12/2/2013,Time Warner Cable,-25,CA
+63891,12/2/2013,Lyft,-1.07,CA
+63891,12/2/2013,Karaoke Bar,-6.61,CA
+63891,12/3/2013,Ice Skating Rink,-8.63,CA
+63891,12/3/2013,Von's Groceries,-29.43,CA
+63891,12/4/2013,Public Transportation - Train Pass,-39.09,CA
+63891,12/4/2013,Concert Ticket,-76.93,CA
+63891,12/4/2013,Rodriguez's Bar and Grill,-65.93,CA
+63891,12/4/2013,John's Bar & Restaurant,-38.6,CA
+63891,12/5/2013,Public Transportation - Bus Pass,-66.15,CA
+63891,12/5/2013,John's Bar & Restaurant,-29.8,CA
+63891,12/5/2013,Green Flash Brewery,-69.81,CA
+63891,12/6/2013,Restaurant - Steakhouse,-20.69,CA
+63891,12/6/2013,Green Flash Brewery,-17.08,CA
+63891,12/6/2013,Karaoke Bar,-26.61,CA
+63891,12/6/2013,Lyft,-62.8,CA
+63891,12/6/2013,John's Bar & Restaurant,-10.34,CA
+63891,12/6/2013,Bowling,-12.48,CA
+63891,12/6/2013,Rodriguez's Bar and Grill,-16.72,CA
+63891,12/7/2013,Karaoke Bar,-23.81,CA
+63891,12/7/2013,Restaurant - Steakhouse,-18.26,CA
+63891,12/7/2013,Ralph's Grocery Store,-18.57,CA
+63891,12/8/2013,Taxi,-35.54,CA
+63891,12/8/2013,Ice Skating Rink,-17.58,CA
+63891,12/8/2013,Public Transportation - Bus Pass,-32.66,CA
+63891,12/9/2013,John's Bar & Restaurant,-29.82,CA
+63891,12/9/2013,John's Bar & Restaurant,-21.64,CA
+63891,12/10/2013,Restaurant - Chinese,-4.25,CA
+63891,12/10/2013,Fisker Night Club,-20.42,CA
+63891,12/10/2013,Von's Groceries,-32.65,CA
+63891,12/10/2013,Owl Night Club,-18.15,CA
+63891,12/10/2013,Fisker Night Club,-30.71,CA
+63891,12/11/2013,Restaurant - Chinese,-35.57,CA
+63891,12/11/2013,Restaurant - Steakhouse,-9.99,CA
+63891,12/11/2013,Lyft,-11.51,CA
+63891,12/12/2013,Wine Bar,-75.25,CA
+63891,12/12/2013,Von's Groceries,-27.94,CA
+63891,12/13/2013,Rodriguez's Bar and Grill,-31.69,CA
+63891,12/14/2013,Owl Night Club,-84.57,CA
+63891,12/14/2013,Movie Ticket,-33.91,CA
+63891,12/15/2013,Public Transportation - Bus Pass,-12.09,CA
+63891,12/15/2013,Restaurant - Steakhouse,-24.15,CA
+63891,12/15/2013,Public Transportation - Train Pass,-46.75,CA
+63891,12/15/2013,Movie Ticket,-14.1,CA
+63891,12/15/2013,Concert Ticket,-23.91,CA
+63891,12/15/2013,Taxi,-33.51,CA
+63891,12/15/2013,Restaurant - Pizza,-24.57,CA
+63891,12/15/2013,Uber,-12.73,CA
+63891,12/15/2013,Von's Groceries,-63.36,CA
+63891,12/15/2013,Restaurant - Steakhouse,-14.3,CA
+63891,12/16/2013,Von's Groceries,-90.83,CA
+63891,12/17/2013,Seaside Bar,-32.64,CA
+63891,12/17/2013,Uber,-60.76,CA
+63891,12/17/2013,Owl Night Club,-32.21,CA
+63891,12/17/2013,Karaoke Bar,-27.84,CA
+63891,12/17/2013,Uber,-17.98,CA
+63891,12/17/2013,Uber,-34.82,CA
+63891,12/17/2013,Seaside Bar,-32.43,CA
+63891,12/17/2013,Restaurant - Chinese,-38.24,CA
+63891,12/18/2013,Green Flash Brewery,-13.98,CA
+63891,12/18/2013,Food Delivery - GrubHub,-24.43,CA
+63891,12/18/2013,Concert Ticket,-31.8,CA
+63891,12/18/2013,Public Transportation - Train Pass,-38.51,CA
+63891,12/18/2013,Public Transportation - Train Pass,-32.07,CA
+63891,12/18/2013,Ralph's Grocery Store,-39.66,CA
+63891,12/19/2013,Public Transportation - Bus Pass,-15.94,CA
+63891,12/19/2013,Public Transportation - Train Pass,-16.55,CA
+63891,12/20/2013,Ice Skating Rink,-26.19,CA
+63891,12/21/2013,Restaurant - Pizza,-4.81,CA
+63891,12/22/2013,Seaside Bar,-0.89,CA
+63891,12/23/2013,Karaoke Bar,-6.68,CA
+63891,12/23/2013,Owl Night Club,0,CA
+63891,12/24/2013,Food Delivery - GrubHub,-35.05,CA
+63891,12/24/2013,Green Flash Brewery,-20.65,CA
+63891,12/24/2013,Taxi,-18.73,CA
+63891,12/24/2013,Owl Night Club,-17.94,CA
+63891,12/24/2013,Bowling,-8.31,CA
+63891,12/25/2013,Seaside Bar,-6.43,CA
+63891,12/25/2013,Restaurant - Burgers,-20.15,CA
+63891,12/25/2013,Bowling,-8.12,CA
+63891,12/26/2013,Uber,-19.86,CA
+63891,12/26/2013,Food Delivery - GrubHub,-28.8,CA
+63891,12/26/2013,Uber,-3.37,CA
+63891,12/26/2013,Wine Bar,-36.65,CA
+63891,12/26/2013,Restaurant - Chinese,-3.3,CA
+63891,12/26/2013,Public Transportation - Train Pass,-8.67,CA
+63891,12/26/2013,Whole Foods,-8.86,CA
+63891,12/27/2013,Fisker Night Club,-24.66,CA
+63891,12/27/2013,Owl Night Club,-66.48,CA
+63891,12/27/2013,Sprouts Market,-37.61,CA
+63891,12/28/2013,Owl Night Club,-13.68,CA
+63891,12/28/2013,Starbucks Coffee,-96.75,CA
+63891,12/28/2013,Public Transportation - Bus Pass,-10.4,CA
+63891,12/28/2013,Lyft,-39.16,CA
+63891,12/28/2013,Bowling,-34.22,CA
+63891,12/29/2013,Starbucks Coffee,-17.66,CA
+63891,12/29/2013,Concert Ticket,-1.63,CA
+63891,12/30/2013,Green Flash Brewery,-19.39,CA
+63891,12/30/2013,John's Bar & Restaurant,-10.15,CA
+63891,12/30/2013,Restaurant - Chinese,-10.4,CA
+63891,12/30/2013,Green Flash Brewery,-24.02,CA
+63891,12/30/2013,Von's Groceries,-87.69,CA
+63891,12/30/2013,Public Transportation - Train Pass,-78.96,CA
+63891,12/30/2013,Wine Bar,-13.34,CA
+63891,12/32/2013,Food Delivery - GrubHub,-23.37,CA
+63891,1/2/2014,Fisker Night Club,-30.74,CA
+63891,1/2/2014,Wine Bar,-19.44,CA
+63891,1/2/2014,Karaoke Bar,-78.88,CA
+63891,1/2/2014,Wine Bar,-17.15,CA
+63891,1/3/2014,Public Transportation - Train Pass,-7.42,CA
+63891,1/3/2014,Movie Ticket,-37.9,CA
+63891,1/3/2014,Wine Bar,-93.47,CA
+63891,1/4/2014,Von's Groceries,-89.14,CA
+63891,1/5/2014,Whole Foods,-8.12,CA
+63891,1/5/2014,John's Bar & Restaurant,-11.02,CA
+63891,1/5/2014,Sprouts Market,-5.79,CA
+63891,1/6/2014,Bowling,-13.99,CA
+63891,1/6/2014,Seaside Bar,-25.13,CA
+63891,1/6/2014,Food Delivery - GrubHub,-11.61,CA
+63891,1/7/2014,Rodriguez's Bar and Grill,-16.33,CA
+63891,1/8/2014,John's Bar & Restaurant,-31,CA
+63891,1/9/2014,Restaurant - Steakhouse,-31.87,CA
+63891,1/9/2014,Wine Bar,-30.73,CA
+63891,1/9/2014,Public Transportation - Train Pass,-49.14,CA
+63891,1/10/2014,Lyft,-31.29,CA
+63891,1/11/2014,Ralph's Grocery Store,-34.76,CA
+63891,1/12/2014,Whole Foods,-8.1,CA
+63891,1/12/2014,Taxi,-16.7,CA
+63891,1/13/2014,Rodriguez's Bar and Grill,-37.21,CA
+63891,1/14/2014,Restaurant - Burgers,-12.85,CA
+63891,1/14/2014,Fisker Night Club,-23.33,CA
+63891,1/14/2014,Movie Ticket,-38.06,CA
+63891,1/14/2014,Public Transportation - Bus Pass,-114.25,CA
+63891,1/14/2014,Starbucks Coffee,-4.3,CA
+63891,1/14/2014,Seaside Bar,-16.33,CA
+63891,1/14/2014,Public Transportation - Train Pass,-55.94,CA
+63891,1/14/2014,Taxi,-2.68,CA
+63891,1/14/2014,Taxi,-29.95,CA
+63891,1/15/2014,Rodriguez's Bar and Grill,-3.59,CA
+63891,1/15/2014,Movie Ticket,-29.01,CA
+63891,1/16/2014,Seaside Bar,-18.89,CA
+63891,1/16/2014,Lyft,-8.66,CA
+63891,1/16/2014,Bowling,-37.7,CA
+63891,1/16/2014,Ice Skating Rink,-6.51,CA
+63891,1/16/2014,Public Transportation - Train Pass,-5.68,CA
+63891,1/16/2014,Seaside Bar,-63.39,CA
+63891,1/16/2014,Concert Ticket,-25.81,CA
+63891,1/16/2014,Lyft,-108.23,CA
+63891,1/16/2014,Ralph's Grocery Store,-27.65,CA
+63891,1/16/2014,Uber,-5.48,CA
+63891,1/16/2014,Movie Ticket,-34.66,CA
+63891,1/16/2014,Restaurant - Chinese,-33.25,CA
+63891,1/16/2014,Wine Bar,-33.87,CA
+63891,1/17/2014,Karaoke Bar,-12.1,CA
+63891,1/17/2014,Green Flash Brewery,-26.91,CA
+63891,1/18/2014,Restaurant - Chinese,-17.48,CA
+63891,1/18/2014,Public Transportation - Train Pass,-37.98,CA
+63891,1/18/2014,Green Flash Brewery,-32.02,CA
+63891,1/18/2014,Public Transportation - Bus Pass,-8.36,CA
+63891,1/18/2014,John's Bar & Restaurant,-103.78,CA
+63891,1/18/2014,Wine Bar,-9.08,CA
+63891,1/18/2014,Bowling,-10.9,CA
+63891,1/18/2014,Public Transportation - Train Pass,-24.93,CA
+63891,1/18/2014,Taxi,-22.96,CA
+63891,1/19/2014,Public Transportation - Bus Pass,-8.2,CA
+63891,1/19/2014,Green Flash Brewery,-2.97,CA
+63891,1/19/2014,Rodriguez's Bar and Grill,-52.33,CA
+63891,1/19/2014,Seaside Bar,-23.1,CA
+63891,1/19/2014,Lyft,-31.1,CA
+63891,1/20/2014,Owl Night Club,-27.67,CA
+63891,1/21/2014,Karaoke Bar,-37.26,CA
+63891,1/21/2014,Restaurant - Burgers,-58.12,CA
+63891,1/21/2014,Wine Bar,-16.27,CA
+63891,1/21/2014,Restaurant - Chinese,-94.45,CA
+63891,1/21/2014,Starbucks Coffee,-24.33,CA
+63891,1/22/2014,Green Flash Brewery,-23.74,CA
+63891,1/22/2014,Concert Ticket,-31.25,CA
+63891,1/23/2014,Ice Skating Rink,-31.97,CA
+63891,1/23/2014,Restaurant - Pizza,-20.14,CA
+63891,1/24/2014,Starbucks Coffee,-33.09,CA
+63891,1/24/2014,Fisker Night Club,-33.09,CA
+63891,1/24/2014,Karaoke Bar,-22.05,CA
+63891,1/24/2014,Public Transportation - Bus Pass,-30.05,CA
+63891,1/24/2014,Restaurant - Pizza,-34.36,CA
+63891,1/25/2014,Uber,-23.68,CA
+63891,1/25/2014,Public Transportation - Bus Pass,-10.71,CA
+63891,1/26/2014,Seaside Bar,-18.45,CA
+63891,1/26/2014,Food Delivery - GrubHub,-21.88,CA
+63891,1/26/2014,Owl Night Club,-27.69,CA
+63891,1/27/2014,Ralph's Grocery Store,-99.45,CA
+63891,1/28/2014,Lyft,-27.95,CA
+63891,1/29/2014,Wine Bar,-62.36,CA
+63891,1/29/2014,Bowling,-39.92,CA
+63891,1/29/2014,Movie Ticket,-80.07,CA
+63891,1/29/2014,Public Transportation - Train Pass,-3.72,CA
+63891,1/30/2014,Movie Ticket,-113.31,CA
+63891,1/30/2014,Green Flash Brewery,-22.69,CA
+63891,1/30/2014,Taxi,-0.43,CA
+63891,1/30/2014,Public Transportation - Bus Pass,-42.79,CA
+63891,1/30/2014,Sprouts Market,-36.66,CA
+63891,3/2/2014,Housing Rent,-1279,CA
+63891,3/2/2014,Gas & Electric,-32,CA
+63891,3/2/2014,ACS - Student Loans,-135,CA
+63891,3/2/2014,Netflix Subscription,-4.99,CA
+63891,3/2/2014,Navient - Student Loans,-197,CA
+63891,3/2/2014,Water & Sewer,-53,CA
+63891,3/2/2014,Credit Card Payment,-154,CA
+63891,3/2/2014,Time Warner Cable,-25,CA
+63891,3/2/2014,Fisker Night Club,-32.36,CA
+63891,3/2/2014,Wine Bar,-24.42,CA
+63891,3/2/2014,Ralph's Grocery Store,-37.49,CA
+63891,3/2/2014,Uber,-35.04,CA
+63891,3/2/2014,Restaurant - Chinese,-15.18,CA
+63891,3/3/2014,Lyft,-31.08,CA
+63891,3/3/2014,Fisker Night Club,-26.46,CA
+63891,3/3/2014,Restaurant - Chinese,-24.29,CA
+63891,3/3/2014,Restaurant - Pizza,-108.02,CA
+63891,3/3/2014,Seaside Bar,-89.66,CA
+63891,3/3/2014,Public Transportation - Train Pass,-28.21,CA
+63891,3/4/2014,Seaside Bar,-1.45,CA
+63891,3/4/2014,Movie Ticket,-39.67,CA
+63891,3/4/2014,Owl Night Club,-32.32,CA
+63891,3/4/2014,Ice Skating Rink,-18.76,CA
+63891,3/5/2014,Wine Bar,-29.77,CA
+63891,3/6/2014,Movie Ticket,-59.09,CA
+63891,3/6/2014,Public Transportation - Train Pass,-72.9,CA
+63891,3/7/2014,Bowling,-24.17,CA
+63891,3/7/2014,John's Bar & Restaurant,-25.45,CA
+63891,3/8/2014,Von's Groceries,-7.72,CA
+63891,3/8/2014,Wine Bar,-13.14,CA
+63891,3/8/2014,Rodriguez's Bar and Grill,-23.7,CA
+63891,3/8/2014,Public Transportation - Bus Pass,-108.31,CA
+63891,3/8/2014,Public Transportation - Train Pass,-15.42,CA
+63891,3/8/2014,Rodriguez's Bar and Grill,-67.5,CA
+63891,3/9/2014,Concert Ticket,-28.7,CA
+63891,3/9/2014,Karaoke Bar,-34.07,CA
+63891,3/9/2014,Bowling,-34.32,CA
+63891,3/10/2014,Movie Ticket,-119.81,CA
+63891,3/10/2014,Movie Ticket,-23.11,CA
+63891,3/11/2014,Sprouts Market,-52.1,CA
+63891,3/11/2014,Public Transportation - Bus Pass,-22.98,CA
+63891,3/11/2014,Karaoke Bar,-2.66,CA
+63891,3/11/2014,Restaurant - Steakhouse,-12.65,CA
+63891,3/12/2014,Green Flash Brewery,-0.77,CA
+63891,3/12/2014,Ice Skating Rink,-7.8,CA
+63891,3/12/2014,Starbucks Coffee,-15.95,CA
+63891,3/12/2014,Owl Night Club,-17.53,CA
+63891,3/13/2014,Fisker Night Club,-11.85,CA
+63891,3/13/2014,Seaside Bar,-20.85,CA
+63891,3/14/2014,Bowling,-22.28,CA
+63891,3/14/2014,Fisker Night Club,-21.03,CA
+63891,3/14/2014,Rodriguez's Bar and Grill,-7.51,CA
+63891,3/14/2014,Bowling,-37.62,CA
+63891,3/14/2014,Starbucks Coffee,-7.98,CA
+63891,3/14/2014,Concert Ticket,-49.4,CA
+63891,3/14/2014,Karaoke Bar,-18.08,CA
+63891,3/14/2014,Restaurant - Steakhouse,-39.85,CA
+63891,3/14/2014,Fisker Night Club,-13.16,CA
+63891,3/14/2014,Starbucks Coffee,-16.71,CA
+63891,3/14/2014,Fisker Night Club,-0.39,CA
+63891,3/14/2014,Von's Groceries,-21.62,CA
+63891,3/14/2014,Restaurant - Chinese,-22.57,CA
+63891,3/14/2014,Von's Groceries,-10.88,CA
+63891,3/14/2014,Uber,-82.69,CA
+63891,3/14/2014,Wine Bar,-5.87,CA
+63891,3/14/2014,Public Transportation - Train Pass,-98.31,CA
+63891,3/14/2014,Wine Bar,-7.06,CA
+63891,3/14/2014,Seaside Bar,-28.29,CA
+63891,3/14/2014,Public Transportation - Bus Pass,-20.07,CA
+63891,3/14/2014,Seaside Bar,-7.49,CA
+63891,3/14/2014,Public Transportation - Train Pass,-21.57,CA
+63891,3/14/2014,Owl Night Club,-16.32,CA
+63891,3/15/2014,Starbucks Coffee,-15.67,CA
+63891,3/15/2014,Movie Ticket,-34.46,CA
+63891,3/15/2014,Wine Bar,-35.03,CA
+63891,3/15/2014,Movie Ticket,-80.15,CA
+63891,3/15/2014,Food Delivery - GrubHub,-13.99,CA
+63891,3/15/2014,Fisker Night Club,-11.07,CA
+63891,3/15/2014,Restaurant - Chinese,-47.08,CA
+63891,3/16/2014,Concert Ticket,-29.43,CA
+63891,3/17/2014,Seaside Bar,-32.12,CA
+63891,3/17/2014,Fisker Night Club,-9.4,CA
+63891,3/18/2014,Restaurant - Burgers,-92.54,CA
+63891,3/19/2014,Green Flash Brewery,-32.63,CA
+63891,3/19/2014,Bowling,-25.76,CA
+63891,3/19/2014,Movie Ticket,-88.5,CA
+63891,3/20/2014,Rodriguez's Bar and Grill,-24.03,CA
+63891,3/21/2014,Starbucks Coffee,-14.09,CA
+63891,3/22/2014,Lyft,-30.78,CA
+63891,3/22/2014,Restaurant - Chinese,-39.52,CA
+63891,3/22/2014,Movie Ticket,-5.18,CA
+63891,3/22/2014,Seaside Bar,-20.7,CA
+63891,3/22/2014,Restaurant - Steakhouse,-27.26,CA
+63891,3/22/2014,Uber,-110.88,CA
+63891,3/23/2014,Lyft,-40.56,CA
+63891,3/24/2014,Seaside Bar,-14.52,CA
+63891,3/24/2014,Public Transportation - Bus Pass,-2.99,CA
+63891,3/24/2014,Ralph's Grocery Store,-17.78,CA
+63891,3/24/2014,Rodriguez's Bar and Grill,-38.46,CA
+63891,3/24/2014,Seaside Bar,-35.69,CA
+63891,3/24/2014,Owl Night Club,-99.33,CA
+63891,3/24/2014,Concert Ticket,-0.89,CA
+63891,3/25/2014,Rodriguez's Bar and Grill,-78.94,CA
+63891,3/26/2014,Rodriguez's Bar and Grill,-31.25,CA
+63891,3/26/2014,Owl Night Club,-47.96,CA
+63891,3/26/2014,Owl Night Club,-50.26,CA
+63891,3/26/2014,Public Transportation - Bus Pass,-113.65,CA
+63891,3/26/2014,Wine Bar,-39.64,CA
+63891,3/26/2014,Movie Ticket,-28.35,CA
+63891,3/27/2014,Ice Skating Rink,-7.39,CA
+63891,3/27/2014,Uber,-3.54,CA
+63891,3/28/2014,Lyft,-30.31,CA
+63891,3/29/2014,Uber,-36.28,CA
+63891,3/30/2014,Ice Skating Rink,-4.75,CA
+63891,3/30/2014,Restaurant - Steakhouse,-39.21,CA
+63891,4/2/2014,Housing Rent,-789,CA
+63891,4/2/2014,Gas & Electric,-32,CA
+63891,4/2/2014,ACS - Student Loans,-135,CA
+63891,4/2/2014,Netflix Subscription,-4.99,CA
+63891,4/2/2014,Navient - Student Loans,-197,CA
+63891,4/2/2014,Water & Sewer,-53,CA
+63891,4/2/2014,Credit Card Payment,-154,CA
+63891,4/2/2014,Time Warner Cable,-25,CA
+63891,4/2/2014,Wine Bar,-17.61,CA
+63891,4/2/2014,Restaurant - Burgers,-11.29,CA
+63891,4/3/2014,Taxi,-24.27,CA
+63891,4/3/2014,Movie Ticket,-14.8,CA
+63891,4/4/2014,Bowling,-23.28,CA
+63891,4/4/2014,Public Transportation - Train Pass,-11.79,CA
+63891,4/4/2014,Seaside Bar,-109.3,CA
+63891,4/4/2014,Lyft,-35.31,CA
+63891,4/4/2014,Restaurant - Steakhouse,-69.43,CA
+63891,4/5/2014,Starbucks Coffee,-32.98,CA
+63891,4/6/2014,John's Bar & Restaurant,-99.15,CA
+63891,4/7/2014,Movie Ticket,-11.39,CA
+63891,4/8/2014,Concert Ticket,-28.08,CA
+63891,4/8/2014,Green Flash Brewery,-10.46,CA
+63891,4/9/2014,John's Bar & Restaurant,-28.11,CA
+63891,4/9/2014,Bowling,-28.77,CA
+63891,4/10/2014,Karaoke Bar,-31.5,CA
+63891,4/10/2014,Owl Night Club,-7.42,CA
+63891,4/10/2014,Karaoke Bar,-14.61,CA
+63891,4/11/2014,Seaside Bar,-15.25,CA
+63891,4/12/2014,Lyft,-20.52,CA
+63891,4/13/2014,Concert Ticket,-25.84,CA
+63891,4/13/2014,Bowling,-24.22,CA
+63891,4/14/2014,Kay Jewelry,-2.63,CA
+63891,4/14/2014,Wedding Planner,-20.87,CA
+63891,4/14/2014,Southwest Flights - Cancun,-23.98,CA
+63891,4/14/2014,Cancun Beach Resort,-6.61,CA
+63891,4/14/2014,Karaoke Bar,-35.95,CA
+63891,4/14/2014,Ice Skating Rink,-27.41,CA
+63891,4/14/2014,Movie Ticket,-11.69,CA
+63891,4/14/2014,Concert Ticket,-21.13,CA
+63891,4/14/2014,Whole Foods,-35.83,CA
+63891,4/15/2014,Rodriguez's Bar and Grill,-14.35,CA
+63891,4/16/2014,Concert Ticket,-17.71,CA
+63891,4/16/2014,Lyft,-20.75,CA
+63891,4/16/2014,Ralph's Grocery Store,-20.41,CA
+63891,4/16/2014,Lyft,-76.98,CA
+63891,4/17/2014,Ice Skating Rink,-26.91,CA
+63891,4/17/2014,Restaurant - Burgers,-23.43,CA
+63891,4/17/2014,Ice Skating Rink,-14.13,CA
+63891,4/17/2014,John's Bar & Restaurant,-0.12,CA
+63891,4/18/2014,Restaurant - Burgers,-114.94,CA
+63891,4/18/2014,Fisker Night Club,-14.71,CA
+63891,4/18/2014,Karaoke Bar,-27.01,CA
+63891,4/18/2014,Seaside Bar,-58.18,CA
+63891,4/18/2014,Bowling,-25,CA
+63891,4/18/2014,Food Delivery - GrubHub,-7.26,CA
+63891,4/18/2014,Karaoke Bar,-8.34,CA
+63891,4/19/2014,Restaurant - Chinese,-35.49,CA
+63891,4/19/2014,Karaoke Bar,-35.68,CA
+63891,4/19/2014,Restaurant - Pizza,-37.44,CA
+63891,4/20/2014,John's Bar & Restaurant,-11.91,CA
+63891,4/20/2014,Uber,-35.23,CA
+63891,4/21/2014,Green Flash Brewery,-28.28,CA
+63891,4/21/2014,Uber,-39.82,CA
+63891,4/21/2014,Rodriguez's Bar and Grill,-40.04,CA
+63891,4/21/2014,Restaurant - Chinese,-14.76,CA
+63891,4/21/2014,Movie Ticket,-103.28,CA
+63891,4/21/2014,Bowling,-32.67,CA
+63891,4/21/2014,Fisker Night Club,-22.87,CA
+63891,4/21/2014,John's Bar & Restaurant,-2.94,CA
+63891,4/22/2014,Public Transportation - Train Pass,-106.8,CA
+63891,4/22/2014,Bowling,-32.05,CA
+63891,4/23/2014,Rodriguez's Bar and Grill,-23.59,CA
+63891,4/23/2014,Restaurant - Pizza,-101.04,CA
+63891,4/24/2014,Owl Night Club,-36.76,CA
+63891,4/24/2014,Public Transportation - Bus Pass,-21.33,CA
+63891,4/24/2014,Lyft,-1.53,CA
+63891,4/24/2014,Rodriguez's Bar and Grill,-3.37,CA
+63891,4/25/2014,John's Bar & Restaurant,-89.49,CA
+63891,4/25/2014,Public Transportation - Bus Pass,-2.15,CA
+63891,4/25/2014,Wine Bar,-10.56,CA
+63891,4/25/2014,Movie Ticket,-33.02,CA
+63891,4/25/2014,John's Bar & Restaurant,-27.66,CA
+63891,4/25/2014,Von's Groceries,-13.33,CA
+63891,4/26/2014,Wine Bar,-14.46,CA
+63891,4/26/2014,Movie Ticket,-2.91,CA
+63891,4/26/2014,Karaoke Bar,-26.77,CA
+63891,4/27/2014,Green Flash Brewery,-28.56,CA
+63891,4/27/2014,Public Transportation - Train Pass,-32.58,CA
+63891,4/27/2014,Green Flash Brewery,-3.42,CA
+63891,4/27/2014,Taxi,-58.58,CA
+63891,4/27/2014,John's Bar & Restaurant,-110.64,CA
+63891,4/27/2014,Fisker Night Club,-17.48,CA
+63891,4/27/2014,Concert Ticket,-0.88,CA
+63891,4/27/2014,Fisker Night Club,-2.86,CA
+63891,4/27/2014,John's Bar & Restaurant,-27.19,CA
+63891,4/27/2014,Ice Skating Rink,-28,CA
+63891,4/27/2014,Seaside Bar,-28.22,CA
+63891,4/28/2014,Concert Ticket,-27.23,CA
+63891,4/28/2014,Bowling,-36.8,CA
+63891,4/28/2014,Green Flash Brewery,-16.94,CA
+63891,4/28/2014,Concert Ticket,-17.56,CA
+63891,4/28/2014,Rodriguez's Bar and Grill,-66,CA
+63891,4/29/2014,Fisker Night Club,-32.98,CA
+63891,4/29/2014,Ice Skating Rink,-8.81,CA
+63891,4/29/2014,Sprouts Market,-23.97,CA
+63891,4/29/2014,Karaoke Bar,-25.48,CA
+63891,4/29/2014,Rodriguez's Bar and Grill,-9.45,CA
+63891,4/29/2014,Fisker Night Club,-9.56,CA
+63891,4/29/2014,Fisker Night Club,-76.61,CA
+63891,4/29/2014,Sprouts Market,-67.76,CA
+63891,4/29/2014,Seaside Bar,-30.03,CA
+63891,4/29/2014,John's Bar & Restaurant,-7.4,CA
+63891,4/29/2014,Bowling,-38.44,CA
+63891,4/29/2014,Restaurant - Burgers,-35.58,CA
+63891,4/29/2014,Whole Foods,-27.95,CA
+63891,4/30/2014,Movie Ticket,-21.42,CA
+63891,4/30/2014,Owl Night Club,-5.87,CA
+63891,4/30/2014,Fisker Night Club,-11.03,CA
+63891,5/2/2014,Paycheck,2921,CA
+63891,5/2/2014,Housing Rent,-1353,CA
+63891,5/2/2014,Gas & Electric,-32,CA
+63891,5/2/2014,ACS - Student Loans,-135,CA
+63891,5/2/2014,Netflix Subscription,-4.99,CA
+63891,5/2/2014,Navient - Student Loans,-197,CA
+63891,5/2/2014,Water & Sewer,-53,CA
+63891,5/2/2014,Credit Card Payment,-154,CA
+63891,5/2/2014,Time Warner Cable,-25,CA
+63891,5/2/2014,Fisker Night Club,-11.97,CA
+63891,5/3/2014,Ralph's Grocery Store,-19.29,CA
+63891,5/4/2014,John's Bar & Restaurant,-16.33,CA
+63891,5/4/2014,Lyft,-2.64,CA
+63891,5/4/2014,Karaoke Bar,-4.92,CA
+63891,5/4/2014,Von's Groceries,-16.78,CA
+63891,5/4/2014,Public Transportation - Train Pass,-38.51,CA
+63891,5/5/2014,Seaside Bar,-9.65,CA
+63891,5/6/2014,Green Flash Brewery,-31.65,CA
+63891,5/6/2014,Rodriguez's Bar and Grill,-35.68,CA
+63891,5/6/2014,Lyft,-42.23,CA
+63891,5/7/2014,Restaurant - Burgers,-13.85,CA
+63891,5/7/2014,Green Flash Brewery,-37.93,CA
+63891,5/7/2014,Owl Night Club,-8.62,CA
+63891,5/7/2014,Starbucks Coffee,-23.14,CA
+63891,5/7/2014,Lyft,-35.09,CA
+63891,5/7/2014,Green Flash Brewery,-16.21,CA
+63891,5/8/2014,Uber,-12.62,CA
+63891,5/8/2014,Bowling,-93.9,CA
+63891,5/8/2014,Sprouts Market,-18.09,CA
+63891,5/8/2014,Seaside Bar,-13.95,CA
+63891,5/8/2014,Wine Bar,-7,CA
+63891,5/9/2014,Restaurant - Chinese,-35.27,CA
+63891,5/9/2014,Ice Skating Rink,-100.86,CA
+63891,5/9/2014,Uber,-24.49,CA
+63891,5/9/2014,Karaoke Bar,-29.27,CA
+63891,5/9/2014,Bowling,-12.73,CA
+63891,5/9/2014,Seaside Bar,-5.88,CA
+63891,5/9/2014,Taxi,-11.39,CA
+63891,5/9/2014,Fisker Night Club,-30.09,CA
+63891,5/9/2014,Wine Bar,-23.16,CA
+63891,5/9/2014,Owl Night Club,-37.93,CA
+63891,5/10/2014,John's Bar & Restaurant,-4.73,CA
+63891,5/11/2014,Wine Bar,-37.08,CA
+63891,5/12/2014,Bowling,-2.6,CA
+63891,5/12/2014,Seaside Bar,-36.74,CA
+63891,5/12/2014,Uber,-26.43,CA
+63891,5/12/2014,Von's Groceries,-51.23,CA
+63891,5/13/2014,Restaurant - Chinese,-17.97,CA
+63891,5/14/2014,Taxi,-34.72,CA
+63891,5/14/2014,Lyft,-31.21,CA
+63891,5/14/2014,Seaside Bar,-19.36,CA
+63891,5/14/2014,Bowling,-38.95,CA
+63891,5/14/2014,Lyft,-12.14,CA
+63891,5/14/2014,Ralph's Grocery Store,-30.78,CA
+63891,5/14/2014,Owl Night Club,-20.82,CA
+63891,5/14/2014,Wine Bar,-5.34,CA
+63891,5/14/2014,Movie Ticket,-31.98,CA
+63891,5/15/2014,Rodriguez's Bar and Grill,-97.71,CA
+63891,5/16/2014,Concert Ticket,-28.42,CA
+63891,5/17/2014,Movie Ticket,-47.2,CA
+63891,5/17/2014,Whole Foods,-16.03,CA
+63891,5/18/2014,Public Transportation - Bus Pass,-27.55,CA
+63891,5/18/2014,Taxi,-27.08,CA
+63891,5/19/2014,Green Flash Brewery,-19.73,CA
+63891,5/19/2014,Taxi,-17.88,CA
+63891,5/19/2014,Food Delivery - GrubHub,-35.01,CA
+63891,5/20/2014,Karaoke Bar,-27.3,CA
+63891,5/20/2014,Restaurant - Steakhouse,-0.69,CA
+63891,5/20/2014,Fisker Night Club,-22.27,CA
+63891,5/21/2014,Lyft,-17.77,CA
+63891,5/21/2014,John's Bar & Restaurant,-9.35,CA
+63891,5/21/2014,Fisker Night Club,-39.99,CA
+63891,5/21/2014,Uber,-39.72,CA
+63891,5/21/2014,Starbucks Coffee,-19.58,CA
+63891,5/21/2014,Rodriguez's Bar and Grill,-6.96,CA
+63891,5/21/2014,Concert Ticket,-32.36,CA
+63891,5/22/2014,Karaoke Bar,-85.01,CA
+63891,5/22/2014,Bowling,-110.18,CA
+63891,5/22/2014,Owl Night Club,-4.88,CA
+63891,5/22/2014,Owl Night Club,-38.99,CA
+63891,5/22/2014,Green Flash Brewery,-18.44,CA
+63891,5/22/2014,Ralph's Grocery Store,-7.76,CA
+63891,5/22/2014,Movie Ticket,-9.46,CA
+63891,5/22/2014,Rodriguez's Bar and Grill,-18.77,CA
+63891,5/23/2014,Von's Groceries,-30.63,CA
+63891,5/23/2014,Seaside Bar,-22.74,CA
+63891,5/23/2014,John's Bar & Restaurant,-38.37,CA
+63891,5/23/2014,Von's Groceries,-38.94,CA
+63891,5/23/2014,Starbucks Coffee,-22.09,CA
+63891,5/24/2014,Von's Groceries,-34.27,CA
+63891,5/25/2014,Taxi,-6.58,CA
+63891,5/25/2014,Seaside Bar,-94.13,CA
+63891,5/26/2014,Uber,-10.05,CA
+63891,5/26/2014,Public Transportation - Bus Pass,-4.7,CA
+63891,5/26/2014,Movie Ticket,-34.31,CA
+63891,5/26/2014,Owl Night Club,-90.69,CA
+63891,5/27/2014,Public Transportation - Train Pass,-31.98,CA
+63891,5/28/2014,Taxi,-15.04,CA
+63891,5/28/2014,Sprouts Market,-26.47,CA
+63891,5/28/2014,Ice Skating Rink,-18.35,CA
+63891,5/29/2014,Seaside Bar,-28.27,CA
+63891,5/29/2014,Uber,-22.41,CA
+63891,5/29/2014,Concert Ticket,-115.25,CA
+63891,5/29/2014,Restaurant - Burgers,-27.4,CA
+63891,5/29/2014,Bowling,-15.29,CA
+63891,5/29/2014,Public Transportation - Train Pass,-3.01,CA
+63891,5/29/2014,Movie Ticket,-11.85,CA
+63891,5/29/2014,Restaurant - Burgers,-30.28,CA
+63891,5/29/2014,Sprouts Market,-31.94,CA
+63891,5/30/2014,Food Delivery - GrubHub,-8.19,CA
+63891,5/30/2014,Sprouts Market,-32.69,CA
+63891,5/30/2014,Sprouts Market,-5.11,CA
+63891,5/30/2014,John's Bar & Restaurant,-53.53,CA
+63891,5/30/2014,Rodriguez's Bar and Grill,-25.31,CA
+63891,5/30/2014,Bowling,-8.45,CA
+63891,6/2/2014,Paycheck,2921,CA
+63891,6/2/2014,Housing Rent,-1390,CA
+63891,6/2/2014,Gas & Electric,-32,CA
+63891,6/2/2014,ACS - Student Loans,-135,CA
+63891,6/2/2014,Netflix Subscription,-4.99,CA
+63891,6/2/2014,Navient - Student Loans,-197,CA
+63891,6/2/2014,Water & Sewer,-53,CA
+63891,6/2/2014,Credit Card Payment,-154,CA
+63891,6/2/2014,Time Warner Cable,-25,CA
+63891,6/2/2014,Ice Skating Rink,-1.39,CA
+63891,6/2/2014,Wine Bar,-31.01,CA
+63891,6/3/2014,Public Transportation - Train Pass,-3.07,CA
+63891,6/3/2014,Wine Bar,-37.63,CA
+63891,6/3/2014,Uber,-8.81,CA
+63891,6/4/2014,Bowling,-6.58,CA
+63891,6/4/2014,Restaurant - Chinese,-18.4,CA
+63891,6/4/2014,Concert Ticket,-7.81,CA
+63891,6/4/2014,Starbucks Coffee,-36.91,CA
+63891,6/4/2014,Restaurant - Burgers,-14.17,CA
+63891,6/5/2014,Rodriguez's Bar and Grill,-62.26,CA
+63891,6/5/2014,Bowling,-13.77,CA
+63891,6/5/2014,Public Transportation - Train Pass,-8,CA
+63891,6/5/2014,Rodriguez's Bar and Grill,-95.61,CA
+63891,6/5/2014,Taxi,-0.23,CA
+63891,6/5/2014,Wine Bar,-18.46,CA
+63891,6/5/2014,Public Transportation - Train Pass,-5.98,CA
+63891,6/5/2014,Ralph's Grocery Store,-9.77,CA
+63891,6/6/2014,Bowling,-39.23,CA
+63891,6/7/2014,Concert Ticket,-26.8,CA
+63891,6/8/2014,Starbucks Coffee,-74.49,CA
+63891,6/8/2014,John's Bar & Restaurant,-3.13,CA
+63891,6/8/2014,Uber,-39.23,CA
+63891,6/8/2014,Restaurant - Chinese,-12.46,CA
+63891,6/9/2014,Lyft,-18.59,CA
+63891,6/9/2014,Rodriguez's Bar and Grill,-32.29,CA
+63891,6/10/2014,Von's Groceries,-13.38,CA
+63891,6/10/2014,Sprouts Market,-10.4,CA
+63891,6/11/2014,Green Flash Brewery,-10.32,CA
+63891,6/12/2014,Restaurant - Pizza,-41.86,CA
+63891,6/13/2014,Food Delivery - GrubHub,-39.55,CA
+63891,6/13/2014,Bowling,-38.42,CA
+63891,6/13/2014,Uber,-2.46,CA
+63891,6/13/2014,Movie Ticket,-19.9,CA
+63891,6/13/2014,Green Flash Brewery,-36.09,CA
+63891,6/14/2014,Wine Bar,-80.57,CA
+63891,6/14/2014,Restaurant - Burgers,-24.5,CA
+63891,6/14/2014,Uber,-16.4,CA
+63891,6/14/2014,Public Transportation - Bus Pass,-6.33,CA
+63891,6/14/2014,Movie Ticket,-21.04,CA
+63891,6/14/2014,Uber,-22.6,CA
+63891,6/15/2014,Public Transportation - Train Pass,-8.42,CA
+63891,6/15/2014,Ralph's Grocery Store,-37.83,CA
+63891,6/16/2014,Restaurant - Burgers,-37.26,CA
+63891,6/16/2014,Public Transportation - Bus Pass,-36.75,CA
+63891,6/16/2014,Public Transportation - Bus Pass,-1.38,CA
+63891,6/17/2014,Movie Ticket,-16.82,CA
+63891,6/17/2014,Public Transportation - Train Pass,-84.8,CA
+63891,6/18/2014,Karaoke Bar,-34.18,CA
+63891,6/18/2014,Restaurant - Burgers,-39,CA
+63891,6/18/2014,Whole Foods,-17.74,CA
+63891,6/19/2014,Wine Bar,-8.39,CA
+63891,6/19/2014,Sprouts Market,-3.67,CA
+63891,6/19/2014,Fisker Night Club,-22.72,CA
+63891,6/19/2014,Movie Ticket,-96.43,CA
+63891,6/19/2014,Taxi,-109.23,CA
+63891,6/19/2014,Wine Bar,-47.97,CA
+63891,6/19/2014,Concert Ticket,-36.26,CA
+63891,6/19/2014,Green Flash Brewery,-7.97,CA
+63891,6/19/2014,Fisker Night Club,-38.5,CA
+63891,6/20/2014,Seaside Bar,-32.62,CA
+63891,6/21/2014,Wine Bar,-19,CA
+63891,6/21/2014,Restaurant - Steakhouse,-17.84,CA
+63891,6/21/2014,Restaurant - Burgers,-38.58,CA
+63891,6/21/2014,Ice Skating Rink,-18.15,CA
+63891,6/21/2014,Whole Foods,-30.7,CA
+63891,6/21/2014,Rodriguez's Bar and Grill,-32.26,CA
+63891,6/21/2014,Wine Bar,-34.05,CA
+63891,6/21/2014,Green Flash Brewery,-32.93,CA
+63891,6/22/2014,Restaurant - Steakhouse,-27.98,CA
+63891,6/23/2014,Karaoke Bar,-17.13,CA
+63891,6/23/2014,Green Flash Brewery,-93.9,CA
+63891,6/23/2014,Taxi,-2.98,CA
+63891,6/24/2014,Owl Night Club,-86.81,CA
+63891,6/24/2014,Von's Groceries,-0.89,CA
+63891,6/25/2014,Restaurant - Pizza,-27.56,CA
+63891,6/25/2014,Public Transportation - Train Pass,-0.13,CA
+63891,6/25/2014,John's Bar & Restaurant,-30.38,CA
+63891,6/26/2014,Lyft,-23.65,CA
+63891,6/26/2014,Restaurant - Burgers,-70.89,CA
+63891,6/26/2014,Taxi,-34.99,CA
+63891,6/26/2014,Public Transportation - Bus Pass,-15.83,CA
+63891,6/26/2014,Owl Night Club,-27.79,CA
+63891,6/26/2014,Green Flash Brewery,-75.53,CA
+63891,6/26/2014,Seaside Bar,-20.95,CA
+63891,6/26/2014,Owl Night Club,-21.38,CA
+63891,6/26/2014,Public Transportation - Train Pass,-25.52,CA
+63891,6/26/2014,Ice Skating Rink,-16.68,CA
+63891,6/26/2014,Seaside Bar,-25.21,CA
+63891,6/27/2014,Uber,-6.69,CA
+63891,6/27/2014,Karaoke Bar,-83.64,CA
+63891,6/27/2014,Green Flash Brewery,-38.11,CA
+63891,6/27/2014,Fisker Night Club,-21.54,CA
+63891,6/27/2014,Wine Bar,-14.6,CA
+63891,6/27/2014,Wine Bar,-103.16,CA
+63891,6/27/2014,Wine Bar,-29.59,CA
+63891,6/27/2014,Seaside Bar,-23.97,CA
+63891,6/27/2014,Movie Ticket,-26.12,CA
+63891,6/27/2014,Fisker Night Club,-3.17,CA
+63891,6/27/2014,Owl Night Club,-4.69,CA
+63891,6/28/2014,Bowling,-19.64,CA
+63891,6/28/2014,Movie Ticket,-13.23,CA
+63891,6/28/2014,Whole Foods,-6.77,CA
+63891,6/28/2014,Von's Groceries,-8.44,CA
+63891,6/28/2014,Karaoke Bar,-82.01,CA
+63891,6/29/2014,Concert Ticket,-3.29,CA
+63891,6/29/2014,Ice Skating Rink,-26.3,CA
+63891,6/29/2014,Movie Ticket,-51.23,CA
+63891,6/29/2014,Karaoke Bar,-30.55,CA
+63891,6/30/2014,Owl Night Club,-17.05,CA
+63891,6/30/2014,Whole Foods,-22.38,CA
+63891,6/30/2014,Rodriguez's Bar and Grill,-20.45,CA
+63891,7/2/2014,Housing Rent,-878,CA
+63891,7/2/2014,Gas & Electric,-32,CA
+63891,7/2/2014,ACS - Student Loans,-135,CA
+63891,7/2/2014,Netflix Subscription,-4.99,CA
+63891,7/2/2014,Navient - Student Loans,-197,CA
+63891,7/2/2014,Water & Sewer,-53,CA
+63891,7/2/2014,Credit Card Payment,-154,CA
+63891,7/2/2014,Time Warner Cable,-25,CA
+63891,7/2/2014,Fisker Night Club,-0.93,CA
+63891,7/2/2014,Green Flash Brewery,-11.75,CA
+63891,7/2/2014,Seaside Bar,-15.79,CA
+63891,7/2/2014,Lyft,-1.09,CA
+63891,7/2/2014,Sprouts Market,-38.48,CA
+63891,7/2/2014,John's Bar & Restaurant,-24.53,CA
+63891,7/2/2014,Concert Ticket,-5.04,CA
+63891,7/3/2014,Karaoke Bar,-5.85,CA
+63891,7/3/2014,Restaurant - Pizza,-55.62,CA
+63891,7/3/2014,Concert Ticket,-28.11,CA
+63891,7/3/2014,Wine Bar,-22.25,CA
+63891,7/3/2014,Fisker Night Club,-47.4,CA
+63891,7/3/2014,Bowling,-31.87,CA
+63891,7/4/2014,Uber,-114.53,CA
+63891,7/5/2014,Bowling,-27.61,CA
+63891,7/6/2014,Uber,-37.05,CA
+63891,7/6/2014,Lyft,-22.87,CA
+63891,7/6/2014,Seaside Bar,-29.66,CA
+63891,7/6/2014,Seaside Bar,-2.63,CA
+63891,7/7/2014,Seaside Bar,-33.3,CA
+63891,7/7/2014,Green Flash Brewery,-21.63,CA
+63891,7/7/2014,Uber,-97.45,CA
+63891,7/7/2014,Concert Ticket,-34.76,CA
+63891,7/7/2014,Owl Night Club,-101.87,CA
+63891,7/8/2014,Von's Groceries,-8.08,CA
+63891,7/8/2014,Ice Skating Rink,-19.49,CA
+63891,7/8/2014,Concert Ticket,-8.97,CA
+63891,7/8/2014,Sprouts Market,-17.12,CA
+63891,7/8/2014,Sprouts Market,-85.6,CA
+63891,7/8/2014,Karaoke Bar,-21.68,CA
+63891,7/8/2014,Concert Ticket,-47.4,CA
+63891,7/8/2014,Seaside Bar,-36.57,CA
+63891,7/8/2014,Green Flash Brewery,-2.58,CA
+63891,7/8/2014,Public Transportation - Bus Pass,-36.15,CA
+63891,7/8/2014,Whole Foods,-24.35,CA
+63891,7/8/2014,Movie Ticket,-5.86,CA
+63891,7/9/2014,Lyft,-39.16,CA
+63891,7/10/2014,Movie Ticket,-35.2,CA
+63891,7/11/2014,Karaoke Bar,-25.17,CA
+63891,7/11/2014,Ice Skating Rink,-24.25,CA
+63891,7/12/2014,Rodriguez's Bar and Grill,-2.28,CA
+63891,7/12/2014,Green Flash Brewery,-13.46,CA
+63891,7/12/2014,Wine Bar,-2.37,CA
+63891,7/12/2014,Restaurant - Chinese,-1.95,CA
+63891,7/12/2014,John's Bar & Restaurant,-2.65,CA
+63891,7/12/2014,Restaurant - Pizza,-12.24,CA
+63891,7/12/2014,Fisker Night Club,-51.79,CA
+63891,7/13/2014,Karaoke Bar,-7.87,CA
+63891,7/13/2014,Movie Ticket,-7.9,CA
+63891,7/13/2014,Taxi,-29.45,CA
+63891,7/13/2014,Karaoke Bar,-7.1,CA
+63891,7/13/2014,Public Transportation - Bus Pass,-5.1,CA
+63891,7/13/2014,Restaurant - Chinese,-21.28,CA
+63891,7/13/2014,Uber,-27.91,CA
+63891,7/13/2014,Public Transportation - Train Pass,-37.85,CA
+63891,7/13/2014,Ralph's Grocery Store,-10.12,CA
+63891,7/14/2014,Fisker Night Club,-2.36,CA
+63891,7/14/2014,Public Transportation - Train Pass,-35.17,CA
+63891,7/14/2014,Restaurant - Pizza,-27.77,CA
+63891,7/15/2014,Bowling,-2.27,CA
+63891,7/15/2014,Taxi,-4.95,CA
+63891,7/15/2014,Movie Ticket,-23.04,CA
+63891,7/15/2014,Whole Foods,-38.86,CA
+63891,7/15/2014,Owl Night Club,-11.16,CA
+63891,7/15/2014,Rodriguez's Bar and Grill,-13.08,CA
+63891,7/15/2014,Starbucks Coffee,-32.72,CA
+63891,7/15/2014,John's Bar & Restaurant,-116.16,CA
+63891,7/15/2014,Von's Groceries,-13.53,CA
+63891,7/15/2014,Bowling,-96.1,CA
+63891,7/16/2014,Restaurant - Burgers,-32.79,CA
+63891,7/17/2014,Public Transportation - Train Pass,-31.32,CA
+63891,7/17/2014,Owl Night Club,-81.98,CA
+63891,7/17/2014,Seaside Bar,-38.87,CA
+63891,7/18/2014,Ice Skating Rink,-38.54,CA
+63891,7/18/2014,Karaoke Bar,-11.26,CA
+63891,7/19/2014,Fisker Night Club,-6.72,CA
+63891,7/19/2014,Movie Ticket,-5.53,CA
+63891,7/20/2014,Lyft,-58.57,CA
+63891,7/20/2014,Fisker Night Club,-0.22,CA
+63891,7/20/2014,Owl Night Club,-17.18,CA
+63891,7/20/2014,Starbucks Coffee,-48.02,CA
+63891,7/20/2014,Rodriguez's Bar and Grill,-7.28,CA
+63891,7/20/2014,Fisker Night Club,-37.95,CA
+63891,7/20/2014,Fisker Night Club,-90.45,CA
+63891,7/21/2014,Rodriguez's Bar and Grill,-74.07,CA
+63891,7/21/2014,Ralph's Grocery Store,-39.91,CA
+63891,7/21/2014,Wine Bar,-28.52,CA
+63891,7/22/2014,Fisker Night Club,-23.1,CA
+63891,7/23/2014,Green Flash Brewery,-48.76,CA
+63891,7/23/2014,Public Transportation - Bus Pass,-33.23,CA
+63891,7/23/2014,Restaurant - Steakhouse,-6.04,CA
+63891,7/23/2014,Public Transportation - Bus Pass,-29.9,CA
+63891,7/24/2014,Wine Bar,-34.53,CA
+63891,7/25/2014,John's Bar & Restaurant,-75.73,CA
+63891,7/25/2014,Public Transportation - Bus Pass,-31.34,CA
+63891,7/25/2014,Owl Night Club,-15.9,CA
+63891,7/25/2014,Food Delivery - GrubHub,-5.62,CA
+63891,7/25/2014,Owl Night Club,-11.89,CA
+63891,7/25/2014,Movie Ticket,-8.08,CA
+63891,7/25/2014,Owl Night Club,-22.72,CA
+63891,7/26/2014,Taxi,-29.89,CA
+63891,7/26/2014,John's Bar & Restaurant,-38.12,CA
+63891,7/26/2014,Concert Ticket,-3.2,CA
+63891,7/26/2014,Sprouts Market,-13.81,CA
+63891,7/26/2014,Concert Ticket,-32.58,CA
+63891,7/26/2014,Green Flash Brewery,-113.31,CA
+63891,7/26/2014,Public Transportation - Train Pass,-14.54,CA
+63891,7/27/2014,Green Flash Brewery,-13.39,CA
+63891,7/27/2014,Concert Ticket,-2.49,CA
+63891,7/27/2014,Concert Ticket,-12.25,CA
+63891,7/27/2014,Wine Bar,-35.95,CA
+63891,7/27/2014,Wine Bar,-38.63,CA
+63891,7/27/2014,Green Flash Brewery,-5.87,CA
+63891,7/27/2014,Starbucks Coffee,-31.54,CA
+63891,7/27/2014,Uber,-9.8,CA
+63891,7/27/2014,Ralph's Grocery Store,-27.64,CA
+63891,7/27/2014,Restaurant - Chinese,-26.67,CA
+63891,7/27/2014,Sprouts Market,-17.9,CA
+63891,7/27/2014,Wine Bar,-26.97,CA
+63891,7/27/2014,Karaoke Bar,-80.4,CA
+63891,7/27/2014,Taxi,-15.73,CA
+63891,7/27/2014,Food Delivery - GrubHub,-16.21,CA
+63891,7/27/2014,Seaside Bar,-79.11,CA
+63891,7/27/2014,Owl Night Club,-25.17,CA
+63891,7/28/2014,Ice Skating Rink,-51.65,CA
+63891,7/29/2014,Ice Skating Rink,-24.27,CA
+63891,7/29/2014,Fisker Night Club,-20.53,CA
+63891,7/29/2014,John's Bar & Restaurant,-39.91,CA
+63891,7/30/2014,Taxi,-20.58,CA
+63891,7/30/2014,Karaoke Bar,-99.37,CA
+63891,7/30/2014,Bowling,-12,CA
+63891,7/30/2014,Starbucks Coffee,-20.15,CA
+63891,7/30/2014,Starbucks Coffee,-20.54,CA
+63891,8/2/2014,Housing Rent,-917,CA
+63891,8/2/2014,Gas & Electric,-32,CA
+63891,8/2/2014,ACS - Student Loans,-135,CA
+63891,8/2/2014,Netflix Subscription,-4.99,CA
+63891,8/2/2014,Navient - Student Loans,-197,CA
+63891,8/2/2014,Water & Sewer,-53,CA
+63891,8/2/2014,Credit Card Payment,-154,CA
+63891,8/2/2014,Time Warner Cable,-25,CA
+63891,8/2/2014,Bowling,-23.75,CA
+63891,8/2/2014,Lyft,-16.57,CA
+63891,8/2/2014,Bowling,-13.13,CA
+63891,8/3/2014,Movie Ticket,-11.05,CA
+63891,8/3/2014,Owl Night Club,-29.56,CA
+63891,8/4/2014,Whole Foods,-32.67,CA
+63891,8/4/2014,Ice Skating Rink,-9.53,CA
+63891,8/5/2014,Ralph's Grocery Store,-23.98,CA
+63891,8/6/2014,Public Transportation - Train Pass,-35.7,CA
+63891,8/7/2014,Taxi,-3.87,CA
+63891,8/7/2014,Karaoke Bar,-117.76,CA
+63891,8/7/2014,Wine Bar,-32.43,CA
+63891,8/7/2014,Movie Ticket,-23.08,CA
+63891,8/7/2014,Seaside Bar,-37.51,CA
+63891,8/7/2014,Seaside Bar,-80.87,CA
+63891,8/7/2014,Bowling,-24.08,CA
+63891,8/7/2014,Wine Bar,-13.78,CA
+63891,8/7/2014,Concert Ticket,-23.82,CA
+63891,8/8/2014,Karaoke Bar,-11.77,CA
+63891,8/8/2014,Owl Night Club,-45.3,CA
+63891,8/8/2014,Sprouts Market,-10.77,CA
+63891,8/8/2014,Public Transportation - Train Pass,-39.43,CA
+63891,8/8/2014,Taxi,-96.83,CA
+63891,8/8/2014,Concert Ticket,-27.8,CA
+63891,8/9/2014,Restaurant - Pizza,-28.65,CA
+63891,8/9/2014,Lyft,-25.51,CA
+63891,8/9/2014,Restaurant - Chinese,-53.83,CA
+63891,8/9/2014,Von's Groceries,-6.64,CA
+63891,8/9/2014,Von's Groceries,-26.99,CA
+63891,8/9/2014,Public Transportation - Bus Pass,-27.12,CA
+63891,8/9/2014,Rodriguez's Bar and Grill,-26.38,CA
+63891,8/9/2014,Fisker Night Club,-25.31,CA
+63891,8/9/2014,Uber,-2.25,CA
+63891,8/9/2014,Ice Skating Rink,-29.57,CA
+63891,8/10/2014,Food Delivery - GrubHub,-75.74,CA
+63891,8/11/2014,Karaoke Bar,-40.62,CA
+63891,8/11/2014,Bowling,-76.79,CA
+63891,8/12/2014,John's Bar & Restaurant,-38.78,CA
+63891,8/12/2014,Green Flash Brewery,-92.67,CA
+63891,8/13/2014,Seaside Bar,-70.25,CA
+63891,8/13/2014,Green Flash Brewery,-46.84,CA
+63891,8/14/2014,Ralph's Grocery Store,-3.02,CA
+63891,8/14/2014,Restaurant - Chinese,-62.68,CA
+63891,8/14/2014,Public Transportation - Bus Pass,-28.31,CA
+63891,8/15/2014,Sprouts Market,-22.94,CA
+63891,8/15/2014,Green Flash Brewery,-26.22,CA
+63891,8/15/2014,Food Delivery - GrubHub,-25.02,CA
+63891,8/16/2014,Uber,-18.52,CA
+63891,8/17/2014,Seaside Bar,-62.01,CA
+63891,8/17/2014,Von's Groceries,-33.63,CA
+63891,8/17/2014,Ralph's Grocery Store,-6.3,CA
+63891,8/18/2014,Uber,-25.46,CA
+63891,8/18/2014,Ice Skating Rink,-47.02,CA
+63891,8/19/2014,Food Delivery - GrubHub,-11.16,CA
+63891,8/19/2014,Ralph's Grocery Store,-18.79,CA
+63891,8/20/2014,Whole Foods,-35.07,CA
+63891,8/20/2014,Public Transportation - Bus Pass,-38.1,CA
+63891,8/20/2014,Taxi,-9.84,CA
+63891,8/21/2014,John's Bar & Restaurant,-35.48,CA
+63891,8/21/2014,Movie Ticket,-7.38,CA
+63891,8/22/2014,Ice Skating Rink,-18.33,CA
+63891,8/23/2014,John's Bar & Restaurant,-20.62,CA
+63891,8/24/2014,Owl Night Club,-16.45,CA
+63891,8/25/2014,Restaurant - Steakhouse,-53.04,CA
+63891,8/25/2014,Bowling,-39.28,CA
+63891,8/25/2014,Food Delivery - GrubHub,-50.82,CA
+63891,8/26/2014,Sprouts Market,-15.86,CA
+63891,8/26/2014,Wine Bar,-100.91,CA
+63891,8/26/2014,Wine Bar,-2.67,CA
+63891,8/26/2014,Owl Night Club,-22.49,CA
+63891,8/26/2014,Wine Bar,-34.31,CA
+63891,8/27/2014,Movie Ticket,-23.08,CA
+63891,8/28/2014,Von's Groceries,-21.74,CA
+63891,8/28/2014,Ice Skating Rink,-2.69,CA
+63891,8/28/2014,Restaurant - Steakhouse,-33.48,CA
+63891,8/28/2014,Rodriguez's Bar and Grill,-36.53,CA
+63891,8/28/2014,Bowling,-3.56,CA
+63891,8/28/2014,Public Transportation - Train Pass,-111.6,CA
+63891,8/28/2014,Lyft,-0.13,CA
+63891,8/28/2014,Restaurant - Steakhouse,-108.29,CA
+63891,8/29/2014,Concert Ticket,-35.75,CA
+63891,8/29/2014,Taxi,-29.8,CA
+63891,8/30/2014,Uber,-29.88,CA
+63891,9/2/2014,Housing Rent,-835,CA
+63891,9/2/2014,Gas & Electric,-32,CA
+63891,9/2/2014,ACS - Student Loans,-135,CA
+63891,9/2/2014,Netflix Subscription,-4.99,CA
+63891,9/2/2014,Navient - Student Loans,-197,CA
+63891,9/2/2014,Water & Sewer,-53,CA
+63891,9/2/2014,Credit Card Payment,-154,CA
+63891,9/2/2014,Time Warner Cable,-25,CA
+63891,9/2/2014,Concert Ticket,-24.26,CA
+63891,9/3/2014,Seaside Bar,-14.55,CA
+63891,9/4/2014,Movie Ticket,-32.81,CA
+63891,9/5/2014,Fisker Night Club,-36.69,CA
+63891,9/5/2014,Rodriguez's Bar and Grill,-34.06,CA
+63891,9/5/2014,Restaurant - Chinese,-34.85,CA
+63891,9/6/2014,Uber,-37.1,CA
+63891,9/6/2014,Seaside Bar,-12.99,CA
+63891,9/6/2014,Ice Skating Rink,-82.52,CA
+63891,9/6/2014,Green Flash Brewery,-3.51,CA
+63891,9/6/2014,Starbucks Coffee,-0.43,CA
+63891,9/6/2014,Green Flash Brewery,-49.83,CA
+63891,9/6/2014,Lyft,-22.94,CA
+63891,9/6/2014,Public Transportation - Bus Pass,-12.2,CA
+63891,9/7/2014,Seaside Bar,-22.42,CA
+63891,9/7/2014,Restaurant - Burgers,-10.23,CA
+63891,9/8/2014,Wine Bar,-24.8,CA
+63891,9/9/2014,Ralph's Grocery Store,-11.85,CA
+63891,9/10/2014,Ralph's Grocery Store,-27.83,CA
+63891,9/11/2014,Rodriguez's Bar and Grill,-5.28,CA
+63891,9/11/2014,Whole Foods,-3.55,CA
+63891,9/12/2014,Whole Foods,-97.59,CA
+63891,9/13/2014,Fisker Night Club,-31.08,CA
+63891,9/13/2014,Public Transportation - Train Pass,-16.91,CA
+63891,9/13/2014,Ralph's Grocery Store,-36.68,CA
+63891,9/14/2014,Movie Ticket,-7.68,CA
+63891,9/14/2014,Sprouts Market,-10.94,CA
+63891,9/14/2014,Sprouts Market,-28.35,CA
+63891,9/14/2014,Public Transportation - Train Pass,-69.71,CA
+63891,9/14/2014,Bowling,-19.06,CA
+63891,9/15/2014,Ice Skating Rink,-22.56,CA
+63891,9/15/2014,Restaurant - Pizza,-29.67,CA
+63891,9/15/2014,John's Bar & Restaurant,-19.41,CA
+63891,9/16/2014,Fisker Night Club,-36.94,CA
+63891,9/17/2014,Ice Skating Rink,-78.49,CA
+63891,9/17/2014,Sprouts Market,-20.46,CA
+63891,9/18/2014,Seaside Bar,-39.74,CA
+63891,9/18/2014,Owl Night Club,-36.31,CA
+63891,9/19/2014,Movie Ticket,-13.39,CA
+63891,9/19/2014,Taxi,-20.1,CA
+63891,9/20/2014,Public Transportation - Train Pass,-9.83,CA
+63891,9/20/2014,Owl Night Club,-3.89,CA
+63891,9/20/2014,Green Flash Brewery,-20.51,CA
+63891,9/21/2014,Fisker Night Club,-20.56,CA
+63891,9/21/2014,Seaside Bar,-11.57,CA
+63891,9/22/2014,Owl Night Club,-36.96,CA
+63891,9/22/2014,Taxi,-23.75,CA
+63891,9/22/2014,Rodriguez's Bar and Grill,-25.8,CA
+63891,9/23/2014,Rodriguez's Bar and Grill,-46.73,CA
+63891,9/23/2014,Ice Skating Rink,-8.16,CA
+63891,9/23/2014,Wine Bar,-14.59,CA
+63891,9/24/2014,Restaurant - Chinese,-26.31,CA
+63891,9/24/2014,Taxi,-29.61,CA
+63891,9/25/2014,Public Transportation - Train Pass,-33.01,CA
+63891,9/25/2014,Uber,-10.56,CA
+63891,9/25/2014,Movie Ticket,-4.31,CA
+63891,9/26/2014,Starbucks Coffee,-35.18,CA
+63891,9/26/2014,Wine Bar,-26.61,CA
+63891,9/27/2014,Green Flash Brewery,-37.52,CA
+63891,9/27/2014,Taxi,-23.49,CA
+63891,9/27/2014,Green Flash Brewery,-32.16,CA
+63891,9/27/2014,John's Bar & Restaurant,-105.19,CA
+63891,9/27/2014,Seaside Bar,-78.82,CA
+63891,9/27/2014,Fisker Night Club,-36.32,CA
+63891,9/28/2014,Food Delivery - GrubHub,-34.35,CA
+63891,9/29/2014,Seaside Bar,-8.78,CA
+63891,9/29/2014,Seaside Bar,-22.75,CA
+63891,9/29/2014,Public Transportation - Bus Pass,-18.53,CA
+63891,9/29/2014,Green Flash Brewery,-37.64,CA
+63891,9/29/2014,Movie Ticket,-9.18,CA
+63891,9/29/2014,Restaurant - Pizza,-19.01,CA
+63891,9/29/2014,Fisker Night Club,-2.4,CA
+63891,9/29/2014,Lyft,-17.37,CA
+63891,9/29/2014,Seaside Bar,-23.62,CA
+63891,9/30/2014,Sprouts Market,-4.09,CA
+63891,9/30/2014,Rodriguez's Bar and Grill,-3.41,CA
+63891,9/30/2014,Green Flash Brewery,-5.82,CA
+63891,10/2/2014,Housing Rent,-879,CA
+63891,10/2/2014,Gas & Electric,-32,CA
+63891,10/2/2014,ACS - Student Loans,-135,CA
+63891,10/2/2014,Netflix Subscription,-4.99,CA
+63891,10/2/2014,Navient - Student Loans,-197,CA
+63891,10/2/2014,Water & Sewer,-53,CA
+63891,10/2/2014,Credit Card Payment,-154,CA
+63891,10/2/2014,Time Warner Cable,-25,CA
+63891,10/2/2014,Public Transportation - Train Pass,-12.11,CA
+63891,10/3/2014,Public Transportation - Train Pass,-27.68,CA
+63891,10/4/2014,Taxi,-37.83,CA
+63891,10/4/2014,Seaside Bar,-0.23,CA
+63891,10/4/2014,Concert Ticket,-54.9,CA
+63891,10/5/2014,Ralph's Grocery Store,-29.91,CA
+63891,10/5/2014,Wine Bar,-32.71,CA
+63891,10/5/2014,Rodriguez's Bar and Grill,-35.06,CA
+63891,10/5/2014,Ice Skating Rink,-24.59,CA
+63891,10/5/2014,Movie Ticket,-63.24,CA
+63891,10/6/2014,Bowling,-26.3,CA
+63891,10/7/2014,Restaurant - Burgers,-112.45,CA
+63891,10/7/2014,Concert Ticket,-10.37,CA
+63891,10/8/2014,Public Transportation - Train Pass,-26.26,CA
+63891,10/9/2014,Owl Night Club,-27.01,CA
+63891,10/10/2014,Green Flash Brewery,-32.92,CA
+63891,10/10/2014,Whole Foods,-9.8,CA
+63891,10/10/2014,Restaurant - Burgers,-32.81,CA
+63891,10/11/2014,Concert Ticket,-15.6,CA
+63891,10/12/2014,Ralph's Grocery Store,-1.48,CA
+63891,10/12/2014,Whole Foods,-3.04,CA
+63891,10/13/2014,Whole Foods,-26.12,CA
+63891,10/14/2014,Owl Night Club,-2.64,CA
+63891,10/14/2014,Sprouts Market,-21.8,CA
+63891,10/14/2014,Public Transportation - Bus Pass,-23.31,CA
+63891,10/15/2014,Karaoke Bar,-21.99,CA
+63891,10/15/2014,Taxi,-4.7,CA
+63891,10/15/2014,Green Flash Brewery,-7.27,CA
+63891,10/16/2014,John's Bar & Restaurant,-1.72,CA
+63891,10/17/2014,Movie Ticket,-93.63,CA
+63891,10/17/2014,Restaurant - Chinese,-39.03,CA
+63891,10/17/2014,Fisker Night Club,-30.88,CA
+63891,10/18/2014,Movie Ticket,-10.7,CA
+63891,10/18/2014,Green Flash Brewery,-24.98,CA
+63891,10/18/2014,Restaurant - Chinese,-17.11,CA
+63891,10/18/2014,Taxi,-8.95,CA
+63891,10/18/2014,Taxi,-25.32,CA
+63891,10/18/2014,Bowling,-8.11,CA
+63891,10/19/2014,Fisker Night Club,-2.44,CA
+63891,10/20/2014,Bowling,-31.9,CA
+63891,10/21/2014,Bowling,-15.39,CA
+63891,10/21/2014,Bowling,-35.33,CA
+63891,10/21/2014,Movie Ticket,-25.37,CA
+63891,10/21/2014,Wine Bar,-32.81,CA
+63891,10/21/2014,Concert Ticket,-12,CA
+63891,10/22/2014,Public Transportation - Bus Pass,-1.03,CA
+63891,10/23/2014,Uber,-16.1,CA
+63891,10/24/2014,Karaoke Bar,-24.41,CA
+63891,10/25/2014,Rodriguez's Bar and Grill,-24.29,CA
+63891,10/25/2014,Food Delivery - GrubHub,-16.49,CA
+63891,10/25/2014,Public Transportation - Train Pass,-9.24,CA
+63891,10/25/2014,Sprouts Market,-7.84,CA
+63891,10/25/2014,Whole Foods,-22.81,CA
+63891,10/26/2014,Movie Ticket,-11.05,CA
+63891,10/26/2014,Fisker Night Club,-38.91,CA
+63891,10/26/2014,Starbucks Coffee,-16.22,CA
+63891,10/26/2014,John's Bar & Restaurant,-15.39,CA
+63891,10/26/2014,Rodriguez's Bar and Grill,-28.33,CA
+63891,10/26/2014,Owl Night Club,-19.12,CA
+63891,10/27/2014,Public Transportation - Bus Pass,-101.43,CA
+63891,10/28/2014,Taxi,-33.59,CA
+63891,10/28/2014,Seaside Bar,-14.76,CA
+63891,10/28/2014,Green Flash Brewery,-110.1,CA
+63891,10/28/2014,Ice Skating Rink,-86.07,CA
+63891,10/28/2014,Wine Bar,-24.77,CA
+63891,10/28/2014,John's Bar & Restaurant,-116.62,CA
+63891,10/29/2014,Rodriguez's Bar and Grill,-34.75,CA
+63891,10/29/2014,Lyft,-33.7,CA
+63891,10/29/2014,Rodriguez's Bar and Grill,-0.73,CA
+63891,10/29/2014,Fisker Night Club,-2.88,CA
+63891,10/29/2014,Concert Ticket,-37.01,CA
+63891,10/29/2014,Ice Skating Rink,-38.92,CA
+63891,10/29/2014,Public Transportation - Bus Pass,-77.86,CA
+63891,10/30/2014,Green Flash Brewery,-35.57,CA
+63891,10/30/2014,Wine Bar,-26.06,CA
+63891,11/2/2014,Housing Rent,-1223,CA
+63891,11/2/2014,Gas & Electric,-32,CA
+63891,11/2/2014,ACS - Student Loans,-135,CA
+63891,11/2/2014,Netflix Subscription,-4.99,CA
+63891,11/2/2014,Navient - Student Loans,-197,CA
+63891,11/2/2014,Water & Sewer,-53,CA
+63891,11/2/2014,Credit Card Payment,-154,CA
+63891,11/2/2014,Time Warner Cable,-25,CA
+63891,11/2/2014,Restaurant - Pizza,-30.4,CA
+63891,11/2/2014,Owl Night Club,-102.42,CA
+63891,11/2/2014,Ice Skating Rink,-4.8,CA
+63891,11/2/2014,Restaurant - Burgers,-16.38,CA
+63891,11/2/2014,Seaside Bar,-19.3,CA
+63891,11/3/2014,Uber,-52.29,CA
+63891,11/3/2014,Movie Ticket,-97.27,CA
+63891,11/3/2014,Sprouts Market,-25.55,CA
+63891,11/3/2014,Bowling,-9.96,CA
+63891,11/3/2014,Rodriguez's Bar and Grill,-13.11,CA
+63891,11/4/2014,Seaside Bar,-19.78,CA
+63891,11/5/2014,Wine Bar,-16.47,CA
+63891,11/5/2014,Public Transportation - Bus Pass,-78.46,CA
+63891,11/5/2014,Restaurant - Chinese,-24.72,CA
+63891,11/6/2014,Rodriguez's Bar and Grill,-4.99,CA
+63891,11/6/2014,Taxi,-2.95,CA
+63891,11/6/2014,Seaside Bar,-26.53,CA
+63891,11/6/2014,Public Transportation - Train Pass,-37.7,CA
+63891,11/7/2014,Rodriguez's Bar and Grill,-78.8,CA
+63891,11/8/2014,Movie Ticket,-39.35,CA
+63891,11/9/2014,Restaurant - Steakhouse,-11.25,CA
+63891,11/9/2014,Seaside Bar,-75.73,CA
+63891,11/9/2014,Bowling,-10.85,CA
+63891,11/10/2014,Green Flash Brewery,-36.02,CA
+63891,11/10/2014,Owl Night Club,-110.32,CA
+63891,11/10/2014,Ice Skating Rink,-38.84,CA
+63891,11/11/2014,Seaside Bar,-25.4,CA
+63891,11/11/2014,Restaurant - Pizza,-20.59,CA
+63891,11/11/2014,Bowling,-29.12,CA
+63891,11/12/2014,Owl Night Club,-25.76,CA
+63891,11/12/2014,Green Flash Brewery,-30.03,CA
+63891,11/12/2014,Food Delivery - GrubHub,-5.74,CA
+63891,11/12/2014,Restaurant - Burgers,-6.59,CA
+63891,11/12/2014,Lyft,-28.93,CA
+63891,11/12/2014,Green Flash Brewery,-13.36,CA
+63891,11/12/2014,Seaside Bar,-24.86,CA
+63891,11/12/2014,Karaoke Bar,-15.17,CA
+63891,11/12/2014,Restaurant - Pizza,-16.32,CA
+63891,11/13/2014,John's Bar & Restaurant,-111.76,CA
+63891,11/13/2014,Green Flash Brewery,-21.17,CA
+63891,11/13/2014,Bowling,-3.88,CA
+63891,11/14/2014,Sprouts Market,-9.6,CA
+63891,11/14/2014,Karaoke Bar,-18.54,CA
+63891,11/14/2014,Movie Ticket,-25.03,CA
+63891,11/14/2014,Ralph's Grocery Store,-19.56,CA
+63891,11/14/2014,Ralph's Grocery Store,-0.89,CA
+63891,11/15/2014,Movie Ticket,-24.54,CA
+63891,11/15/2014,Public Transportation - Bus Pass,-81.52,CA
+63891,11/15/2014,Owl Night Club,-36.55,CA
+63891,11/15/2014,Lyft,-6.63,CA
+63891,11/15/2014,Green Flash Brewery,-9.44,CA
+63891,11/15/2014,John's Bar & Restaurant,-3.72,CA
+63891,11/15/2014,Fisker Night Club,-32.78,CA
+63891,11/16/2014,Sprouts Market,-95.37,CA
+63891,11/16/2014,Ralph's Grocery Store,-15.13,CA
+63891,11/16/2014,John's Bar & Restaurant,-57.83,CA
+63891,11/16/2014,John's Bar & Restaurant,-36.55,CA
+63891,11/16/2014,Public Transportation - Train Pass,-86.49,CA
+63891,11/16/2014,Sprouts Market,-26.25,CA
+63891,11/16/2014,Owl Night Club,-5,CA
+63891,11/17/2014,Movie Ticket,-9.92,CA
+63891,11/17/2014,Movie Ticket,-22.94,CA
+63891,11/17/2014,Sprouts Market,-1.85,CA
+63891,11/17/2014,John's Bar & Restaurant,-71.74,CA
+63891,11/18/2014,Ice Skating Rink,-19.79,CA
+63891,11/18/2014,Public Transportation - Bus Pass,-112.19,CA
+63891,11/19/2014,Rodriguez's Bar and Grill,-29.24,CA
+63891,11/20/2014,Sprouts Market,-28.79,CA
+63891,11/20/2014,Movie Ticket,-18.34,CA
+63891,11/20/2014,Movie Ticket,-31.54,CA
+63891,11/20/2014,Owl Night Club,-20.99,CA
+63891,11/20/2014,Public Transportation - Bus Pass,-4.77,CA
+63891,11/20/2014,Restaurant - Chinese,-36.11,CA
+63891,11/20/2014,Uber,-14.4,CA
+63891,11/20/2014,Ralph's Grocery Store,-3.83,CA
+63891,11/20/2014,Starbucks Coffee,-36.55,CA
+63891,11/20/2014,Food Delivery - GrubHub,-79.73,CA
+63891,11/20/2014,Public Transportation - Bus Pass,-23.99,CA
+63891,11/21/2014,Concert Ticket,-34.05,CA
+63891,11/21/2014,Von's Groceries,-39.54,CA
+63891,11/21/2014,Seaside Bar,-14.59,CA
+63891,11/22/2014,Ralph's Grocery Store,-36.97,CA
+63891,11/22/2014,Owl Night Club,-19.83,CA
+63891,11/22/2014,Food Delivery - GrubHub,-27.2,CA
+63891,11/22/2014,Public Transportation - Bus Pass,-37.51,CA
+63891,11/23/2014,Public Transportation - Bus Pass,-5.5,CA
+63891,11/23/2014,Concert Ticket,-15.92,CA
+63891,11/24/2014,Lyft,-86.64,CA
+63891,11/25/2014,Green Flash Brewery,-70.86,CA
+63891,11/26/2014,Taxi,-31.83,CA
+63891,11/27/2014,Taxi,-2.26,CA
+63891,11/27/2014,Karaoke Bar,-33.67,CA
+63891,11/27/2014,Movie Ticket,-3.01,CA
+63891,11/28/2014,Food Delivery - GrubHub,-57.78,CA
+63891,11/28/2014,Karaoke Bar,-5.2,CA
+63891,11/28/2014,Owl Night Club,-11.48,CA
+63891,11/28/2014,Food Delivery - GrubHub,-33.2,CA
+63891,11/29/2014,Bowling,-17.03,CA
+63891,11/29/2014,Public Transportation - Bus Pass,-34.72,CA
+63891,11/29/2014,Wine Bar,-0.79,CA
+63891,11/29/2014,Starbucks Coffee,-34.7,CA
+63891,11/29/2014,Uber,-31.27,CA
+63891,11/29/2014,Green Flash Brewery,-32.37,CA
+63891,11/29/2014,Ice Skating Rink,-20.24,CA
+63891,11/30/2014,John's Bar & Restaurant,-90.32,CA
+63891,11/30/2014,Seaside Bar,-19.44,CA
+63891,11/30/2014,Lyft,-77.73,CA
+63891,12/2/2014,Housing Rent,-739,CA
+63891,12/2/2014,Gas & Electric,-32,CA
+63891,12/2/2014,ACS - Student Loans,-135,CA
+63891,12/2/2014,Netflix Subscription,-4.99,CA
+63891,12/2/2014,Navient - Student Loans,-197,CA
+63891,12/2/2014,Water & Sewer,-53,CA
+63891,12/2/2014,Credit Card Payment,-154,CA
+63891,12/2/2014,Time Warner Cable,-25,CA
+63891,12/2/2014,Restaurant - Pizza,-6.73,CA
+63891,12/2/2014,Bowling,-30.59,CA
+63891,12/2/2014,Movie Ticket,-21.42,CA
+63891,12/2/2014,Lyft,-31.01,CA
+63891,12/3/2014,Green Flash Brewery,-40.21,CA
+63891,12/3/2014,Uber,-84.06,CA
+63891,12/4/2014,Wine Bar,-12.77,CA
+63891,12/4/2014,Ralph's Grocery Store,-22.51,CA
+63891,12/4/2014,Public Transportation - Train Pass,-13.03,CA
+63891,12/4/2014,Wine Bar,-8.29,CA
+63891,12/4/2014,Owl Night Club,-16.86,CA
+63891,12/4/2014,Restaurant - Burgers,-32.62,CA
+63891,12/4/2014,Karaoke Bar,-31.67,CA
+63891,12/4/2014,Seaside Bar,-6.49,CA
+63891,12/4/2014,Restaurant - Chinese,-20.68,CA
+63891,12/4/2014,Public Transportation - Bus Pass,-59.11,CA
+63891,12/5/2014,Ice Skating Rink,-33.13,CA
+63891,12/5/2014,Uber,-28.93,CA
+63891,12/6/2014,Uber,-74.96,CA
+63891,12/6/2014,Concert Ticket,-86.99,CA
+63891,12/6/2014,Rodriguez's Bar and Grill,-32.25,CA
+63891,12/7/2014,Concert Ticket,-38.5,CA
+63891,12/8/2014,Green Flash Brewery,-74.11,CA
+63891,12/9/2014,Movie Ticket,-38.21,CA
+63891,12/9/2014,Food Delivery - GrubHub,-64.42,CA
+63891,12/10/2014,Lyft,-84.32,CA
+63891,12/10/2014,Wine Bar,-38.18,CA
+63891,12/11/2014,Owl Night Club,-30.91,CA
+63891,12/11/2014,Public Transportation - Bus Pass,-12.47,CA
+63891,12/11/2014,John's Bar & Restaurant,-25.33,CA
+63891,12/12/2014,Owl Night Club,-95.56,CA
+63891,12/12/2014,Wine Bar,-55.27,CA
+63891,12/12/2014,Lyft,-10.04,CA
+63891,12/13/2014,Bowling,-21.14,CA
+63891,12/14/2014,Movie Ticket,-85.52,CA
+63891,12/15/2014,Taxi,-8.2,CA
+63891,12/15/2014,Bowling,-37.82,CA
+63891,12/15/2014,Public Transportation - Bus Pass,-13.03,CA
+63891,12/15/2014,Bowling,-106.17,CA
+63891,12/15/2014,Starbucks Coffee,-10.48,CA
+63891,12/16/2014,Von's Groceries,-27.88,CA
+63891,12/17/2014,Movie Ticket,-36.28,CA
+63891,12/18/2014,Wine Bar,-27.89,CA
+63891,12/18/2014,Karaoke Bar,-25.81,CA
+63891,12/18/2014,Movie Ticket,-34.09,CA
+63891,12/18/2014,Restaurant - Burgers,-25.41,CA
+63891,12/18/2014,Concert Ticket,-37.78,CA
+63891,12/18/2014,Bowling,-38.21,CA
+63891,12/18/2014,Von's Groceries,-7.46,CA
+63891,12/18/2014,Wine Bar,-2.46,CA
+63891,12/19/2014,Seaside Bar,-11.26,CA
+63891,12/19/2014,Public Transportation - Bus Pass,-115.3,CA
+63891,12/19/2014,John's Bar & Restaurant,-10.74,CA
+63891,12/20/2014,Fisker Night Club,-27.11,CA
+63891,12/20/2014,Rodriguez's Bar and Grill,-14.32,CA
+63891,12/20/2014,Taxi,-59.55,CA
+63891,12/21/2014,Ice Skating Rink,-21.19,CA
+63891,12/21/2014,Concert Ticket,-28.39,CA
+63891,12/21/2014,Taxi,-30.49,CA
+63891,12/22/2014,Public Transportation - Train Pass,-12.77,CA
+63891,12/22/2014,John's Bar & Restaurant,-96.55,CA
+63891,12/22/2014,Movie Ticket,-39.5,CA
+63891,12/23/2014,Rodriguez's Bar and Grill,-9.15,CA
+63891,12/23/2014,Seaside Bar,-29.97,CA
+63891,12/23/2014,Wine Bar,-25.51,CA
+63891,12/23/2014,Karaoke Bar,-11.65,CA
+63891,12/23/2014,Starbucks Coffee,-22.96,CA
+63891,12/23/2014,Von's Groceries,-31.95,CA
+63891,12/23/2014,Concert Ticket,-6.05,CA
+63891,12/23/2014,Lyft,-12.27,CA
+63891,12/24/2014,Ice Skating Rink,-74.47,CA
+63891,12/25/2014,Concert Ticket,-45.62,CA
+63891,12/26/2014,Sprouts Market,-12.47,CA
+63891,12/27/2014,Ice Skating Rink,-3.74,CA
+63891,12/27/2014,Taxi,-77.09,CA
+63891,12/27/2014,Ice Skating Rink,-26.25,CA
+63891,12/27/2014,Restaurant - Steakhouse,-8.99,CA
+63891,12/27/2014,Sprouts Market,-40.67,CA
+63891,12/27/2014,Restaurant - Chinese,-24.31,CA
+63891,12/28/2014,Rodriguez's Bar and Grill,-30.14,CA
+63891,12/28/2014,Movie Ticket,-107.17,CA
+63891,12/28/2014,Wine Bar,-16.48,CA
+63891,12/29/2014,Food Delivery - GrubHub,-30.03,CA
+63891,12/29/2014,Rodriguez's Bar and Grill,-108.37,CA
+63891,12/30/2014,Seaside Bar,-28.74,CA
+63891,12/30/2014,Seaside Bar,-37.53,CA
+63891,12/30/2014,Lyft,-15.41,CA
+63891,12/30/2014,Taxi,-1.09,CA
+63891,12/32/2014,Fisker Night Club,-39.39,CA
+63891,12/32/2014,Uber,-35.59,CA

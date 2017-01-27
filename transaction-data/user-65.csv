@@ -1,0 +1,2309 @@
+auth_id, Date, Vendor, Amount, Location 
+12013,1/2/2013,Bike Rental,-39.75,CA
+12013,1/2/2013,NBA Ticket - Lakers,-111.96,CA
+12013,1/3/2013,GNC,-12.98,CA
+12013,1/3/2013,Public Transportation - Bus Pass,-18.93,CA
+12013,1/3/2013,Lyft,-21.57,CA
+12013,1/3/2013,Sprouts Market,-3.91,CA
+12013,1/3/2013,Divorce Lawyer Fees,-0.04,CA
+12013,1/3/2013,Comfort Inn,-1.31,CA
+12013,1/3/2013,Best Western Hotel,-10.46,CA
+12013,1/3/2013,Amazon Order - Athletic Equipment,-32.75,CA
+12013,1/4/2013,Total Gym Fees,-17.1,CA
+12013,1/4/2013,Total Gym Fees,-10.55,CA
+12013,1/4/2013,Food Delivery - GrubHub,-109.42,CA
+12013,1/4/2013,GNC,-90.63,CA
+12013,1/4/2013,Lyft,-18.29,CA
+12013,1/4/2013,NFL Ticket - Chargers,-44.18,CA
+12013,1/4/2013,NBA Ticket - Lakers,-12.23,CA
+12013,1/5/2013,Total Gym Fees,-0.29,CA
+12013,1/5/2013,Dick's Sporting Goods,-31.51,CA
+12013,1/6/2013,Food Delivery - GrubHub,-34.01,CA
+12013,1/6/2013,NBA Ticket - Lakers,-12.45,CA
+12013,1/6/2013,Bike Rental,-34.69,CA
+12013,1/6/2013,Taxi,-37.9,CA
+12013,1/6/2013,Athletic Apparel,-24.99,CA
+12013,1/6/2013,Vitamin Shoppe,-36.87,CA
+12013,1/6/2013,Bike Rental,-16.96,CA
+12013,1/6/2013,Athletic Apparel,-54.77,CA
+12013,1/6/2013,Taxi,-26,CA
+12013,1/6/2013,Sam's Sporting Apparel,-90.44,CA
+12013,1/7/2013,Restaurant - Pizza,-29.74,CA
+12013,1/7/2013,Restaurant - Chinese,-26.57,CA
+12013,1/8/2013,Food Delivery - GrubHub,-15.91,CA
+12013,1/8/2013,Athletic Apparel,-23.39,CA
+12013,1/8/2013,Lyft,-10.49,CA
+12013,1/8/2013,Ralph's Grocery Store,-6.12,CA
+12013,1/8/2013,Dick's Sporting Goods,-31.8,CA
+12013,1/9/2013,GNC,-16.68,CA
+12013,1/10/2013,Athletic Apparel,-11.27,CA
+12013,1/10/2013,Sam's Sporting Apparel,-33.19,CA
+12013,1/10/2013,Food Delivery - GrubHub,-95.34,CA
+12013,1/11/2013,NBA Ticket - Lakers,-104.08,CA
+12013,1/11/2013,Restaurant - Chinese,-20.43,CA
+12013,1/12/2013,NFL Ticket - Chargers,-19.84,CA
+12013,1/12/2013,Amazon Order - Athletic Equipment,-30.57,CA
+12013,1/12/2013,Uber,-32.78,CA
+12013,1/12/2013,Starbucks Coffee,-37.77,CA
+12013,1/13/2013,Lyft,-10.5,CA
+12013,1/13/2013,NBA Ticket - Lakers,-37.91,CA
+12013,1/13/2013,Dick's Sporting Goods,-17.44,CA
+12013,1/13/2013,Taxi,-89.89,CA
+12013,1/13/2013,Total Gym Fees,-8.81,CA
+12013,1/13/2013,Total Gym Fees,-38.61,CA
+12013,1/14/2013,Athletic Apparel,-0.46,CA
+12013,1/15/2013,Restaurant - Chinese,-15.79,CA
+12013,1/15/2013,Vitamin Shoppe,-2.08,CA
+12013,1/15/2013,Sam's Sporting Apparel,-11.92,CA
+12013,1/15/2013,Lyft,-2.08,CA
+12013,1/15/2013,Public Transportation - Train Pass,-28.82,CA
+12013,1/15/2013,Bike Rental,-76.4,CA
+12013,1/16/2013,NFL Ticket - Chargers,-4.23,CA
+12013,1/17/2013,GNC,-18.55,CA
+12013,1/18/2013,Vitamin Shoppe,-35.21,CA
+12013,1/19/2013,NFL Ticket - Chargers,-18.93,CA
+12013,1/20/2013,Restaurant - Chinese,-14.68,CA
+12013,1/20/2013,Athletic Apparel,-119.47,CA
+12013,1/20/2013,Uber,-8.68,CA
+12013,1/21/2013,Amazon Order - Athletic Equipment,-20.98,CA
+12013,1/22/2013,Bike Rental,-0.21,CA
+12013,1/22/2013,Public Transportation - Bus Pass,-119.27,CA
+12013,1/22/2013,Amazon Order - Athletic Equipment,-15.55,CA
+12013,1/22/2013,Vitamin Shoppe,-6.74,CA
+12013,1/23/2013,Athletic Apparel,-25.61,CA
+12013,1/23/2013,GNC,-0.75,CA
+12013,1/23/2013,Whole Foods,-15.91,CA
+12013,1/23/2013,Bike Rental,-16.05,CA
+12013,1/23/2013,Dick's Sporting Goods,-12.08,CA
+12013,1/24/2013,Vitamin Shoppe,-34.57,CA
+12013,1/24/2013,Athletic Apparel,-38.96,CA
+12013,1/24/2013,Public Transportation - Bus Pass,-32.12,CA
+12013,1/24/2013,Bike Rental,-28.21,CA
+12013,1/24/2013,Lyft,-12.2,CA
+12013,1/24/2013,Lyft,-99.93,CA
+12013,1/24/2013,Sam's Sporting Apparel,-30.08,CA
+12013,1/24/2013,Restaurant - Chinese,-31.09,CA
+12013,1/25/2013,Public Transportation - Bus Pass,-24.43,CA
+12013,1/26/2013,Total Gym Fees,-8.6,CA
+12013,1/26/2013,GNC,-10.86,CA
+12013,1/26/2013,NBA Ticket - Lakers,-106.8,CA
+12013,1/26/2013,Total Gym Fees,-27.75,CA
+12013,1/27/2013,Bike Rental,-1.85,CA
+12013,1/28/2013,Lyft,-62.1,CA
+12013,1/28/2013,NBA Ticket - Lakers,-6.53,CA
+12013,1/29/2013,Vitamin Shoppe,-9.63,CA
+12013,1/30/2013,Public Transportation - Bus Pass,-13.41,CA
+12013,1/30/2013,Von's Groceries,-39.36,CA
+12013,1/30/2013,Public Transportation - Train Pass,-66.91,CA
+12013,1/30/2013,Vitamin Shoppe,-39.31,CA
+12013,3/2/2013,Housing Rent,-1238,CA
+12013,3/2/2013,Water & Sewer,-53,CA
+12013,3/2/2013,Navient - Student Loans,-197,CA
+12013,3/2/2013,Netflix Subscription,-4.99,CA
+12013,3/2/2013,Time Warner Cable,-25,CA
+12013,3/2/2013,Gas & Electric,-32,CA
+12013,3/2/2013,Credit Card Payment,-154,CA
+12013,3/2/2013,Athletic Apparel,-33.65,CA
+12013,3/3/2013,Restaurant - Pizza,-1.77,CA
+12013,3/3/2013,Dick's Sporting Goods,-32.88,CA
+12013,3/3/2013,NBA Ticket - Lakers,-23.48,CA
+12013,3/3/2013,Public Transportation - Bus Pass,-13.56,CA
+12013,3/3/2013,Amazon Order - Athletic Equipment,-36.15,CA
+12013,3/4/2013,Sam's Sporting Apparel,-5.46,CA
+12013,3/4/2013,Total Gym Fees,-26.17,CA
+12013,3/5/2013,Uber,-21.88,CA
+12013,3/5/2013,Bike Rental,-25.35,CA
+12013,3/5/2013,Total Gym Fees,-39.75,CA
+12013,3/5/2013,Dick's Sporting Goods,-12.26,CA
+12013,3/6/2013,GNC,-23.82,CA
+12013,3/6/2013,Public Transportation - Train Pass,-5.31,CA
+12013,3/6/2013,Sam's Sporting Apparel,-102.59,CA
+12013,3/6/2013,NBA Ticket - Lakers,-34.71,CA
+12013,3/6/2013,Restaurant - Pizza,-76,CA
+12013,3/6/2013,Starbucks Coffee,-26.94,CA
+12013,3/6/2013,Public Transportation - Bus Pass,-0.26,CA
+12013,3/6/2013,Taxi,-2.93,CA
+12013,3/7/2013,Amazon Order - Athletic Equipment,-17.9,CA
+12013,3/8/2013,Amazon Order - Athletic Equipment,-1.25,CA
+12013,3/8/2013,Total Gym Fees,-34.32,CA
+12013,3/8/2013,Sam's Sporting Apparel,-17.67,CA
+12013,3/8/2013,Public Transportation - Train Pass,-33.06,CA
+12013,3/8/2013,NBA Ticket - Lakers,-20.85,CA
+12013,3/8/2013,NFL Ticket - Chargers,-37.77,CA
+12013,3/8/2013,Restaurant - Chinese,-36.32,CA
+12013,3/8/2013,Total Gym Fees,-65.13,CA
+12013,3/8/2013,Restaurant - Steakhouse,-3.71,CA
+12013,3/8/2013,Dick's Sporting Goods,-1.01,CA
+12013,3/8/2013,NBA Ticket - Lakers,-85.54,CA
+12013,3/8/2013,Whole Foods,-33.14,CA
+12013,3/8/2013,Amazon Order - Athletic Equipment,-36.36,CA
+12013,3/8/2013,NBA Ticket - Lakers,-17.09,CA
+12013,3/8/2013,Vitamin Shoppe,-23.57,CA
+12013,3/8/2013,Bike Rental,-13.13,CA
+12013,3/8/2013,Sprouts Market,-18.74,CA
+12013,3/8/2013,NFL Ticket - Chargers,-34.14,CA
+12013,3/8/2013,GNC,-28.68,CA
+12013,3/9/2013,Athletic Apparel,-28.83,CA
+12013,3/10/2013,NBA Ticket - Lakers,-35.78,CA
+12013,3/11/2013,Starbucks Coffee,-5.52,CA
+12013,3/11/2013,Lyft,-90.07,CA
+12013,3/12/2013,Bike Rental,-16.35,CA
+12013,3/13/2013,Sam's Sporting Apparel,-105.21,CA
+12013,3/13/2013,Total Gym Fees,-17.3,CA
+12013,3/13/2013,GNC,-4.48,CA
+12013,3/13/2013,Sam's Sporting Apparel,-19.98,CA
+12013,3/13/2013,NFL Ticket - Chargers,-93.04,CA
+12013,3/13/2013,Uber,-34.49,CA
+12013,3/13/2013,Restaurant - Pizza,-16.4,CA
+12013,3/13/2013,Sam's Sporting Apparel,-37.82,CA
+12013,3/13/2013,Athletic Apparel,-5.91,CA
+12013,3/13/2013,Ralph's Grocery Store,-13.04,CA
+12013,3/13/2013,Sam's Sporting Apparel,-16.06,CA
+12013,3/13/2013,Starbucks Coffee,-67.74,CA
+12013,3/14/2013,Total Gym Fees,-33.75,CA
+12013,3/14/2013,Restaurant - Burgers,-5.5,CA
+12013,3/15/2013,Public Transportation - Bus Pass,-11.89,CA
+12013,3/15/2013,NFL Ticket - Chargers,-8.44,CA
+12013,3/15/2013,Vitamin Shoppe,-54.76,CA
+12013,3/16/2013,Amazon Order - Athletic Equipment,-55.82,CA
+12013,3/17/2013,Athletic Apparel,-7.65,CA
+12013,3/17/2013,Uber,-112.83,CA
+12013,3/17/2013,Restaurant - Burgers,-43.06,CA
+12013,3/17/2013,Athletic Apparel,-18.26,CA
+12013,3/17/2013,Public Transportation - Bus Pass,-51.21,CA
+12013,3/17/2013,Amazon Order - Athletic Equipment,-1.09,CA
+12013,3/17/2013,Restaurant - Chinese,-27.35,CA
+12013,3/17/2013,Amazon Order - Athletic Equipment,-12.73,CA
+12013,3/17/2013,Uber,-9.49,CA
+12013,3/17/2013,Athletic Apparel,-35.83,CA
+12013,3/17/2013,Total Gym Fees,-27.86,CA
+12013,3/17/2013,Restaurant - Burgers,-1.74,CA
+12013,3/18/2013,Bike Rental,-44.67,CA
+12013,3/18/2013,NBA Ticket - Lakers,-25.54,CA
+12013,3/18/2013,Amazon Order - Athletic Equipment,-23.24,CA
+12013,3/19/2013,Amazon Order - Athletic Equipment,-7.82,CA
+12013,3/19/2013,NBA Ticket - Lakers,-96.99,CA
+12013,3/19/2013,Lyft,-25.64,CA
+12013,3/19/2013,Uber,-17.11,CA
+12013,3/19/2013,NFL Ticket - Chargers,-10.31,CA
+12013,3/19/2013,Public Transportation - Bus Pass,-11.99,CA
+12013,3/19/2013,Athletic Apparel,-24.02,CA
+12013,3/19/2013,GNC,-105.85,CA
+12013,3/19/2013,Vitamin Shoppe,-23.04,CA
+12013,3/19/2013,Public Transportation - Train Pass,-20.28,CA
+12013,3/20/2013,GNC,-109.81,CA
+12013,3/20/2013,Vitamin Shoppe,-12.02,CA
+12013,3/21/2013,GNC,-34.63,CA
+12013,3/21/2013,Vitamin Shoppe,-84.92,CA
+12013,3/22/2013,Athletic Apparel,-16.6,CA
+12013,3/22/2013,Food Delivery - GrubHub,-8.71,CA
+12013,3/23/2013,Amazon Order - Athletic Equipment,-24.16,CA
+12013,3/24/2013,Taxi,-111.17,CA
+12013,3/25/2013,Public Transportation - Bus Pass,-104.23,CA
+12013,3/25/2013,NFL Ticket - Chargers,-20.45,CA
+12013,3/25/2013,Restaurant - Burgers,-117.56,CA
+12013,3/26/2013,NFL Ticket - Chargers,-3.75,CA
+12013,3/26/2013,Public Transportation - Bus Pass,-18.97,CA
+12013,3/26/2013,Food Delivery - GrubHub,-13.18,CA
+12013,3/26/2013,Amazon Order - Athletic Equipment,-31.6,CA
+12013,3/27/2013,Sam's Sporting Apparel,-1.9,CA
+12013,3/28/2013,Athletic Apparel,-38.41,CA
+12013,3/29/2013,Bike Rental,-118.26,CA
+12013,3/29/2013,Taxi,-0.2,CA
+12013,3/29/2013,Public Transportation - Bus Pass,-19.07,CA
+12013,3/30/2013,Athletic Apparel,-5.24,CA
+12013,3/30/2013,Vitamin Shoppe,-35.86,CA
+12013,3/30/2013,Vitamin Shoppe,-13.14,CA
+12013,4/2/2013,Housing Rent,-991,CA
+12013,4/2/2013,Water & Sewer,-53,CA
+12013,4/2/2013,Navient - Student Loans,-197,CA
+12013,4/2/2013,Netflix Subscription,-4.99,CA
+12013,4/2/2013,Time Warner Cable,-25,CA
+12013,4/2/2013,Gas & Electric,-32,CA
+12013,4/2/2013,Credit Card Payment,-154,CA
+12013,4/2/2013,Total Gym Fees,-2.12,CA
+12013,4/2/2013,Restaurant - Burgers,-0.67,CA
+12013,4/2/2013,GNC,-18.83,CA
+12013,4/3/2013,Athletic Apparel,-26.56,CA
+12013,4/3/2013,Athletic Apparel,-56.99,CA
+12013,4/3/2013,Total Gym Fees,-19.53,CA
+12013,4/3/2013,Total Gym Fees,-78.94,CA
+12013,4/3/2013,Vitamin Shoppe,-20.95,CA
+12013,4/3/2013,NFL Ticket - Chargers,-80.44,CA
+12013,4/3/2013,Public Transportation - Train Pass,-25.01,CA
+12013,4/3/2013,Amazon Order - Athletic Equipment,-16.68,CA
+12013,4/3/2013,Bike Rental,-82.52,CA
+12013,4/3/2013,NFL Ticket - Chargers,-13.52,CA
+12013,4/3/2013,Amazon Order - Athletic Equipment,-7.05,CA
+12013,4/3/2013,Total Gym Fees,-8.62,CA
+12013,4/3/2013,NFL Ticket - Chargers,-83.75,CA
+12013,4/4/2013,Bike Rental,-37.17,CA
+12013,4/5/2013,Public Transportation - Bus Pass,-32.75,CA
+12013,4/5/2013,Vitamin Shoppe,-110.35,CA
+12013,4/5/2013,Taxi,-13.41,CA
+12013,4/5/2013,NBA Ticket - Lakers,-34.3,CA
+12013,4/5/2013,Total Gym Fees,-19.83,CA
+12013,4/5/2013,Vitamin Shoppe,-38.42,CA
+12013,4/5/2013,Vitamin Shoppe,-33.53,CA
+12013,4/6/2013,Amazon Order - Athletic Equipment,-35.47,CA
+12013,4/6/2013,Restaurant - Steakhouse,-3.66,CA
+12013,4/7/2013,Taxi,-98.66,CA
+12013,4/7/2013,Athletic Apparel,-46.23,CA
+12013,4/8/2013,Von's Groceries,-17.71,CA
+12013,4/8/2013,GNC,-16.46,CA
+12013,4/8/2013,Restaurant - Steakhouse,-34.35,CA
+12013,4/8/2013,Bike Rental,-20.74,CA
+12013,4/8/2013,Ralph's Grocery Store,-22.69,CA
+12013,4/8/2013,NFL Ticket - Chargers,-36.14,CA
+12013,4/8/2013,Restaurant - Chinese,-13.59,CA
+12013,4/8/2013,Uber,-24.72,CA
+12013,4/9/2013,Vitamin Shoppe,-35.04,CA
+12013,4/9/2013,Restaurant - Burgers,-83.75,CA
+12013,4/9/2013,Taxi,-27.25,CA
+12013,4/9/2013,Lyft,-30.44,CA
+12013,4/10/2013,Bike Rental,-37.2,CA
+12013,4/11/2013,NFL Ticket - Chargers,-3.46,CA
+12013,4/11/2013,GNC,-1.83,CA
+12013,4/11/2013,Sprouts Market,-24.24,CA
+12013,4/11/2013,GNC,-2.03,CA
+12013,4/12/2013,Athletic Apparel,-55.13,CA
+12013,4/12/2013,Total Gym Fees,-12.51,CA
+12013,4/12/2013,Public Transportation - Bus Pass,-16.63,CA
+12013,4/12/2013,Restaurant - Chinese,-14.73,CA
+12013,4/13/2013,Total Gym Fees,-25.63,CA
+12013,4/14/2013,Uber,-45.27,CA
+12013,4/14/2013,Vitamin Shoppe,-7.66,CA
+12013,4/15/2013,Food Delivery - GrubHub,-7.51,CA
+12013,4/16/2013,Public Transportation - Bus Pass,-14.04,CA
+12013,4/17/2013,Whole Foods,-9.46,CA
+12013,4/18/2013,Total Gym Fees,-16.43,CA
+12013,4/19/2013,Vitamin Shoppe,-39.9,CA
+12013,4/20/2013,Food Delivery - GrubHub,-25.13,CA
+12013,4/21/2013,Dick's Sporting Goods,-22.8,CA
+12013,4/21/2013,NBA Ticket - Lakers,-67.01,CA
+12013,4/21/2013,Ralph's Grocery Store,-11.72,CA
+12013,4/22/2013,Total Gym Fees,-78.44,CA
+12013,4/22/2013,Dick's Sporting Goods,-30.27,CA
+12013,4/22/2013,GNC,-105.04,CA
+12013,4/22/2013,Starbucks Coffee,-12.97,CA
+12013,4/22/2013,Public Transportation - Bus Pass,-35.89,CA
+12013,4/22/2013,Restaurant - Pizza,-31.93,CA
+12013,4/22/2013,NBA Ticket - Lakers,-28.56,CA
+12013,4/23/2013,Restaurant - Pizza,-74.01,CA
+12013,4/23/2013,GNC,-20.52,CA
+12013,4/23/2013,Public Transportation - Bus Pass,-4.97,CA
+12013,4/24/2013,Sprouts Market,-14.25,CA
+12013,4/24/2013,NFL Ticket - Chargers,-21.39,CA
+12013,4/24/2013,Restaurant - Steakhouse,-35.65,CA
+12013,4/25/2013,Vitamin Shoppe,-33,CA
+12013,4/25/2013,Total Gym Fees,-7.69,CA
+12013,4/26/2013,GNC,-84.31,CA
+12013,4/27/2013,NFL Ticket - Chargers,-31.34,CA
+12013,4/27/2013,Vitamin Shoppe,-21.17,CA
+12013,4/27/2013,Public Transportation - Bus Pass,-73.37,CA
+12013,4/28/2013,Athletic Apparel,-15.57,CA
+12013,4/28/2013,Public Transportation - Bus Pass,-2.17,CA
+12013,4/28/2013,Vitamin Shoppe,-36.84,CA
+12013,4/28/2013,Sam's Sporting Apparel,-19.54,CA
+12013,4/28/2013,Bike Rental,-0.25,CA
+12013,4/28/2013,Taxi,-30.95,CA
+12013,4/28/2013,Amazon Order - Athletic Equipment,-115.62,CA
+12013,4/29/2013,NBA Ticket - Lakers,-21.26,CA
+12013,4/30/2013,GNC,-6.34,CA
+12013,4/30/2013,Dick's Sporting Goods,-5.09,CA
+12013,4/30/2013,GNC,-8.7,CA
+12013,5/2/2013,Housing Rent,-738,CA
+12013,5/2/2013,Water & Sewer,-53,CA
+12013,5/2/2013,Navient - Student Loans,-197,CA
+12013,5/2/2013,Netflix Subscription,-4.99,CA
+12013,5/2/2013,Time Warner Cable,-25,CA
+12013,5/2/2013,Gas & Electric,-32,CA
+12013,5/2/2013,Credit Card Payment,-154,CA
+12013,5/2/2013,Lyft,-31.41,CA
+12013,5/3/2013,NFL Ticket - Chargers,-58.57,CA
+12013,5/3/2013,GNC,-23.38,CA
+12013,5/4/2013,Restaurant - Burgers,-35.5,CA
+12013,5/4/2013,Athletic Apparel,-28.28,CA
+12013,5/5/2013,Food Delivery - GrubHub,-49.49,CA
+12013,5/5/2013,Taxi,-9.08,CA
+12013,5/5/2013,Sam's Sporting Apparel,-58.95,CA
+12013,5/5/2013,Taxi,-25.26,CA
+12013,5/5/2013,Restaurant - Steakhouse,-5.94,CA
+12013,5/5/2013,Public Transportation - Bus Pass,-19.89,CA
+12013,5/5/2013,NBA Ticket - Lakers,-1.56,CA
+12013,5/5/2013,Dick's Sporting Goods,-4.1,CA
+12013,5/5/2013,GNC,-4.99,CA
+12013,5/5/2013,NFL Ticket - Chargers,-28.93,CA
+12013,5/5/2013,GNC,-0.76,CA
+12013,5/6/2013,Whole Foods,-22.85,CA
+12013,5/6/2013,Athletic Apparel,-38.38,CA
+12013,5/6/2013,Lyft,-9.86,CA
+12013,5/6/2013,Starbucks Coffee,-36.84,CA
+12013,5/7/2013,Dick's Sporting Goods,-30.17,CA
+12013,5/7/2013,GNC,-24.02,CA
+12013,5/7/2013,Bike Rental,-1.37,CA
+12013,5/8/2013,Dick's Sporting Goods,-0.36,CA
+12013,5/8/2013,Dick's Sporting Goods,-100.42,CA
+12013,5/8/2013,Whole Foods,-23,CA
+12013,5/9/2013,Taxi,-17.19,CA
+12013,5/9/2013,Public Transportation - Train Pass,-22.38,CA
+12013,5/10/2013,Dick's Sporting Goods,-38.48,CA
+12013,5/11/2013,Restaurant - Steakhouse,-21.89,CA
+12013,5/11/2013,Restaurant - Steakhouse,-20.37,CA
+12013,5/11/2013,Sprouts Market,-26.42,CA
+12013,5/11/2013,Restaurant - Steakhouse,-10.9,CA
+12013,5/11/2013,Starbucks Coffee,-0.02,CA
+12013,5/11/2013,Sam's Sporting Apparel,-0.32,CA
+12013,5/12/2013,Athletic Apparel,-112.69,CA
+12013,5/12/2013,Sprouts Market,-17.57,CA
+12013,5/12/2013,GNC,-33.13,CA
+12013,5/12/2013,Total Gym Fees,-13.25,CA
+12013,5/12/2013,Public Transportation - Bus Pass,-15.36,CA
+12013,5/12/2013,Uber,-6.02,CA
+12013,5/13/2013,Amazon Order - Athletic Equipment,-26.56,CA
+12013,5/14/2013,Athletic Apparel,-32.99,CA
+12013,5/14/2013,Bike Rental,-4.68,CA
+12013,5/15/2013,Vitamin Shoppe,-28.84,CA
+12013,5/16/2013,Ralph's Grocery Store,-20.32,CA
+12013,5/16/2013,GNC,-19.75,CA
+12013,5/16/2013,Uber,-34.14,CA
+12013,5/16/2013,Public Transportation - Train Pass,-64.02,CA
+12013,5/16/2013,NFL Ticket - Chargers,-7.31,CA
+12013,5/16/2013,Public Transportation - Bus Pass,-9.07,CA
+12013,5/16/2013,Dick's Sporting Goods,-28.68,CA
+12013,5/17/2013,Taxi,-27.86,CA
+12013,5/18/2013,Athletic Apparel,-23.54,CA
+12013,5/18/2013,Restaurant - Chinese,-31.77,CA
+12013,5/18/2013,Bike Rental,-29.06,CA
+12013,5/18/2013,Whole Foods,-13.33,CA
+12013,5/18/2013,Ralph's Grocery Store,-51.18,CA
+12013,5/18/2013,Taxi,-9.97,CA
+12013,5/18/2013,GNC,-25.46,CA
+12013,5/18/2013,NBA Ticket - Lakers,-29.84,CA
+12013,5/18/2013,Vitamin Shoppe,-7.96,CA
+12013,5/18/2013,Restaurant - Chinese,-7.8,CA
+12013,5/19/2013,Athletic Apparel,-66.02,CA
+12013,5/20/2013,Amazon Order - Athletic Equipment,-9.72,CA
+12013,5/20/2013,Lyft,-54.97,CA
+12013,5/20/2013,Bike Rental,-76.4,CA
+12013,5/20/2013,Lyft,-7.67,CA
+12013,5/20/2013,Total Gym Fees,-18.11,CA
+12013,5/20/2013,Uber,-39.79,CA
+12013,5/20/2013,Amazon Order - Athletic Equipment,-4.55,CA
+12013,5/20/2013,Restaurant - Chinese,-13.05,CA
+12013,5/20/2013,Food Delivery - GrubHub,-30.94,CA
+12013,5/20/2013,Uber,-63.44,CA
+12013,5/20/2013,Sprouts Market,-3.57,CA
+12013,5/21/2013,Lyft,-17.81,CA
+12013,5/22/2013,Total Gym Fees,-25.47,CA
+12013,5/22/2013,Taxi,-31.04,CA
+12013,5/22/2013,Vitamin Shoppe,-35.1,CA
+12013,5/23/2013,Restaurant - Chinese,-33.09,CA
+12013,5/24/2013,Dick's Sporting Goods,-19.32,CA
+12013,5/24/2013,Athletic Apparel,-17.81,CA
+12013,5/24/2013,GNC,-74.89,CA
+12013,5/24/2013,Amazon Order - Athletic Equipment,-21.83,CA
+12013,5/24/2013,NFL Ticket - Chargers,-5.33,CA
+12013,5/24/2013,Dick's Sporting Goods,-27.76,CA
+12013,5/24/2013,GNC,-5.69,CA
+12013,5/24/2013,Von's Groceries,-23.5,CA
+12013,5/24/2013,Restaurant - Steakhouse,-37.64,CA
+12013,5/25/2013,Taxi,-22.57,CA
+12013,5/26/2013,Athletic Apparel,-24.62,CA
+12013,5/26/2013,Lyft,-25.81,CA
+12013,5/26/2013,Public Transportation - Bus Pass,-37.99,CA
+12013,5/27/2013,Bike Rental,-30.96,CA
+12013,5/27/2013,NFL Ticket - Chargers,-35.09,CA
+12013,5/28/2013,Total Gym Fees,-8.43,CA
+12013,5/28/2013,NBA Ticket - Lakers,-6.61,CA
+12013,5/28/2013,Athletic Apparel,-44.56,CA
+12013,5/28/2013,Vitamin Shoppe,-6.83,CA
+12013,5/29/2013,Dick's Sporting Goods,-19.09,CA
+12013,5/29/2013,NBA Ticket - Lakers,-24.28,CA
+12013,5/29/2013,Bike Rental,-3.83,CA
+12013,5/29/2013,Total Gym Fees,-8.14,CA
+12013,5/29/2013,Athletic Apparel,-29.18,CA
+12013,5/29/2013,NFL Ticket - Chargers,-39.43,CA
+12013,5/30/2013,Uber,-38.32,CA
+12013,5/30/2013,Sam's Sporting Apparel,-4.75,CA
+12013,5/30/2013,Lyft,-7.18,CA
+12013,6/2/2013,Housing Rent,-1236,CA
+12013,6/2/2013,Water & Sewer,-53,CA
+12013,6/2/2013,Navient - Student Loans,-197,CA
+12013,6/2/2013,Netflix Subscription,-4.99,CA
+12013,6/2/2013,Time Warner Cable,-25,CA
+12013,6/2/2013,Gas & Electric,-32,CA
+12013,6/2/2013,Credit Card Payment,-154,CA
+12013,6/2/2013,Total Gym Fees,-34.87,CA
+12013,6/3/2013,Dick's Sporting Goods,-15.82,CA
+12013,6/3/2013,Amazon Order - Athletic Equipment,-21.88,CA
+12013,6/4/2013,Dick's Sporting Goods,-10.83,CA
+12013,6/4/2013,Athletic Apparel,-31.39,CA
+12013,6/4/2013,Vitamin Shoppe,-15.22,CA
+12013,6/5/2013,Public Transportation - Train Pass,-39.24,CA
+12013,6/5/2013,Total Gym Fees,-15.01,CA
+12013,6/5/2013,Dick's Sporting Goods,-9.38,CA
+12013,6/5/2013,Uber,-31.41,CA
+12013,6/5/2013,Vitamin Shoppe,-10.03,CA
+12013,6/5/2013,Total Gym Fees,-26.06,CA
+12013,6/6/2013,NFL Ticket - Chargers,-39.7,CA
+12013,6/6/2013,Total Gym Fees,-32.71,CA
+12013,6/6/2013,NFL Ticket - Chargers,-54.74,CA
+12013,6/7/2013,Restaurant - Steakhouse,-109.04,CA
+12013,6/8/2013,NBA Ticket - Lakers,-68.74,CA
+12013,6/8/2013,Whole Foods,-11.35,CA
+12013,6/9/2013,Sam's Sporting Apparel,-6.21,CA
+12013,6/10/2013,Restaurant - Steakhouse,-91.59,CA
+12013,6/10/2013,Lyft,-31.9,CA
+12013,6/10/2013,Restaurant - Pizza,-3.13,CA
+12013,6/11/2013,Sam's Sporting Apparel,-72.15,CA
+12013,6/11/2013,Taxi,-21.57,CA
+12013,6/11/2013,Public Transportation - Bus Pass,-63.54,CA
+12013,6/12/2013,Dick's Sporting Goods,-25.67,CA
+12013,6/12/2013,NFL Ticket - Chargers,-19.32,CA
+12013,6/12/2013,Total Gym Fees,-22.65,CA
+12013,6/13/2013,NBA Ticket - Lakers,-1.94,CA
+12013,6/13/2013,NBA Ticket - Lakers,-37.05,CA
+12013,6/13/2013,Ralph's Grocery Store,-36.21,CA
+12013,6/13/2013,Public Transportation - Train Pass,-8.87,CA
+12013,6/13/2013,Total Gym Fees,-2,CA
+12013,6/13/2013,NFL Ticket - Chargers,-5.25,CA
+12013,6/13/2013,Total Gym Fees,-20.35,CA
+12013,6/13/2013,Restaurant - Steakhouse,-12.64,CA
+12013,6/13/2013,Restaurant - Burgers,-20.22,CA
+12013,6/13/2013,Total Gym Fees,-30.08,CA
+12013,6/13/2013,Amazon Order - Athletic Equipment,-88.77,CA
+12013,6/13/2013,NBA Ticket - Lakers,-12.45,CA
+12013,6/14/2013,NFL Ticket - Chargers,-33.46,CA
+12013,6/14/2013,Athletic Apparel,-35.91,CA
+12013,6/14/2013,Food Delivery - GrubHub,-0.1,CA
+12013,6/15/2013,Taxi,-55.67,CA
+12013,6/15/2013,Dick's Sporting Goods,-3.56,CA
+12013,6/16/2013,Lyft,-72.17,CA
+12013,6/16/2013,NBA Ticket - Lakers,-21.32,CA
+12013,6/17/2013,Athletic Apparel,-6.49,CA
+12013,6/17/2013,Food Delivery - GrubHub,-74.19,CA
+12013,6/17/2013,Vitamin Shoppe,-4.91,CA
+12013,6/17/2013,NFL Ticket - Chargers,-13.58,CA
+12013,6/17/2013,Athletic Apparel,-24.26,CA
+12013,6/17/2013,Vitamin Shoppe,-8.8,CA
+12013,6/17/2013,Restaurant - Steakhouse,-21.19,CA
+12013,6/18/2013,Food Delivery - GrubHub,-12.09,CA
+12013,6/18/2013,Ralph's Grocery Store,-14.8,CA
+12013,6/19/2013,Amazon Order - Athletic Equipment,-38.06,CA
+12013,6/19/2013,Dick's Sporting Goods,-38.84,CA
+12013,6/19/2013,Athletic Apparel,-57.94,CA
+12013,6/20/2013,Dick's Sporting Goods,-17,CA
+12013,6/20/2013,Bike Rental,-28.33,CA
+12013,6/21/2013,Lyft,-22.87,CA
+12013,6/21/2013,Vitamin Shoppe,-83.63,CA
+12013,6/21/2013,Ralph's Grocery Store,-24.04,CA
+12013,6/22/2013,Uber,-3.93,CA
+12013,6/22/2013,Sprouts Market,-25.54,CA
+12013,6/22/2013,Restaurant - Burgers,-7.34,CA
+12013,6/22/2013,Bike Rental,-6.02,CA
+12013,6/22/2013,Restaurant - Pizza,-0.85,CA
+12013,6/23/2013,Total Gym Fees,-14.93,CA
+12013,6/23/2013,Athletic Apparel,-0.24,CA
+12013,6/23/2013,Athletic Apparel,-30.66,CA
+12013,6/23/2013,Sam's Sporting Apparel,-13.05,CA
+12013,6/23/2013,Athletic Apparel,-27.1,CA
+12013,6/24/2013,Sam's Sporting Apparel,-33.76,CA
+12013,6/24/2013,Restaurant - Steakhouse,-27.01,CA
+12013,6/25/2013,Bike Rental,-40.2,CA
+12013,6/25/2013,Athletic Apparel,-97.37,CA
+12013,6/25/2013,Dick's Sporting Goods,-62.04,CA
+12013,6/26/2013,Bike Rental,-17.15,CA
+12013,6/26/2013,Total Gym Fees,-20.1,CA
+12013,6/26/2013,Public Transportation - Train Pass,-13.18,CA
+12013,6/26/2013,GNC,-79.8,CA
+12013,6/27/2013,Athletic Apparel,-8.89,CA
+12013,6/27/2013,Uber,-6.45,CA
+12013,6/27/2013,NFL Ticket - Chargers,-15.34,CA
+12013,6/27/2013,Uber,-28.1,CA
+12013,6/28/2013,Vitamin Shoppe,-37.67,CA
+12013,6/29/2013,Sam's Sporting Apparel,-110.31,CA
+12013,6/29/2013,Total Gym Fees,-1.88,CA
+12013,6/30/2013,Uber,-11.66,CA
+12013,6/30/2013,Von's Groceries,-52.74,CA
+12013,6/30/2013,Bike Rental,-30.44,CA
+12013,7/2/2013,Housing Rent,-843,CA
+12013,7/2/2013,Water & Sewer,-53,CA
+12013,7/2/2013,Navient - Student Loans,-197,CA
+12013,7/2/2013,Netflix Subscription,-4.99,CA
+12013,7/2/2013,Time Warner Cable,-25,CA
+12013,7/2/2013,Gas & Electric,-32,CA
+12013,7/2/2013,Credit Card Payment,-154,CA
+12013,7/2/2013,Uber,-72.12,CA
+12013,7/3/2013,Restaurant - Steakhouse,-10.17,CA
+12013,7/4/2013,Total Gym Fees,-17.51,CA
+12013,7/4/2013,NBA Ticket - Lakers,-22.14,CA
+12013,7/4/2013,NBA Ticket - Lakers,-11.3,CA
+12013,7/4/2013,Dick's Sporting Goods,-32.73,CA
+12013,7/4/2013,Sam's Sporting Apparel,-14.54,CA
+12013,7/5/2013,Dick's Sporting Goods,-25.55,CA
+12013,7/5/2013,NFL Ticket - Chargers,-39.44,CA
+12013,7/6/2013,NFL Ticket - Chargers,-6.7,CA
+12013,7/6/2013,Amazon Order - Athletic Equipment,-31.41,CA
+12013,7/6/2013,Restaurant - Pizza,-9.62,CA
+12013,7/7/2013,Public Transportation - Bus Pass,-20.34,CA
+12013,7/8/2013,Amazon Order - Athletic Equipment,-30.54,CA
+12013,7/8/2013,Von's Groceries,-25.9,CA
+12013,7/9/2013,Dick's Sporting Goods,-36.18,CA
+12013,7/9/2013,Public Transportation - Bus Pass,-17.47,CA
+12013,7/9/2013,Amazon Order - Athletic Equipment,-8.97,CA
+12013,7/9/2013,NFL Ticket - Chargers,-8.24,CA
+12013,7/9/2013,Bike Rental,-27.54,CA
+12013,7/9/2013,Dick's Sporting Goods,-23.49,CA
+12013,7/10/2013,Amazon Order - Athletic Equipment,-52.36,CA
+12013,7/11/2013,Lyft,-32.04,CA
+12013,7/11/2013,Sam's Sporting Apparel,-20.24,CA
+12013,7/11/2013,Vitamin Shoppe,-33.16,CA
+12013,7/11/2013,Vitamin Shoppe,-109.81,CA
+12013,7/11/2013,NFL Ticket - Chargers,-37.46,CA
+12013,7/11/2013,Amazon Order - Athletic Equipment,-17.67,CA
+12013,7/11/2013,Sam's Sporting Apparel,-41.75,CA
+12013,7/11/2013,Bike Rental,-19.13,CA
+12013,7/11/2013,Sam's Sporting Apparel,-35.27,CA
+12013,7/11/2013,Ralph's Grocery Store,-33.31,CA
+12013,7/12/2013,GNC,-4.59,CA
+12013,7/12/2013,Dick's Sporting Goods,-18.05,CA
+12013,7/13/2013,Public Transportation - Train Pass,-32.4,CA
+12013,7/13/2013,Uber,-17.11,CA
+12013,7/13/2013,Athletic Apparel,-0.42,CA
+12013,7/14/2013,Public Transportation - Train Pass,-20.87,CA
+12013,7/14/2013,Uber,-33.78,CA
+12013,7/15/2013,Starbucks Coffee,-84.3,CA
+12013,7/15/2013,Restaurant - Chinese,-32.66,CA
+12013,7/15/2013,Public Transportation - Bus Pass,-2.06,CA
+12013,7/15/2013,Lyft,-21.64,CA
+12013,7/15/2013,Restaurant - Pizza,-9.54,CA
+12013,7/15/2013,Amazon Order - Athletic Equipment,-119.03,CA
+12013,7/15/2013,Taxi,-7.52,CA
+12013,7/15/2013,Bike Rental,-33.05,CA
+12013,7/15/2013,Food Delivery - GrubHub,-22.3,CA
+12013,7/15/2013,Food Delivery - GrubHub,-19.47,CA
+12013,7/15/2013,Sam's Sporting Apparel,-35.3,CA
+12013,7/15/2013,Amazon Order - Athletic Equipment,-20.18,CA
+12013,7/15/2013,Vitamin Shoppe,-0.09,CA
+12013,7/16/2013,Dick's Sporting Goods,-10.52,CA
+12013,7/16/2013,Vitamin Shoppe,-42.37,CA
+12013,7/17/2013,Athletic Apparel,-30.41,CA
+12013,7/17/2013,Sprouts Market,-40.98,CA
+12013,7/17/2013,NFL Ticket - Chargers,-34.99,CA
+12013,7/17/2013,Uber,-38.74,CA
+12013,7/17/2013,Restaurant - Pizza,-19,CA
+12013,7/18/2013,Sam's Sporting Apparel,-30.52,CA
+12013,7/18/2013,NBA Ticket - Lakers,-9.44,CA
+12013,7/18/2013,Sprouts Market,-115.43,CA
+12013,7/18/2013,NFL Ticket - Chargers,-27.55,CA
+12013,7/18/2013,NBA Ticket - Lakers,-24.86,CA
+12013,7/18/2013,Sam's Sporting Apparel,-27.31,CA
+12013,7/18/2013,Bike Rental,-104.55,CA
+12013,7/19/2013,Whole Foods,-12.98,CA
+12013,7/19/2013,Amazon Order - Athletic Equipment,-35.88,CA
+12013,7/19/2013,Dick's Sporting Goods,-16.35,CA
+12013,7/20/2013,Uber,-66.2,CA
+12013,7/20/2013,Vitamin Shoppe,-11.69,CA
+12013,7/21/2013,NBA Ticket - Lakers,-37.35,CA
+12013,7/21/2013,Vitamin Shoppe,-30.74,CA
+12013,7/22/2013,Athletic Apparel,-78.49,CA
+12013,7/22/2013,Bike Rental,-3.33,CA
+12013,7/23/2013,Von's Groceries,-8.32,CA
+12013,7/24/2013,Taxi,-33.25,CA
+12013,7/25/2013,Sprouts Market,-16.53,CA
+12013,7/26/2013,Dick's Sporting Goods,-35.13,CA
+12013,7/26/2013,NFL Ticket - Chargers,-22.32,CA
+12013,7/27/2013,Dick's Sporting Goods,-28.45,CA
+12013,7/27/2013,Total Gym Fees,-18.26,CA
+12013,7/28/2013,Public Transportation - Train Pass,-117.2,CA
+12013,7/28/2013,Sprouts Market,-14.83,CA
+12013,7/28/2013,Total Gym Fees,-17.27,CA
+12013,7/28/2013,Total Gym Fees,-17.18,CA
+12013,7/28/2013,GNC,-63.5,CA
+12013,7/28/2013,Bike Rental,-34.05,CA
+12013,7/28/2013,Whole Foods,-58.95,CA
+12013,7/28/2013,Athletic Apparel,-34.69,CA
+12013,7/28/2013,Amazon Order - Athletic Equipment,-39.41,CA
+12013,7/29/2013,Restaurant - Pizza,-16.41,CA
+12013,7/29/2013,Amazon Order - Athletic Equipment,-22.8,CA
+12013,7/29/2013,Food Delivery - GrubHub,-12.87,CA
+12013,7/29/2013,GNC,-24.71,CA
+12013,7/29/2013,Restaurant - Chinese,-41.1,CA
+12013,7/30/2013,Starbucks Coffee,-33.39,CA
+12013,8/2/2013,Housing Rent,-843,CA
+12013,8/2/2013,Water & Sewer,-53,CA
+12013,8/2/2013,Navient - Student Loans,-197,CA
+12013,8/2/2013,Netflix Subscription,-4.99,CA
+12013,8/2/2013,Time Warner Cable,-25,CA
+12013,8/2/2013,Gas & Electric,-32,CA
+12013,8/2/2013,Credit Card Payment,-154,CA
+12013,8/2/2013,Bike Rental,-21.81,CA
+12013,8/3/2013,Lyft,-10.32,CA
+12013,8/3/2013,Vitamin Shoppe,-11.39,CA
+12013,8/4/2013,NBA Ticket - Lakers,-12.88,CA
+12013,8/4/2013,Starbucks Coffee,-32.93,CA
+12013,8/5/2013,Bike Rental,-10.74,CA
+12013,8/6/2013,Total Gym Fees,-0.98,CA
+12013,8/7/2013,Sam's Sporting Apparel,-28.38,CA
+12013,8/7/2013,Sam's Sporting Apparel,-5.13,CA
+12013,8/7/2013,Total Gym Fees,-17.89,CA
+12013,8/8/2013,Sam's Sporting Apparel,-39.28,CA
+12013,8/8/2013,GNC,-37.5,CA
+12013,8/8/2013,Food Delivery - GrubHub,-33.8,CA
+12013,8/8/2013,Starbucks Coffee,-2.02,CA
+12013,8/8/2013,Amazon Order - Athletic Equipment,-95.62,CA
+12013,8/9/2013,Food Delivery - GrubHub,-32.09,CA
+12013,8/10/2013,Public Transportation - Bus Pass,-72.38,CA
+12013,8/10/2013,NBA Ticket - Lakers,-96.01,CA
+12013,8/11/2013,Dick's Sporting Goods,-5.37,CA
+12013,8/11/2013,Von's Groceries,-28.42,CA
+12013,8/12/2013,Restaurant - Chinese,-4.72,CA
+12013,8/13/2013,NBA Ticket - Lakers,-32.95,CA
+12013,8/13/2013,Starbucks Coffee,-15.51,CA
+12013,8/13/2013,Athletic Apparel,-33.7,CA
+12013,8/14/2013,Uber,-90.71,CA
+12013,8/14/2013,Uber,-5.06,CA
+12013,8/14/2013,Sam's Sporting Apparel,-13.93,CA
+12013,8/15/2013,Vitamin Shoppe,-72.78,CA
+12013,8/15/2013,Uber,-19.85,CA
+12013,8/15/2013,Total Gym Fees,-30.86,CA
+12013,8/16/2013,Uber,-19.74,CA
+12013,8/16/2013,GNC,-95.64,CA
+12013,8/17/2013,GNC,-32.53,CA
+12013,8/17/2013,Restaurant - Pizza,-23.98,CA
+12013,8/17/2013,Whole Foods,-37.49,CA
+12013,8/17/2013,Total Gym Fees,-30.38,CA
+12013,8/17/2013,GNC,-14.46,CA
+12013,8/18/2013,Total Gym Fees,-8.76,CA
+12013,8/18/2013,Dick's Sporting Goods,-36.49,CA
+12013,8/18/2013,Vitamin Shoppe,-25.19,CA
+12013,8/19/2013,Vitamin Shoppe,-80.48,CA
+12013,8/20/2013,GNC,-81.87,CA
+12013,8/20/2013,Vitamin Shoppe,-9.98,CA
+12013,8/20/2013,Dick's Sporting Goods,-12.88,CA
+12013,8/21/2013,Public Transportation - Train Pass,-109.75,CA
+12013,8/22/2013,Public Transportation - Train Pass,-1.51,CA
+12013,8/22/2013,Vitamin Shoppe,-19.4,CA
+12013,8/23/2013,Bike Rental,-24.88,CA
+12013,8/24/2013,Taxi,-27.53,CA
+12013,8/24/2013,GNC,-9.35,CA
+12013,8/25/2013,Dick's Sporting Goods,-3.21,CA
+12013,8/25/2013,NFL Ticket - Chargers,-33.49,CA
+12013,8/25/2013,NFL Ticket - Chargers,-22.52,CA
+12013,8/25/2013,GNC,-0.9,CA
+12013,8/25/2013,Sam's Sporting Apparel,-11.7,CA
+12013,8/26/2013,Taxi,-22.85,CA
+12013,8/26/2013,Public Transportation - Train Pass,-10.29,CA
+12013,8/26/2013,GNC,-4.61,CA
+12013,8/26/2013,NFL Ticket - Chargers,-34.89,CA
+12013,8/26/2013,Amazon Order - Athletic Equipment,-25.41,CA
+12013,8/27/2013,Taxi,-7.35,CA
+12013,8/27/2013,GNC,-31.46,CA
+12013,8/27/2013,Athletic Apparel,-1.69,CA
+12013,8/27/2013,Sam's Sporting Apparel,-18.41,CA
+12013,8/27/2013,Dick's Sporting Goods,-14.06,CA
+12013,8/27/2013,NFL Ticket - Chargers,-6.7,CA
+12013,8/27/2013,Sam's Sporting Apparel,-5.5,CA
+12013,8/27/2013,GNC,-1.18,CA
+12013,8/27/2013,Restaurant - Pizza,-108.5,CA
+12013,8/27/2013,Restaurant - Steakhouse,-13.71,CA
+12013,8/28/2013,Lyft,-24.82,CA
+12013,8/28/2013,Total Gym Fees,-3.28,CA
+12013,8/28/2013,Amazon Order - Athletic Equipment,-5.54,CA
+12013,8/28/2013,Sam's Sporting Apparel,-36.56,CA
+12013,8/29/2013,Uber,-28.16,CA
+12013,8/30/2013,Uber,-25.11,CA
+12013,8/30/2013,Sprouts Market,-28.83,CA
+12013,8/30/2013,Public Transportation - Bus Pass,-45.01,CA
+12013,8/30/2013,Amazon Order - Athletic Equipment,-11.89,CA
+12013,8/30/2013,Dick's Sporting Goods,-82.56,CA
+12013,8/30/2013,Public Transportation - Train Pass,-35.02,CA
+12013,9/2/2013,Housing Rent,-833,CA
+12013,9/2/2013,Water & Sewer,-53,CA
+12013,9/2/2013,Navient - Student Loans,-197,CA
+12013,9/2/2013,Netflix Subscription,-4.99,CA
+12013,9/2/2013,Time Warner Cable,-25,CA
+12013,9/2/2013,Gas & Electric,-32,CA
+12013,9/2/2013,Credit Card Payment,-154,CA
+12013,9/2/2013,Public Transportation - Bus Pass,-4.65,CA
+12013,9/2/2013,Uber,-8.77,CA
+12013,9/2/2013,Sam's Sporting Apparel,-13.98,CA
+12013,9/2/2013,Starbucks Coffee,-23.31,CA
+12013,9/3/2013,Bike Rental,-18.43,CA
+12013,9/3/2013,Athletic Apparel,-16.65,CA
+12013,9/3/2013,Sprouts Market,-97.1,CA
+12013,9/4/2013,Vitamin Shoppe,-36.69,CA
+12013,9/4/2013,Athletic Apparel,-31.89,CA
+12013,9/5/2013,Dick's Sporting Goods,-27.03,CA
+12013,9/6/2013,Lyft,-29.29,CA
+12013,9/7/2013,Amazon Order - Athletic Equipment,-68.21,CA
+12013,9/8/2013,NBA Ticket - Lakers,-13.12,CA
+12013,9/9/2013,Athletic Apparel,-19.16,CA
+12013,9/9/2013,Dick's Sporting Goods,-5.42,CA
+12013,9/9/2013,Lyft,-6.55,CA
+12013,9/9/2013,NFL Ticket - Chargers,-7.55,CA
+12013,9/9/2013,NFL Ticket - Chargers,-24.82,CA
+12013,9/9/2013,Total Gym Fees,-35.83,CA
+12013,9/9/2013,Food Delivery - GrubHub,-9.57,CA
+12013,9/10/2013,Sam's Sporting Apparel,-95.4,CA
+12013,9/10/2013,GNC,-27.1,CA
+12013,9/10/2013,Food Delivery - GrubHub,-30.04,CA
+12013,9/11/2013,Athletic Apparel,-9.48,CA
+12013,9/11/2013,Public Transportation - Train Pass,-18.29,CA
+12013,9/11/2013,NFL Ticket - Chargers,-6.03,CA
+12013,9/11/2013,Uber,-6.1,CA
+12013,9/11/2013,Public Transportation - Train Pass,-26.08,CA
+12013,9/11/2013,Sam's Sporting Apparel,-30.11,CA
+12013,9/11/2013,Taxi,-14.55,CA
+12013,9/12/2013,Sprouts Market,-11.5,CA
+12013,9/12/2013,NFL Ticket - Chargers,-16.08,CA
+12013,9/13/2013,Lyft,-17.7,CA
+12013,9/13/2013,Amazon Order - Athletic Equipment,-31.65,CA
+12013,9/13/2013,Lyft,-106.23,CA
+12013,9/14/2013,NBA Ticket - Lakers,-31.76,CA
+12013,9/15/2013,Amazon Order - Athletic Equipment,-73.62,CA
+12013,9/15/2013,GNC,-51.42,CA
+12013,9/15/2013,Restaurant - Steakhouse,-3.5,CA
+12013,9/15/2013,Total Gym Fees,-58.95,CA
+12013,9/15/2013,Restaurant - Pizza,-24.55,CA
+12013,9/15/2013,Amazon Order - Athletic Equipment,-17.15,CA
+12013,9/16/2013,Vitamin Shoppe,-5.34,CA
+12013,9/16/2013,Vitamin Shoppe,-30.81,CA
+12013,9/16/2013,Restaurant - Chinese,-28.84,CA
+12013,9/16/2013,Ralph's Grocery Store,-22.74,CA
+12013,9/16/2013,NFL Ticket - Chargers,-16.51,CA
+12013,9/17/2013,Bike Rental,-0.11,CA
+12013,9/18/2013,Bike Rental,-4.46,CA
+12013,9/18/2013,Vitamin Shoppe,-28.85,CA
+12013,9/18/2013,Von's Groceries,-30.62,CA
+12013,9/18/2013,Sam's Sporting Apparel,-12.13,CA
+12013,9/19/2013,Uber,-65.69,CA
+12013,9/20/2013,Taxi,-28.82,CA
+12013,9/21/2013,NFL Ticket - Chargers,-35.92,CA
+12013,9/21/2013,Total Gym Fees,-25.39,CA
+12013,9/21/2013,Public Transportation - Bus Pass,-23.69,CA
+12013,9/21/2013,Vitamin Shoppe,-58.1,CA
+12013,9/22/2013,Taxi,-15.66,CA
+12013,9/22/2013,Uber,-17.33,CA
+12013,9/23/2013,NBA Ticket - Lakers,-4.81,CA
+12013,9/23/2013,Vitamin Shoppe,-13.26,CA
+12013,9/23/2013,NFL Ticket - Chargers,-9.79,CA
+12013,9/23/2013,Uber,-35.58,CA
+12013,9/23/2013,Dick's Sporting Goods,-17.25,CA
+12013,9/23/2013,Restaurant - Burgers,-39.63,CA
+12013,9/23/2013,Amazon Order - Athletic Equipment,-3.35,CA
+12013,9/23/2013,Vitamin Shoppe,-19.8,CA
+12013,9/23/2013,Ralph's Grocery Store,-13.1,CA
+12013,9/23/2013,NBA Ticket - Lakers,-12.91,CA
+12013,9/23/2013,Ralph's Grocery Store,-3.2,CA
+12013,9/24/2013,NFL Ticket - Chargers,-25.79,CA
+12013,9/24/2013,Dick's Sporting Goods,-38.51,CA
+12013,9/24/2013,Bike Rental,-27.46,CA
+12013,9/24/2013,Public Transportation - Bus Pass,-16.65,CA
+12013,9/25/2013,GNC,-22.63,CA
+12013,9/25/2013,Dick's Sporting Goods,-26.28,CA
+12013,9/25/2013,Starbucks Coffee,-13.45,CA
+12013,9/25/2013,Sam's Sporting Apparel,-28.63,CA
+12013,9/26/2013,Restaurant - Burgers,-35.69,CA
+12013,9/26/2013,Von's Groceries,-1.24,CA
+12013,9/26/2013,Athletic Apparel,-34.16,CA
+12013,9/26/2013,Vitamin Shoppe,-15.55,CA
+12013,9/26/2013,Taxi,-17.97,CA
+12013,9/26/2013,Vitamin Shoppe,-27.04,CA
+12013,9/27/2013,Von's Groceries,-34.99,CA
+12013,9/27/2013,Dick's Sporting Goods,-1.83,CA
+12013,9/28/2013,Restaurant - Chinese,-12.23,CA
+12013,9/28/2013,Sprouts Market,-2.08,CA
+12013,9/29/2013,NFL Ticket - Chargers,-1.06,CA
+12013,9/30/2013,Public Transportation - Bus Pass,-3.61,CA
+12013,10/2/2013,Housing Rent,-1283,CA
+12013,10/2/2013,Water & Sewer,-53,CA
+12013,10/2/2013,Navient - Student Loans,-197,CA
+12013,10/2/2013,Netflix Subscription,-4.99,CA
+12013,10/2/2013,Time Warner Cable,-25,CA
+12013,10/2/2013,Gas & Electric,-32,CA
+12013,10/2/2013,Credit Card Payment,-154,CA
+12013,10/2/2013,Athletic Apparel,-1.94,CA
+12013,10/3/2013,GNC,-22.3,CA
+12013,10/3/2013,Amazon Order - Athletic Equipment,-26.21,CA
+12013,10/3/2013,Sam's Sporting Apparel,-10.99,CA
+12013,10/3/2013,Dick's Sporting Goods,-73.04,CA
+12013,10/3/2013,Sprouts Market,-33.89,CA
+12013,10/3/2013,Athletic Apparel,-29.57,CA
+12013,10/3/2013,Bike Rental,-14.81,CA
+12013,10/3/2013,Vitamin Shoppe,-33.68,CA
+12013,10/3/2013,Amazon Order - Athletic Equipment,-118.51,CA
+12013,10/3/2013,Lyft,-12.48,CA
+12013,10/3/2013,NFL Ticket - Chargers,-11.82,CA
+12013,10/4/2013,NFL Ticket - Chargers,-36.83,CA
+12013,10/5/2013,Dick's Sporting Goods,-30.14,CA
+12013,10/5/2013,Vitamin Shoppe,-1.63,CA
+12013,10/6/2013,Vitamin Shoppe,-35.85,CA
+12013,10/6/2013,Athletic Apparel,-6.4,CA
+12013,10/6/2013,Restaurant - Burgers,-37.04,CA
+12013,10/6/2013,GNC,-37.61,CA
+12013,10/6/2013,Public Transportation - Bus Pass,-35.66,CA
+12013,10/6/2013,Amazon Order - Athletic Equipment,-93.34,CA
+12013,10/6/2013,Bike Rental,-2.09,CA
+12013,10/6/2013,Public Transportation - Train Pass,-1.32,CA
+12013,10/6/2013,Athletic Apparel,-38.35,CA
+12013,10/6/2013,Whole Foods,-67.86,CA
+12013,10/7/2013,Athletic Apparel,-54.65,CA
+12013,10/7/2013,Total Gym Fees,-50.34,CA
+12013,10/8/2013,Taxi,-80.33,CA
+12013,10/8/2013,NFL Ticket - Chargers,-4.03,CA
+12013,10/8/2013,Restaurant - Chinese,-6.42,CA
+12013,10/9/2013,Lyft,-18.48,CA
+12013,10/9/2013,Restaurant - Burgers,-45.7,CA
+12013,10/9/2013,Athletic Apparel,-23.3,CA
+12013,10/9/2013,NBA Ticket - Lakers,-8.86,CA
+12013,10/9/2013,Lyft,-24.5,CA
+12013,10/10/2013,Taxi,-6.59,CA
+12013,10/10/2013,Sam's Sporting Apparel,-47.35,CA
+12013,10/10/2013,Starbucks Coffee,-87.42,CA
+12013,10/10/2013,Uber,-17.07,CA
+12013,10/11/2013,Amazon Order - Athletic Equipment,-25.09,CA
+12013,10/11/2013,Ralph's Grocery Store,-30.95,CA
+12013,10/11/2013,NBA Ticket - Lakers,-33.37,CA
+12013,10/11/2013,Ralph's Grocery Store,-10.01,CA
+12013,10/11/2013,Athletic Apparel,-8.98,CA
+12013,10/12/2013,Uber,-35.17,CA
+12013,10/12/2013,NBA Ticket - Lakers,-23.96,CA
+12013,10/12/2013,Vitamin Shoppe,-13.56,CA
+12013,10/12/2013,Total Gym Fees,-18.07,CA
+12013,10/12/2013,Public Transportation - Train Pass,-23.25,CA
+12013,10/12/2013,Public Transportation - Train Pass,-16.74,CA
+12013,10/12/2013,Athletic Apparel,-6.95,CA
+12013,10/13/2013,Von's Groceries,-34.23,CA
+12013,10/13/2013,Taxi,-24.17,CA
+12013,10/13/2013,Food Delivery - GrubHub,-23.03,CA
+12013,10/13/2013,GNC,-2.64,CA
+12013,10/14/2013,NBA Ticket - Lakers,-11.47,CA
+12013,10/14/2013,GNC,-83.88,CA
+12013,10/14/2013,GNC,-1.19,CA
+12013,10/15/2013,Sam's Sporting Apparel,-35.76,CA
+12013,10/15/2013,Uber,-80.71,CA
+12013,10/15/2013,Sprouts Market,-12.45,CA
+12013,10/15/2013,GNC,-36.43,CA
+12013,10/15/2013,NFL Ticket - Chargers,-35.39,CA
+12013,10/15/2013,NBA Ticket - Lakers,-32.42,CA
+12013,10/16/2013,NBA Ticket - Lakers,-20.77,CA
+12013,10/17/2013,Uber,-26.72,CA
+12013,10/17/2013,Dick's Sporting Goods,-39.55,CA
+12013,10/17/2013,Ralph's Grocery Store,-110.52,CA
+12013,10/18/2013,Total Gym Fees,-16.85,CA
+12013,10/19/2013,Athletic Apparel,-29.46,CA
+12013,10/19/2013,Uber,-26.28,CA
+12013,10/19/2013,Public Transportation - Train Pass,-12.09,CA
+12013,10/19/2013,Sam's Sporting Apparel,-2.12,CA
+12013,10/19/2013,Athletic Apparel,-91.25,CA
+12013,10/19/2013,Athletic Apparel,-37.64,CA
+12013,10/20/2013,Restaurant - Chinese,-39.1,CA
+12013,10/20/2013,Athletic Apparel,-29.55,CA
+12013,10/21/2013,NFL Ticket - Chargers,-8.75,CA
+12013,10/22/2013,Restaurant - Burgers,-36.03,CA
+12013,10/22/2013,GNC,-25.58,CA
+12013,10/23/2013,Amazon Order - Athletic Equipment,-3.19,CA
+12013,10/24/2013,GNC,-12.97,CA
+12013,10/25/2013,Lyft,-8.13,CA
+12013,10/25/2013,Amazon Order - Athletic Equipment,-15.2,CA
+12013,10/25/2013,Vitamin Shoppe,-42.81,CA
+12013,10/25/2013,Taxi,-37.39,CA
+12013,10/26/2013,NFL Ticket - Chargers,-14.04,CA
+12013,10/26/2013,Athletic Apparel,-39.35,CA
+12013,10/26/2013,GNC,-34.66,CA
+12013,10/26/2013,Taxi,-39.2,CA
+12013,10/27/2013,GNC,-28.53,CA
+12013,10/27/2013,Total Gym Fees,-29.83,CA
+12013,10/28/2013,Lyft,-22.64,CA
+12013,10/29/2013,Bike Rental,-32.93,CA
+12013,10/29/2013,NBA Ticket - Lakers,-13.88,CA
+12013,10/30/2013,Dick's Sporting Goods,-20.68,CA
+12013,11/2/2013,Housing Rent,-778,CA
+12013,11/2/2013,Water & Sewer,-53,CA
+12013,11/2/2013,Navient - Student Loans,-197,CA
+12013,11/2/2013,Netflix Subscription,-4.99,CA
+12013,11/2/2013,Time Warner Cable,-25,CA
+12013,11/2/2013,Gas & Electric,-32,CA
+12013,11/2/2013,Credit Card Payment,-154,CA
+12013,11/2/2013,Bike Rental,-39.81,CA
+12013,11/2/2013,Ralph's Grocery Store,-33.24,CA
+12013,11/2/2013,Amazon Order - Athletic Equipment,-15.94,CA
+12013,11/3/2013,Ralph's Grocery Store,-31.98,CA
+12013,11/4/2013,Athletic Apparel,-36.5,CA
+12013,11/4/2013,Sam's Sporting Apparel,-6.12,CA
+12013,11/5/2013,Dick's Sporting Goods,-39.63,CA
+12013,11/5/2013,Restaurant - Chinese,-23.74,CA
+12013,11/6/2013,Food Delivery - GrubHub,-19.96,CA
+12013,11/6/2013,Sam's Sporting Apparel,-10.94,CA
+12013,11/7/2013,Starbucks Coffee,-11.94,CA
+12013,11/7/2013,Dick's Sporting Goods,-12.06,CA
+12013,11/7/2013,Total Gym Fees,-0.07,CA
+12013,11/7/2013,Public Transportation - Train Pass,-56.94,CA
+12013,11/8/2013,NFL Ticket - Chargers,-33.67,CA
+12013,11/8/2013,Whole Foods,-21.72,CA
+12013,11/8/2013,Uber,-6.62,CA
+12013,11/8/2013,Amazon Order - Athletic Equipment,-16.77,CA
+12013,11/8/2013,Total Gym Fees,-23.5,CA
+12013,11/9/2013,Ralph's Grocery Store,-8.34,CA
+12013,11/9/2013,Starbucks Coffee,-10.17,CA
+12013,11/9/2013,Sam's Sporting Apparel,-17.29,CA
+12013,11/9/2013,Vitamin Shoppe,-74.74,CA
+12013,11/9/2013,Restaurant - Burgers,-36.46,CA
+12013,11/10/2013,Uber,-25.38,CA
+12013,11/11/2013,Total Gym Fees,-19.62,CA
+12013,11/11/2013,Athletic Apparel,-23.12,CA
+12013,11/11/2013,Athletic Apparel,-7.6,CA
+12013,11/11/2013,Von's Groceries,-10.55,CA
+12013,11/11/2013,Amazon Order - Athletic Equipment,-39.27,CA
+12013,11/11/2013,Total Gym Fees,-30.35,CA
+12013,11/11/2013,Athletic Apparel,-21.15,CA
+12013,11/11/2013,Dick's Sporting Goods,-13.9,CA
+12013,11/11/2013,Food Delivery - GrubHub,-13.87,CA
+12013,11/12/2013,Bike Rental,-21.01,CA
+12013,11/13/2013,NBA Ticket - Lakers,-21.27,CA
+12013,11/13/2013,Restaurant - Burgers,-22.26,CA
+12013,11/14/2013,Total Gym Fees,-5.76,CA
+12013,11/15/2013,Amazon Order - Athletic Equipment,-4.72,CA
+12013,11/15/2013,GNC,-33.92,CA
+12013,11/15/2013,Vitamin Shoppe,-37.06,CA
+12013,11/15/2013,Vitamin Shoppe,-86.7,CA
+12013,11/15/2013,Sprouts Market,-97.83,CA
+12013,11/15/2013,Total Gym Fees,-37.2,CA
+12013,11/16/2013,Sam's Sporting Apparel,-17.14,CA
+12013,11/17/2013,NFL Ticket - Chargers,-23.37,CA
+12013,11/17/2013,Von's Groceries,-35.24,CA
+12013,11/17/2013,Total Gym Fees,-29.08,CA
+12013,11/17/2013,Ralph's Grocery Store,-39.54,CA
+12013,11/17/2013,Public Transportation - Train Pass,-0.56,CA
+12013,11/17/2013,Sam's Sporting Apparel,-26.47,CA
+12013,11/18/2013,Sam's Sporting Apparel,-30.57,CA
+12013,11/19/2013,Lyft,-81.5,CA
+12013,11/19/2013,Restaurant - Burgers,-38.65,CA
+12013,11/20/2013,Public Transportation - Train Pass,-7.93,CA
+12013,11/20/2013,Restaurant - Chinese,-1.71,CA
+12013,11/20/2013,Lyft,-101.17,CA
+12013,11/21/2013,Starbucks Coffee,-39.24,CA
+12013,11/21/2013,Amazon Order - Athletic Equipment,-2.98,CA
+12013,11/21/2013,Vitamin Shoppe,-19.27,CA
+12013,11/21/2013,Uber,-14.19,CA
+12013,11/21/2013,GNC,-15.1,CA
+12013,11/22/2013,Athletic Apparel,-41.05,CA
+12013,11/22/2013,Sam's Sporting Apparel,-1.03,CA
+12013,11/22/2013,Starbucks Coffee,-95.78,CA
+12013,11/23/2013,Public Transportation - Train Pass,-80.83,CA
+12013,11/24/2013,Restaurant - Pizza,-18.26,CA
+12013,11/24/2013,NFL Ticket - Chargers,-10.09,CA
+12013,11/24/2013,Sam's Sporting Apparel,-11.67,CA
+12013,11/24/2013,Dick's Sporting Goods,-22.52,CA
+12013,11/24/2013,Amazon Order - Athletic Equipment,-27.16,CA
+12013,11/24/2013,Lyft,-34.07,CA
+12013,11/24/2013,Dick's Sporting Goods,-28.01,CA
+12013,11/24/2013,Public Transportation - Train Pass,-17.35,CA
+12013,11/24/2013,Uber,-2,CA
+12013,11/24/2013,GNC,-117.61,CA
+12013,11/24/2013,Uber,-5.04,CA
+12013,11/24/2013,Sam's Sporting Apparel,-24.72,CA
+12013,11/24/2013,NFL Ticket - Chargers,-18.2,CA
+12013,11/24/2013,Total Gym Fees,-25.37,CA
+12013,11/24/2013,NFL Ticket - Chargers,-27.71,CA
+12013,11/24/2013,Sam's Sporting Apparel,-29.89,CA
+12013,11/24/2013,Von's Groceries,-6.1,CA
+12013,11/25/2013,Food Delivery - GrubHub,-18.57,CA
+12013,11/26/2013,Amazon Order - Athletic Equipment,-21.48,CA
+12013,11/27/2013,NBA Ticket - Lakers,-71.65,CA
+12013,11/28/2013,Dick's Sporting Goods,-109.9,CA
+12013,11/28/2013,Amazon Order - Athletic Equipment,-27.22,CA
+12013,11/28/2013,Bike Rental,-71.31,CA
+12013,11/29/2013,Restaurant - Chinese,-4.26,CA
+12013,11/29/2013,Uber,-36.81,CA
+12013,11/29/2013,Bike Rental,-35.62,CA
+12013,11/29/2013,Athletic Apparel,-21.07,CA
+12013,11/29/2013,NBA Ticket - Lakers,-34.1,CA
+12013,11/30/2013,Uber,-38.19,CA
+12013,11/30/2013,Bike Rental,-65.42,CA
+12013,12/2/2013,Housing Rent,-1365,CA
+12013,12/2/2013,Water & Sewer,-53,CA
+12013,12/2/2013,Navient - Student Loans,-197,CA
+12013,12/2/2013,Netflix Subscription,-4.99,CA
+12013,12/2/2013,Time Warner Cable,-25,CA
+12013,12/2/2013,Gas & Electric,-32,CA
+12013,12/2/2013,Credit Card Payment,-154,CA
+12013,12/2/2013,Uber,-5.89,CA
+12013,12/3/2013,Ralph's Grocery Store,-23.08,CA
+12013,12/4/2013,GNC,-5.09,CA
+12013,12/4/2013,NFL Ticket - Chargers,-7.37,CA
+12013,12/4/2013,Amazon Order - Athletic Equipment,-11.99,CA
+12013,12/4/2013,Public Transportation - Bus Pass,-23.61,CA
+12013,12/4/2013,NBA Ticket - Lakers,-62.27,CA
+12013,12/4/2013,Public Transportation - Train Pass,-35.02,CA
+12013,12/4/2013,Restaurant - Chinese,-17.37,CA
+12013,12/4/2013,Lyft,-31.51,CA
+12013,12/5/2013,Vitamin Shoppe,-8.77,CA
+12013,12/5/2013,Athletic Apparel,-15.3,CA
+12013,12/6/2013,Vitamin Shoppe,-12.54,CA
+12013,12/6/2013,Restaurant - Chinese,-19.02,CA
+12013,12/6/2013,NBA Ticket - Lakers,-95.77,CA
+12013,12/6/2013,Bike Rental,-14.54,CA
+12013,12/6/2013,Sam's Sporting Apparel,-32.13,CA
+12013,12/6/2013,Whole Foods,-23.67,CA
+12013,12/6/2013,Amazon Order - Athletic Equipment,-7.31,CA
+12013,12/7/2013,Taxi,-43.63,CA
+12013,12/7/2013,Total Gym Fees,-37.64,CA
+12013,12/8/2013,Sam's Sporting Apparel,-55.83,CA
+12013,12/9/2013,Ralph's Grocery Store,-10.66,CA
+12013,12/10/2013,Lyft,-35.96,CA
+12013,12/10/2013,Von's Groceries,-29.06,CA
+12013,12/10/2013,Athletic Apparel,-7.19,CA
+12013,12/10/2013,Bike Rental,-115.88,CA
+12013,12/10/2013,Total Gym Fees,-45.1,CA
+12013,12/11/2013,Public Transportation - Train Pass,-0.41,CA
+12013,12/11/2013,Athletic Apparel,-2.18,CA
+12013,12/12/2013,Uber,-90.42,CA
+12013,12/12/2013,Uber,-7.21,CA
+12013,12/12/2013,Athletic Apparel,-30.24,CA
+12013,12/12/2013,Uber,-23.74,CA
+12013,12/13/2013,Athletic Apparel,-118.83,CA
+12013,12/14/2013,Lyft,-4.88,CA
+12013,12/14/2013,Restaurant - Steakhouse,-21.41,CA
+12013,12/14/2013,Restaurant - Burgers,-64.45,CA
+12013,12/14/2013,Restaurant - Steakhouse,-25.74,CA
+12013,12/14/2013,Dick's Sporting Goods,-20.87,CA
+12013,12/14/2013,GNC,-23.51,CA
+12013,12/14/2013,Public Transportation - Train Pass,-1.12,CA
+12013,12/14/2013,Whole Foods,-36.16,CA
+12013,12/15/2013,Total Gym Fees,-34.7,CA
+12013,12/15/2013,Von's Groceries,-33.24,CA
+12013,12/15/2013,Vitamin Shoppe,-11.85,CA
+12013,12/16/2013,Von's Groceries,-6.44,CA
+12013,12/16/2013,NBA Ticket - Lakers,-20.39,CA
+12013,12/16/2013,NBA Ticket - Lakers,-7.94,CA
+12013,12/17/2013,Bike Rental,-103.97,CA
+12013,12/18/2013,Sam's Sporting Apparel,-23.58,CA
+12013,12/18/2013,Sprouts Market,-30.5,CA
+12013,12/18/2013,NFL Ticket - Chargers,-25.67,CA
+12013,12/19/2013,Food Delivery - GrubHub,-5.05,CA
+12013,12/19/2013,Dick's Sporting Goods,-2.02,CA
+12013,12/20/2013,Total Gym Fees,-8.59,CA
+12013,12/20/2013,Dick's Sporting Goods,-31.36,CA
+12013,12/20/2013,GNC,-15.2,CA
+12013,12/20/2013,Athletic Apparel,-6.89,CA
+12013,12/20/2013,Restaurant - Steakhouse,-21.83,CA
+12013,12/21/2013,Taxi,-16.36,CA
+12013,12/21/2013,Starbucks Coffee,-35.27,CA
+12013,12/21/2013,GNC,-17.59,CA
+12013,12/21/2013,Uber,-21.98,CA
+12013,12/21/2013,Restaurant - Steakhouse,-30.13,CA
+12013,12/21/2013,Restaurant - Burgers,-12.46,CA
+12013,12/21/2013,Taxi,-14.85,CA
+12013,12/21/2013,NBA Ticket - Lakers,-21.72,CA
+12013,12/21/2013,Sam's Sporting Apparel,-39.32,CA
+12013,12/21/2013,Vitamin Shoppe,-6.44,CA
+12013,12/21/2013,NBA Ticket - Lakers,-63.22,CA
+12013,12/22/2013,Vitamin Shoppe,-22.91,CA
+12013,12/22/2013,Vitamin Shoppe,-20.41,CA
+12013,12/22/2013,Uber,-34.71,CA
+12013,12/22/2013,Food Delivery - GrubHub,-38.11,CA
+12013,12/22/2013,Taxi,-12.5,CA
+12013,12/23/2013,Starbucks Coffee,-13.69,CA
+12013,12/24/2013,Athletic Apparel,-44.54,CA
+12013,12/24/2013,Athletic Apparel,-29.82,CA
+12013,12/25/2013,Taxi,-21.28,CA
+12013,12/26/2013,GNC,-10.03,CA
+12013,12/26/2013,Total Gym Fees,-2.26,CA
+12013,12/27/2013,GNC,-39.05,CA
+12013,12/27/2013,Dick's Sporting Goods,-34.79,CA
+12013,12/27/2013,Bike Rental,-31.71,CA
+12013,12/27/2013,Dick's Sporting Goods,-15.45,CA
+12013,12/27/2013,Starbucks Coffee,-8.32,CA
+12013,12/27/2013,Total Gym Fees,-11.21,CA
+12013,12/27/2013,Uber,-6.42,CA
+12013,12/27/2013,Uber,-2.01,CA
+12013,12/28/2013,Restaurant - Pizza,-33.78,CA
+12013,12/29/2013,Starbucks Coffee,-34.87,CA
+12013,12/29/2013,NFL Ticket - Chargers,-10.11,CA
+12013,12/30/2013,Restaurant - Steakhouse,-18.67,CA
+12013,12/32/2013,Public Transportation - Train Pass,-29.86,CA
+12013,12/32/2013,NFL Ticket - Chargers,-2.69,CA
+12013,12/32/2013,Sprouts Market,-82.37,CA
+12013,12/32/2013,Sam's Sporting Apparel,-35.36,CA
+12013,12/32/2013,Restaurant - Chinese,-10.99,CA
+12013,1/2/2014,Sprouts Market,-50.82,CA
+12013,1/2/2014,Sam's Sporting Apparel,-27.77,CA
+12013,1/2/2014,Dick's Sporting Goods,-38.79,CA
+12013,1/2/2014,Vitamin Shoppe,-20.26,CA
+12013,1/2/2014,Total Gym Fees,-36.86,CA
+12013,1/2/2014,Athletic Apparel,-1.59,CA
+12013,1/2/2014,Total Gym Fees,-22.07,CA
+12013,1/2/2014,Lyft,-60.68,CA
+12013,1/2/2014,Uber,-15.85,CA
+12013,1/2/2014,NBA Ticket - Lakers,-0.89,CA
+12013,1/2/2014,Amazon Order - Athletic Equipment,-6.31,CA
+12013,1/2/2014,Total Gym Fees,-8.03,CA
+12013,1/2/2014,Athletic Apparel,-92.66,CA
+12013,1/2/2014,GNC,-9.06,CA
+12013,1/2/2014,Taxi,-18.38,CA
+12013,1/3/2014,Bike Rental,-36.48,CA
+12013,1/4/2014,Bike Rental,-21.03,CA
+12013,1/4/2014,Sprouts Market,-15.41,CA
+12013,1/4/2014,Vitamin Shoppe,-4.94,CA
+12013,1/5/2014,Dick's Sporting Goods,-35.46,CA
+12013,1/5/2014,Vitamin Shoppe,-17.99,CA
+12013,1/6/2014,Taxi,-81.68,CA
+12013,1/7/2014,NFL Ticket - Chargers,-24.66,CA
+12013,1/7/2014,Restaurant - Pizza,-32.36,CA
+12013,1/8/2014,Uber,-72.88,CA
+12013,1/9/2014,Amazon Order - Athletic Equipment,-16.05,CA
+12013,1/9/2014,Dick's Sporting Goods,-29.44,CA
+12013,1/10/2014,Food Delivery - GrubHub,-77.17,CA
+12013,1/10/2014,Sam's Sporting Apparel,-13.07,CA
+12013,1/10/2014,Vitamin Shoppe,-12.51,CA
+12013,1/11/2014,Restaurant - Pizza,-42.36,CA
+12013,1/11/2014,Restaurant - Burgers,-106.83,CA
+12013,1/11/2014,Dick's Sporting Goods,-37.21,CA
+12013,1/11/2014,Vitamin Shoppe,-20.15,CA
+12013,1/12/2014,NBA Ticket - Lakers,-39.51,CA
+12013,1/12/2014,Amazon Order - Athletic Equipment,-24.5,CA
+12013,1/12/2014,Sam's Sporting Apparel,-32.33,CA
+12013,1/12/2014,Amazon Order - Athletic Equipment,-33.18,CA
+12013,1/13/2014,NBA Ticket - Lakers,-12.56,CA
+12013,1/13/2014,Athletic Apparel,-51.64,CA
+12013,1/13/2014,Vitamin Shoppe,-117.81,CA
+12013,1/13/2014,Restaurant - Chinese,-21.3,CA
+12013,1/14/2014,Athletic Apparel,-36.42,CA
+12013,1/15/2014,Public Transportation - Bus Pass,-34.11,CA
+12013,1/16/2014,Uber,-51.12,CA
+12013,1/16/2014,Sam's Sporting Apparel,-4.17,CA
+12013,1/16/2014,Vitamin Shoppe,-22.91,CA
+12013,1/16/2014,GNC,-91.96,CA
+12013,1/16/2014,GNC,-38.51,CA
+12013,1/16/2014,Public Transportation - Train Pass,-34.87,CA
+12013,1/16/2014,Vitamin Shoppe,-13.46,CA
+12013,1/16/2014,Vitamin Shoppe,-24.69,CA
+12013,1/16/2014,NFL Ticket - Chargers,-97.1,CA
+12013,1/16/2014,Public Transportation - Bus Pass,-1.36,CA
+12013,1/16/2014,Taxi,-13.71,CA
+12013,1/16/2014,Taxi,-33.64,CA
+12013,1/16/2014,Restaurant - Steakhouse,-18.38,CA
+12013,1/16/2014,Dick's Sporting Goods,-6.89,CA
+12013,1/16/2014,Taxi,-38.78,CA
+12013,1/16/2014,Lyft,-4.67,CA
+12013,1/16/2014,Amazon Order - Athletic Equipment,-3.33,CA
+12013,1/16/2014,Sam's Sporting Apparel,-28.33,CA
+12013,1/16/2014,NFL Ticket - Chargers,-30.17,CA
+12013,1/16/2014,Athletic Apparel,-2.76,CA
+12013,1/16/2014,Von's Groceries,-14.33,CA
+12013,1/16/2014,Uber,-12.6,CA
+12013,1/16/2014,Total Gym Fees,-57.34,CA
+12013,1/16/2014,Public Transportation - Train Pass,-29.11,CA
+12013,1/16/2014,Bike Rental,-26,CA
+12013,1/16/2014,Taxi,-14.14,CA
+12013,1/17/2014,Bike Rental,-42.03,CA
+12013,1/17/2014,Athletic Apparel,-114.45,CA
+12013,1/18/2014,Bike Rental,-26.39,CA
+12013,1/18/2014,Amazon Order - Athletic Equipment,-58.31,CA
+12013,1/19/2014,Public Transportation - Bus Pass,-34.72,CA
+12013,1/20/2014,GNC,-65.71,CA
+12013,1/20/2014,Public Transportation - Bus Pass,-34.83,CA
+12013,1/20/2014,GNC,-25.02,CA
+12013,1/21/2014,Von's Groceries,-22.13,CA
+12013,1/21/2014,Bike Rental,-38.85,CA
+12013,1/21/2014,GNC,-7.21,CA
+12013,1/21/2014,Sam's Sporting Apparel,-9.17,CA
+12013,1/22/2014,Vitamin Shoppe,-8.99,CA
+12013,1/23/2014,Lyft,-25.46,CA
+12013,1/24/2014,Lyft,-36.47,CA
+12013,1/24/2014,Vitamin Shoppe,-33.47,CA
+12013,1/24/2014,NBA Ticket - Lakers,-20.44,CA
+12013,1/24/2014,Restaurant - Burgers,-27.1,CA
+12013,1/24/2014,Ralph's Grocery Store,-31.74,CA
+12013,1/24/2014,Amazon Order - Athletic Equipment,-38.08,CA
+12013,1/24/2014,Bike Rental,-8.1,CA
+12013,1/25/2014,Lyft,-6.42,CA
+12013,1/26/2014,Sprouts Market,-109.05,CA
+12013,1/26/2014,Taxi,-17.16,CA
+12013,1/26/2014,Restaurant - Pizza,-31.64,CA
+12013,1/26/2014,NFL Ticket - Chargers,-38.05,CA
+12013,1/27/2014,NFL Ticket - Chargers,-23.58,CA
+12013,1/28/2014,Starbucks Coffee,-113.76,CA
+12013,1/28/2014,Total Gym Fees,-8.46,CA
+12013,1/28/2014,Public Transportation - Train Pass,-41.98,CA
+12013,1/28/2014,GNC,-53.31,CA
+12013,1/28/2014,Bike Rental,-54.42,CA
+12013,1/29/2014,Athletic Apparel,-37.21,CA
+12013,1/29/2014,Von's Groceries,-32.24,CA
+12013,1/29/2014,Amazon Order - Athletic Equipment,-79.35,CA
+12013,1/29/2014,Total Gym Fees,-78.12,CA
+12013,1/30/2014,Bike Rental,-12.3,CA
+12013,1/30/2014,Public Transportation - Train Pass,-31.69,CA
+12013,1/30/2014,Dick's Sporting Goods,-20.33,CA
+12013,3/2/2014,Housing Rent,-1160,CA
+12013,3/2/2014,Water & Sewer,-53,CA
+12013,3/2/2014,Navient - Student Loans,-197,CA
+12013,3/2/2014,Netflix Subscription,-4.99,CA
+12013,3/2/2014,Time Warner Cable,-25,CA
+12013,3/2/2014,Gas & Electric,-32,CA
+12013,3/2/2014,Credit Card Payment,-154,CA
+12013,3/2/2014,NBA Ticket - Lakers,-37.5,CA
+12013,3/2/2014,NBA Ticket - Lakers,-24.58,CA
+12013,3/3/2014,Vitamin Shoppe,-3.13,CA
+12013,3/4/2014,Dick's Sporting Goods,-1.48,CA
+12013,3/4/2014,NFL Ticket - Chargers,-7.53,CA
+12013,3/4/2014,Total Gym Fees,-22.6,CA
+12013,3/5/2014,Total Gym Fees,-24.31,CA
+12013,3/5/2014,Taxi,-0.3,CA
+12013,3/5/2014,Taxi,-8.95,CA
+12013,3/5/2014,Lyft,-15.33,CA
+12013,3/5/2014,Bike Rental,-5.97,CA
+12013,3/5/2014,Taxi,-6.81,CA
+12013,3/5/2014,Restaurant - Chinese,-28.3,CA
+12013,3/6/2014,Restaurant - Steakhouse,-8.32,CA
+12013,3/7/2014,Bike Rental,-19.45,CA
+12013,3/7/2014,Restaurant - Burgers,-6.65,CA
+12013,3/7/2014,Athletic Apparel,-14.07,CA
+12013,3/7/2014,Lyft,-31.18,CA
+12013,3/7/2014,Public Transportation - Bus Pass,-18.79,CA
+12013,3/7/2014,GNC,-8.94,CA
+12013,3/8/2014,Public Transportation - Bus Pass,-15.48,CA
+12013,3/8/2014,Sam's Sporting Apparel,-0.3,CA
+12013,3/8/2014,Bike Rental,-85.82,CA
+12013,3/9/2014,Starbucks Coffee,-16.58,CA
+12013,3/9/2014,Athletic Apparel,-16.95,CA
+12013,3/9/2014,Public Transportation - Train Pass,-14.55,CA
+12013,3/9/2014,GNC,-24.88,CA
+12013,3/9/2014,Amazon Order - Athletic Equipment,-13.37,CA
+12013,3/9/2014,Food Delivery - GrubHub,-8.6,CA
+12013,3/9/2014,GNC,-9.49,CA
+12013,3/9/2014,NBA Ticket - Lakers,-4.03,CA
+12013,3/9/2014,Dick's Sporting Goods,-0.69,CA
+12013,3/9/2014,Taxi,-17.04,CA
+12013,3/9/2014,Sam's Sporting Apparel,-7,CA
+12013,3/10/2014,Dick's Sporting Goods,-34.96,CA
+12013,3/11/2014,Taxi,-0.03,CA
+12013,3/11/2014,Total Gym Fees,-12.82,CA
+12013,3/11/2014,GNC,-4.3,CA
+12013,3/11/2014,NBA Ticket - Lakers,-32.54,CA
+12013,3/12/2014,Restaurant - Chinese,-33.21,CA
+12013,3/12/2014,Public Transportation - Train Pass,-30.08,CA
+12013,3/12/2014,Athletic Apparel,-23.98,CA
+12013,3/13/2014,Uber,-96.24,CA
+12013,3/13/2014,NFL Ticket - Chargers,-35.42,CA
+12013,3/13/2014,Amazon Order - Athletic Equipment,-118.89,CA
+12013,3/13/2014,Starbucks Coffee,-42.57,CA
+12013,3/13/2014,Von's Groceries,-45.95,CA
+12013,3/13/2014,Taxi,-24.36,CA
+12013,3/14/2014,Whole Foods,-1.39,CA
+12013,3/15/2014,Bike Rental,-7.55,CA
+12013,3/16/2014,Ralph's Grocery Store,-34.75,CA
+12013,3/16/2014,Amazon Order - Athletic Equipment,-29.53,CA
+12013,3/16/2014,Restaurant - Chinese,-28.37,CA
+12013,3/17/2014,GNC,-26.81,CA
+12013,3/17/2014,Taxi,-9.31,CA
+12013,3/18/2014,Public Transportation - Bus Pass,-7.39,CA
+12013,3/18/2014,Amazon Order - Athletic Equipment,-37.55,CA
+12013,3/18/2014,Sam's Sporting Apparel,-31.06,CA
+12013,3/18/2014,Whole Foods,-9.56,CA
+12013,3/18/2014,Ralph's Grocery Store,-8.95,CA
+12013,3/18/2014,Dick's Sporting Goods,-81.82,CA
+12013,3/18/2014,Athletic Apparel,-6.56,CA
+12013,3/19/2014,Lyft,-28.84,CA
+12013,3/19/2014,Bike Rental,-91.39,CA
+12013,3/19/2014,NBA Ticket - Lakers,-27,CA
+12013,3/20/2014,Von's Groceries,-36.66,CA
+12013,3/20/2014,Sprouts Market,-90.77,CA
+12013,3/20/2014,GNC,-6.45,CA
+12013,3/20/2014,Public Transportation - Train Pass,-38.61,CA
+12013,3/20/2014,Bike Rental,-80.28,CA
+12013,3/20/2014,Ralph's Grocery Store,-11.04,CA
+12013,3/20/2014,NFL Ticket - Chargers,-1.52,CA
+12013,3/21/2014,Lyft,-0.27,CA
+12013,3/22/2014,Dick's Sporting Goods,-35.32,CA
+12013,3/22/2014,Von's Groceries,-19.94,CA
+12013,3/23/2014,Uber,-18.54,CA
+12013,3/23/2014,Sam's Sporting Apparel,-34.29,CA
+12013,3/23/2014,Taxi,-14.72,CA
+12013,3/23/2014,Restaurant - Pizza,-10.33,CA
+12013,3/24/2014,Vitamin Shoppe,-87.49,CA
+12013,3/24/2014,Uber,-115.23,CA
+12013,3/25/2014,Public Transportation - Train Pass,-65.48,CA
+12013,3/25/2014,Sam's Sporting Apparel,-78.35,CA
+12013,3/25/2014,GNC,-1.69,CA
+12013,3/25/2014,NFL Ticket - Chargers,-34.11,CA
+12013,3/25/2014,Public Transportation - Train Pass,-27.53,CA
+12013,3/26/2014,Taxi,-30.72,CA
+12013,3/26/2014,Vitamin Shoppe,-12.56,CA
+12013,3/27/2014,Lyft,-5.29,CA
+12013,3/27/2014,GNC,-28.72,CA
+12013,3/27/2014,NBA Ticket - Lakers,-14.75,CA
+12013,3/27/2014,NFL Ticket - Chargers,-29.97,CA
+12013,3/27/2014,Restaurant - Steakhouse,-2.34,CA
+12013,3/28/2014,NBA Ticket - Lakers,-26.03,CA
+12013,3/29/2014,Restaurant - Pizza,-20.8,CA
+12013,3/30/2014,Sprouts Market,-2.59,CA
+12013,3/30/2014,Athletic Apparel,-29.6,CA
+12013,4/2/2014,Housing Rent,-935,CA
+12013,4/2/2014,Water & Sewer,-53,CA
+12013,4/2/2014,Navient - Student Loans,-197,CA
+12013,4/2/2014,Netflix Subscription,-4.99,CA
+12013,4/2/2014,Time Warner Cable,-25,CA
+12013,4/2/2014,Gas & Electric,-32,CA
+12013,4/2/2014,Credit Card Payment,-154,CA
+12013,4/2/2014,Sprouts Market,-23.49,CA
+12013,4/2/2014,Sam's Sporting Apparel,-70.19,CA
+12013,4/2/2014,Sam's Sporting Apparel,-12.02,CA
+12013,4/2/2014,Vitamin Shoppe,-22.07,CA
+12013,4/2/2014,NBA Ticket - Lakers,-6.01,CA
+12013,4/2/2014,Starbucks Coffee,-19.01,CA
+12013,4/3/2014,Taxi,-91.07,CA
+12013,4/3/2014,Vitamin Shoppe,-7.43,CA
+12013,4/4/2014,Bike Rental,-39.85,CA
+12013,4/5/2014,Vitamin Shoppe,-86.99,CA
+12013,4/6/2014,Amazon Order - Athletic Equipment,-18.02,CA
+12013,4/7/2014,Uber,-33.68,CA
+12013,4/8/2014,Total Gym Fees,-8.13,CA
+12013,4/8/2014,Amazon Order - Athletic Equipment,-35.54,CA
+12013,4/8/2014,Athletic Apparel,-11.62,CA
+12013,4/8/2014,Von's Groceries,-24.33,CA
+12013,4/8/2014,NBA Ticket - Lakers,-49.33,CA
+12013,4/9/2014,Total Gym Fees,-93.43,CA
+12013,4/10/2014,Public Transportation - Bus Pass,-37.72,CA
+12013,4/10/2014,Amazon Order - Athletic Equipment,-8.67,CA
+12013,4/11/2014,NBA Ticket - Lakers,-10.58,CA
+12013,4/11/2014,NFL Ticket - Chargers,-1.48,CA
+12013,4/11/2014,Bike Rental,-34.1,CA
+12013,4/12/2014,Restaurant - Chinese,-8.61,CA
+12013,4/12/2014,Sam's Sporting Apparel,-23.07,CA
+12013,4/12/2014,Amazon Order - Athletic Equipment,-4.92,CA
+12013,4/12/2014,Uber,-11.59,CA
+12013,4/12/2014,Amazon Order - Athletic Equipment,-34.2,CA
+12013,4/13/2014,NFL Ticket - Chargers,-8.05,CA
+12013,4/13/2014,NFL Ticket - Chargers,-31.76,CA
+12013,4/13/2014,Lyft,-47.55,CA
+12013,4/13/2014,Sam's Sporting Apparel,-73.33,CA
+12013,4/13/2014,Uber,-115.73,CA
+12013,4/13/2014,NBA Ticket - Lakers,-34.5,CA
+12013,4/13/2014,Bike Rental,-36.81,CA
+12013,4/13/2014,Uber,-39.58,CA
+12013,4/14/2014,GNC,-91.29,CA
+12013,4/14/2014,Restaurant - Chinese,-81.88,CA
+12013,4/14/2014,Restaurant - Chinese,-10.9,CA
+12013,4/15/2014,Amazon Order - Athletic Equipment,-25.11,CA
+12013,4/16/2014,Dick's Sporting Goods,-28.15,CA
+12013,4/16/2014,Total Gym Fees,-4.79,CA
+12013,4/16/2014,Taxi,-5.23,CA
+12013,4/17/2014,Total Gym Fees,-84.79,CA
+12013,4/17/2014,Amazon Order - Athletic Equipment,-19.36,CA
+12013,4/17/2014,Sam's Sporting Apparel,-4.45,CA
+12013,4/17/2014,Bike Rental,-112.57,CA
+12013,4/18/2014,Sam's Sporting Apparel,-17.26,CA
+12013,4/18/2014,Dick's Sporting Goods,-49.92,CA
+12013,4/18/2014,GNC,-31.53,CA
+12013,4/19/2014,Vitamin Shoppe,-10.86,CA
+12013,4/19/2014,Bike Rental,-7.32,CA
+12013,4/19/2014,NFL Ticket - Chargers,-27.08,CA
+12013,4/19/2014,Starbucks Coffee,-91.2,CA
+12013,4/20/2014,Lyft,-6.83,CA
+12013,4/20/2014,Dick's Sporting Goods,-29.65,CA
+12013,4/20/2014,GNC,-0.84,CA
+12013,4/20/2014,Restaurant - Steakhouse,-14.3,CA
+12013,4/20/2014,Athletic Apparel,-26.44,CA
+12013,4/20/2014,NFL Ticket - Chargers,-16.87,CA
+12013,4/20/2014,GNC,-6.27,CA
+12013,4/20/2014,Public Transportation - Train Pass,-21.17,CA
+12013,4/20/2014,NBA Ticket - Lakers,-77.76,CA
+12013,4/20/2014,Vitamin Shoppe,-32.16,CA
+12013,4/21/2014,Lyft,-106.41,CA
+12013,4/21/2014,Lyft,-16.93,CA
+12013,4/21/2014,GNC,-23.22,CA
+12013,4/21/2014,Bike Rental,-18.23,CA
+12013,4/21/2014,Athletic Apparel,-23.52,CA
+12013,4/21/2014,Restaurant - Pizza,-15.6,CA
+12013,4/21/2014,Sam's Sporting Apparel,-85.1,CA
+12013,4/22/2014,Sprouts Market,-4.32,CA
+12013,4/22/2014,Uber,-19.44,CA
+12013,4/22/2014,Public Transportation - Train Pass,-29.9,CA
+12013,4/22/2014,Sam's Sporting Apparel,-17.4,CA
+12013,4/22/2014,GNC,-111.99,CA
+12013,4/23/2014,Taxi,-30.59,CA
+12013,4/24/2014,Public Transportation - Bus Pass,-7.29,CA
+12013,4/24/2014,Sprouts Market,-32.1,CA
+12013,4/24/2014,Dick's Sporting Goods,-9.39,CA
+12013,4/24/2014,Bike Rental,-33.9,CA
+12013,4/24/2014,Von's Groceries,-16.38,CA
+12013,4/24/2014,Whole Foods,-7.2,CA
+12013,4/25/2014,Amazon Order - Athletic Equipment,-16.32,CA
+12013,4/25/2014,Bike Rental,-10.08,CA
+12013,4/26/2014,Taxi,-70.54,CA
+12013,4/26/2014,Taxi,-36.11,CA
+12013,4/26/2014,Sam's Sporting Apparel,-28.37,CA
+12013,4/26/2014,Total Gym Fees,-23.5,CA
+12013,4/27/2014,Restaurant - Chinese,-1.38,CA
+12013,4/27/2014,Food Delivery - GrubHub,-25.28,CA
+12013,4/27/2014,NBA Ticket - Lakers,-7.12,CA
+12013,4/27/2014,Amazon Order - Athletic Equipment,-25.09,CA
+12013,4/27/2014,Food Delivery - GrubHub,-76.08,CA
+12013,4/27/2014,Dick's Sporting Goods,-64.22,CA
+12013,4/28/2014,Von's Groceries,-4.95,CA
+12013,4/28/2014,Restaurant - Burgers,-36.65,CA
+12013,4/28/2014,Sprouts Market,-3.07,CA
+12013,4/28/2014,Amazon Order - Athletic Equipment,-15.61,CA
+12013,4/28/2014,NFL Ticket - Chargers,-18.64,CA
+12013,4/28/2014,NFL Ticket - Chargers,-32.28,CA
+12013,4/28/2014,Ralph's Grocery Store,-42.95,CA
+12013,4/28/2014,GNC,-30.41,CA
+12013,4/28/2014,NFL Ticket - Chargers,-81.79,CA
+12013,4/28/2014,Dick's Sporting Goods,-7.49,CA
+12013,4/29/2014,Sam's Sporting Apparel,-13.63,CA
+12013,4/29/2014,NBA Ticket - Lakers,-2.87,CA
+12013,4/29/2014,Total Gym Fees,-4.19,CA
+12013,4/29/2014,NFL Ticket - Chargers,-3.27,CA
+12013,4/30/2014,GNC,-64.78,CA
+12013,4/30/2014,NBA Ticket - Lakers,-9.18,CA
+12013,5/2/2014,Housing Rent,-976,CA
+12013,5/2/2014,Water & Sewer,-53,CA
+12013,5/2/2014,Navient - Student Loans,-197,CA
+12013,5/2/2014,Netflix Subscription,-4.99,CA
+12013,5/2/2014,Time Warner Cable,-25,CA
+12013,5/2/2014,Gas & Electric,-32,CA
+12013,5/2/2014,Credit Card Payment,-154,CA
+12013,5/2/2014,Restaurant - Burgers,-2.4,CA
+12013,5/2/2014,Sam's Sporting Apparel,-25.58,CA
+12013,5/2/2014,Vitamin Shoppe,-3.82,CA
+12013,5/2/2014,NBA Ticket - Lakers,-13.98,CA
+12013,5/3/2014,Bike Rental,-16.35,CA
+12013,5/4/2014,Dick's Sporting Goods,-25.5,CA
+12013,5/5/2014,Sam's Sporting Apparel,-15.22,CA
+12013,5/5/2014,Total Gym Fees,-29.37,CA
+12013,5/6/2014,Taxi,-0.18,CA
+12013,5/6/2014,Dick's Sporting Goods,-16.14,CA
+12013,5/7/2014,Total Gym Fees,-13.74,CA
+12013,5/7/2014,NFL Ticket - Chargers,-19.61,CA
+12013,5/8/2014,Total Gym Fees,-22.71,CA
+12013,5/8/2014,Sam's Sporting Apparel,-24.51,CA
+12013,5/8/2014,Amazon Order - Baby Crib,-15.49,CA
+12013,5/8/2014,Hospital - Prenatal Care,-29.79,CA
+12013,5/8/2014,Babies "R" Us,-25.04,CA
+12013,5/8/2014,BuyBuyBaby.com,-24.21,CA
+12013,5/8/2014,NFL Ticket - Chargers,-3.3,CA
+12013,5/8/2014,Athletic Apparel,-38.29,CA
+12013,5/8/2014,Athletic Apparel,-21.32,CA
+12013,5/9/2014,Athletic Apparel,-25.55,CA
+12013,5/9/2014,Restaurant - Pizza,-14.42,CA
+12013,5/9/2014,NFL Ticket - Chargers,-13.15,CA
+12013,5/9/2014,NFL Ticket - Chargers,-71.82,CA
+12013,5/9/2014,Vitamin Shoppe,-31.72,CA
+12013,5/9/2014,Sam's Sporting Apparel,-7.62,CA
+12013,5/10/2014,Food Delivery - GrubHub,-2.88,CA
+12013,5/10/2014,Ralph's Grocery Store,-1.62,CA
+12013,5/10/2014,Restaurant - Steakhouse,-80.43,CA
+12013,5/10/2014,Amazon Order - Athletic Equipment,-4.83,CA
+12013,5/10/2014,NBA Ticket - Lakers,-62.03,CA
+12013,5/10/2014,Public Transportation - Train Pass,-39.61,CA
+12013,5/10/2014,Bike Rental,-21.85,CA
+12013,5/11/2014,Dick's Sporting Goods,-12.04,CA
+12013,5/11/2014,Taxi,-9.53,CA
+12013,5/11/2014,Uber,-8.96,CA
+12013,5/12/2014,Amazon Order - Athletic Equipment,-7.51,CA
+12013,5/13/2014,Lyft,-29.94,CA
+12013,5/13/2014,Dick's Sporting Goods,-37.76,CA
+12013,5/13/2014,Lyft,-81.27,CA
+12013,5/13/2014,NBA Ticket - Lakers,-1.16,CA
+12013,5/13/2014,Public Transportation - Bus Pass,-22.41,CA
+12013,5/13/2014,Vitamin Shoppe,-29.48,CA
+12013,5/13/2014,Bike Rental,-2.59,CA
+12013,5/13/2014,Total Gym Fees,-31.86,CA
+12013,5/14/2014,Bike Rental,-8.63,CA
+12013,5/14/2014,Public Transportation - Train Pass,-7.89,CA
+12013,5/15/2014,Vitamin Shoppe,-22.91,CA
+12013,5/15/2014,Von's Groceries,-20.34,CA
+12013,5/15/2014,Dick's Sporting Goods,-0.85,CA
+12013,5/15/2014,Uber,-0.72,CA
+12013,5/16/2014,Total Gym Fees,-30.42,CA
+12013,5/16/2014,Food Delivery - GrubHub,-10.26,CA
+12013,5/16/2014,NBA Ticket - Lakers,-32.3,CA
+12013,5/16/2014,GNC,-38.35,CA
+12013,5/16/2014,Starbucks Coffee,-18.92,CA
+12013,5/16/2014,Public Transportation - Bus Pass,-14.54,CA
+12013,5/16/2014,NBA Ticket - Lakers,-117.82,CA
+12013,5/16/2014,Starbucks Coffee,-63.6,CA
+12013,5/17/2014,Total Gym Fees,-8.39,CA
+12013,5/17/2014,NFL Ticket - Chargers,-10.09,CA
+12013,5/17/2014,NFL Ticket - Chargers,-24.63,CA
+12013,5/17/2014,Public Transportation - Train Pass,-29.37,CA
+12013,5/18/2014,Athletic Apparel,-14.75,CA
+12013,5/19/2014,Athletic Apparel,-38.83,CA
+12013,5/19/2014,Dick's Sporting Goods,-10.43,CA
+12013,5/19/2014,NBA Ticket - Lakers,-107.98,CA
+12013,5/20/2014,Sam's Sporting Apparel,-5.74,CA
+12013,5/21/2014,NBA Ticket - Lakers,-25.51,CA
+12013,5/22/2014,Lyft,-76.1,CA
+12013,5/22/2014,NFL Ticket - Chargers,-87.11,CA
+12013,5/22/2014,Restaurant - Pizza,-4.27,CA
+12013,5/23/2014,GNC,-109.87,CA
+12013,5/23/2014,Bike Rental,-21.18,CA
+12013,5/24/2014,Bike Rental,-39.15,CA
+12013,5/25/2014,Lyft,-19.98,CA
+12013,5/25/2014,Lyft,-25.77,CA
+12013,5/26/2014,Public Transportation - Train Pass,-5.46,CA
+12013,5/26/2014,Amazon Order - Athletic Equipment,-12.5,CA
+12013,5/27/2014,Dick's Sporting Goods,-14.64,CA
+12013,5/27/2014,Vitamin Shoppe,-38.27,CA
+12013,5/28/2014,GNC,-16.17,CA
+12013,5/29/2014,Sprouts Market,-3.51,CA
+12013,5/30/2014,Dick's Sporting Goods,-14.3,CA
+12013,5/30/2014,Restaurant - Burgers,-106.81,CA
+12013,5/30/2014,Restaurant - Pizza,-66.15,CA
+12013,6/2/2014,Housing Rent,-1060,CA
+12013,6/2/2014,Water & Sewer,-53,CA
+12013,6/2/2014,Navient - Student Loans,-197,CA
+12013,6/2/2014,Netflix Subscription,-4.99,CA
+12013,6/2/2014,Time Warner Cable,-25,CA
+12013,6/2/2014,Gas & Electric,-32,CA
+12013,6/2/2014,Credit Card Payment,-154,CA
+12013,6/2/2014,Von's Groceries,-34.51,CA
+12013,6/2/2014,Lyft,-12.41,CA
+12013,6/2/2014,Athletic Apparel,-35.96,CA
+12013,6/3/2014,Von's Groceries,-14.24,CA
+12013,6/3/2014,Athletic Apparel,-6.71,CA
+12013,6/3/2014,Vitamin Shoppe,-19.7,CA
+12013,6/3/2014,NFL Ticket - Chargers,-81.68,CA
+12013,6/3/2014,Restaurant - Burgers,-20.78,CA
+12013,6/3/2014,Athletic Apparel,-33.3,CA
+12013,6/4/2014,GNC,-7.66,CA
+12013,6/4/2014,Taxi,-39.66,CA
+12013,6/5/2014,GNC,-108.34,CA
+12013,6/6/2014,Dick's Sporting Goods,-24.66,CA
+12013,6/6/2014,Uber,-88.4,CA
+12013,6/7/2014,Sam's Sporting Apparel,-27.63,CA
+12013,6/7/2014,NBA Ticket - Lakers,-14.11,CA
+12013,6/7/2014,Total Gym Fees,-36.17,CA
+12013,6/7/2014,Uber,-13.79,CA
+12013,6/7/2014,Taxi,-30.08,CA
+12013,6/7/2014,Bike Rental,-36.11,CA
+12013,6/7/2014,Taxi,-25.55,CA
+12013,6/7/2014,Total Gym Fees,-25.25,CA
+12013,6/7/2014,Restaurant - Chinese,-13.61,CA
+12013,6/8/2014,Food Delivery - GrubHub,-34.6,CA
+12013,6/9/2014,GNC,-54.88,CA
+12013,6/10/2014,GNC,-2.85,CA
+12013,6/10/2014,Restaurant - Steakhouse,-50.4,CA
+12013,6/10/2014,GNC,-20.61,CA
+12013,6/11/2014,Amazon Order - Athletic Equipment,-5.59,CA
+12013,6/11/2014,Amazon Order - Athletic Equipment,-58.86,CA
+12013,6/11/2014,Kay Jewelry,-27.77,CA
+12013,6/11/2014,Wedding Planner,-9.72,CA
+12013,6/11/2014,Southwest Flights - Cancun,-11.78,CA
+12013,6/11/2014,Cancun Beach Resort,-16.96,CA
+12013,6/11/2014,Total Gym Fees,-15.47,CA
+12013,6/11/2014,Whole Foods,-3.87,CA
+12013,6/11/2014,Vitamin Shoppe,-8.75,CA
+12013,6/12/2014,Dick's Sporting Goods,-34.77,CA
+12013,6/12/2014,Food Delivery - GrubHub,-67.29,CA
+12013,6/13/2014,Ralph's Grocery Store,-36.67,CA
+12013,6/13/2014,NBA Ticket - Lakers,-7.3,CA
+12013,6/13/2014,Taxi,-119.93,CA
+12013,6/13/2014,Restaurant - Chinese,-12,CA
+12013,6/13/2014,Public Transportation - Train Pass,-23.39,CA
+12013,6/13/2014,Uber,-25.5,CA
+12013,6/13/2014,Vitamin Shoppe,-35.09,CA
+12013,6/14/2014,Uber,-24.13,CA
+12013,6/14/2014,Uber,-86.76,CA
+12013,6/14/2014,Ralph's Grocery Store,-33.98,CA
+12013,6/14/2014,NBA Ticket - Lakers,-0.84,CA
+12013,6/15/2014,NFL Ticket - Chargers,-35.94,CA
+12013,6/16/2014,Restaurant - Pizza,-33.3,CA
+12013,6/16/2014,Restaurant - Chinese,-21.96,CA
+12013,6/16/2014,Total Gym Fees,-16.58,CA
+12013,6/17/2014,Dick's Sporting Goods,-20.82,CA
+12013,6/17/2014,GNC,-29.41,CA
+12013,6/18/2014,Ralph's Grocery Store,-50.86,CA
+12013,6/18/2014,Total Gym Fees,-7.99,CA
+12013,6/18/2014,Total Gym Fees,-15.48,CA
+12013,6/18/2014,NBA Ticket - Lakers,-24,CA
+12013,6/18/2014,Whole Foods,-31.15,CA
+12013,6/18/2014,Sam's Sporting Apparel,-8.41,CA
+12013,6/18/2014,NFL Ticket - Chargers,-26.04,CA
+12013,6/19/2014,NFL Ticket - Chargers,-26.11,CA
+12013,6/19/2014,Starbucks Coffee,-0.98,CA
+12013,6/19/2014,Restaurant - Pizza,-19.4,CA
+12013,6/19/2014,Ralph's Grocery Store,-20.98,CA
+12013,6/20/2014,NBA Ticket - Lakers,-19.51,CA
+12013,6/20/2014,Public Transportation - Bus Pass,-109.74,CA
+12013,6/20/2014,Bike Rental,-37.67,CA
+12013,6/21/2014,Sam's Sporting Apparel,-9.53,CA
+12013,6/21/2014,Public Transportation - Train Pass,-25.7,CA
+12013,6/22/2014,Restaurant - Pizza,-74.56,CA
+12013,6/23/2014,Whole Foods,-18.69,CA
+12013,6/24/2014,Restaurant - Steakhouse,-99.03,CA
+12013,6/25/2014,Public Transportation - Bus Pass,-30.23,CA
+12013,6/25/2014,GNC,-8.52,CA
+12013,6/25/2014,Starbucks Coffee,-1.95,CA
+12013,6/25/2014,Dick's Sporting Goods,-28.1,CA
+12013,6/25/2014,Lyft,-33.9,CA
+12013,6/25/2014,Ralph's Grocery Store,-108.4,CA
+12013,6/25/2014,Restaurant - Pizza,-38.39,CA
+12013,6/25/2014,Sam's Sporting Apparel,-35.41,CA
+12013,6/25/2014,Public Transportation - Bus Pass,-78.21,CA
+12013,6/25/2014,Whole Foods,-88.81,CA
+12013,6/25/2014,Bike Rental,-2.56,CA
+12013,6/25/2014,Taxi,-15.32,CA
+12013,6/25/2014,Restaurant - Chinese,-2,CA
+12013,6/26/2014,Ralph's Grocery Store,-33.91,CA
+12013,6/27/2014,Restaurant - Steakhouse,-40.27,CA
+12013,6/27/2014,Starbucks Coffee,-67.35,CA
+12013,6/28/2014,GNC,-36.38,CA
+12013,6/28/2014,Taxi,-20.95,CA
+12013,6/28/2014,Total Gym Fees,-21.42,CA
+12013,6/28/2014,Uber,-33.02,CA
+12013,6/28/2014,Total Gym Fees,-34.99,CA
+12013,6/28/2014,Total Gym Fees,-7.47,CA
+12013,6/28/2014,Total Gym Fees,-32.97,CA
+12013,6/28/2014,NBA Ticket - Lakers,-32.84,CA
+12013,6/28/2014,Taxi,-10.21,CA
+12013,6/28/2014,Food Delivery - GrubHub,-94.49,CA
+12013,6/28/2014,NBA Ticket - Lakers,-2.13,CA
+12013,6/28/2014,Amazon Order - Athletic Equipment,-7.32,CA
+12013,6/28/2014,Total Gym Fees,-29.51,CA
+12013,6/29/2014,Athletic Apparel,-35.69,CA
+12013,6/29/2014,Public Transportation - Bus Pass,-33.99,CA
+12013,6/29/2014,GNC,-119.49,CA
+12013,6/29/2014,NBA Ticket - Lakers,-19.03,CA
+12013,6/29/2014,Uber,-28.97,CA
+12013,6/30/2014,Food Delivery - GrubHub,-5.11,CA
+12013,7/2/2014,Housing Rent,-1284,CA
+12013,7/2/2014,Water & Sewer,-53,CA
+12013,7/2/2014,Navient - Student Loans,-197,CA
+12013,7/2/2014,Netflix Subscription,-4.99,CA
+12013,7/2/2014,Time Warner Cable,-25,CA
+12013,7/2/2014,Gas & Electric,-32,CA
+12013,7/2/2014,Credit Card Payment,-154,CA
+12013,7/2/2014,Whole Foods,-16.46,CA
+12013,7/2/2014,Vitamin Shoppe,-73.32,CA
+12013,7/2/2014,Bike Rental,-9.29,CA
+12013,7/2/2014,Vitamin Shoppe,-39.19,CA
+12013,7/2/2014,Athletic Apparel,-29.95,CA
+12013,7/2/2014,Vitamin Shoppe,-19.79,CA
+12013,7/3/2014,Vitamin Shoppe,-26.92,CA
+12013,7/3/2014,Sam's Sporting Apparel,-93.02,CA
+12013,7/3/2014,Vitamin Shoppe,-21.72,CA
+12013,7/3/2014,Restaurant - Pizza,-34.75,CA
+12013,7/3/2014,Public Transportation - Bus Pass,-24.79,CA
+12013,7/4/2014,Dick's Sporting Goods,-18.76,CA
+12013,7/4/2014,Public Transportation - Bus Pass,-34.6,CA
+12013,7/5/2014,Total Gym Fees,-2.54,CA
+12013,7/5/2014,GNC,-32.37,CA
+12013,7/5/2014,Total Gym Fees,-14.51,CA
+12013,7/6/2014,Uber,-48.74,CA
+12013,7/6/2014,Amazon Order - Athletic Equipment,-39.57,CA
+12013,7/6/2014,Vitamin Shoppe,-4.23,CA
+12013,7/7/2014,Sam's Sporting Apparel,-1.2,CA
+12013,7/7/2014,Public Transportation - Bus Pass,-7.83,CA
+12013,7/8/2014,Athletic Apparel,-7.27,CA
+12013,7/8/2014,Sprouts Market,-11.02,CA
+12013,7/8/2014,Athletic Apparel,-34.82,CA
+12013,7/9/2014,Vitamin Shoppe,-6.21,CA
+12013,7/10/2014,Total Gym Fees,-4.85,CA
+12013,7/10/2014,NBA Ticket - Lakers,-17.59,CA
+12013,7/11/2014,Restaurant - Burgers,-0.2,CA
+12013,7/11/2014,Bike Rental,-98.26,CA
+12013,7/12/2014,Bike Rental,-3.17,CA
+12013,7/13/2014,Total Gym Fees,-9.77,CA
+12013,7/14/2014,Restaurant - Chinese,-4.17,CA
+12013,7/14/2014,NBA Ticket - Lakers,-32.35,CA
+12013,7/14/2014,Ralph's Grocery Store,-30.24,CA
+12013,7/14/2014,Sam's Sporting Apparel,-5.87,CA
+12013,7/15/2014,Whole Foods,-38.61,CA
+12013,7/15/2014,Von's Groceries,-0.04,CA
+12013,7/15/2014,NBA Ticket - Lakers,-27.49,CA
+12013,7/16/2014,NFL Ticket - Chargers,-9.81,CA
+12013,7/16/2014,Amazon Order - Athletic Equipment,-100.97,CA
+12013,7/16/2014,Food Delivery - GrubHub,-25.76,CA
+12013,7/16/2014,Food Delivery - GrubHub,-24.94,CA
+12013,7/17/2014,Sam's Sporting Apparel,-2.78,CA
+12013,7/17/2014,Total Gym Fees,-36.66,CA
+12013,7/18/2014,Bike Rental,-10.75,CA
+12013,7/18/2014,Public Transportation - Train Pass,-6.48,CA
+12013,7/18/2014,Dick's Sporting Goods,-83.82,CA
+12013,7/18/2014,Sam's Sporting Apparel,-97.15,CA
+12013,7/18/2014,Athletic Apparel,-4.41,CA
+12013,7/18/2014,Bike Rental,-30.49,CA
+12013,7/18/2014,Bike Rental,-8.45,CA
+12013,7/18/2014,Amazon Order - Athletic Equipment,-23,CA
+12013,7/18/2014,GNC,-23.13,CA
+12013,7/18/2014,Amazon Order - Athletic Equipment,-10.12,CA
+12013,7/19/2014,Athletic Apparel,-29.16,CA
+12013,7/19/2014,Starbucks Coffee,-112,CA
+12013,7/19/2014,Athletic Apparel,-6.61,CA
+12013,7/19/2014,Ralph's Grocery Store,-9.38,CA
+12013,7/19/2014,NFL Ticket - Chargers,-16.26,CA
+12013,7/19/2014,Restaurant - Burgers,-91.71,CA
+12013,7/19/2014,NBA Ticket - Lakers,-11.86,CA
+12013,7/19/2014,Dick's Sporting Goods,-4.62,CA
+12013,7/19/2014,Bike Rental,-18.97,CA
+12013,7/19/2014,GNC,-24.26,CA
+12013,7/19/2014,Bike Rental,-1.13,CA
+12013,7/19/2014,Dick's Sporting Goods,-16.5,CA
+12013,7/20/2014,Restaurant - Chinese,-8.07,CA
+12013,7/20/2014,NFL Ticket - Chargers,-28.04,CA
+12013,7/20/2014,Total Gym Fees,-31.62,CA
+12013,7/20/2014,Lyft,-6.68,CA
+12013,7/21/2014,NBA Ticket - Lakers,-8.3,CA
+12013,7/21/2014,GNC,-6.48,CA
+12013,7/21/2014,Athletic Apparel,-22.61,CA
+12013,7/21/2014,Bike Rental,-20.73,CA
+12013,7/21/2014,NBA Ticket - Lakers,-58.8,CA
+12013,7/21/2014,Sam's Sporting Apparel,-117.31,CA
+12013,7/22/2014,Sam's Sporting Apparel,-72.04,CA
+12013,7/22/2014,Uber,-71.75,CA
+12013,7/23/2014,Sam's Sporting Apparel,-24.21,CA
+12013,7/24/2014,Public Transportation - Train Pass,-14.82,CA
+12013,7/25/2014,GNC,-21.95,CA
+12013,7/25/2014,Sam's Sporting Apparel,-23.47,CA
+12013,7/25/2014,Ralph's Grocery Store,-3.29,CA
+12013,7/26/2014,Lyft,-22.22,CA
+12013,7/27/2014,GNC,-70.82,CA
+12013,7/28/2014,Public Transportation - Train Pass,-118.68,CA
+12013,7/28/2014,Sam's Sporting Apparel,-12.92,CA
+12013,7/29/2014,NFL Ticket - Chargers,-24.39,CA
+12013,7/29/2014,Athletic Apparel,-39.38,CA
+12013,7/30/2014,NFL Ticket - Chargers,-73.98,CA
+12013,8/2/2014,Housing Rent,-1284,CA
+12013,8/2/2014,Water & Sewer,-53,CA
+12013,8/2/2014,Navient - Student Loans,-197,CA
+12013,8/2/2014,Netflix Subscription,-4.99,CA
+12013,8/2/2014,Time Warner Cable,-25,CA
+12013,8/2/2014,Gas & Electric,-32,CA
+12013,8/2/2014,Credit Card Payment,-154,CA
+12013,8/2/2014,GNC,-38.56,CA
+12013,8/2/2014,Dick's Sporting Goods,-1.11,CA
+12013,8/3/2014,Total Gym Fees,-18.77,CA
+12013,8/4/2014,Whole Foods,-24,CA
+12013,8/4/2014,Bike Rental,-37.05,CA
+12013,8/4/2014,Restaurant - Burgers,-36.46,CA
+12013,8/5/2014,Total Gym Fees,-21.29,CA
+12013,8/6/2014,Lyft,-89.63,CA
+12013,8/6/2014,Athletic Apparel,-97.78,CA
+12013,8/6/2014,Restaurant - Pizza,-26.72,CA
+12013,8/6/2014,Taxi,-13.44,CA
+12013,8/6/2014,Starbucks Coffee,-10.39,CA
+12013,8/6/2014,Athletic Apparel,-12.14,CA
+12013,8/7/2014,Taxi,-25.42,CA
+12013,8/7/2014,Restaurant - Steakhouse,-24.61,CA
+12013,8/7/2014,Total Gym Fees,-100.26,CA
+12013,8/7/2014,Bike Rental,-37.43,CA
+12013,8/7/2014,Uber,-94.86,CA
+12013,8/7/2014,NBA Ticket - Lakers,-14.15,CA
+12013,8/8/2014,Amazon Order - Athletic Equipment,-29.03,CA
+12013,8/8/2014,Amazon Order - Athletic Equipment,-25.88,CA
+12013,8/9/2014,Ralph's Grocery Store,-114.77,CA
+12013,8/9/2014,Dick's Sporting Goods,-40.44,CA
+12013,8/10/2014,Dick's Sporting Goods,-40.21,CA
+12013,8/10/2014,Bike Rental,-28.91,CA
+12013,8/10/2014,Taxi,-84.1,CA
+12013,8/10/2014,NBA Ticket - Lakers,-34.92,CA
+12013,8/10/2014,Restaurant - Chinese,-22.8,CA
+12013,8/10/2014,Athletic Apparel,-29.36,CA
+12013,8/10/2014,Vitamin Shoppe,-10.04,CA
+12013,8/10/2014,Vitamin Shoppe,-8.51,CA
+12013,8/10/2014,Restaurant - Pizza,-81.76,CA
+12013,8/11/2014,Public Transportation - Train Pass,-39.87,CA
+12013,8/11/2014,Athletic Apparel,-13.31,CA
+12013,8/11/2014,Total Gym Fees,-25.07,CA
+12013,8/11/2014,GNC,-9.64,CA
+12013,8/11/2014,Amazon Order - Athletic Equipment,-20.52,CA
+12013,8/12/2014,Vitamin Shoppe,-1.64,CA
+12013,8/13/2014,Vitamin Shoppe,-1.04,CA
+12013,8/14/2014,Bike Rental,-32.24,CA
+12013,8/15/2014,Lyft,-23.81,CA
+12013,8/16/2014,NFL Ticket - Chargers,-96.93,CA
+12013,8/17/2014,Restaurant - Burgers,-13.75,CA
+12013,8/17/2014,Von's Groceries,-73.47,CA
+12013,8/17/2014,Dick's Sporting Goods,-10.94,CA
+12013,8/17/2014,Sprouts Market,-29.43,CA
+12013,8/17/2014,Vitamin Shoppe,-104.73,CA
+12013,8/17/2014,Sam's Sporting Apparel,-16.94,CA
+12013,8/17/2014,Uber,-6.86,CA
+12013,8/17/2014,Vitamin Shoppe,-97.62,CA
+12013,8/17/2014,Dick's Sporting Goods,-36.99,CA
+12013,8/18/2014,Sam's Sporting Apparel,-32.07,CA
+12013,8/18/2014,Athletic Apparel,-31.73,CA
+12013,8/18/2014,Restaurant - Burgers,-87.98,CA
+12013,8/18/2014,Total Gym Fees,-22.56,CA
+12013,8/19/2014,NFL Ticket - Chargers,-39.34,CA
+12013,8/19/2014,Dick's Sporting Goods,-38.53,CA
+12013,8/19/2014,Taxi,-8.75,CA
+12013,8/19/2014,NFL Ticket - Chargers,-2.69,CA
+12013,8/19/2014,NFL Ticket - Chargers,-12.07,CA
+12013,8/19/2014,Ralph's Grocery Store,-29.56,CA
+12013,8/20/2014,Restaurant - Burgers,-2.39,CA
+12013,8/20/2014,NBA Ticket - Lakers,-29.4,CA
+12013,8/21/2014,GNC,-25.9,CA
+12013,8/21/2014,Athletic Apparel,-26.23,CA
+12013,8/21/2014,Bike Rental,-15.73,CA
+12013,8/21/2014,Sprouts Market,-9.99,CA
+12013,8/21/2014,NBA Ticket - Lakers,-35.76,CA
+12013,8/22/2014,Lyft,-16.76,CA
+12013,8/22/2014,Sam's Sporting Apparel,-31.93,CA
+12013,8/22/2014,Dick's Sporting Goods,-38.52,CA
+12013,8/22/2014,Total Gym Fees,-0.28,CA
+12013,8/23/2014,Food Delivery - GrubHub,-21.65,CA
+12013,8/23/2014,GNC,-30.29,CA
+12013,8/23/2014,Whole Foods,-6.85,CA
+12013,8/23/2014,Sam's Sporting Apparel,-13.6,CA
+12013,8/23/2014,NBA Ticket - Lakers,-33.99,CA
+12013,8/24/2014,Von's Groceries,-33.02,CA
+12013,8/24/2014,NFL Ticket - Chargers,-31.87,CA
+12013,8/25/2014,GNC,-6.19,CA
+12013,8/25/2014,Restaurant - Burgers,-0.11,CA
+12013,8/25/2014,Restaurant - Chinese,-29.55,CA
+12013,8/25/2014,Starbucks Coffee,-5.34,CA
+12013,8/25/2014,GNC,-6.23,CA
+12013,8/25/2014,Total Gym Fees,-93.96,CA
+12013,8/25/2014,Public Transportation - Train Pass,-3.02,CA
+12013,8/25/2014,Athletic Apparel,-24.04,CA
+12013,8/25/2014,Sam's Sporting Apparel,-21.17,CA
+12013,8/25/2014,Taxi,-34.19,CA
+12013,8/25/2014,Starbucks Coffee,-26.69,CA
+12013,8/25/2014,Athletic Apparel,-14.37,CA
+12013,8/25/2014,Restaurant - Pizza,-90.95,CA
+12013,8/25/2014,GNC,-24.75,CA
+12013,8/26/2014,Total Gym Fees,-72.65,CA
+12013,8/27/2014,Restaurant - Burgers,-2.47,CA
+12013,8/28/2014,NBA Ticket - Lakers,-10.34,CA
+12013,8/28/2014,Food Delivery - GrubHub,-25.83,CA
+12013,8/29/2014,GNC,-34.97,CA
+12013,8/29/2014,Amazon Order - Athletic Equipment,-28.12,CA
+12013,8/30/2014,Ralph's Grocery Store,-38.77,CA
+12013,8/30/2014,Restaurant - Pizza,-3.1,CA
+12013,8/30/2014,Taxi,-19.19,CA
+12013,9/2/2014,Housing Rent,-1356,CA
+12013,9/2/2014,Water & Sewer,-53,CA
+12013,9/2/2014,Navient - Student Loans,-197,CA
+12013,9/2/2014,Netflix Subscription,-4.99,CA
+12013,9/2/2014,Time Warner Cable,-25,CA
+12013,9/2/2014,Gas & Electric,-32,CA
+12013,9/2/2014,Credit Card Payment,-154,CA
+12013,9/2/2014,Public Transportation - Train Pass,-36.93,CA
+12013,9/2/2014,Starbucks Coffee,-111.23,CA
+12013,9/2/2014,NFL Ticket - Chargers,-1.71,CA
+12013,9/2/2014,GNC,-97.56,CA
+12013,9/3/2014,Restaurant - Pizza,-14.33,CA
+12013,9/4/2014,Vitamin Shoppe,-66.03,CA
+12013,9/4/2014,Lyft,-21.67,CA
+12013,9/4/2014,Lyft,-16.67,CA
+12013,9/5/2014,Restaurant - Chinese,-31.95,CA
+12013,9/5/2014,Taxi,-1.04,CA
+12013,9/5/2014,Dick's Sporting Goods,-37.29,CA
+12013,9/6/2014,NFL Ticket - Chargers,-0.16,CA
+12013,9/7/2014,NBA Ticket - Lakers,-29.62,CA
+12013,9/8/2014,Mark's Movers,-4.94,CA
+12013,9/8/2014,FedEx Shipping,-83.06,CA
+12013,9/8/2014,Jerome's Furniture,-24.05,CA
+12013,9/8/2014,Home Depot,-2.82,CA
+12013,9/8/2014,Refrigerator Depot,-25.45,CA
+12013,9/8/2014,Hamilton Move & Storage,-31.23,CA
+12013,9/8/2014,Total Gym Fees,-23.4,CA
+12013,9/9/2014,Sprouts Market,-19.11,CA
+12013,9/10/2014,Starbucks Coffee,-19.17,CA
+12013,9/10/2014,NFL Ticket - Chargers,-35.8,CA
+12013,9/10/2014,Restaurant - Burgers,-6.13,CA
+12013,9/10/2014,Von's Groceries,-6.06,CA
+12013,9/10/2014,GNC,-32.95,CA
+12013,9/10/2014,GNC,-32.73,CA
+12013,9/10/2014,Sam's Sporting Apparel,-30.31,CA
+12013,9/10/2014,Sam's Sporting Apparel,-12.68,CA
+12013,9/10/2014,NFL Ticket - Chargers,-24.69,CA
+12013,9/10/2014,NBA Ticket - Lakers,-20.99,CA
+12013,9/10/2014,Vitamin Shoppe,-35.96,CA
+12013,9/11/2014,NBA Ticket - Lakers,-35.8,CA
+12013,9/11/2014,Dick's Sporting Goods,-101.34,CA
+12013,9/11/2014,Vitamin Shoppe,-14.29,CA
+12013,9/11/2014,Total Gym Fees,-27.14,CA
+12013,9/12/2014,GNC,-22.91,CA
+12013,9/12/2014,NFL Ticket - Chargers,-36.47,CA
+12013,9/12/2014,Sam's Sporting Apparel,-36.54,CA
+12013,9/12/2014,Public Transportation - Train Pass,-104.02,CA
+12013,9/13/2014,Amazon Order - Athletic Equipment,-20.5,CA
+12013,9/14/2014,GNC,-2.8,CA
+12013,9/14/2014,Athletic Apparel,-33.38,CA
+12013,9/14/2014,Total Gym Fees,-51.67,CA
+12013,9/14/2014,Uber,-45.2,CA
+12013,9/15/2014,Dick's Sporting Goods,-51.88,CA
+12013,9/15/2014,Athletic Apparel,-95.32,CA
+12013,9/15/2014,Ralph's Grocery Store,-41.58,CA
+12013,9/16/2014,Amazon Order - Athletic Equipment,-5.7,CA
+12013,9/17/2014,Total Gym Fees,-38.72,CA
+12013,9/17/2014,Public Transportation - Bus Pass,-1.18,CA
+12013,9/17/2014,NFL Ticket - Chargers,-15.32,CA
+12013,9/17/2014,Total Gym Fees,-37.47,CA
+12013,9/17/2014,GNC,-53.87,CA
+12013,9/18/2014,Dick's Sporting Goods,-2.38,CA
+12013,9/18/2014,Ralph's Grocery Store,-101.61,CA
+12013,9/19/2014,Lyft,-35.28,CA
+12013,9/20/2014,GNC,-9.43,CA
+12013,9/21/2014,GNC,-21.49,CA
+12013,9/22/2014,Von's Groceries,-39.47,CA
+12013,9/22/2014,Bike Rental,-26.31,CA
+12013,9/22/2014,Restaurant - Steakhouse,-77.22,CA
+12013,9/23/2014,Public Transportation - Train Pass,-0.12,CA
+12013,9/23/2014,Restaurant - Steakhouse,-38.09,CA
+12013,9/23/2014,Public Transportation - Train Pass,-7.75,CA
+12013,9/24/2014,Bike Rental,-26.27,CA
+12013,9/24/2014,Bike Rental,-34.2,CA
+12013,9/24/2014,Sprouts Market,-107.17,CA
+12013,9/25/2014,NBA Ticket - Lakers,-5.46,CA
+12013,9/25/2014,Restaurant - Steakhouse,-25.89,CA
+12013,9/25/2014,Lyft,-38.14,CA
+12013,9/25/2014,Lyft,-57.98,CA
+12013,9/26/2014,Athletic Apparel,-32.28,CA
+12013,9/26/2014,Dick's Sporting Goods,-32.19,CA
+12013,9/27/2014,Food Delivery - GrubHub,-21.65,CA
+12013,9/27/2014,Sam's Sporting Apparel,-54.33,CA
+12013,9/28/2014,Public Transportation - Train Pass,-1.51,CA
+12013,9/29/2014,Athletic Apparel,-37.96,CA
+12013,9/29/2014,NFL Ticket - Chargers,-39.22,CA
+12013,9/29/2014,Public Transportation - Bus Pass,-13.98,CA
+12013,9/30/2014,Ralph's Grocery Store,-15.02,CA
+12013,9/30/2014,Amazon Order - Athletic Equipment,-18.68,CA
+12013,9/30/2014,Bike Rental,-117.51,CA
+12013,9/30/2014,Lyft,-28.22,CA
+12013,9/30/2014,GNC,-16.11,CA
+12013,9/30/2014,Athletic Apparel,-39.86,CA
+12013,9/30/2014,NFL Ticket - Chargers,-3.47,CA
+12013,9/30/2014,Public Transportation - Train Pass,-13.28,CA
+12013,9/30/2014,Vitamin Shoppe,-5.14,CA
+12013,9/30/2014,Dick's Sporting Goods,-21.59,CA
+12013,10/2/2014,Housing Rent,-736,CA
+12013,10/2/2014,Water & Sewer,-53,CA
+12013,10/2/2014,Navient - Student Loans,-197,CA
+12013,10/2/2014,Netflix Subscription,-4.99,CA
+12013,10/2/2014,Time Warner Cable,-25,CA
+12013,10/2/2014,Gas & Electric,-32,CA
+12013,10/2/2014,Credit Card Payment,-154,CA
+12013,10/2/2014,Bike Rental,-113.13,CA
+12013,10/2/2014,Amazon Order - Athletic Equipment,-10.31,CA
+12013,10/2/2014,Restaurant - Steakhouse,-25.46,CA
+12013,10/2/2014,Total Gym Fees,-29.28,CA
+12013,10/3/2014,Sam's Sporting Apparel,-16,CA
+12013,10/3/2014,Lyft,-6.66,CA
+12013,10/3/2014,Dick's Sporting Goods,-3.29,CA
+12013,10/3/2014,Public Transportation - Bus Pass,-35.18,CA
+12013,10/3/2014,Sam's Sporting Apparel,-26.87,CA
+12013,10/3/2014,Whole Foods,-31.93,CA
+12013,10/3/2014,Public Transportation - Train Pass,-18.84,CA
+12013,10/4/2014,Total Gym Fees,-23.03,CA
+12013,10/5/2014,Amazon Order - Athletic Equipment,-37.18,CA
+12013,10/5/2014,Uber,-9.48,CA
+12013,10/5/2014,NFL Ticket - Chargers,-103.9,CA
+12013,10/6/2014,NBA Ticket - Lakers,-57.47,CA
+12013,10/7/2014,Sam's Sporting Apparel,-109.77,CA
+12013,10/7/2014,Sam's Sporting Apparel,-38.77,CA
+12013,10/8/2014,NBA Ticket - Lakers,-35.71,CA
+12013,10/8/2014,Dick's Sporting Goods,-22.84,CA
+12013,10/8/2014,Sam's Sporting Apparel,-36.5,CA
+12013,10/8/2014,Sprouts Market,-1.07,CA
+12013,10/8/2014,Vitamin Shoppe,-25.78,CA
+12013,10/9/2014,Dick's Sporting Goods,-39.32,CA
+12013,10/10/2014,Sprouts Market,-24.66,CA
+12013,10/11/2014,NFL Ticket - Chargers,-9.8,CA
+12013,10/12/2014,Uber,-38.49,CA
+12013,10/13/2014,Sprouts Market,-16.58,CA
+12013,10/14/2014,Lyft,-84.66,CA
+12013,10/14/2014,Von's Groceries,-1.09,CA
+12013,10/14/2014,Food Delivery - GrubHub,-33.68,CA
+12013,10/15/2014,Public Transportation - Train Pass,-21.05,CA
+12013,10/16/2014,Food Delivery - GrubHub,-13.94,CA
+12013,10/17/2014,Food Delivery - GrubHub,-21.4,CA
+12013,10/17/2014,Sam's Sporting Apparel,-16.34,CA
+12013,10/17/2014,Athletic Apparel,-17.42,CA
+12013,10/17/2014,Bike Rental,-0.02,CA
+12013,10/17/2014,Amazon Order - Athletic Equipment,-1.04,CA
+12013,10/17/2014,Sam's Sporting Apparel,-101.52,CA
+12013,10/17/2014,Von's Groceries,-71.7,CA
+12013,10/17/2014,Public Transportation - Train Pass,-35.81,CA
+12013,10/17/2014,Athletic Apparel,-76.82,CA
+12013,10/17/2014,Public Transportation - Train Pass,-21.82,CA
+12013,10/17/2014,Vitamin Shoppe,-25.57,CA
+12013,10/17/2014,NFL Ticket - Chargers,-6.5,CA
+12013,10/17/2014,Sam's Sporting Apparel,-34.89,CA
+12013,10/18/2014,Amazon Order - Athletic Equipment,-9.09,CA
+12013,10/18/2014,Vitamin Shoppe,-14.42,CA
+12013,10/19/2014,Vitamin Shoppe,-30.36,CA
+12013,10/19/2014,Public Transportation - Bus Pass,-18.99,CA
+12013,10/19/2014,Restaurant - Steakhouse,-38.32,CA
+12013,10/19/2014,Amazon Order - Athletic Equipment,-67.57,CA
+12013,10/19/2014,Restaurant - Pizza,-35.88,CA
+12013,10/19/2014,Amazon Order - Athletic Equipment,-32.59,CA
+12013,10/20/2014,Sam's Sporting Apparel,-9.92,CA
+12013,10/20/2014,Amazon Order - Athletic Equipment,-1.54,CA
+12013,10/20/2014,Restaurant - Steakhouse,-11.46,CA
+12013,10/20/2014,Uber,-22.06,CA
+12013,10/21/2014,Starbucks Coffee,-34.18,CA
+12013,10/21/2014,Vitamin Shoppe,-15.03,CA
+12013,10/21/2014,Taxi,-18.87,CA
+12013,10/21/2014,Dick's Sporting Goods,-8.64,CA
+12013,10/21/2014,Bike Rental,-14.9,CA
+12013,10/21/2014,Taxi,-39.43,CA
+12013,10/21/2014,Amazon Order - Athletic Equipment,-36.98,CA
+12013,10/21/2014,GNC,-32.88,CA
+12013,10/21/2014,Amazon Order - Athletic Equipment,-115.29,CA
+12013,10/21/2014,Vitamin Shoppe,-13.53,CA
+12013,10/21/2014,Public Transportation - Bus Pass,-28.41,CA
+12013,10/21/2014,Bike Rental,-43.98,CA
+12013,10/22/2014,Total Gym Fees,-21.69,CA
+12013,10/22/2014,NBA Ticket - Lakers,-22.55,CA
+12013,10/22/2014,Vitamin Shoppe,-20.04,CA
+12013,10/22/2014,Dick's Sporting Goods,-105.66,CA
+12013,10/22/2014,Vitamin Shoppe,-0.68,CA
+12013,10/23/2014,Restaurant - Chinese,-10.06,CA
+12013,10/23/2014,Restaurant - Chinese,-10.01,CA
+12013,10/23/2014,Ralph's Grocery Store,-37.61,CA
+12013,10/23/2014,Amazon Order - Athletic Equipment,-16.38,CA
+12013,10/24/2014,Dick's Sporting Goods,-25.82,CA
+12013,10/24/2014,Vitamin Shoppe,-25.02,CA
+12013,10/25/2014,Restaurant - Steakhouse,-39.6,CA
+12013,10/25/2014,Taxi,-21.59,CA
+12013,10/25/2014,Sam's Sporting Apparel,-39.65,CA
+12013,10/25/2014,Dick's Sporting Goods,-7.04,CA
+12013,10/25/2014,Restaurant - Burgers,-1.16,CA
+12013,10/25/2014,NFL Ticket - Chargers,-38.29,CA
+12013,10/25/2014,Amazon Order - Athletic Equipment,-10.79,CA
+12013,10/25/2014,NBA Ticket - Lakers,-11.8,CA
+12013,10/26/2014,Food Delivery - GrubHub,-80.19,CA
+12013,10/27/2014,Amazon Order - Athletic Equipment,-109.28,CA
+12013,10/27/2014,Sprouts Market,-37.14,CA
+12013,10/28/2014,Bike Rental,-74.51,CA
+12013,10/28/2014,Starbucks Coffee,-33.02,CA
+12013,10/28/2014,Restaurant - Burgers,-10.94,CA
+12013,10/29/2014,Vitamin Shoppe,-14.42,CA
+12013,10/29/2014,Dick's Sporting Goods,-17.67,CA
+12013,10/29/2014,NFL Ticket - Chargers,-42.18,CA
+12013,10/29/2014,NBA Ticket - Lakers,-13.54,CA
+12013,10/29/2014,Total Gym Fees,-3.07,CA
+12013,10/29/2014,Total Gym Fees,-29.42,CA
+12013,10/29/2014,Bike Rental,-36.89,CA
+12013,10/29/2014,NFL Ticket - Chargers,-20.74,CA
+12013,10/29/2014,Dick's Sporting Goods,-3.37,CA
+12013,10/29/2014,Restaurant - Burgers,-18.07,CA
+12013,10/29/2014,NFL Ticket - Chargers,-30.27,CA
+12013,10/29/2014,Uber,-25.26,CA
+12013,10/30/2014,NFL Ticket - Chargers,-39.31,CA
+12013,10/30/2014,Taxi,-26.05,CA
+12013,10/30/2014,Amazon Order - Athletic Equipment,-94.32,CA
+12013,10/30/2014,Bike Rental,-32.11,CA
+12013,11/2/2014,Housing Rent,-1227,CA
+12013,11/2/2014,Water & Sewer,-53,CA
+12013,11/2/2014,Navient - Student Loans,-197,CA
+12013,11/2/2014,Netflix Subscription,-4.99,CA
+12013,11/2/2014,Time Warner Cable,-25,CA
+12013,11/2/2014,Gas & Electric,-32,CA
+12013,11/2/2014,Credit Card Payment,-154,CA
+12013,11/2/2014,Restaurant - Steakhouse,-36.04,CA
+12013,11/3/2014,Public Transportation - Train Pass,-27.11,CA
+12013,11/4/2014,Bike Rental,-44.82,CA
+12013,11/4/2014,Taxi,-16.98,CA
+12013,11/4/2014,Starbucks Coffee,-15.33,CA
+12013,11/5/2014,Vitamin Shoppe,-13.1,CA
+12013,11/6/2014,Food Delivery - GrubHub,-7.86,CA
+12013,11/6/2014,Taxi,-30.64,CA
+12013,11/7/2014,Total Gym Fees,-94.27,CA
+12013,11/8/2014,Lyft,-4.9,CA
+12013,11/8/2014,Public Transportation - Train Pass,-24.72,CA
+12013,11/9/2014,Amazon Order - Athletic Equipment,-36.7,CA
+12013,11/9/2014,Dick's Sporting Goods,-11.87,CA
+12013,11/9/2014,Vitamin Shoppe,-13.63,CA
+12013,11/10/2014,Public Transportation - Bus Pass,-119.56,CA
+12013,11/10/2014,Sprouts Market,-30.64,CA
+12013,11/10/2014,Total Gym Fees,-0.11,CA
+12013,11/10/2014,NBA Ticket - Lakers,-14.38,CA
+12013,11/10/2014,Lyft,-32.14,CA
+12013,11/11/2014,Sam's Sporting Apparel,-37.04,CA
+12013,11/11/2014,NBA Ticket - Lakers,-24.64,CA
+12013,11/11/2014,Vitamin Shoppe,-20.65,CA
+12013,11/12/2014,Sprouts Market,-25.25,CA
+12013,11/13/2014,Whole Foods,-37.63,CA
+12013,11/14/2014,Bike Rental,-38.39,CA
+12013,11/14/2014,Bike Rental,-1.95,CA
+12013,11/14/2014,Vitamin Shoppe,-5.73,CA
+12013,11/14/2014,Bike Rental,-22.25,CA
+12013,11/14/2014,Athletic Apparel,-1.89,CA
+12013,11/14/2014,Public Transportation - Bus Pass,-34.07,CA
+12013,11/14/2014,Total Gym Fees,-4.18,CA
+12013,11/14/2014,Whole Foods,-32.59,CA
+12013,11/14/2014,Uber,-30.59,CA
+12013,11/14/2014,Food Delivery - GrubHub,-89.54,CA
+12013,11/14/2014,Athletic Apparel,-27.85,CA
+12013,11/14/2014,Uber,-29.7,CA
+12013,11/15/2014,Dick's Sporting Goods,-109.01,CA
+12013,11/16/2014,Bike Rental,-28.82,CA
+12013,11/16/2014,NBA Ticket - Lakers,-39.75,CA
+12013,11/16/2014,Total Gym Fees,-4.23,CA
+12013,11/16/2014,GNC,-28.08,CA
+12013,11/16/2014,Von's Groceries,-31.3,CA
+12013,11/17/2014,GNC,-17.48,CA
+12013,11/17/2014,GNC,-25.35,CA
+12013,11/18/2014,Sam's Sporting Apparel,-35.6,CA
+12013,11/19/2014,Bike Rental,-5.64,CA
+12013,11/20/2014,GNC,-61.23,CA
+12013,11/21/2014,NFL Ticket - Chargers,-20.11,CA
+12013,11/22/2014,Restaurant - Pizza,-31.68,CA
+12013,11/23/2014,Vitamin Shoppe,-28.62,CA
+12013,11/24/2014,Von's Groceries,-5.68,CA
+12013,11/24/2014,Food Delivery - GrubHub,-39.33,CA
+12013,11/25/2014,NBA Ticket - Lakers,-30.1,CA
+12013,11/25/2014,NFL Ticket - Chargers,-16.95,CA
+12013,11/26/2014,Athletic Apparel,-31.25,CA
+12013,11/26/2014,Amazon Order - Athletic Equipment,-24.21,CA
+12013,11/26/2014,Sprouts Market,-6.26,CA
+12013,11/27/2014,Food Delivery - GrubHub,-39.64,CA
+12013,11/27/2014,Bike Rental,-19.31,CA
+12013,11/27/2014,Athletic Apparel,-37.32,CA
+12013,11/27/2014,Public Transportation - Train Pass,-0.32,CA
+12013,11/27/2014,GNC,-1.44,CA
+12013,11/27/2014,Dick's Sporting Goods,-14.48,CA
+12013,11/27/2014,Uber,-18.9,CA
+12013,11/27/2014,Bike Rental,-33.94,CA
+12013,11/27/2014,Vitamin Shoppe,-4.78,CA
+12013,11/27/2014,Total Gym Fees,-27.07,CA
+12013,11/27/2014,Uber,-46.35,CA
+12013,11/27/2014,Athletic Apparel,-11.5,CA
+12013,11/27/2014,Restaurant - Burgers,-25.71,CA
+12013,11/27/2014,Total Gym Fees,-33.94,CA
+12013,11/27/2014,Athletic Apparel,-21.47,CA
+12013,11/27/2014,Taxi,-6.26,CA
+12013,11/27/2014,Starbucks Coffee,-14.35,CA
+12013,11/27/2014,GNC,-20.45,CA
+12013,11/27/2014,GNC,-3.52,CA
+12013,11/27/2014,Public Transportation - Train Pass,-3.02,CA
+12013,11/27/2014,Restaurant - Burgers,-13.77,CA
+12013,11/27/2014,Dick's Sporting Goods,-24.58,CA
+12013,11/27/2014,Public Transportation - Bus Pass,-29.05,CA
+12013,11/28/2014,Sprouts Market,-16.38,CA
+12013,11/28/2014,Total Gym Fees,-5.24,CA
+12013,11/29/2014,Sam's Sporting Apparel,-1.92,CA
+12013,11/29/2014,Dick's Sporting Goods,-21.04,CA
+12013,11/29/2014,Bike Rental,-6.96,CA
+12013,11/29/2014,Sam's Sporting Apparel,-21.22,CA
+12013,11/29/2014,Restaurant - Burgers,-37.56,CA
+12013,11/29/2014,Amazon Order - Athletic Equipment,-24.07,CA
+12013,11/29/2014,Dick's Sporting Goods,-100.71,CA
+12013,11/30/2014,NFL Ticket - Chargers,-4.94,CA
+12013,12/2/2014,Paycheck,2188,CA
+12013,12/2/2014,Housing Rent,-1265,CA
+12013,12/2/2014,Water & Sewer,-53,CA
+12013,12/2/2014,Navient - Student Loans,-197,CA
+12013,12/2/2014,Netflix Subscription,-4.99,CA
+12013,12/2/2014,Time Warner Cable,-25,CA
+12013,12/2/2014,Gas & Electric,-32,CA
+12013,12/2/2014,Credit Card Payment,-154,CA
+12013,12/2/2014,Dick's Sporting Goods,-2.48,CA
+12013,12/2/2014,Bike Rental,-20.56,CA
+12013,12/3/2014,NBA Ticket - Lakers,-31.93,CA
+12013,12/3/2014,Sprouts Market,-32.27,CA
+12013,12/4/2014,Von's Groceries,-22.6,CA
+12013,12/4/2014,Bike Rental,-18.03,CA
+12013,12/4/2014,Dick's Sporting Goods,-36.28,CA
+12013,12/4/2014,Bike Rental,-5.36,CA
+12013,12/4/2014,Vitamin Shoppe,-65.87,CA
+12013,12/4/2014,Sam's Sporting Apparel,-49.08,CA
+12013,12/4/2014,Sam's Sporting Apparel,-5.14,CA
+12013,12/5/2014,Total Gym Fees,-31.79,CA
+12013,12/5/2014,Public Transportation - Bus Pass,-87.49,CA
+12013,12/5/2014,Starbucks Coffee,-10.02,CA
+12013,12/6/2014,NFL Ticket - Chargers,-33.34,CA
+12013,12/6/2014,Amazon Order - Athletic Equipment,-15.22,CA
+12013,12/6/2014,Public Transportation - Train Pass,-114.97,CA
+12013,12/6/2014,NFL Ticket - Chargers,-99.52,CA
+12013,12/6/2014,GNC,-37.87,CA
+12013,12/7/2014,Vitamin Shoppe,-24.12,CA
+12013,12/8/2014,Lyft,-13.84,CA
+12013,12/9/2014,Total Gym Fees,-9.31,CA
+12013,12/9/2014,NFL Ticket - Chargers,-26.03,CA
+12013,12/9/2014,Von's Groceries,-15.21,CA
+12013,12/9/2014,Amazon Order - Athletic Equipment,-31.73,CA
+12013,12/9/2014,Lyft,-19.11,CA
+12013,12/9/2014,GNC,-30.71,CA
+12013,12/9/2014,Amazon Order - Athletic Equipment,-23.37,CA
+12013,12/9/2014,Taxi,-5.27,CA
+12013,12/9/2014,GNC,-22.29,CA
+12013,12/9/2014,Total Gym Fees,-1.66,CA
+12013,12/9/2014,Vitamin Shoppe,-38.43,CA
+12013,12/10/2014,Athletic Apparel,-10.58,CA
+12013,12/10/2014,GNC,-32.28,CA
+12013,12/10/2014,NBA Ticket - Lakers,-8.13,CA
+12013,12/11/2014,Restaurant - Pizza,-1.12,CA
+12013,12/11/2014,Bike Rental,-18.35,CA
+12013,12/11/2014,Restaurant - Pizza,-65.71,CA
+12013,12/11/2014,Vitamin Shoppe,-23.71,CA
+12013,12/11/2014,Public Transportation - Bus Pass,-34.63,CA
+12013,12/12/2014,Uber,-7.05,CA
+12013,12/12/2014,Bike Rental,-22.56,CA
+12013,12/12/2014,Vitamin Shoppe,-6.64,CA
+12013,12/12/2014,NFL Ticket - Chargers,-26.96,CA
+12013,12/12/2014,Dick's Sporting Goods,-16.06,CA
+12013,12/12/2014,Public Transportation - Bus Pass,-19.93,CA
+12013,12/13/2014,Vitamin Shoppe,-17.68,CA
+12013,12/13/2014,Dick's Sporting Goods,-25.64,CA
+12013,12/13/2014,Amazon Order - Athletic Equipment,-4.22,CA
+12013,12/13/2014,Athletic Apparel,-21.97,CA
+12013,12/14/2014,Vitamin Shoppe,-40.46,CA
+12013,12/14/2014,NFL Ticket - Chargers,-16.99,CA
+12013,12/14/2014,Public Transportation - Bus Pass,-36.14,CA
+12013,12/14/2014,Total Gym Fees,-33.61,CA
+12013,12/14/2014,Athletic Apparel,-4.97,CA
+12013,12/15/2014,Dick's Sporting Goods,-44.37,CA
+12013,12/15/2014,Sam's Sporting Apparel,-58.27,CA
+12013,12/15/2014,Total Gym Fees,-7.49,CA
+12013,12/15/2014,Whole Foods,-8.05,CA
+12013,12/16/2014,GNC,-3.82,CA
+12013,12/16/2014,Athletic Apparel,-0.46,CA
+12013,12/17/2014,Public Transportation - Train Pass,-14.22,CA
+12013,12/18/2014,GNC,-10.86,CA
+12013,12/18/2014,NFL Ticket - Chargers,-16.34,CA
+12013,12/19/2014,NBA Ticket - Lakers,-78.45,CA
+12013,12/19/2014,Total Gym Fees,-73.81,CA
+12013,12/19/2014,Bike Rental,-10.56,CA
+12013,12/19/2014,NBA Ticket - Lakers,-21.59,CA
+12013,12/20/2014,Uber,-13.46,CA
+12013,12/21/2014,Restaurant - Pizza,-21.1,CA
+12013,12/21/2014,Total Gym Fees,-5.32,CA
+12013,12/21/2014,Bike Rental,-61.89,CA
+12013,12/21/2014,Amazon Order - Athletic Equipment,-16.67,CA
+12013,12/21/2014,NBA Ticket - Lakers,-8.76,CA
+12013,12/21/2014,Total Gym Fees,-74.39,CA
+12013,12/21/2014,Sam's Sporting Apparel,-4.75,CA
+12013,12/21/2014,Vitamin Shoppe,-26.51,CA
+12013,12/21/2014,NBA Ticket - Lakers,-24.21,CA
+12013,12/22/2014,Public Transportation - Bus Pass,-5.87,CA
+12013,12/22/2014,Restaurant - Burgers,-24.04,CA
+12013,12/23/2014,Food Delivery - GrubHub,-4.11,CA
+12013,12/23/2014,NBA Ticket - Lakers,-105.95,CA
+12013,12/23/2014,Taxi,-73.89,CA
+12013,12/24/2014,Dick's Sporting Goods,-30.67,CA
+12013,12/25/2014,Total Gym Fees,-58.05,CA
+12013,12/25/2014,NBA Ticket - Lakers,-24.7,CA
+12013,12/25/2014,Bike Rental,-24.88,CA
+12013,12/25/2014,Restaurant - Pizza,-18.73,CA
+12013,12/26/2014,Sam's Sporting Apparel,-29.33,CA
+12013,12/26/2014,Ralph's Grocery Store,-89.12,CA
+12013,12/26/2014,Restaurant - Steakhouse,-7.59,CA
+12013,12/26/2014,NFL Ticket - Chargers,-10.77,CA
+12013,12/27/2014,Sam's Sporting Apparel,-1.41,CA
+12013,12/28/2014,Food Delivery - GrubHub,-26.82,CA
+12013,12/28/2014,Public Transportation - Bus Pass,-15.99,CA
+12013,12/28/2014,Public Transportation - Bus Pass,-38.42,CA
+12013,12/29/2014,Amazon Order - Athletic Equipment,-23.95,CA
+12013,12/29/2014,Public Transportation - Bus Pass,-29.63,CA
+12013,12/29/2014,Amazon Order - Athletic Equipment,-24.24,CA
+12013,12/29/2014,Amazon Order - Athletic Equipment,-115.86,CA
+12013,12/29/2014,Vitamin Shoppe,-24.91,CA
+12013,12/29/2014,Dick's Sporting Goods,-5.2,CA
+12013,12/29/2014,Dick's Sporting Goods,-10.68,CA
+12013,12/30/2014,Ralph's Grocery Store,-28.21,CA
+12013,12/30/2014,Restaurant - Pizza,-66.78,CA
+12013,12/30/2014,Amazon Order - Athletic Equipment,-10.63,CA
+12013,12/32/2014,Food Delivery - GrubHub,-4.35,CA
+12013,12/32/2014,Athletic Apparel,-12.02,CA
+12013,12/32/2014,Restaurant - Steakhouse,-1.54,CA
+12013,12/32/2014,Total Gym Fees,-33.91,CA

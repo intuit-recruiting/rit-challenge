@@ -1,0 +1,2246 @@
+auth_id, Date, Vendor, Amount, Location 
+37458,1/2/2013,Food Delivery - GrubHub,-29.32,CA
+37458,1/3/2013,Lyft,-35.09,CA
+37458,1/3/2013,Taxi,-18.01,CA
+37458,1/4/2013,Wine Delivery,-28.77,CA
+37458,1/4/2013,Food Delivery - Uber Eats,-0.77,CA
+37458,1/4/2013,Pet Supply - Cat Food,-24.07,CA
+37458,1/5/2013,Red Box DVD Rental,-13.17,CA
+37458,1/5/2013,PlayStation Membership,-15.24,CA
+37458,1/5/2013,Von's Groceries,-34.3,CA
+37458,1/6/2013,Restaurant - Chinese,-31.19,CA
+37458,1/6/2013,Food Delivery - GrubHub,-33.77,CA
+37458,1/6/2013,Wine Delivery,-28.2,CA
+37458,1/7/2013,On Demand Movie,-20.55,CA
+37458,1/7/2013,Public Transportation - Bus Pass,-0.16,CA
+37458,1/7/2013,Pet Smart,-25.26,CA
+37458,1/7/2013,Von's Groceries,-19.32,CA
+37458,1/8/2013,Sprouts Market,-36.28,CA
+37458,1/8/2013,On Demand Movie,-6.04,CA
+37458,1/9/2013,Podcast Subscription,-30.02,CA
+37458,1/10/2013,Taxi,-118.2,CA
+37458,1/10/2013,Lyft,-30.06,CA
+37458,1/10/2013,Pet Smart,-1.98,CA
+37458,1/10/2013,Food Delivery - Uber Eats,-1.22,CA
+37458,1/10/2013,Lyft,-13.03,CA
+37458,1/10/2013,PlayStation Membership,-0.65,CA
+37458,1/11/2013,Uber,-32.68,CA
+37458,1/11/2013,Wine Delivery,-22.76,CA
+37458,1/11/2013,Uber,-8.13,CA
+37458,1/11/2013,Uber,-21.15,CA
+37458,1/11/2013,Starbucks Coffee,-30.58,CA
+37458,1/11/2013,Red Box DVD Rental,-22.17,CA
+37458,1/12/2013,Public Transportation - Train Pass,-1.4,CA
+37458,1/12/2013,Pet Smart,-31.24,CA
+37458,1/12/2013,On Demand Movie,-20.93,CA
+37458,1/13/2013,Food Delivery - Uber Eats,-19.57,CA
+37458,1/13/2013,PlayStation Membership,-15.82,CA
+37458,1/13/2013,Starbucks Coffee,-19.24,CA
+37458,1/14/2013,Uber,-18.74,CA
+37458,1/15/2013,Podcast Subscription,-37.51,CA
+37458,1/15/2013,Whole Foods,-30.15,CA
+37458,1/15/2013,Pet Supply - Cat Food,-57.96,CA
+37458,1/15/2013,Pet Supply - Cat Food,-25.15,CA
+37458,1/15/2013,Ralph's Grocery Store,-39.95,CA
+37458,1/16/2013,On Demand TV,-12.71,CA
+37458,1/16/2013,Red Box DVD Rental,-32.74,CA
+37458,1/16/2013,Food Delivery - GrubHub,-29,CA
+37458,1/16/2013,Public Transportation - Bus Pass,-34.91,CA
+37458,1/16/2013,Red Box DVD Rental,-36.72,CA
+37458,1/16/2013,Public Transportation - Bus Pass,-26.73,CA
+37458,1/16/2013,Food Delivery - GrubHub,-23.29,CA
+37458,1/16/2013,Red Box DVD Rental,-99.47,CA
+37458,1/17/2013,Food Delivery - Uber Eats,-25.45,CA
+37458,1/17/2013,Restaurant - Burgers,-112.65,CA
+37458,1/17/2013,Public Transportation - Train Pass,-19.39,CA
+37458,1/17/2013,PlayStation Membership,-39.55,CA
+37458,1/17/2013,Restaurant - Pizza,-25.85,CA
+37458,1/17/2013,On Demand TV,-0.87,CA
+37458,1/18/2013,Public Transportation - Bus Pass,-3.49,CA
+37458,1/18/2013,Lyft,-45.84,CA
+37458,1/18/2013,On Demand Movie,-26.71,CA
+37458,1/19/2013,Food Delivery - Uber Eats,-14.64,CA
+37458,1/20/2013,Food Delivery - GrubHub,-33.79,CA
+37458,1/21/2013,Food Delivery - Uber Eats,-20.53,CA
+37458,1/21/2013,On Demand Movie,-23.61,CA
+37458,1/22/2013,Pet Smart,-23.27,CA
+37458,1/23/2013,Taxi,-2.07,CA
+37458,1/23/2013,PlayStation Membership,-90.91,CA
+37458,1/23/2013,Wine Delivery,-83.38,CA
+37458,1/23/2013,Von's Groceries,-20.03,CA
+37458,1/23/2013,On Demand Movie,-38.55,CA
+37458,1/24/2013,Wine Delivery,-22.68,CA
+37458,1/25/2013,Public Transportation - Train Pass,-29.2,CA
+37458,1/25/2013,On Demand TV,-19.28,CA
+37458,1/25/2013,Restaurant - Chinese,-20.42,CA
+37458,1/26/2013,Uber,-51.23,CA
+37458,1/27/2013,PlayStation Membership,-19.05,CA
+37458,1/27/2013,Podcast Subscription,-29.56,CA
+37458,1/27/2013,On Demand Movie,-4.46,CA
+37458,1/27/2013,Food Delivery - GrubHub,-1.29,CA
+37458,1/27/2013,Taxi,-9.63,CA
+37458,1/27/2013,Taxi,-17.88,CA
+37458,1/28/2013,On Demand TV,-39.7,CA
+37458,1/28/2013,Food Delivery - Uber Eats,-1.01,CA
+37458,1/29/2013,Food Delivery - GrubHub,-21.49,CA
+37458,1/30/2013,Public Transportation - Bus Pass,-104.12,CA
+37458,1/30/2013,Public Transportation - Bus Pass,-18.56,CA
+37458,3/2/2013,Paycheck,4136,CA
+37458,3/2/2013,Housing Rent,-1223,CA
+37458,3/2/2013,Navient - Student Loans,-197,CA
+37458,3/2/2013,Time Warner Cable,-25,CA
+37458,3/2/2013,Water & Sewer,-53,CA
+37458,3/2/2013,Gas & Electric,-32,CA
+37458,3/2/2013,Pet Supply - Cat Food,-27.91,CA
+37458,3/3/2013,Lyft,-27.49,CA
+37458,3/4/2013,Restaurant - Chinese,-34.02,CA
+37458,3/4/2013,Taxi,-36.66,CA
+37458,3/5/2013,On Demand Movie,-33.58,CA
+37458,3/5/2013,Wine Delivery,-39.09,CA
+37458,3/5/2013,Uber,-20.05,CA
+37458,3/6/2013,Restaurant - Chinese,-104.2,CA
+37458,3/6/2013,PlayStation Membership,-3.04,CA
+37458,3/7/2013,Uber,-13.54,CA
+37458,3/7/2013,PlayStation Membership,-37.24,CA
+37458,3/8/2013,Pet Supply - Cat Food,-57.72,CA
+37458,3/8/2013,Podcast Subscription,-22.02,CA
+37458,3/9/2013,Wine Delivery,-93.61,CA
+37458,3/9/2013,Podcast Subscription,-35.68,CA
+37458,3/10/2013,Sprouts Market,-83.98,CA
+37458,3/10/2013,Ralph's Grocery Store,-0.28,CA
+37458,3/10/2013,Public Transportation - Bus Pass,-11.95,CA
+37458,3/11/2013,Taxi,-86.25,CA
+37458,3/11/2013,Whole Foods,-9.46,CA
+37458,3/11/2013,Whole Foods,-12.48,CA
+37458,3/11/2013,Von's Groceries,-25.01,CA
+37458,3/12/2013,Pet Smart,-32.1,CA
+37458,3/13/2013,Sprouts Market,-25.46,CA
+37458,3/13/2013,Pet Supply - Cat Food,-11.68,CA
+37458,3/13/2013,Wine Delivery,-9.26,CA
+37458,3/14/2013,Pet Smart,-20.67,CA
+37458,3/14/2013,Whole Foods,-7.59,CA
+37458,3/14/2013,Wine Delivery,-57.42,CA
+37458,3/14/2013,Starbucks Coffee,-6.14,CA
+37458,3/15/2013,Whole Foods,-19.94,CA
+37458,3/15/2013,Food Delivery - Uber Eats,-63.08,CA
+37458,3/15/2013,On Demand TV,-1.12,CA
+37458,3/15/2013,Lyft,-64.13,CA
+37458,3/15/2013,Ralph's Grocery Store,-9.31,CA
+37458,3/15/2013,Pet Supply - Cat Food,-33.46,CA
+37458,3/15/2013,Uber,-15,CA
+37458,3/15/2013,Public Transportation - Bus Pass,-12.97,CA
+37458,3/15/2013,Food Delivery - GrubHub,-19.51,CA
+37458,3/15/2013,Red Box DVD Rental,-37.92,CA
+37458,3/15/2013,Pet Supply - Cat Food,-80.11,CA
+37458,3/16/2013,Red Box DVD Rental,-6.1,CA
+37458,3/16/2013,Restaurant - Burgers,-4.45,CA
+37458,3/17/2013,Lyft,-2.15,CA
+37458,3/17/2013,Podcast Subscription,-38.5,CA
+37458,3/17/2013,Restaurant - Chinese,-25.55,CA
+37458,3/18/2013,On Demand TV,-10.55,CA
+37458,3/18/2013,Food Delivery - GrubHub,-103.17,CA
+37458,3/19/2013,Restaurant - Pizza,-12.52,CA
+37458,3/19/2013,Uber,-82.89,CA
+37458,3/19/2013,Pet Supply - Cat Food,-11.63,CA
+37458,3/19/2013,Red Box DVD Rental,-32.51,CA
+37458,3/19/2013,Red Box DVD Rental,-61.81,CA
+37458,3/19/2013,Taxi,-63.18,CA
+37458,3/19/2013,Taxi,-72.04,CA
+37458,3/19/2013,Restaurant - Steakhouse,-106,CA
+37458,3/19/2013,Wine Delivery,-22.43,CA
+37458,3/19/2013,Uber,-9.97,CA
+37458,3/19/2013,Pet Supply - Cat Food,-29.66,CA
+37458,3/20/2013,Restaurant - Steakhouse,-18.99,CA
+37458,3/21/2013,On Demand TV,-29.05,CA
+37458,3/21/2013,Food Delivery - GrubHub,-19.07,CA
+37458,3/22/2013,Wine Delivery,-38.35,CA
+37458,3/22/2013,Pet Supply - Cat Food,-71.62,CA
+37458,3/22/2013,Pet Smart,-17.71,CA
+37458,3/22/2013,Red Box DVD Rental,-36.29,CA
+37458,3/23/2013,On Demand TV,-19.1,CA
+37458,3/24/2013,Wine Delivery,-68.4,CA
+37458,3/24/2013,On Demand TV,-22.49,CA
+37458,3/24/2013,Uber,-0.21,CA
+37458,3/24/2013,Lyft,-28.73,CA
+37458,3/24/2013,Pet Supply - Cat Food,-25.46,CA
+37458,3/25/2013,Taxi,-21.06,CA
+37458,3/25/2013,Sprouts Market,-68.15,CA
+37458,3/26/2013,On Demand Movie,-13.62,CA
+37458,3/26/2013,Pet Smart,-51.7,CA
+37458,3/26/2013,Wine Delivery,-27.28,CA
+37458,3/27/2013,Pet Smart,-17.87,CA
+37458,3/27/2013,On Demand Movie,-13.11,CA
+37458,3/28/2013,Pet Supply - Cat Food,-36.31,CA
+37458,3/28/2013,Pet Supply - Cat Food,-15.06,CA
+37458,3/29/2013,Podcast Subscription,-21.91,CA
+37458,3/30/2013,Public Transportation - Train Pass,-40.89,CA
+37458,3/30/2013,Restaurant - Pizza,-87.64,CA
+37458,3/30/2013,Wine Delivery,-18.38,CA
+37458,3/30/2013,Von's Groceries,-31.06,CA
+37458,3/30/2013,Sprouts Market,-24.13,CA
+37458,3/30/2013,Red Box DVD Rental,-35.21,CA
+37458,3/30/2013,Uber,-31.51,CA
+37458,3/30/2013,Pet Supply - Cat Food,-26.28,CA
+37458,3/30/2013,On Demand Movie,-30.43,CA
+37458,4/2/2013,Paycheck,4136,CA
+37458,4/2/2013,Housing Rent,-1090,CA
+37458,4/2/2013,Navient - Student Loans,-197,CA
+37458,4/2/2013,Time Warner Cable,-25,CA
+37458,4/2/2013,Water & Sewer,-53,CA
+37458,4/2/2013,Gas & Electric,-32,CA
+37458,4/2/2013,Pet Smart,-36.42,CA
+37458,4/2/2013,Restaurant - Burgers,-26.33,CA
+37458,4/2/2013,PlayStation Membership,-15.82,CA
+37458,4/2/2013,Public Transportation - Train Pass,-74.77,CA
+37458,4/3/2013,PlayStation Membership,-24.21,CA
+37458,4/3/2013,Pet Smart,-38.62,CA
+37458,4/4/2013,Public Transportation - Bus Pass,-17.68,CA
+37458,4/4/2013,Food Delivery - GrubHub,-19.49,CA
+37458,4/5/2013,Starbucks Coffee,-3.95,CA
+37458,4/6/2013,Public Transportation - Train Pass,-11.39,CA
+37458,4/6/2013,Restaurant - Chinese,-20.28,CA
+37458,4/6/2013,Ralph's Grocery Store,-11.55,CA
+37458,4/6/2013,PlayStation Membership,-8.37,CA
+37458,4/6/2013,Food Delivery - GrubHub,-28.69,CA
+37458,4/7/2013,Taxi,-64.49,CA
+37458,4/7/2013,Uber,-1.96,CA
+37458,4/8/2013,Ralph's Grocery Store,-34.68,CA
+37458,4/8/2013,Wine Delivery,-14.95,CA
+37458,4/9/2013,Lyft,-17.86,CA
+37458,4/9/2013,Public Transportation - Train Pass,-9.24,CA
+37458,4/9/2013,Pet Smart,-66.15,CA
+37458,4/9/2013,PlayStation Membership,-85.37,CA
+37458,4/10/2013,Uber,-20.78,CA
+37458,4/10/2013,Sprouts Market,-11.72,CA
+37458,4/10/2013,Public Transportation - Train Pass,-36.86,CA
+37458,4/10/2013,PlayStation Membership,-7.17,CA
+37458,4/10/2013,Restaurant - Steakhouse,-28.8,CA
+37458,4/10/2013,On Demand Movie,-12.71,CA
+37458,4/10/2013,Whole Foods,-17.84,CA
+37458,4/10/2013,Food Delivery - GrubHub,-27.16,CA
+37458,4/10/2013,Lyft,-11.08,CA
+37458,4/11/2013,Pet Supply - Cat Food,-58.9,CA
+37458,4/11/2013,Podcast Subscription,-19.52,CA
+37458,4/11/2013,Podcast Subscription,-14.73,CA
+37458,4/12/2013,Podcast Subscription,-32.45,CA
+37458,4/13/2013,Food Delivery - Uber Eats,-3.79,CA
+37458,4/13/2013,Red Box DVD Rental,-22.09,CA
+37458,4/13/2013,Food Delivery - Uber Eats,-28.64,CA
+37458,4/14/2013,PlayStation Membership,-62.61,CA
+37458,4/14/2013,Red Box DVD Rental,-13.03,CA
+37458,4/15/2013,Red Box DVD Rental,-14.87,CA
+37458,4/15/2013,Pet Smart,-15.52,CA
+37458,4/16/2013,Wine Delivery,-37.49,CA
+37458,4/17/2013,Ralph's Grocery Store,-56.32,CA
+37458,4/18/2013,On Demand TV,-22.77,CA
+37458,4/19/2013,Whole Foods,-37.5,CA
+37458,4/20/2013,Uber,-39.23,CA
+37458,4/20/2013,Red Box DVD Rental,-32.43,CA
+37458,4/20/2013,On Demand Movie,-32.14,CA
+37458,4/20/2013,Wine Delivery,-11.04,CA
+37458,4/20/2013,Starbucks Coffee,-100.34,CA
+37458,4/21/2013,On Demand Movie,-77.22,CA
+37458,4/21/2013,Food Delivery - GrubHub,-36.38,CA
+37458,4/21/2013,On Demand TV,-21.14,CA
+37458,4/22/2013,Lyft,-5.16,CA
+37458,4/22/2013,Whole Foods,-4.2,CA
+37458,4/22/2013,Public Transportation - Train Pass,-23.49,CA
+37458,4/22/2013,Red Box DVD Rental,-20.89,CA
+37458,4/23/2013,Starbucks Coffee,-23.08,CA
+37458,4/23/2013,Von's Groceries,-34.44,CA
+37458,4/23/2013,On Demand TV,-31.55,CA
+37458,4/23/2013,PlayStation Membership,-13.15,CA
+37458,4/23/2013,Public Transportation - Bus Pass,-24.61,CA
+37458,4/24/2013,Von's Groceries,-26.91,CA
+37458,4/24/2013,Public Transportation - Bus Pass,-33.93,CA
+37458,4/24/2013,Von's Groceries,-28.2,CA
+37458,4/24/2013,Lyft,-1.07,CA
+37458,4/24/2013,Food Delivery - Uber Eats,-4.04,CA
+37458,4/24/2013,Podcast Subscription,-23.71,CA
+37458,4/24/2013,Food Delivery - GrubHub,-34.89,CA
+37458,4/25/2013,On Demand TV,-9.65,CA
+37458,4/25/2013,Pet Smart,-31.63,CA
+37458,4/25/2013,Food Delivery - Uber Eats,-10.08,CA
+37458,4/25/2013,Pet Supply - Cat Food,-1.27,CA
+37458,4/25/2013,Pet Supply - Cat Food,-37.57,CA
+37458,4/25/2013,Sprouts Market,-9.2,CA
+37458,4/25/2013,On Demand TV,-21.75,CA
+37458,4/25/2013,Taxi,-5.62,CA
+37458,4/25/2013,On Demand TV,-23.64,CA
+37458,4/26/2013,Public Transportation - Bus Pass,-34.39,CA
+37458,4/26/2013,Food Delivery - GrubHub,-32.59,CA
+37458,4/26/2013,On Demand Movie,-13.37,CA
+37458,4/26/2013,On Demand Movie,-117.47,CA
+37458,4/26/2013,On Demand TV,-100.65,CA
+37458,4/27/2013,Uber,-87.02,CA
+37458,4/27/2013,Taxi,-0.15,CA
+37458,4/27/2013,Public Transportation - Bus Pass,-20.59,CA
+37458,4/28/2013,On Demand Movie,-33.18,CA
+37458,4/28/2013,Podcast Subscription,-27.94,CA
+37458,4/28/2013,Wine Delivery,-52.57,CA
+37458,4/28/2013,Starbucks Coffee,-28.19,CA
+37458,4/28/2013,Public Transportation - Train Pass,-25.03,CA
+37458,4/28/2013,Sprouts Market,-32.23,CA
+37458,4/28/2013,Starbucks Coffee,-39.19,CA
+37458,4/28/2013,Public Transportation - Train Pass,-29.01,CA
+37458,4/28/2013,Podcast Subscription,-29.86,CA
+37458,4/29/2013,Von's Groceries,-4.61,CA
+37458,4/29/2013,Lyft,-6.32,CA
+37458,4/29/2013,Podcast Subscription,-103.82,CA
+37458,4/30/2013,On Demand TV,-6.62,CA
+37458,4/30/2013,Restaurant - Chinese,-53.55,CA
+37458,5/2/2013,Paycheck,4136,CA
+37458,5/2/2013,Housing Rent,-1363,CA
+37458,5/2/2013,Navient - Student Loans,-197,CA
+37458,5/2/2013,Time Warner Cable,-25,CA
+37458,5/2/2013,Water & Sewer,-53,CA
+37458,5/2/2013,Gas & Electric,-32,CA
+37458,5/2/2013,Uber,-10.31,CA
+37458,5/2/2013,Restaurant - Pizza,-45.21,CA
+37458,5/2/2013,PlayStation Membership,-15.53,CA
+37458,5/3/2013,On Demand TV,-21.67,CA
+37458,5/4/2013,Food Delivery - Uber Eats,-26.5,CA
+37458,5/5/2013,Pet Supply - Cat Food,-24.41,CA
+37458,5/5/2013,Restaurant - Chinese,-16.22,CA
+37458,5/5/2013,Food Delivery - GrubHub,-4.94,CA
+37458,5/5/2013,On Demand TV,-3.24,CA
+37458,5/6/2013,Wine Delivery,-6.5,CA
+37458,5/7/2013,Restaurant - Chinese,-28.68,CA
+37458,5/7/2013,Starbucks Coffee,-36.65,CA
+37458,5/7/2013,Restaurant - Burgers,-2.45,CA
+37458,5/7/2013,PlayStation Membership,-18.41,CA
+37458,5/7/2013,Public Transportation - Bus Pass,-69.93,CA
+37458,5/7/2013,Red Box DVD Rental,-2.16,CA
+37458,5/8/2013,Von's Groceries,-2.18,CA
+37458,5/8/2013,Red Box DVD Rental,-37.04,CA
+37458,5/9/2013,Food Delivery - Uber Eats,-27.21,CA
+37458,5/9/2013,Pet Smart,-1.86,CA
+37458,5/9/2013,On Demand TV,-31.31,CA
+37458,5/9/2013,Restaurant - Burgers,-28.81,CA
+37458,5/9/2013,On Demand Movie,-16.21,CA
+37458,5/9/2013,Food Delivery - GrubHub,-12.6,CA
+37458,5/9/2013,Podcast Subscription,-25.12,CA
+37458,5/10/2013,Food Delivery - Uber Eats,-19.66,CA
+37458,5/11/2013,Lyft,-1.4,CA
+37458,5/12/2013,Restaurant - Steakhouse,-45.68,CA
+37458,5/13/2013,Pet Smart,-31.74,CA
+37458,5/13/2013,Public Transportation - Bus Pass,-7.72,CA
+37458,5/13/2013,PlayStation Membership,-11.26,CA
+37458,5/13/2013,Restaurant - Steakhouse,-44.36,CA
+37458,5/13/2013,Food Delivery - Uber Eats,-32.2,CA
+37458,5/14/2013,Sprouts Market,-60,CA
+37458,5/14/2013,On Demand TV,-24.45,CA
+37458,5/14/2013,Lyft,-25.86,CA
+37458,5/14/2013,Food Delivery - Uber Eats,-14.38,CA
+37458,5/14/2013,Public Transportation - Bus Pass,-64.94,CA
+37458,5/15/2013,Pet Supply - Cat Food,-14.87,CA
+37458,5/15/2013,On Demand Movie,-34.83,CA
+37458,5/15/2013,Pet Smart,-31.08,CA
+37458,5/15/2013,Food Delivery - GrubHub,-15.51,CA
+37458,5/15/2013,Public Transportation - Bus Pass,-12.31,CA
+37458,5/16/2013,Food Delivery - GrubHub,-35.96,CA
+37458,5/16/2013,Food Delivery - GrubHub,-7.48,CA
+37458,5/17/2013,Podcast Subscription,-30.08,CA
+37458,5/18/2013,Pet Supply - Cat Food,-12.34,CA
+37458,5/18/2013,Food Delivery - Uber Eats,-13.75,CA
+37458,5/18/2013,Pet Smart,-25.17,CA
+37458,5/18/2013,Uber,-39.48,CA
+37458,5/19/2013,Food Delivery - Uber Eats,-11.8,CA
+37458,5/19/2013,Public Transportation - Bus Pass,-2.86,CA
+37458,5/19/2013,PlayStation Membership,-18.21,CA
+37458,5/19/2013,Restaurant - Burgers,-9.92,CA
+37458,5/19/2013,Food Delivery - Uber Eats,-18.06,CA
+37458,5/19/2013,PlayStation Membership,-14.38,CA
+37458,5/19/2013,Food Delivery - GrubHub,-26,CA
+37458,5/20/2013,Podcast Subscription,-2.31,CA
+37458,5/20/2013,Red Box DVD Rental,-5.97,CA
+37458,5/20/2013,Whole Foods,-22.05,CA
+37458,5/20/2013,Pet Supply - Cat Food,-14.75,CA
+37458,5/21/2013,Restaurant - Burgers,-22.1,CA
+37458,5/22/2013,Red Box DVD Rental,-14.51,CA
+37458,5/22/2013,PlayStation Membership,-21.2,CA
+37458,5/23/2013,PlayStation Membership,-50.48,CA
+37458,5/23/2013,On Demand Movie,-22.95,CA
+37458,5/23/2013,Lyft,-28.9,CA
+37458,5/24/2013,Food Delivery - GrubHub,-18.65,CA
+37458,5/24/2013,Pet Supply - Cat Food,-13.63,CA
+37458,5/25/2013,Pet Supply - Cat Food,-39.95,CA
+37458,5/26/2013,Pet Supply - Cat Food,-31.46,CA
+37458,5/27/2013,Red Box DVD Rental,-17.48,CA
+37458,5/28/2013,Restaurant - Steakhouse,-20.87,CA
+37458,5/28/2013,Uber,-20.35,CA
+37458,5/29/2013,Podcast Subscription,-100.57,CA
+37458,5/30/2013,Pet Smart,-107.31,CA
+37458,6/2/2013,Paycheck,4136,CA
+37458,6/2/2013,Housing Rent,-953,CA
+37458,6/2/2013,Navient - Student Loans,-197,CA
+37458,6/2/2013,Time Warner Cable,-25,CA
+37458,6/2/2013,Water & Sewer,-53,CA
+37458,6/2/2013,Gas & Electric,-32,CA
+37458,6/2/2013,Public Transportation - Train Pass,-25.02,CA
+37458,6/2/2013,Public Transportation - Bus Pass,-26.89,CA
+37458,6/2/2013,On Demand TV,-37.5,CA
+37458,6/2/2013,Podcast Subscription,-28.52,CA
+37458,6/2/2013,Public Transportation - Bus Pass,-105.71,CA
+37458,6/2/2013,Podcast Subscription,-97.92,CA
+37458,6/2/2013,Lyft,-4.63,CA
+37458,6/2/2013,Taxi,-22.91,CA
+37458,6/2/2013,Starbucks Coffee,-58.05,CA
+37458,6/3/2013,Food Delivery - GrubHub,-8.82,CA
+37458,6/4/2013,Restaurant - Chinese,-26.83,CA
+37458,6/4/2013,Pet Supply - Cat Food,-31.89,CA
+37458,6/4/2013,Wine Delivery,-32.66,CA
+37458,6/4/2013,On Demand Movie,-19.88,CA
+37458,6/5/2013,On Demand Movie,-31.22,CA
+37458,6/5/2013,Restaurant - Steakhouse,-16.18,CA
+37458,6/5/2013,Food Delivery - Uber Eats,-21.33,CA
+37458,6/5/2013,Pet Smart,-13.65,CA
+37458,6/5/2013,Lyft,-23.68,CA
+37458,6/5/2013,Pet Smart,-10.5,CA
+37458,6/5/2013,Pet Supply - Cat Food,-21.53,CA
+37458,6/6/2013,Public Transportation - Train Pass,-33.03,CA
+37458,6/6/2013,Pet Smart,-21.34,CA
+37458,6/7/2013,Food Delivery - GrubHub,-3.82,CA
+37458,6/7/2013,Von's Groceries,-33.33,CA
+37458,6/7/2013,Podcast Subscription,-4.42,CA
+37458,6/7/2013,Public Transportation - Train Pass,-18.95,CA
+37458,6/8/2013,Uber,-8.48,CA
+37458,6/8/2013,Pet Smart,-22.28,CA
+37458,6/8/2013,Podcast Subscription,-27.56,CA
+37458,6/8/2013,On Demand Movie,-6.5,CA
+37458,6/9/2013,Wine Delivery,-22.73,CA
+37458,6/9/2013,Pet Supply - Cat Food,-118.18,CA
+37458,6/9/2013,Podcast Subscription,-3.06,CA
+37458,6/9/2013,On Demand TV,-8.43,CA
+37458,6/10/2013,On Demand Movie,-23.37,CA
+37458,6/10/2013,Red Box DVD Rental,-10.48,CA
+37458,6/10/2013,On Demand Movie,-25.47,CA
+37458,6/11/2013,Mark's Movers,-85.61,CA
+37458,6/11/2013,FedEx Shipping,-21.98,CA
+37458,6/11/2013,Jerome's Furniture,-74.18,CA
+37458,6/11/2013,Home Depot,-16.56,CA
+37458,6/11/2013,Refrigerator Depot,-7.65,CA
+37458,6/11/2013,Hamilton Move & Storage,-24.13,CA
+37458,6/11/2013,Food Delivery - Uber Eats,-33.4,CA
+37458,6/11/2013,Pet Supply - Cat Food,-29.9,CA
+37458,6/11/2013,Food Delivery - Uber Eats,-23.94,CA
+37458,6/12/2013,On Demand Movie,-24.76,CA
+37458,6/12/2013,Food Delivery - GrubHub,-6.48,CA
+37458,6/12/2013,Pet Smart,-39.94,CA
+37458,6/13/2013,On Demand TV,-117,CA
+37458,6/14/2013,Food Delivery - Uber Eats,-4.61,CA
+37458,6/14/2013,Food Delivery - GrubHub,-35.07,CA
+37458,6/14/2013,Taxi,-10.64,CA
+37458,6/14/2013,Pet Supply - Cat Food,-25.17,CA
+37458,6/14/2013,Whole Foods,-88.47,CA
+37458,6/15/2013,On Demand TV,-7.2,CA
+37458,6/15/2013,Red Box DVD Rental,-25.19,CA
+37458,6/15/2013,Food Delivery - Uber Eats,-8.19,CA
+37458,6/15/2013,Podcast Subscription,-33.96,CA
+37458,6/15/2013,Restaurant - Pizza,-10.7,CA
+37458,6/15/2013,Pet Supply - Cat Food,-19.44,CA
+37458,6/15/2013,Uber,-18.63,CA
+37458,6/16/2013,Taxi,-6.05,CA
+37458,6/16/2013,Food Delivery - GrubHub,-116.49,CA
+37458,6/16/2013,Red Box DVD Rental,-12.28,CA
+37458,6/16/2013,Wine Delivery,-71.56,CA
+37458,6/16/2013,Taxi,-37.99,CA
+37458,6/16/2013,Lyft,-19.55,CA
+37458,6/16/2013,Red Box DVD Rental,-34.65,CA
+37458,6/16/2013,On Demand Movie,-32.41,CA
+37458,6/16/2013,Public Transportation - Bus Pass,-16.88,CA
+37458,6/16/2013,On Demand Movie,-88.67,CA
+37458,6/17/2013,Public Transportation - Train Pass,-3.8,CA
+37458,6/17/2013,Food Delivery - Uber Eats,-21.76,CA
+37458,6/18/2013,Food Delivery - Uber Eats,-6.49,CA
+37458,6/19/2013,Uber,-82.03,CA
+37458,6/19/2013,Restaurant - Pizza,-14.54,CA
+37458,6/19/2013,Public Transportation - Train Pass,-3.74,CA
+37458,6/19/2013,Restaurant - Chinese,-55.45,CA
+37458,6/20/2013,Pet Supply - Cat Food,-23.65,CA
+37458,6/20/2013,Food Delivery - GrubHub,-6.31,CA
+37458,6/20/2013,Pet Supply - Cat Food,-113.47,CA
+37458,6/21/2013,Wine Delivery,-5.71,CA
+37458,6/21/2013,Pet Smart,-16.22,CA
+37458,6/21/2013,Podcast Subscription,-8.93,CA
+37458,6/21/2013,Food Delivery - GrubHub,-113.34,CA
+37458,6/21/2013,Restaurant - Chinese,-22.52,CA
+37458,6/22/2013,Restaurant - Chinese,-14.12,CA
+37458,6/22/2013,On Demand Movie,-4.49,CA
+37458,6/22/2013,Red Box DVD Rental,-7.76,CA
+37458,6/23/2013,PlayStation Membership,-94.82,CA
+37458,6/23/2013,Wine Delivery,-1.01,CA
+37458,6/23/2013,On Demand Movie,-6.32,CA
+37458,6/24/2013,On Demand Movie,-60.2,CA
+37458,6/25/2013,On Demand TV,-5.86,CA
+37458,6/25/2013,On Demand Movie,-19.26,CA
+37458,6/25/2013,On Demand TV,-12.96,CA
+37458,6/25/2013,Food Delivery - Uber Eats,-14.11,CA
+37458,6/26/2013,Food Delivery - Uber Eats,-15.58,CA
+37458,6/26/2013,Red Box DVD Rental,-4.61,CA
+37458,6/26/2013,Food Delivery - Uber Eats,-17.12,CA
+37458,6/26/2013,PlayStation Membership,-27.16,CA
+37458,6/26/2013,Sprouts Market,-86.97,CA
+37458,6/27/2013,Pet Supply - Cat Food,-0.92,CA
+37458,6/27/2013,Restaurant - Burgers,-34.16,CA
+37458,6/27/2013,Von's Groceries,-7.13,CA
+37458,6/27/2013,Wine Delivery,-17.63,CA
+37458,6/27/2013,Food Delivery - Uber Eats,-26.65,CA
+37458,6/27/2013,Red Box DVD Rental,-7.79,CA
+37458,6/27/2013,Food Delivery - Uber Eats,-4.77,CA
+37458,6/27/2013,On Demand TV,-39.13,CA
+37458,6/27/2013,Sprouts Market,-26.13,CA
+37458,6/27/2013,Red Box DVD Rental,-95.39,CA
+37458,6/27/2013,Pet Supply - Cat Food,-27.26,CA
+37458,6/27/2013,Wine Delivery,-35.2,CA
+37458,6/27/2013,Starbucks Coffee,-20.67,CA
+37458,6/28/2013,Wine Delivery,-11.33,CA
+37458,6/28/2013,On Demand Movie,-15.4,CA
+37458,6/28/2013,Whole Foods,-30.28,CA
+37458,6/28/2013,On Demand TV,-83.21,CA
+37458,6/29/2013,Restaurant - Steakhouse,-27.73,CA
+37458,6/29/2013,Food Delivery - GrubHub,-22.05,CA
+37458,6/30/2013,PlayStation Membership,-16.79,CA
+37458,6/30/2013,Lyft,-6.94,CA
+37458,6/30/2013,Taxi,-90.24,CA
+37458,6/30/2013,On Demand Movie,-36.6,CA
+37458,7/2/2013,Paycheck,4136,CA
+37458,7/2/2013,Housing Rent,-1247,CA
+37458,7/2/2013,Navient - Student Loans,-197,CA
+37458,7/2/2013,Time Warner Cable,-25,CA
+37458,7/2/2013,Water & Sewer,-53,CA
+37458,7/2/2013,Gas & Electric,-32,CA
+37458,7/2/2013,Wine Delivery,-64.68,CA
+37458,7/2/2013,Podcast Subscription,-90.94,CA
+37458,7/2/2013,Pet Supply - Cat Food,-11.24,CA
+37458,7/2/2013,On Demand Movie,-9.46,CA
+37458,7/2/2013,Food Delivery - GrubHub,-30.3,CA
+37458,7/2/2013,Pet Smart,-20.75,CA
+37458,7/2/2013,Taxi,-1.11,CA
+37458,7/2/2013,PlayStation Membership,-105.66,CA
+37458,7/2/2013,Starbucks Coffee,-61.19,CA
+37458,7/3/2013,Restaurant - Burgers,-46.36,CA
+37458,7/4/2013,Food Delivery - GrubHub,-29.45,CA
+37458,7/4/2013,Wine Delivery,-16.62,CA
+37458,7/4/2013,Pet Smart,-70.6,CA
+37458,7/4/2013,Lyft,-34.61,CA
+37458,7/4/2013,Pet Smart,-35.45,CA
+37458,7/5/2013,Public Transportation - Bus Pass,-37.08,CA
+37458,7/5/2013,Starbucks Coffee,-11.41,CA
+37458,7/5/2013,PlayStation Membership,-16.04,CA
+37458,7/5/2013,Restaurant - Burgers,-25.13,CA
+37458,7/6/2013,Restaurant - Chinese,-33.67,CA
+37458,7/6/2013,Podcast Subscription,-5.16,CA
+37458,7/6/2013,Restaurant - Chinese,-81.53,CA
+37458,7/6/2013,On Demand Movie,-54.27,CA
+37458,7/6/2013,Food Delivery - Uber Eats,-38.33,CA
+37458,7/7/2013,Red Box DVD Rental,-33.43,CA
+37458,7/7/2013,Uber,-21.33,CA
+37458,7/8/2013,Podcast Subscription,-37.72,CA
+37458,7/8/2013,Wine Delivery,-38.08,CA
+37458,7/8/2013,Uber,-91.4,CA
+37458,7/8/2013,Podcast Subscription,-18.11,CA
+37458,7/9/2013,Food Delivery - Uber Eats,-38.42,CA
+37458,7/9/2013,Restaurant - Pizza,-32.74,CA
+37458,7/9/2013,Pet Smart,-20.63,CA
+37458,7/9/2013,PlayStation Membership,-3.34,CA
+37458,7/10/2013,On Demand TV,-0.24,CA
+37458,7/11/2013,Taxi,-29.61,CA
+37458,7/11/2013,Restaurant - Steakhouse,-5.34,CA
+37458,7/11/2013,Restaurant - Chinese,-85.75,CA
+37458,7/12/2013,Restaurant - Pizza,-36.74,CA
+37458,7/13/2013,Red Box DVD Rental,-31.06,CA
+37458,7/13/2013,Red Box DVD Rental,-0.28,CA
+37458,7/14/2013,Uber,-7.33,CA
+37458,7/14/2013,Restaurant - Burgers,-18.91,CA
+37458,7/14/2013,Uber,-102.55,CA
+37458,7/14/2013,Public Transportation - Train Pass,-11.06,CA
+37458,7/15/2013,Whole Foods,-50.31,CA
+37458,7/15/2013,Pet Supply - Cat Food,-28.29,CA
+37458,7/16/2013,Whole Foods,-1.9,CA
+37458,7/16/2013,On Demand TV,-29.21,CA
+37458,7/17/2013,Restaurant - Chinese,-1.16,CA
+37458,7/18/2013,Ralph's Grocery Store,-37.96,CA
+37458,7/18/2013,Podcast Subscription,-2.96,CA
+37458,7/18/2013,Wine Delivery,-31.14,CA
+37458,7/19/2013,Pet Smart,-28.12,CA
+37458,7/19/2013,Restaurant - Burgers,-26.37,CA
+37458,7/20/2013,Ralph's Grocery Store,-24.87,CA
+37458,7/21/2013,Restaurant - Burgers,-64.73,CA
+37458,7/21/2013,Pet Supply - Cat Food,-13.21,CA
+37458,7/21/2013,Lyft,-16.26,CA
+37458,7/21/2013,On Demand TV,-31.31,CA
+37458,7/21/2013,Uber,-39.47,CA
+37458,7/21/2013,Pet Supply - Cat Food,-42.2,CA
+37458,7/22/2013,Public Transportation - Train Pass,-14.32,CA
+37458,7/22/2013,Public Transportation - Bus Pass,-30.6,CA
+37458,7/22/2013,PlayStation Membership,-33.81,CA
+37458,7/22/2013,On Demand Movie,-17.55,CA
+37458,7/23/2013,Pet Smart,-0.64,CA
+37458,7/23/2013,On Demand Movie,-16.37,CA
+37458,7/23/2013,Public Transportation - Bus Pass,-27.91,CA
+37458,7/23/2013,Food Delivery - GrubHub,-37.2,CA
+37458,7/23/2013,Food Delivery - GrubHub,-0.95,CA
+37458,7/23/2013,Wine Delivery,-30.58,CA
+37458,7/24/2013,Lyft,-30.77,CA
+37458,7/24/2013,Public Transportation - Train Pass,-114.2,CA
+37458,7/24/2013,Pet Smart,-20.06,CA
+37458,7/24/2013,Whole Foods,-0.16,CA
+37458,7/24/2013,Starbucks Coffee,-11.03,CA
+37458,7/24/2013,Public Transportation - Bus Pass,-23.81,CA
+37458,7/24/2013,Starbucks Coffee,-103.81,CA
+37458,7/25/2013,Sprouts Market,-39.68,CA
+37458,7/25/2013,Red Box DVD Rental,-34.25,CA
+37458,7/25/2013,On Demand TV,-11.79,CA
+37458,7/25/2013,Pet Smart,-40.98,CA
+37458,7/25/2013,Pet Supply - Cat Food,-32.42,CA
+37458,7/25/2013,Wine Delivery,-108.25,CA
+37458,7/25/2013,Restaurant - Pizza,-87.75,CA
+37458,7/25/2013,Wine Delivery,-31.61,CA
+37458,7/25/2013,Restaurant - Burgers,-15.34,CA
+37458,7/26/2013,Pet Supply - Cat Food,-14.96,CA
+37458,7/26/2013,Pet Supply - Cat Food,-9.96,CA
+37458,7/26/2013,Red Box DVD Rental,-21.86,CA
+37458,7/26/2013,Pet Smart,-27.33,CA
+37458,7/27/2013,Food Delivery - GrubHub,-32.13,CA
+37458,7/27/2013,Whole Foods,-30.89,CA
+37458,7/27/2013,Pet Supply - Cat Food,-3.68,CA
+37458,7/27/2013,Restaurant - Chinese,-13.61,CA
+37458,7/27/2013,Ralph's Grocery Store,-27.51,CA
+37458,7/27/2013,Wine Delivery,-22.88,CA
+37458,7/27/2013,On Demand Movie,-11.99,CA
+37458,7/28/2013,Food Delivery - Uber Eats,-71.61,CA
+37458,7/28/2013,Ralph's Grocery Store,-95.41,CA
+37458,7/29/2013,Public Transportation - Bus Pass,-18.74,CA
+37458,7/29/2013,Starbucks Coffee,-2.54,CA
+37458,7/30/2013,Ralph's Grocery Store,-62.63,CA
+37458,7/30/2013,PlayStation Membership,-9.8,CA
+37458,7/30/2013,On Demand TV,-18.71,CA
+37458,7/30/2013,Restaurant - Chinese,-76.03,CA
+37458,7/30/2013,Podcast Subscription,-18.63,CA
+37458,8/2/2013,Paycheck,4136,CA
+37458,8/2/2013,Housing Rent,-1068,CA
+37458,8/2/2013,Navient - Student Loans,-197,CA
+37458,8/2/2013,Time Warner Cable,-25,CA
+37458,8/2/2013,Water & Sewer,-53,CA
+37458,8/2/2013,Gas & Electric,-32,CA
+37458,8/2/2013,Podcast Subscription,-100.43,CA
+37458,8/2/2013,Restaurant - Burgers,-17.77,CA
+37458,8/3/2013,Pet Supply - Cat Food,-31.38,CA
+37458,8/3/2013,Red Box DVD Rental,-12.4,CA
+37458,8/3/2013,Public Transportation - Train Pass,-52.55,CA
+37458,8/3/2013,Podcast Subscription,-15.65,CA
+37458,8/4/2013,Restaurant - Chinese,-5.06,CA
+37458,8/4/2013,On Demand TV,-14.41,CA
+37458,8/4/2013,Podcast Subscription,-37.04,CA
+37458,8/5/2013,Food Delivery - Uber Eats,-6.88,CA
+37458,8/5/2013,Food Delivery - GrubHub,-1.88,CA
+37458,8/5/2013,Pet Smart,-11.08,CA
+37458,8/6/2013,Podcast Subscription,-63.87,CA
+37458,8/6/2013,Red Box DVD Rental,-32.13,CA
+37458,8/7/2013,Pet Supply - Cat Food,-26.99,CA
+37458,8/7/2013,Food Delivery - Uber Eats,-6.43,CA
+37458,8/7/2013,On Demand Movie,-54.32,CA
+37458,8/8/2013,Restaurant - Steakhouse,-8.35,CA
+37458,8/9/2013,Food Delivery - Uber Eats,-95.14,CA
+37458,8/10/2013,On Demand TV,-30.96,CA
+37458,8/11/2013,Food Delivery - Uber Eats,-34.76,CA
+37458,8/11/2013,Starbucks Coffee,-119.32,CA
+37458,8/11/2013,Food Delivery - GrubHub,-10.56,CA
+37458,8/11/2013,Pet Supply - Cat Food,-50.18,CA
+37458,8/11/2013,Wine Delivery,-58.04,CA
+37458,8/11/2013,Wine Delivery,-36.46,CA
+37458,8/11/2013,On Demand Movie,-15.41,CA
+37458,8/11/2013,Pet Supply - Cat Food,-20.65,CA
+37458,8/11/2013,Podcast Subscription,-29.78,CA
+37458,8/11/2013,Public Transportation - Bus Pass,-66.17,CA
+37458,8/11/2013,Wine Delivery,-3.69,CA
+37458,8/11/2013,Wine Delivery,-11.14,CA
+37458,8/11/2013,Wine Delivery,-12.69,CA
+37458,8/11/2013,Restaurant - Steakhouse,-119.61,CA
+37458,8/11/2013,Starbucks Coffee,-32.46,CA
+37458,8/12/2013,PlayStation Membership,-34.87,CA
+37458,8/12/2013,Von's Groceries,-37.15,CA
+37458,8/12/2013,Podcast Subscription,-7.81,CA
+37458,8/12/2013,Whole Foods,-8.83,CA
+37458,8/12/2013,PlayStation Membership,-22.81,CA
+37458,8/12/2013,Food Delivery - Uber Eats,-17.09,CA
+37458,8/12/2013,Pet Smart,-32.91,CA
+37458,8/12/2013,On Demand Movie,-7.08,CA
+37458,8/13/2013,Red Box DVD Rental,-38.82,CA
+37458,8/14/2013,On Demand TV,-32.49,CA
+37458,8/14/2013,Public Transportation - Train Pass,-15.26,CA
+37458,8/15/2013,Restaurant - Steakhouse,-76.67,CA
+37458,8/15/2013,Pet Smart,-72.77,CA
+37458,8/15/2013,Ralph's Grocery Store,-22.25,CA
+37458,8/15/2013,Food Delivery - GrubHub,-5,CA
+37458,8/16/2013,Red Box DVD Rental,-65.84,CA
+37458,8/16/2013,Wine Delivery,-13.71,CA
+37458,8/16/2013,Red Box DVD Rental,-77.89,CA
+37458,8/17/2013,Podcast Subscription,-14.65,CA
+37458,8/17/2013,Starbucks Coffee,-39.71,CA
+37458,8/18/2013,Food Delivery - GrubHub,-30.74,CA
+37458,8/18/2013,Food Delivery - GrubHub,-0.41,CA
+37458,8/19/2013,PlayStation Membership,-20.3,CA
+37458,8/20/2013,Whole Foods,-33.18,CA
+37458,8/20/2013,Restaurant - Steakhouse,-34.47,CA
+37458,8/20/2013,Lyft,-22.16,CA
+37458,8/21/2013,Whole Foods,-38.32,CA
+37458,8/21/2013,Wine Delivery,-42.51,CA
+37458,8/22/2013,Pet Supply - Cat Food,-21.38,CA
+37458,8/22/2013,Food Delivery - Uber Eats,-20.18,CA
+37458,8/23/2013,Podcast Subscription,-7.8,CA
+37458,8/23/2013,Pet Supply - Cat Food,-7.34,CA
+37458,8/24/2013,Pet Smart,-23.51,CA
+37458,8/24/2013,Restaurant - Steakhouse,-96.97,CA
+37458,8/24/2013,Taxi,-36.9,CA
+37458,8/24/2013,On Demand Movie,-6.95,CA
+37458,8/25/2013,Red Box DVD Rental,-25.67,CA
+37458,8/25/2013,On Demand Movie,-4.44,CA
+37458,8/25/2013,Food Delivery - GrubHub,-4.12,CA
+37458,8/25/2013,Taxi,-10.47,CA
+37458,8/25/2013,Ralph's Grocery Store,-5.77,CA
+37458,8/26/2013,Podcast Subscription,-37.58,CA
+37458,8/27/2013,Wine Delivery,-18.49,CA
+37458,8/28/2013,Ralph's Grocery Store,-11.28,CA
+37458,8/28/2013,Pet Smart,-106.82,CA
+37458,8/29/2013,Taxi,-16.24,CA
+37458,8/29/2013,On Demand TV,-53.19,CA
+37458,8/29/2013,Pet Smart,-7.95,CA
+37458,8/29/2013,PlayStation Membership,-22.99,CA
+37458,8/29/2013,On Demand TV,-7.25,CA
+37458,8/29/2013,Whole Foods,-6.16,CA
+37458,8/29/2013,PlayStation Membership,-39.37,CA
+37458,8/29/2013,On Demand Movie,-16.45,CA
+37458,8/30/2013,Food Delivery - GrubHub,-7.63,CA
+37458,9/2/2013,Paycheck,4136,CA
+37458,9/2/2013,Housing Rent,-891,CA
+37458,9/2/2013,Navient - Student Loans,-197,CA
+37458,9/2/2013,Time Warner Cable,-25,CA
+37458,9/2/2013,Water & Sewer,-53,CA
+37458,9/2/2013,Gas & Electric,-32,CA
+37458,9/2/2013,Public Transportation - Bus Pass,-19.43,CA
+37458,9/3/2013,Uber,-36.08,CA
+37458,9/3/2013,Restaurant - Burgers,-4.89,CA
+37458,9/3/2013,Pet Supply - Cat Food,-50.66,CA
+37458,9/4/2013,Wine Delivery,-30.8,CA
+37458,9/5/2013,Restaurant - Chinese,-26.84,CA
+37458,9/5/2013,On Demand TV,-1.01,CA
+37458,9/5/2013,On Demand Movie,-31.49,CA
+37458,9/6/2013,PlayStation Membership,-27.46,CA
+37458,9/7/2013,Uber,-13.93,CA
+37458,9/8/2013,Starbucks Coffee,-16.21,CA
+37458,9/8/2013,Wine Delivery,-39.04,CA
+37458,9/8/2013,Wine Delivery,-104.35,CA
+37458,9/8/2013,Podcast Subscription,-26.89,CA
+37458,9/8/2013,Whole Foods,-119.27,CA
+37458,9/8/2013,Red Box DVD Rental,-4.87,CA
+37458,9/8/2013,Restaurant - Burgers,-29.65,CA
+37458,9/8/2013,PlayStation Membership,-114.95,CA
+37458,9/8/2013,Taxi,-26.18,CA
+37458,9/9/2013,Pet Smart,-19.56,CA
+37458,9/10/2013,Red Box DVD Rental,-46.95,CA
+37458,9/10/2013,Podcast Subscription,-13.69,CA
+37458,9/10/2013,On Demand Movie,-24.15,CA
+37458,9/11/2013,Food Delivery - GrubHub,-34.67,CA
+37458,9/11/2013,Ralph's Grocery Store,-9.43,CA
+37458,9/12/2013,Public Transportation - Bus Pass,-36.47,CA
+37458,9/13/2013,Starbucks Coffee,-57.01,CA
+37458,9/13/2013,Restaurant - Pizza,-36.39,CA
+37458,9/13/2013,Public Transportation - Train Pass,-14.89,CA
+37458,9/13/2013,Whole Foods,-4.42,CA
+37458,9/13/2013,Red Box DVD Rental,-2.54,CA
+37458,9/13/2013,Food Delivery - GrubHub,-34.79,CA
+37458,9/13/2013,Von's Groceries,-4.49,CA
+37458,9/13/2013,Food Delivery - Uber Eats,-17.15,CA
+37458,9/13/2013,Food Delivery - GrubHub,-37.4,CA
+37458,9/14/2013,Public Transportation - Bus Pass,-1.85,CA
+37458,9/15/2013,Red Box DVD Rental,-4.27,CA
+37458,9/15/2013,Uber,-10.74,CA
+37458,9/15/2013,Food Delivery - GrubHub,-15.38,CA
+37458,9/16/2013,Pet Smart,-30.21,CA
+37458,9/16/2013,Public Transportation - Train Pass,-51.65,CA
+37458,9/16/2013,Wine Delivery,-38.18,CA
+37458,9/16/2013,Restaurant - Steakhouse,-5.14,CA
+37458,9/16/2013,Pet Supply - Cat Food,-10.67,CA
+37458,9/16/2013,On Demand Movie,-3.25,CA
+37458,9/16/2013,On Demand Movie,-15.54,CA
+37458,9/16/2013,Restaurant - Burgers,-36.51,CA
+37458,9/16/2013,Pet Smart,-10.71,CA
+37458,9/16/2013,Wine Delivery,-10.3,CA
+37458,9/16/2013,Lyft,-107.44,CA
+37458,9/16/2013,Restaurant - Steakhouse,-56.91,CA
+37458,9/16/2013,Pet Supply - Cat Food,-9.04,CA
+37458,9/17/2013,Pet Smart,-119.93,CA
+37458,9/18/2013,Pet Supply - Cat Food,-38.42,CA
+37458,9/18/2013,On Demand Movie,-75.09,CA
+37458,9/18/2013,Wine Delivery,-27.83,CA
+37458,9/18/2013,Restaurant - Pizza,-34.51,CA
+37458,9/18/2013,On Demand TV,-11.18,CA
+37458,9/19/2013,Restaurant - Burgers,-16.21,CA
+37458,9/19/2013,Public Transportation - Bus Pass,-11.29,CA
+37458,9/19/2013,Red Box DVD Rental,-19.33,CA
+37458,9/19/2013,Whole Foods,-70.95,CA
+37458,9/19/2013,On Demand Movie,-33.4,CA
+37458,9/19/2013,Restaurant - Steakhouse,-32.59,CA
+37458,9/19/2013,Sprouts Market,-46.41,CA
+37458,9/19/2013,PlayStation Membership,-107.53,CA
+37458,9/19/2013,Food Delivery - GrubHub,-81.09,CA
+37458,9/19/2013,Food Delivery - Uber Eats,-38.32,CA
+37458,9/20/2013,Public Transportation - Train Pass,-23.36,CA
+37458,9/20/2013,Restaurant - Steakhouse,-29.52,CA
+37458,9/20/2013,PlayStation Membership,-13.18,CA
+37458,9/21/2013,PlayStation Membership,-32.18,CA
+37458,9/22/2013,Food Delivery - GrubHub,-27.64,CA
+37458,9/23/2013,Food Delivery - Uber Eats,-16.04,CA
+37458,9/24/2013,Uber,-26.29,CA
+37458,9/24/2013,Wine Delivery,-2.39,CA
+37458,9/25/2013,Pet Supply - Cat Food,-35.54,CA
+37458,9/25/2013,On Demand Movie,-21.23,CA
+37458,9/25/2013,PlayStation Membership,-34.7,CA
+37458,9/25/2013,Uber,-33.19,CA
+37458,9/25/2013,Red Box DVD Rental,-34.83,CA
+37458,9/25/2013,Lyft,-23.73,CA
+37458,9/26/2013,Podcast Subscription,-7.06,CA
+37458,9/27/2013,Restaurant - Burgers,-30.84,CA
+37458,9/27/2013,Lyft,-26.69,CA
+37458,9/27/2013,Pet Supply - Cat Food,-14.85,CA
+37458,9/28/2013,Public Transportation - Bus Pass,-14.13,CA
+37458,9/28/2013,Pet Supply - Cat Food,-108.74,CA
+37458,9/28/2013,Podcast Subscription,-1.34,CA
+37458,9/28/2013,Wine Delivery,-22.45,CA
+37458,9/29/2013,Red Box DVD Rental,-30.1,CA
+37458,9/29/2013,Restaurant - Steakhouse,-17.42,CA
+37458,9/30/2013,Pet Smart,-1.86,CA
+37458,9/30/2013,Food Delivery - GrubHub,-9.06,CA
+37458,10/2/2013,Paycheck,4136,CA
+37458,10/2/2013,Housing Rent,-1393,CA
+37458,10/2/2013,Navient - Student Loans,-197,CA
+37458,10/2/2013,Time Warner Cable,-25,CA
+37458,10/2/2013,Water & Sewer,-53,CA
+37458,10/2/2013,Gas & Electric,-32,CA
+37458,10/2/2013,Uber,-90.94,CA
+37458,10/2/2013,Uber,-84.46,CA
+37458,10/2/2013,Food Delivery - GrubHub,-53.44,CA
+37458,10/2/2013,Food Delivery - Uber Eats,-19.56,CA
+37458,10/2/2013,Whole Foods,-11.39,CA
+37458,10/2/2013,Food Delivery - Uber Eats,-19.88,CA
+37458,10/2/2013,Food Delivery - Uber Eats,-10.63,CA
+37458,10/3/2013,Public Transportation - Bus Pass,-19.58,CA
+37458,10/3/2013,Pet Smart,-22.72,CA
+37458,10/3/2013,Sprouts Market,-93.82,CA
+37458,10/4/2013,PlayStation Membership,-0.61,CA
+37458,10/5/2013,On Demand Movie,-20.1,CA
+37458,10/6/2013,Wine Delivery,-8.82,CA
+37458,10/7/2013,On Demand Movie,-23.67,CA
+37458,10/7/2013,On Demand Movie,-1.13,CA
+37458,10/7/2013,PlayStation Membership,-115.78,CA
+37458,10/7/2013,Restaurant - Chinese,-100.16,CA
+37458,10/8/2013,Pet Smart,-2.38,CA
+37458,10/8/2013,Food Delivery - Uber Eats,-16.16,CA
+37458,10/9/2013,Podcast Subscription,-21.54,CA
+37458,10/9/2013,Pet Smart,-4.97,CA
+37458,10/10/2013,Restaurant - Steakhouse,-18.09,CA
+37458,10/10/2013,Starbucks Coffee,-1.34,CA
+37458,10/10/2013,Wine Delivery,-3.84,CA
+37458,10/11/2013,Restaurant - Burgers,-32.8,CA
+37458,10/11/2013,Pet Supply - Cat Food,-3.45,CA
+37458,10/11/2013,Uber,-115.05,CA
+37458,10/11/2013,Pet Supply - Cat Food,-37.1,CA
+37458,10/11/2013,Pet Smart,-32.01,CA
+37458,10/11/2013,Podcast Subscription,-23.74,CA
+37458,10/12/2013,Food Delivery - Uber Eats,-15.63,CA
+37458,10/12/2013,Pet Supply - Cat Food,-39.66,CA
+37458,10/13/2013,Red Box DVD Rental,-21.31,CA
+37458,10/13/2013,On Demand TV,-3.36,CA
+37458,10/13/2013,Ralph's Grocery Store,-29.87,CA
+37458,10/13/2013,Pet Supply - Cat Food,-34.65,CA
+37458,10/13/2013,Pet Smart,-63.32,CA
+37458,10/14/2013,Red Box DVD Rental,-7.45,CA
+37458,10/14/2013,Public Transportation - Bus Pass,-53.94,CA
+37458,10/14/2013,Public Transportation - Bus Pass,-75.71,CA
+37458,10/14/2013,On Demand Movie,-21.02,CA
+37458,10/15/2013,Pet Supply - Cat Food,-30.72,CA
+37458,10/15/2013,Taxi,-31.79,CA
+37458,10/15/2013,Public Transportation - Bus Pass,-30.2,CA
+37458,10/16/2013,Food Delivery - GrubHub,-35.45,CA
+37458,10/16/2013,Food Delivery - Uber Eats,-47.77,CA
+37458,10/17/2013,Uber,-0.31,CA
+37458,10/18/2013,Ralph's Grocery Store,-108.14,CA
+37458,10/18/2013,Pet Supply - Cat Food,-25.79,CA
+37458,10/18/2013,Public Transportation - Bus Pass,-41.66,CA
+37458,10/18/2013,Food Delivery - GrubHub,-8.78,CA
+37458,10/18/2013,Pet Supply - Cat Food,-13.72,CA
+37458,10/19/2013,Pet Supply - Cat Food,-13.92,CA
+37458,10/20/2013,Food Delivery - GrubHub,-38.24,CA
+37458,10/20/2013,Pet Supply - Cat Food,-16.73,CA
+37458,10/20/2013,Red Box DVD Rental,-32.95,CA
+37458,10/20/2013,Restaurant - Pizza,-107.93,CA
+37458,10/21/2013,Wine Delivery,-18.62,CA
+37458,10/21/2013,Pet Smart,-44.93,CA
+37458,10/22/2013,Food Delivery - GrubHub,-13.49,CA
+37458,10/23/2013,On Demand Movie,-12.08,CA
+37458,10/23/2013,Wine Delivery,-34.69,CA
+37458,10/23/2013,Restaurant - Burgers,-76.48,CA
+37458,10/24/2013,Uber,-110.76,CA
+37458,10/24/2013,Food Delivery - GrubHub,-15.86,CA
+37458,10/25/2013,Wine Delivery,-0.17,CA
+37458,10/25/2013,Podcast Subscription,-63.01,CA
+37458,10/25/2013,Public Transportation - Bus Pass,-11.63,CA
+37458,10/25/2013,Podcast Subscription,-26.7,CA
+37458,10/26/2013,Red Box DVD Rental,-40.41,CA
+37458,10/26/2013,Food Delivery - Uber Eats,-107.66,CA
+37458,10/27/2013,Food Delivery - GrubHub,-18.47,CA
+37458,10/27/2013,Red Box DVD Rental,-0.14,CA
+37458,10/27/2013,Food Delivery - GrubHub,-1.03,CA
+37458,10/27/2013,PlayStation Membership,-23.66,CA
+37458,10/28/2013,Restaurant - Chinese,-79.63,CA
+37458,10/28/2013,Public Transportation - Train Pass,-85.67,CA
+37458,10/28/2013,PlayStation Membership,-2.95,CA
+37458,10/28/2013,Red Box DVD Rental,-30.4,CA
+37458,10/28/2013,Podcast Subscription,-104.32,CA
+37458,10/29/2013,Restaurant - Chinese,-23.91,CA
+37458,10/29/2013,Pet Supply - Cat Food,-28.02,CA
+37458,10/29/2013,Whole Foods,-13.66,CA
+37458,10/29/2013,Taxi,-32.41,CA
+37458,10/30/2013,Lyft,-18.68,CA
+37458,10/30/2013,Red Box DVD Rental,-117.21,CA
+37458,10/30/2013,Ralph's Grocery Store,-103.73,CA
+37458,10/30/2013,Public Transportation - Train Pass,-7.26,CA
+37458,10/30/2013,Podcast Subscription,-39.29,CA
+37458,10/30/2013,Food Delivery - GrubHub,-33.92,CA
+37458,10/30/2013,Podcast Subscription,-111.5,CA
+37458,10/30/2013,Starbucks Coffee,-44.39,CA
+37458,10/30/2013,Wine Delivery,-12.65,CA
+37458,10/30/2013,PlayStation Membership,-7.85,CA
+37458,10/30/2013,Wine Delivery,-5.94,CA
+37458,11/2/2013,Paycheck,4136,CA
+37458,11/2/2013,Housing Rent,-1180,CA
+37458,11/2/2013,Navient - Student Loans,-197,CA
+37458,11/2/2013,Time Warner Cable,-25,CA
+37458,11/2/2013,Water & Sewer,-53,CA
+37458,11/2/2013,Gas & Electric,-32,CA
+37458,11/2/2013,Podcast Subscription,-6,CA
+37458,11/2/2013,Pet Supply - Cat Food,-29.6,CA
+37458,11/3/2013,Uber,-22.38,CA
+37458,11/4/2013,Food Delivery - GrubHub,-22.33,CA
+37458,11/4/2013,Podcast Subscription,-11.57,CA
+37458,11/4/2013,On Demand TV,-37.26,CA
+37458,11/4/2013,Red Box DVD Rental,-9.83,CA
+37458,11/4/2013,Wine Delivery,-37.08,CA
+37458,11/4/2013,Food Delivery - Uber Eats,-30.12,CA
+37458,11/5/2013,Restaurant - Pizza,-30.65,CA
+37458,11/5/2013,Lyft,-79.13,CA
+37458,11/6/2013,Pet Smart,-38.49,CA
+37458,11/6/2013,Ralph's Grocery Store,-16.2,CA
+37458,11/6/2013,On Demand TV,-12.22,CA
+37458,11/6/2013,Pet Smart,-32.25,CA
+37458,11/6/2013,Taxi,-87.52,CA
+37458,11/7/2013,PlayStation Membership,-9.98,CA
+37458,11/7/2013,On Demand Movie,-1.15,CA
+37458,11/7/2013,On Demand TV,-23.57,CA
+37458,11/7/2013,Lyft,-2.01,CA
+37458,11/8/2013,Starbucks Coffee,-8.17,CA
+37458,11/8/2013,Pet Supply - Cat Food,-39.2,CA
+37458,11/9/2013,Food Delivery - Uber Eats,-38.9,CA
+37458,11/10/2013,PlayStation Membership,-11.82,CA
+37458,11/10/2013,Von's Groceries,-106.76,CA
+37458,11/11/2013,Public Transportation - Train Pass,-29.77,CA
+37458,11/11/2013,Whole Foods,-23.8,CA
+37458,11/12/2013,Red Box DVD Rental,-22.65,CA
+37458,11/12/2013,Wine Delivery,-13.47,CA
+37458,11/12/2013,PlayStation Membership,-34.75,CA
+37458,11/12/2013,Taxi,-31.67,CA
+37458,11/13/2013,On Demand TV,-37.46,CA
+37458,11/14/2013,Taxi,-89.63,CA
+37458,11/15/2013,On Demand TV,-39.15,CA
+37458,11/16/2013,PlayStation Membership,-15.56,CA
+37458,11/16/2013,Restaurant - Pizza,-26.52,CA
+37458,11/17/2013,Food Delivery - GrubHub,-96.33,CA
+37458,11/17/2013,Podcast Subscription,-18.52,CA
+37458,11/18/2013,Pet Supply - Cat Food,-27.81,CA
+37458,11/19/2013,Restaurant - Chinese,-62.21,CA
+37458,11/19/2013,PlayStation Membership,-31.33,CA
+37458,11/19/2013,PlayStation Membership,-22.33,CA
+37458,11/19/2013,Red Box DVD Rental,-6.29,CA
+37458,11/19/2013,Lyft,-10.05,CA
+37458,11/20/2013,Taxi,-3.24,CA
+37458,11/20/2013,Uber,-23.75,CA
+37458,11/21/2013,Restaurant - Steakhouse,-101.42,CA
+37458,11/21/2013,Sprouts Market,-18.33,CA
+37458,11/22/2013,Restaurant - Chinese,-38.11,CA
+37458,11/22/2013,Whole Foods,-19.52,CA
+37458,11/22/2013,On Demand Movie,-75.05,CA
+37458,11/23/2013,Starbucks Coffee,-12.9,CA
+37458,11/23/2013,Public Transportation - Train Pass,-58.25,CA
+37458,11/24/2013,Restaurant - Chinese,-7.37,CA
+37458,11/25/2013,PlayStation Membership,-34.35,CA
+37458,11/25/2013,Pet Supply - Cat Food,-21.99,CA
+37458,11/26/2013,Taxi,-10.83,CA
+37458,11/26/2013,On Demand Movie,-63.84,CA
+37458,11/26/2013,Food Delivery - Uber Eats,-26.82,CA
+37458,11/27/2013,PlayStation Membership,-26.22,CA
+37458,11/28/2013,Sprouts Market,-13.21,CA
+37458,11/28/2013,Sprouts Market,-15.18,CA
+37458,11/28/2013,Restaurant - Steakhouse,-7.18,CA
+37458,11/28/2013,Food Delivery - GrubHub,-15.17,CA
+37458,11/28/2013,Pet Supply - Cat Food,-39.55,CA
+37458,11/28/2013,Pet Smart,-35.6,CA
+37458,11/28/2013,On Demand Movie,-6.82,CA
+37458,11/28/2013,Restaurant - Steakhouse,-17.89,CA
+37458,11/28/2013,Podcast Subscription,-26.57,CA
+37458,11/28/2013,Uber,-24.5,CA
+37458,11/29/2013,Red Box DVD Rental,-13.79,CA
+37458,11/29/2013,On Demand TV,-0.98,CA
+37458,11/29/2013,Public Transportation - Train Pass,-66.37,CA
+37458,11/29/2013,Food Delivery - Uber Eats,-37.99,CA
+37458,11/29/2013,On Demand Movie,-14.57,CA
+37458,11/29/2013,PlayStation Membership,-9.72,CA
+37458,11/29/2013,On Demand TV,-21.68,CA
+37458,11/29/2013,Public Transportation - Bus Pass,-43.85,CA
+37458,11/29/2013,Restaurant - Chinese,-32.05,CA
+37458,11/30/2013,Taxi,-17.61,CA
+37458,11/30/2013,Sprouts Market,-29.47,CA
+37458,11/30/2013,Pet Supply - Cat Food,-4.19,CA
+37458,11/30/2013,Lyft,-19.01,CA
+37458,11/30/2013,On Demand TV,-116.2,CA
+37458,11/30/2013,Food Delivery - GrubHub,-113.95,CA
+37458,11/30/2013,Pet Supply - Cat Food,-10.85,CA
+37458,11/30/2013,Red Box DVD Rental,-7.84,CA
+37458,12/2/2013,Paycheck,4136,CA
+37458,12/2/2013,Housing Rent,-708,CA
+37458,12/2/2013,Navient - Student Loans,-197,CA
+37458,12/2/2013,Time Warner Cable,-25,CA
+37458,12/2/2013,Water & Sewer,-53,CA
+37458,12/2/2013,Gas & Electric,-32,CA
+37458,12/2/2013,Pet Smart,-24.89,CA
+37458,12/2/2013,Ralph's Grocery Store,-1.62,CA
+37458,12/2/2013,Public Transportation - Bus Pass,-111.58,CA
+37458,12/3/2013,Sprouts Market,-30.96,CA
+37458,12/3/2013,Pet Supply - Cat Food,-104.83,CA
+37458,12/3/2013,Taxi,-19.9,CA
+37458,12/3/2013,Wine Delivery,-5.29,CA
+37458,12/4/2013,Pet Smart,-1.41,CA
+37458,12/4/2013,On Demand TV,-27.63,CA
+37458,12/4/2013,Restaurant - Chinese,-27.96,CA
+37458,12/4/2013,PlayStation Membership,-15.28,CA
+37458,12/4/2013,On Demand TV,-17.47,CA
+37458,12/4/2013,Uber,-34.02,CA
+37458,12/4/2013,Food Delivery - GrubHub,-94.52,CA
+37458,12/4/2013,Pet Smart,-28.45,CA
+37458,12/4/2013,Lyft,-10.43,CA
+37458,12/5/2013,Pet Supply - Cat Food,-5.14,CA
+37458,12/6/2013,PlayStation Membership,-14.64,CA
+37458,12/6/2013,Food Delivery - Uber Eats,-117.18,CA
+37458,12/7/2013,Public Transportation - Train Pass,-35.54,CA
+37458,12/7/2013,On Demand TV,-22.51,CA
+37458,12/8/2013,Wine Delivery,-36.62,CA
+37458,12/8/2013,Restaurant - Burgers,-2.36,CA
+37458,12/8/2013,Pet Supply - Cat Food,-17.98,CA
+37458,12/9/2013,Pet Smart,-15.8,CA
+37458,12/9/2013,Whole Foods,-40.78,CA
+37458,12/10/2013,On Demand TV,-29.76,CA
+37458,12/10/2013,Red Box DVD Rental,-108.55,CA
+37458,12/10/2013,Red Box DVD Rental,-32.57,CA
+37458,12/10/2013,On Demand Movie,-78.62,CA
+37458,12/11/2013,Uber,-23.99,CA
+37458,12/12/2013,Starbucks Coffee,-6.48,CA
+37458,12/13/2013,On Demand Movie,-25.92,CA
+37458,12/13/2013,Wine Delivery,-10.01,CA
+37458,12/13/2013,Podcast Subscription,-17.47,CA
+37458,12/14/2013,Taxi,-24.95,CA
+37458,12/14/2013,Food Delivery - GrubHub,-24.23,CA
+37458,12/15/2013,Restaurant - Steakhouse,-84.77,CA
+37458,12/15/2013,Food Delivery - Uber Eats,-38.5,CA
+37458,12/16/2013,On Demand TV,-58.19,CA
+37458,12/16/2013,Restaurant - Steakhouse,-8.52,CA
+37458,12/17/2013,Restaurant - Pizza,-72.53,CA
+37458,12/17/2013,Public Transportation - Train Pass,-99.88,CA
+37458,12/18/2013,Wine Delivery,-32.15,CA
+37458,12/18/2013,Podcast Subscription,-8.86,CA
+37458,12/18/2013,Public Transportation - Bus Pass,-100.89,CA
+37458,12/18/2013,PlayStation Membership,-67.21,CA
+37458,12/18/2013,Pet Smart,-3.4,CA
+37458,12/18/2013,Food Delivery - Uber Eats,-5.92,CA
+37458,12/18/2013,Podcast Subscription,-10.39,CA
+37458,12/19/2013,On Demand Movie,-76.23,CA
+37458,12/20/2013,Podcast Subscription,-34.36,CA
+37458,12/20/2013,Public Transportation - Bus Pass,-81.53,CA
+37458,12/20/2013,Food Delivery - Uber Eats,-20.47,CA
+37458,12/20/2013,Uber,-7.93,CA
+37458,12/20/2013,Restaurant - Steakhouse,-10.94,CA
+37458,12/20/2013,Taxi,-17.94,CA
+37458,12/20/2013,Starbucks Coffee,-118.62,CA
+37458,12/20/2013,On Demand TV,-39.3,CA
+37458,12/20/2013,Wine Delivery,-17.93,CA
+37458,12/20/2013,Restaurant - Chinese,-29.57,CA
+37458,12/20/2013,Red Box DVD Rental,-31.05,CA
+37458,12/21/2013,Podcast Subscription,-18.52,CA
+37458,12/21/2013,Wine Delivery,-22.25,CA
+37458,12/21/2013,Restaurant - Burgers,-7.28,CA
+37458,12/22/2013,Red Box DVD Rental,-16.21,CA
+37458,12/22/2013,Public Transportation - Bus Pass,-103.54,CA
+37458,12/22/2013,Restaurant - Steakhouse,-29.74,CA
+37458,12/23/2013,Von's Groceries,-11.78,CA
+37458,12/23/2013,Sprouts Market,-44.07,CA
+37458,12/24/2013,Public Transportation - Train Pass,-78.15,CA
+37458,12/24/2013,Uber,-22.69,CA
+37458,12/24/2013,Wine Delivery,-85.39,CA
+37458,12/24/2013,PlayStation Membership,-2.07,CA
+37458,12/25/2013,On Demand TV,-17.86,CA
+37458,12/26/2013,Red Box DVD Rental,-22.32,CA
+37458,12/26/2013,Pet Smart,-28.74,CA
+37458,12/26/2013,Red Box DVD Rental,-36.03,CA
+37458,12/26/2013,Taxi,-107.15,CA
+37458,12/27/2013,Pet Smart,-38.89,CA
+37458,12/28/2013,Whole Foods,-23.12,CA
+37458,12/28/2013,Restaurant - Chinese,-23.19,CA
+37458,12/28/2013,Uber,-26.57,CA
+37458,12/29/2013,Food Delivery - GrubHub,-13.19,CA
+37458,12/30/2013,Restaurant - Burgers,-11.97,CA
+37458,12/32/2013,Lyft,-15.99,CA
+37458,12/32/2013,Food Delivery - GrubHub,-21.14,CA
+37458,12/32/2013,Public Transportation - Bus Pass,-10.03,CA
+37458,12/32/2013,PlayStation Membership,-29.94,CA
+37458,12/32/2013,Whole Foods,-20.82,CA
+37458,12/32/2013,PlayStation Membership,-40.99,CA
+37458,1/2/2014,Uber,-29.43,CA
+37458,1/2/2014,Pet Smart,-117.48,CA
+37458,1/2/2014,On Demand TV,-32.16,CA
+37458,1/3/2014,On Demand Movie,-8.27,CA
+37458,1/4/2014,Starbucks Coffee,-2.18,CA
+37458,1/5/2014,Taxi,-34.9,CA
+37458,1/5/2014,Lyft,-39.92,CA
+37458,1/5/2014,Red Box DVD Rental,-26.48,CA
+37458,1/5/2014,Restaurant - Pizza,-0.77,CA
+37458,1/6/2014,On Demand TV,-23.07,CA
+37458,1/6/2014,Red Box DVD Rental,-30.73,CA
+37458,1/6/2014,Public Transportation - Train Pass,-38.51,CA
+37458,1/6/2014,Food Delivery - Uber Eats,-38.39,CA
+37458,1/6/2014,Pet Smart,-28.62,CA
+37458,1/7/2014,Lyft,-36.13,CA
+37458,1/7/2014,On Demand Movie,-64.16,CA
+37458,1/7/2014,Podcast Subscription,-12.63,CA
+37458,1/7/2014,Lyft,-23.05,CA
+37458,1/7/2014,PlayStation Membership,-97.55,CA
+37458,1/8/2014,Pet Smart,-5.98,CA
+37458,1/9/2014,Podcast Subscription,-0.87,CA
+37458,1/10/2014,Pet Supply - Cat Food,-26.03,CA
+37458,1/10/2014,Whole Foods,-10.25,CA
+37458,1/10/2014,Food Delivery - Uber Eats,-9.27,CA
+37458,1/11/2014,Pet Smart,-10.75,CA
+37458,1/11/2014,Podcast Subscription,-18.59,CA
+37458,1/12/2014,Wine Delivery,-3.84,CA
+37458,1/12/2014,Podcast Subscription,-14.97,CA
+37458,1/12/2014,Pet Smart,-39.82,CA
+37458,1/12/2014,On Demand Movie,-88.39,CA
+37458,1/12/2014,PlayStation Membership,-12.33,CA
+37458,1/12/2014,Food Delivery - GrubHub,-10.49,CA
+37458,1/12/2014,Pet Supply - Cat Food,-19.85,CA
+37458,1/13/2014,Ralph's Grocery Store,-15.08,CA
+37458,1/13/2014,Pet Supply - Cat Food,-1.82,CA
+37458,1/13/2014,Ralph's Grocery Store,-101.6,CA
+37458,1/14/2014,Restaurant - Burgers,-9.13,CA
+37458,1/14/2014,PlayStation Membership,-70.04,CA
+37458,1/14/2014,PlayStation Membership,-23.72,CA
+37458,1/14/2014,Food Delivery - Uber Eats,-110.82,CA
+37458,1/14/2014,Food Delivery - GrubHub,-5.98,CA
+37458,1/14/2014,Von's Groceries,-4.43,CA
+37458,1/14/2014,Wine Delivery,-19.95,CA
+37458,1/15/2014,On Demand TV,-6.15,CA
+37458,1/15/2014,Restaurant - Pizza,-24.05,CA
+37458,1/15/2014,Pet Smart,-10.34,CA
+37458,1/16/2014,Sprouts Market,-12.13,CA
+37458,1/16/2014,Taxi,-3,CA
+37458,1/16/2014,Pet Supply - Cat Food,-31.38,CA
+37458,1/17/2014,Pet Smart,-23.63,CA
+37458,1/18/2014,Food Delivery - GrubHub,-86.54,CA
+37458,1/18/2014,On Demand TV,-5.82,CA
+37458,1/18/2014,Lyft,-16.79,CA
+37458,1/19/2014,On Demand TV,-31.85,CA
+37458,1/19/2014,Podcast Subscription,-19.74,CA
+37458,1/20/2014,Pet Supply - Cat Food,-41.31,CA
+37458,1/20/2014,Restaurant - Pizza,-17.16,CA
+37458,1/21/2014,Wine Delivery,-8.39,CA
+37458,1/21/2014,Lyft,-33.02,CA
+37458,1/22/2014,On Demand Movie,-7.83,CA
+37458,1/23/2014,Pet Smart,-35.76,CA
+37458,1/23/2014,Public Transportation - Train Pass,-0.68,CA
+37458,1/23/2014,On Demand TV,-35.8,CA
+37458,1/23/2014,Wine Delivery,-30.14,CA
+37458,1/23/2014,Starbucks Coffee,-7.83,CA
+37458,1/23/2014,On Demand Movie,-43.16,CA
+37458,1/23/2014,Podcast Subscription,-24.88,CA
+37458,1/23/2014,On Demand TV,-32.04,CA
+37458,1/23/2014,Restaurant - Burgers,-10.12,CA
+37458,1/24/2014,Wine Delivery,-37.72,CA
+37458,1/24/2014,Whole Foods,-24.75,CA
+37458,1/25/2014,Food Delivery - GrubHub,-37.72,CA
+37458,1/26/2014,Food Delivery - GrubHub,-8.94,CA
+37458,1/27/2014,On Demand TV,-0.08,CA
+37458,1/27/2014,Food Delivery - GrubHub,-13.47,CA
+37458,1/27/2014,On Demand Movie,-27.55,CA
+37458,1/27/2014,Podcast Subscription,-37.07,CA
+37458,1/27/2014,Restaurant - Steakhouse,-3.58,CA
+37458,1/28/2014,Amazon Order - Baby Crib,-16.41,CA
+37458,1/28/2014,Hospital - Prenatal Care,-39.51,CA
+37458,1/28/2014,Babies "R" Us,-16.02,CA
+37458,1/28/2014,BuyBuyBaby.com,-13.8,CA
+37458,1/28/2014,On Demand Movie,-89.34,CA
+37458,1/28/2014,On Demand TV,-24.32,CA
+37458,1/28/2014,Sprouts Market,-35.5,CA
+37458,1/29/2014,Food Delivery - Uber Eats,-7.94,CA
+37458,1/29/2014,Uber,-9.01,CA
+37458,1/29/2014,On Demand Movie,-74.72,CA
+37458,1/30/2014,On Demand Movie,-16.22,CA
+37458,3/2/2014,Paycheck,4136,CA
+37458,3/2/2014,Housing Rent,-1001,CA
+37458,3/2/2014,Navient - Student Loans,-197,CA
+37458,3/2/2014,Time Warner Cable,-25,CA
+37458,3/2/2014,Water & Sewer,-53,CA
+37458,3/2/2014,Gas & Electric,-32,CA
+37458,3/2/2014,Podcast Subscription,-20.39,CA
+37458,3/3/2014,Red Box DVD Rental,-34.24,CA
+37458,3/4/2014,Whole Foods,-114.48,CA
+37458,3/4/2014,Food Delivery - Uber Eats,-1.45,CA
+37458,3/4/2014,On Demand TV,-19.67,CA
+37458,3/4/2014,Public Transportation - Train Pass,-82.82,CA
+37458,3/5/2014,Sprouts Market,-17.08,CA
+37458,3/5/2014,Podcast Subscription,-20.95,CA
+37458,3/6/2014,Pet Smart,-14.09,CA
+37458,3/7/2014,Restaurant - Pizza,-15.02,CA
+37458,3/7/2014,PlayStation Membership,-103.08,CA
+37458,3/8/2014,Restaurant - Chinese,-4.52,CA
+37458,3/8/2014,Podcast Subscription,-14.1,CA
+37458,3/8/2014,PlayStation Membership,-1.65,CA
+37458,3/8/2014,Podcast Subscription,-9.66,CA
+37458,3/8/2014,On Demand TV,-1.57,CA
+37458,3/8/2014,Red Box DVD Rental,-27.47,CA
+37458,3/9/2014,Taxi,-25.13,CA
+37458,3/9/2014,Red Box DVD Rental,-68.39,CA
+37458,3/9/2014,PlayStation Membership,-13.55,CA
+37458,3/10/2014,Starbucks Coffee,-16.1,CA
+37458,3/11/2014,Restaurant - Steakhouse,-10.77,CA
+37458,3/11/2014,Taxi,-33,CA
+37458,3/12/2014,Red Box DVD Rental,-8.49,CA
+37458,3/12/2014,PlayStation Membership,-9.22,CA
+37458,3/12/2014,Podcast Subscription,-34.96,CA
+37458,3/12/2014,Starbucks Coffee,-49.71,CA
+37458,3/12/2014,Uber,-25.63,CA
+37458,3/13/2014,Starbucks Coffee,-90.03,CA
+37458,3/13/2014,Von's Groceries,-16.86,CA
+37458,3/13/2014,Food Delivery - GrubHub,-24.44,CA
+37458,3/14/2014,Pet Supply - Cat Food,-23.36,CA
+37458,3/14/2014,Uber,-21.69,CA
+37458,3/15/2014,Uber,-31.31,CA
+37458,3/15/2014,Lyft,-22.59,CA
+37458,3/15/2014,On Demand Movie,-36.17,CA
+37458,3/16/2014,Wine Delivery,-2.59,CA
+37458,3/17/2014,Wine Delivery,-0.24,CA
+37458,3/18/2014,Lyft,-35.7,CA
+37458,3/19/2014,On Demand TV,-18.88,CA
+37458,3/20/2014,PlayStation Membership,-12.31,CA
+37458,3/21/2014,Public Transportation - Train Pass,-2.88,CA
+37458,3/21/2014,Public Transportation - Train Pass,-0.59,CA
+37458,3/21/2014,Restaurant - Burgers,-2.76,CA
+37458,3/21/2014,Lyft,-29.77,CA
+37458,3/22/2014,Lyft,-29.59,CA
+37458,3/22/2014,Public Transportation - Bus Pass,-17.5,CA
+37458,3/23/2014,Public Transportation - Train Pass,-95.84,CA
+37458,3/23/2014,Von's Groceries,-61.9,CA
+37458,3/23/2014,Whole Foods,-27.19,CA
+37458,3/23/2014,Food Delivery - Uber Eats,-27.15,CA
+37458,3/23/2014,Food Delivery - Uber Eats,-42.44,CA
+37458,3/24/2014,Food Delivery - Uber Eats,-7.36,CA
+37458,3/25/2014,Food Delivery - Uber Eats,-104.62,CA
+37458,3/25/2014,Pet Supply - Cat Food,-32.62,CA
+37458,3/25/2014,Taxi,-7.57,CA
+37458,3/25/2014,On Demand Movie,-23.93,CA
+37458,3/26/2014,Starbucks Coffee,-12.35,CA
+37458,3/26/2014,Red Box DVD Rental,-20.88,CA
+37458,3/26/2014,Food Delivery - Uber Eats,-26.95,CA
+37458,3/26/2014,Pet Supply - Cat Food,-33.35,CA
+37458,3/27/2014,Whole Foods,-103.94,CA
+37458,3/27/2014,Pet Supply - Cat Food,-29.09,CA
+37458,3/28/2014,PlayStation Membership,-3.67,CA
+37458,3/28/2014,Starbucks Coffee,-114.57,CA
+37458,3/28/2014,Public Transportation - Bus Pass,-7.49,CA
+37458,3/29/2014,Restaurant - Burgers,-11.03,CA
+37458,3/29/2014,Lyft,-10.54,CA
+37458,3/29/2014,Food Delivery - GrubHub,-33.7,CA
+37458,3/30/2014,Wine Delivery,-28.42,CA
+37458,3/30/2014,Red Box DVD Rental,-28.98,CA
+37458,3/30/2014,Restaurant - Steakhouse,-53.72,CA
+37458,3/30/2014,Pet Smart,-38.78,CA
+37458,3/30/2014,Red Box DVD Rental,-17.72,CA
+37458,4/2/2014,Paycheck,4136,CA
+37458,4/2/2014,Housing Rent,-896,CA
+37458,4/2/2014,Navient - Student Loans,-197,CA
+37458,4/2/2014,Time Warner Cable,-25,CA
+37458,4/2/2014,Water & Sewer,-53,CA
+37458,4/2/2014,Gas & Electric,-32,CA
+37458,4/2/2014,Pet Smart,-21.11,CA
+37458,4/2/2014,Food Delivery - Uber Eats,-62.03,CA
+37458,4/3/2014,Wine Delivery,-17.83,CA
+37458,4/4/2014,Podcast Subscription,-7.04,CA
+37458,4/5/2014,Uber,-47.29,CA
+37458,4/5/2014,Red Box DVD Rental,-22.49,CA
+37458,4/5/2014,Whole Foods,-16.36,CA
+37458,4/5/2014,Public Transportation - Bus Pass,-7.14,CA
+37458,4/6/2014,Food Delivery - GrubHub,-22.65,CA
+37458,4/6/2014,Uber,-3.15,CA
+37458,4/6/2014,Restaurant - Steakhouse,-19.63,CA
+37458,4/6/2014,Food Delivery - GrubHub,-51.21,CA
+37458,4/6/2014,Lyft,-1.02,CA
+37458,4/7/2014,Food Delivery - GrubHub,-15.5,CA
+37458,4/8/2014,Pet Smart,-28.02,CA
+37458,4/8/2014,Food Delivery - GrubHub,-36.51,CA
+37458,4/8/2014,Public Transportation - Bus Pass,-91.55,CA
+37458,4/8/2014,Podcast Subscription,-25.91,CA
+37458,4/9/2014,Food Delivery - GrubHub,-34.73,CA
+37458,4/9/2014,On Demand TV,-39.23,CA
+37458,4/10/2014,Lyft,-29.72,CA
+37458,4/10/2014,Whole Foods,-14.65,CA
+37458,4/10/2014,Restaurant - Steakhouse,-22.93,CA
+37458,4/11/2014,Wine Delivery,-32.2,CA
+37458,4/12/2014,Wine Delivery,-1.95,CA
+37458,4/13/2014,Wine Delivery,-12.4,CA
+37458,4/13/2014,Uber,-115.66,CA
+37458,4/13/2014,On Demand TV,-21.6,CA
+37458,4/13/2014,Restaurant - Chinese,-64.52,CA
+37458,4/13/2014,Food Delivery - GrubHub,-28.45,CA
+37458,4/13/2014,On Demand TV,-30.36,CA
+37458,4/14/2014,On Demand TV,-36.46,CA
+37458,4/14/2014,Wine Delivery,-11.83,CA
+37458,4/14/2014,On Demand TV,-15.47,CA
+37458,4/14/2014,On Demand Movie,-112.57,CA
+37458,4/14/2014,Podcast Subscription,-26.61,CA
+37458,4/14/2014,Podcast Subscription,-72.95,CA
+37458,4/15/2014,Uber,-17.93,CA
+37458,4/15/2014,PlayStation Membership,-29.9,CA
+37458,4/15/2014,Food Delivery - Uber Eats,-10.53,CA
+37458,4/16/2014,Restaurant - Pizza,-29.41,CA
+37458,4/16/2014,Pet Supply - Cat Food,-27.92,CA
+37458,4/17/2014,Podcast Subscription,-17.93,CA
+37458,4/18/2014,Food Delivery - GrubHub,-5.33,CA
+37458,4/18/2014,Wine Delivery,-29.42,CA
+37458,4/18/2014,Food Delivery - GrubHub,-55.4,CA
+37458,4/19/2014,PlayStation Membership,-31.44,CA
+37458,4/20/2014,Food Delivery - GrubHub,-33.43,CA
+37458,4/21/2014,Lyft,-31.6,CA
+37458,4/21/2014,Whole Foods,-15.12,CA
+37458,4/21/2014,Wine Delivery,-13.95,CA
+37458,4/21/2014,Food Delivery - GrubHub,-26.8,CA
+37458,4/21/2014,On Demand TV,-3.79,CA
+37458,4/21/2014,Food Delivery - GrubHub,-5.53,CA
+37458,4/21/2014,Lyft,-84.26,CA
+37458,4/21/2014,On Demand Movie,-35.18,CA
+37458,4/22/2014,Wine Delivery,-37.25,CA
+37458,4/22/2014,Pet Supply - Cat Food,-27.35,CA
+37458,4/22/2014,Public Transportation - Train Pass,-3.19,CA
+37458,4/22/2014,Restaurant - Pizza,-29.53,CA
+37458,4/22/2014,Restaurant - Burgers,-12.44,CA
+37458,4/22/2014,Public Transportation - Train Pass,-93.21,CA
+37458,4/23/2014,Food Delivery - GrubHub,-25.17,CA
+37458,4/23/2014,Public Transportation - Train Pass,-0.93,CA
+37458,4/23/2014,Public Transportation - Bus Pass,-26.18,CA
+37458,4/23/2014,Food Delivery - GrubHub,-27.64,CA
+37458,4/24/2014,Wine Delivery,-13.25,CA
+37458,4/25/2014,Pet Smart,-8.14,CA
+37458,4/25/2014,On Demand Movie,-34.5,CA
+37458,4/26/2014,Red Box DVD Rental,-71.88,CA
+37458,4/26/2014,Red Box DVD Rental,-116.47,CA
+37458,4/27/2014,Food Delivery - GrubHub,-33.97,CA
+37458,4/27/2014,Podcast Subscription,-56.85,CA
+37458,4/27/2014,Wine Delivery,-66.3,CA
+37458,4/27/2014,On Demand TV,-26.03,CA
+37458,4/27/2014,Pet Smart,-0.57,CA
+37458,4/27/2014,On Demand TV,-3.6,CA
+37458,4/27/2014,Public Transportation - Train Pass,-27.23,CA
+37458,4/28/2014,Ralph's Grocery Store,-10.09,CA
+37458,4/28/2014,Sprouts Market,-10.58,CA
+37458,4/28/2014,On Demand TV,-10.67,CA
+37458,4/28/2014,Podcast Subscription,-31.15,CA
+37458,4/28/2014,Lyft,-17.71,CA
+37458,4/28/2014,On Demand TV,-67.53,CA
+37458,4/28/2014,Uber,-38.6,CA
+37458,4/28/2014,Red Box DVD Rental,-52.39,CA
+37458,4/28/2014,Public Transportation - Train Pass,-53.74,CA
+37458,4/28/2014,Restaurant - Burgers,-37,CA
+37458,4/28/2014,Public Transportation - Bus Pass,-24.18,CA
+37458,4/28/2014,Public Transportation - Bus Pass,-98.65,CA
+37458,4/28/2014,Pet Smart,-68.65,CA
+37458,4/28/2014,Food Delivery - GrubHub,-44.31,CA
+37458,4/28/2014,Food Delivery - Uber Eats,-18.56,CA
+37458,4/28/2014,Food Delivery - Uber Eats,-8.03,CA
+37458,4/29/2014,PlayStation Membership,-16.47,CA
+37458,4/29/2014,Pet Supply - Cat Food,-27.69,CA
+37458,4/30/2014,Red Box DVD Rental,-29.58,CA
+37458,4/30/2014,Uber,-6.77,CA
+37458,5/2/2014,Paycheck,4136,CA
+37458,5/2/2014,Housing Rent,-1372,CA
+37458,5/2/2014,Navient - Student Loans,-197,CA
+37458,5/2/2014,Time Warner Cable,-25,CA
+37458,5/2/2014,Water & Sewer,-53,CA
+37458,5/2/2014,Gas & Electric,-32,CA
+37458,5/2/2014,Podcast Subscription,-23.52,CA
+37458,5/3/2014,On Demand Movie,-28.4,CA
+37458,5/3/2014,Podcast Subscription,-16.15,CA
+37458,5/3/2014,Food Delivery - Uber Eats,-8.85,CA
+37458,5/4/2014,Red Box DVD Rental,-17.7,CA
+37458,5/4/2014,Red Box DVD Rental,-34.89,CA
+37458,5/4/2014,Pet Smart,-23.04,CA
+37458,5/4/2014,Taxi,-1.93,CA
+37458,5/4/2014,Pet Smart,-28.58,CA
+37458,5/4/2014,Red Box DVD Rental,-24.52,CA
+37458,5/5/2014,Pet Supply - Cat Food,-37.59,CA
+37458,5/5/2014,Pet Supply - Cat Food,-7.59,CA
+37458,5/5/2014,Taxi,-21.89,CA
+37458,5/5/2014,Lyft,-27.07,CA
+37458,5/5/2014,Sprouts Market,-19.04,CA
+37458,5/5/2014,Food Delivery - GrubHub,-110.85,CA
+37458,5/5/2014,On Demand Movie,-25.35,CA
+37458,5/5/2014,Pet Smart,-95.68,CA
+37458,5/5/2014,Uber,-2.52,CA
+37458,5/5/2014,Lyft,-37.93,CA
+37458,5/6/2014,Pet Smart,-27.55,CA
+37458,5/6/2014,Lyft,-1.83,CA
+37458,5/6/2014,Pet Supply - Cat Food,-79.17,CA
+37458,5/6/2014,Pet Smart,-104.6,CA
+37458,5/6/2014,Restaurant - Burgers,-9.42,CA
+37458,5/6/2014,Pet Smart,-18.22,CA
+37458,5/6/2014,Food Delivery - Uber Eats,-37.73,CA
+37458,5/7/2014,Taxi,-25.11,CA
+37458,5/8/2014,Food Delivery - GrubHub,-54.75,CA
+37458,5/8/2014,Uber,-20.74,CA
+37458,5/8/2014,On Demand TV,-38.97,CA
+37458,5/8/2014,On Demand Movie,-4.04,CA
+37458,5/8/2014,Restaurant - Pizza,-17.23,CA
+37458,5/9/2014,Pet Supply - Cat Food,-2.3,CA
+37458,5/9/2014,Red Box DVD Rental,-76.48,CA
+37458,5/9/2014,Food Delivery - GrubHub,-26.2,CA
+37458,5/10/2014,Restaurant - Burgers,-61.29,CA
+37458,5/10/2014,Public Transportation - Bus Pass,-32.78,CA
+37458,5/10/2014,Uber,-6.29,CA
+37458,5/11/2014,Ralph's Grocery Store,-19.19,CA
+37458,5/11/2014,Lyft,-83.51,CA
+37458,5/11/2014,Pet Supply - Cat Food,-24.14,CA
+37458,5/11/2014,Whole Foods,-5.65,CA
+37458,5/12/2014,Podcast Subscription,-21.62,CA
+37458,5/12/2014,Pet Smart,-2.09,CA
+37458,5/12/2014,Sprouts Market,-2.41,CA
+37458,5/12/2014,Podcast Subscription,-18.01,CA
+37458,5/13/2014,Food Delivery - Uber Eats,-13.76,CA
+37458,5/13/2014,Red Box DVD Rental,-38.37,CA
+37458,5/14/2014,Red Box DVD Rental,-26.19,CA
+37458,5/14/2014,On Demand TV,-57.27,CA
+37458,5/14/2014,Red Box DVD Rental,-7.04,CA
+37458,5/14/2014,Von's Groceries,-32.19,CA
+37458,5/15/2014,On Demand Movie,-17.06,CA
+37458,5/15/2014,Pet Smart,-92.43,CA
+37458,5/16/2014,Pet Supply - Cat Food,-5.38,CA
+37458,5/16/2014,Sprouts Market,-1.6,CA
+37458,5/17/2014,Food Delivery - GrubHub,-111.82,CA
+37458,5/17/2014,Pet Smart,-6.82,CA
+37458,5/17/2014,Taxi,-7.07,CA
+37458,5/17/2014,Food Delivery - Uber Eats,-20.27,CA
+37458,5/18/2014,Lyft,-14.93,CA
+37458,5/19/2014,Restaurant - Pizza,-31.7,CA
+37458,5/19/2014,Wine Delivery,-16.47,CA
+37458,5/19/2014,Podcast Subscription,-10.08,CA
+37458,5/19/2014,Pet Smart,-24.51,CA
+37458,5/20/2014,Public Transportation - Train Pass,-13.34,CA
+37458,5/21/2014,Pet Supply - Cat Food,-27.01,CA
+37458,5/21/2014,Public Transportation - Train Pass,-31.19,CA
+37458,5/21/2014,Food Delivery - Uber Eats,-38.87,CA
+37458,5/21/2014,Public Transportation - Bus Pass,-34.99,CA
+37458,5/21/2014,Restaurant - Steakhouse,-6.46,CA
+37458,5/21/2014,Food Delivery - GrubHub,-26.27,CA
+37458,5/21/2014,Pet Smart,-27.7,CA
+37458,5/22/2014,Podcast Subscription,-7.4,CA
+37458,5/22/2014,Uber,-95.84,CA
+37458,5/23/2014,Food Delivery - Uber Eats,-34.39,CA
+37458,5/23/2014,Sprouts Market,-33.31,CA
+37458,5/23/2014,Uber,-35.27,CA
+37458,5/23/2014,Restaurant - Pizza,-14.72,CA
+37458,5/24/2014,PlayStation Membership,-33.35,CA
+37458,5/24/2014,Podcast Subscription,-30.24,CA
+37458,5/24/2014,Food Delivery - GrubHub,-18.04,CA
+37458,5/25/2014,Uber,-78.59,CA
+37458,5/25/2014,Restaurant - Burgers,-6.09,CA
+37458,5/25/2014,On Demand Movie,-24.12,CA
+37458,5/26/2014,Podcast Subscription,-2.18,CA
+37458,5/26/2014,Podcast Subscription,-26.24,CA
+37458,5/27/2014,On Demand Movie,-32.51,CA
+37458,5/27/2014,Pet Smart,-11.94,CA
+37458,5/27/2014,Restaurant - Pizza,-71.48,CA
+37458,5/27/2014,Lyft,-21.8,CA
+37458,5/28/2014,Red Box DVD Rental,-92.96,CA
+37458,5/28/2014,Public Transportation - Train Pass,-109.4,CA
+37458,5/29/2014,Public Transportation - Train Pass,-28.98,CA
+37458,5/29/2014,Food Delivery - GrubHub,-5.09,CA
+37458,5/30/2014,Pet Smart,-38.73,CA
+37458,5/30/2014,On Demand Movie,-7.55,CA
+37458,5/30/2014,On Demand TV,-0.65,CA
+37458,5/30/2014,Pet Smart,-11.78,CA
+37458,6/2/2014,Paycheck,4136,CA
+37458,6/2/2014,Housing Rent,-1100,CA
+37458,6/2/2014,Navient - Student Loans,-197,CA
+37458,6/2/2014,Time Warner Cable,-25,CA
+37458,6/2/2014,Water & Sewer,-53,CA
+37458,6/2/2014,Gas & Electric,-32,CA
+37458,6/2/2014,Public Transportation - Train Pass,-29.13,CA
+37458,6/3/2014,Taxi,-22.11,CA
+37458,6/4/2014,Public Transportation - Bus Pass,-14.78,CA
+37458,6/4/2014,PlayStation Membership,-38.12,CA
+37458,6/4/2014,Pet Smart,-8.76,CA
+37458,6/5/2014,Restaurant - Steakhouse,-16.92,CA
+37458,6/6/2014,PlayStation Membership,-2.92,CA
+37458,6/6/2014,Von's Groceries,-18.58,CA
+37458,6/6/2014,Food Delivery - GrubHub,-10.72,CA
+37458,6/6/2014,Lyft,-32.45,CA
+37458,6/6/2014,Pet Supply - Cat Food,-15.12,CA
+37458,6/7/2014,Food Delivery - Uber Eats,-4.03,CA
+37458,6/7/2014,Pet Smart,-32.89,CA
+37458,6/7/2014,Pet Supply - Cat Food,-102.59,CA
+37458,6/7/2014,Wine Delivery,-14.1,CA
+37458,6/8/2014,Pet Supply - Cat Food,-31.72,CA
+37458,6/8/2014,Taxi,-27.97,CA
+37458,6/8/2014,Starbucks Coffee,-35.8,CA
+37458,6/8/2014,Ralph's Grocery Store,-22.84,CA
+37458,6/8/2014,On Demand TV,-80.39,CA
+37458,6/9/2014,Sprouts Market,-2.15,CA
+37458,6/10/2014,Whole Foods,-96.39,CA
+37458,6/11/2014,Sprouts Market,-19.59,CA
+37458,6/11/2014,Podcast Subscription,-15.88,CA
+37458,6/11/2014,Pet Supply - Cat Food,-104.66,CA
+37458,6/11/2014,Kay Jewelry,-7.02,CA
+37458,6/11/2014,Wedding Planner,-8.76,CA
+37458,6/11/2014,Southwest Flights - Cancun,-33.96,CA
+37458,6/11/2014,Cancun Beach Resort,-14.08,CA
+37458,6/11/2014,Taxi,-34.81,CA
+37458,6/11/2014,Restaurant - Burgers,-7.65,CA
+37458,6/11/2014,Pet Smart,-19.72,CA
+37458,6/11/2014,Podcast Subscription,-5.8,CA
+37458,6/11/2014,Public Transportation - Bus Pass,-31.45,CA
+37458,6/11/2014,Lyft,-3.68,CA
+37458,6/12/2014,Uber,-86.81,CA
+37458,6/12/2014,Wine Delivery,-17.42,CA
+37458,6/12/2014,On Demand Movie,-36.9,CA
+37458,6/12/2014,Lyft,-23.41,CA
+37458,6/13/2014,On Demand Movie,-71.7,CA
+37458,6/14/2014,Restaurant - Chinese,-80.55,CA
+37458,6/14/2014,Uber,-25.48,CA
+37458,6/14/2014,Red Box DVD Rental,-30.17,CA
+37458,6/14/2014,Restaurant - Chinese,-29.76,CA
+37458,6/15/2014,Taxi,-37.82,CA
+37458,6/16/2014,Public Transportation - Bus Pass,-28.65,CA
+37458,6/16/2014,PlayStation Membership,-5.94,CA
+37458,6/16/2014,Food Delivery - GrubHub,-45.33,CA
+37458,6/16/2014,Restaurant - Burgers,-35.66,CA
+37458,6/16/2014,Food Delivery - GrubHub,-4.76,CA
+37458,6/16/2014,Lyft,-35.71,CA
+37458,6/17/2014,On Demand Movie,-10.99,CA
+37458,6/17/2014,Public Transportation - Bus Pass,-87.35,CA
+37458,6/17/2014,Restaurant - Steakhouse,-22.41,CA
+37458,6/17/2014,On Demand Movie,-7.37,CA
+37458,6/17/2014,Pet Supply - Cat Food,-16.66,CA
+37458,6/17/2014,PlayStation Membership,-38.28,CA
+37458,6/17/2014,Podcast Subscription,-24.92,CA
+37458,6/18/2014,Food Delivery - GrubHub,-11.81,CA
+37458,6/19/2014,Podcast Subscription,-11.78,CA
+37458,6/20/2014,Pet Supply - Cat Food,-26.87,CA
+37458,6/21/2014,Lyft,-15.42,CA
+37458,6/21/2014,Podcast Subscription,-0.98,CA
+37458,6/21/2014,On Demand TV,-9.49,CA
+37458,6/21/2014,Whole Foods,-7.37,CA
+37458,6/21/2014,Pet Smart,-35.56,CA
+37458,6/21/2014,Restaurant - Burgers,-8.53,CA
+37458,6/21/2014,Public Transportation - Bus Pass,-23.1,CA
+37458,6/22/2014,Public Transportation - Train Pass,-92.61,CA
+37458,6/23/2014,Restaurant - Chinese,-109.29,CA
+37458,6/24/2014,On Demand TV,-23.69,CA
+37458,6/24/2014,Pet Supply - Cat Food,-5.6,CA
+37458,6/25/2014,Restaurant - Burgers,-8.98,CA
+37458,6/25/2014,On Demand Movie,-1.03,CA
+37458,6/25/2014,Restaurant - Burgers,-5.11,CA
+37458,6/25/2014,Food Delivery - Uber Eats,-82.87,CA
+37458,6/25/2014,Public Transportation - Bus Pass,-32.23,CA
+37458,6/25/2014,Taxi,-30.78,CA
+37458,6/25/2014,Restaurant - Chinese,-3.91,CA
+37458,6/26/2014,Taxi,-39.16,CA
+37458,6/26/2014,Podcast Subscription,-25.01,CA
+37458,6/26/2014,Taxi,-8.92,CA
+37458,6/26/2014,On Demand TV,-27.76,CA
+37458,6/27/2014,Starbucks Coffee,-28.67,CA
+37458,6/27/2014,Taxi,-44.64,CA
+37458,6/27/2014,Sprouts Market,-16.77,CA
+37458,6/27/2014,PlayStation Membership,-14.64,CA
+37458,6/27/2014,Wine Delivery,-23.81,CA
+37458,6/27/2014,On Demand Movie,-2.69,CA
+37458,6/27/2014,Wine Delivery,-6.74,CA
+37458,6/27/2014,Public Transportation - Bus Pass,-2.41,CA
+37458,6/27/2014,Lyft,-17.03,CA
+37458,6/28/2014,Red Box DVD Rental,-2.54,CA
+37458,6/29/2014,Von's Groceries,-8.48,CA
+37458,6/29/2014,Taxi,-3.16,CA
+37458,6/30/2014,Uber,-31.68,CA
+37458,6/30/2014,Restaurant - Chinese,-37.71,CA
+37458,7/2/2014,Paycheck,4136,CA
+37458,7/2/2014,Housing Rent,-1380,CA
+37458,7/2/2014,Navient - Student Loans,-197,CA
+37458,7/2/2014,Time Warner Cable,-25,CA
+37458,7/2/2014,Water & Sewer,-53,CA
+37458,7/2/2014,Gas & Electric,-32,CA
+37458,7/2/2014,Ralph's Grocery Store,-38.64,CA
+37458,7/2/2014,Food Delivery - GrubHub,-6.95,CA
+37458,7/2/2014,Pet Smart,-15.6,CA
+37458,7/3/2014,PlayStation Membership,-9.92,CA
+37458,7/3/2014,On Demand Movie,-4.17,CA
+37458,7/3/2014,Taxi,-7.44,CA
+37458,7/3/2014,Pet Smart,-9.71,CA
+37458,7/3/2014,Taxi,-24.19,CA
+37458,7/3/2014,On Demand TV,-12.64,CA
+37458,7/3/2014,Pet Smart,-31.41,CA
+37458,7/4/2014,Pet Supply - Cat Food,-92.29,CA
+37458,7/4/2014,On Demand TV,-3.25,CA
+37458,7/4/2014,Uber,-6.48,CA
+37458,7/4/2014,Whole Foods,-10.04,CA
+37458,7/4/2014,On Demand Movie,-105.38,CA
+37458,7/4/2014,Public Transportation - Bus Pass,-30.6,CA
+37458,7/4/2014,Pet Smart,-19.33,CA
+37458,7/5/2014,Uber,-13.54,CA
+37458,7/5/2014,Red Box DVD Rental,-7.21,CA
+37458,7/5/2014,PlayStation Membership,-13.24,CA
+37458,7/5/2014,On Demand Movie,-26.09,CA
+37458,7/5/2014,PlayStation Membership,-17.48,CA
+37458,7/6/2014,Starbucks Coffee,-87.64,CA
+37458,7/6/2014,Food Delivery - Uber Eats,-9.56,CA
+37458,7/6/2014,Sprouts Market,-31.7,CA
+37458,7/6/2014,Whole Foods,-24.34,CA
+37458,7/7/2014,Ralph's Grocery Store,-21.18,CA
+37458,7/8/2014,Food Delivery - GrubHub,-34.12,CA
+37458,7/8/2014,Public Transportation - Train Pass,-22.05,CA
+37458,7/9/2014,Podcast Subscription,-2.23,CA
+37458,7/9/2014,On Demand Movie,-79.16,CA
+37458,7/9/2014,Red Box DVD Rental,-4.77,CA
+37458,7/10/2014,Lyft,-19.27,CA
+37458,7/10/2014,Food Delivery - GrubHub,-2.19,CA
+37458,7/10/2014,Restaurant - Steakhouse,-0.72,CA
+37458,7/10/2014,Food Delivery - GrubHub,-21.09,CA
+37458,7/10/2014,Uber,-22.26,CA
+37458,7/11/2014,Podcast Subscription,-4.32,CA
+37458,7/12/2014,Podcast Subscription,-35.39,CA
+37458,7/12/2014,Food Delivery - Uber Eats,-21.15,CA
+37458,7/12/2014,Red Box DVD Rental,-7.66,CA
+37458,7/12/2014,Public Transportation - Train Pass,-9.19,CA
+37458,7/12/2014,Public Transportation - Bus Pass,-34.12,CA
+37458,7/12/2014,Restaurant - Steakhouse,-85.85,CA
+37458,7/12/2014,Podcast Subscription,-1.71,CA
+37458,7/12/2014,Restaurant - Burgers,-0.79,CA
+37458,7/12/2014,Food Delivery - Uber Eats,-22.07,CA
+37458,7/13/2014,Restaurant - Chinese,-30.3,CA
+37458,7/13/2014,Lyft,-62.37,CA
+37458,7/13/2014,Public Transportation - Bus Pass,-15.68,CA
+37458,7/13/2014,Uber,-14.69,CA
+37458,7/13/2014,Public Transportation - Train Pass,-9.68,CA
+37458,7/14/2014,Wine Delivery,-21.61,CA
+37458,7/14/2014,PlayStation Membership,-0.84,CA
+37458,7/14/2014,Red Box DVD Rental,-31.63,CA
+37458,7/15/2014,Restaurant - Burgers,-21.08,CA
+37458,7/16/2014,Public Transportation - Train Pass,-9.61,CA
+37458,7/17/2014,Pet Supply - Cat Food,-47.72,CA
+37458,7/17/2014,On Demand Movie,-4.23,CA
+37458,7/17/2014,Public Transportation - Bus Pass,-38.36,CA
+37458,7/18/2014,Uber,-29.28,CA
+37458,7/18/2014,Public Transportation - Train Pass,-22.18,CA
+37458,7/18/2014,Red Box DVD Rental,-24.89,CA
+37458,7/19/2014,Restaurant - Burgers,-2.82,CA
+37458,7/19/2014,Ralph's Grocery Store,-0.48,CA
+37458,7/19/2014,On Demand TV,-15.44,CA
+37458,7/19/2014,Sprouts Market,-38.29,CA
+37458,7/20/2014,Whole Foods,-17.43,CA
+37458,7/20/2014,Pet Smart,-38.72,CA
+37458,7/20/2014,Podcast Subscription,-58,CA
+37458,7/20/2014,Uber,-33.01,CA
+37458,7/20/2014,Food Delivery - GrubHub,-108.21,CA
+37458,7/21/2014,Food Delivery - GrubHub,-19.11,CA
+37458,7/21/2014,Uber,-9.89,CA
+37458,7/21/2014,Podcast Subscription,-9.96,CA
+37458,7/21/2014,Starbucks Coffee,-20.93,CA
+37458,7/21/2014,Starbucks Coffee,-33.9,CA
+37458,7/21/2014,PlayStation Membership,-35.2,CA
+37458,7/22/2014,On Demand TV,-2.61,CA
+37458,7/22/2014,Public Transportation - Bus Pass,-5.44,CA
+37458,7/23/2014,Pet Supply - Cat Food,-5.27,CA
+37458,7/23/2014,Public Transportation - Bus Pass,-36.69,CA
+37458,7/23/2014,Lyft,-23.33,CA
+37458,7/23/2014,Food Delivery - GrubHub,-16.29,CA
+37458,7/23/2014,Restaurant - Burgers,-2.93,CA
+37458,7/23/2014,Podcast Subscription,-3.71,CA
+37458,7/24/2014,Public Transportation - Bus Pass,-35.7,CA
+37458,7/24/2014,Restaurant - Steakhouse,-31.47,CA
+37458,7/24/2014,Uber,-30.59,CA
+37458,7/24/2014,Red Box DVD Rental,-11.33,CA
+37458,7/24/2014,Taxi,-25.88,CA
+37458,7/24/2014,On Demand TV,-49.26,CA
+37458,7/24/2014,Podcast Subscription,-31.91,CA
+37458,7/25/2014,Restaurant - Burgers,-23.46,CA
+37458,7/26/2014,Wine Delivery,-46.21,CA
+37458,7/27/2014,Restaurant - Chinese,-11.52,CA
+37458,7/28/2014,Starbucks Coffee,-110.14,CA
+37458,7/28/2014,Red Box DVD Rental,-38.62,CA
+37458,7/28/2014,On Demand TV,-36.98,CA
+37458,7/28/2014,Public Transportation - Train Pass,-18.01,CA
+37458,7/29/2014,Podcast Subscription,-112.88,CA
+37458,7/29/2014,Public Transportation - Train Pass,-8.96,CA
+37458,7/29/2014,Taxi,-30.5,CA
+37458,7/29/2014,Restaurant - Steakhouse,-3.95,CA
+37458,7/30/2014,Wine Delivery,-30.12,CA
+37458,7/30/2014,Food Delivery - GrubHub,-23.62,CA
+37458,7/30/2014,Lyft,-28.16,CA
+37458,7/30/2014,Podcast Subscription,-10.13,CA
+37458,8/2/2014,Paycheck,4136,CA
+37458,8/2/2014,Housing Rent,-821,CA
+37458,8/2/2014,Navient - Student Loans,-197,CA
+37458,8/2/2014,Time Warner Cable,-25,CA
+37458,8/2/2014,Water & Sewer,-53,CA
+37458,8/2/2014,Gas & Electric,-32,CA
+37458,8/2/2014,Pet Smart,-60.3,CA
+37458,8/2/2014,Podcast Subscription,-65.8,CA
+37458,8/3/2014,Pet Smart,-90.09,CA
+37458,8/3/2014,Public Transportation - Train Pass,-23.11,CA
+37458,8/3/2014,Restaurant - Steakhouse,-19.27,CA
+37458,8/3/2014,Food Delivery - Uber Eats,-58.1,CA
+37458,8/3/2014,Restaurant - Chinese,-31.93,CA
+37458,8/4/2014,Taxi,-7.15,CA
+37458,8/4/2014,Food Delivery - GrubHub,-30.75,CA
+37458,8/5/2014,Red Box DVD Rental,-62.81,CA
+37458,8/6/2014,Red Box DVD Rental,-35.09,CA
+37458,8/6/2014,Podcast Subscription,-7.45,CA
+37458,8/7/2014,On Demand Movie,-2.92,CA
+37458,8/7/2014,Pet Smart,-15.04,CA
+37458,8/7/2014,PlayStation Membership,-11.86,CA
+37458,8/7/2014,Uber,-9.33,CA
+37458,8/7/2014,Red Box DVD Rental,-90.93,CA
+37458,8/7/2014,Wine Delivery,-1.33,CA
+37458,8/7/2014,Public Transportation - Train Pass,-5.89,CA
+37458,8/8/2014,On Demand Movie,-23.37,CA
+37458,8/8/2014,PlayStation Membership,-26.57,CA
+37458,8/9/2014,On Demand Movie,-20.83,CA
+37458,8/9/2014,Food Delivery - Uber Eats,-27.9,CA
+37458,8/9/2014,Pet Supply - Cat Food,-28.85,CA
+37458,8/9/2014,Von's Groceries,-6.16,CA
+37458,8/10/2014,Podcast Subscription,-61.18,CA
+37458,8/11/2014,On Demand Movie,-105.83,CA
+37458,8/11/2014,Taxi,-9.88,CA
+37458,8/11/2014,Pet Supply - Cat Food,-1.73,CA
+37458,8/11/2014,On Demand TV,-67.63,CA
+37458,8/11/2014,Podcast Subscription,-15.9,CA
+37458,8/11/2014,Lyft,-21.58,CA
+37458,8/11/2014,Starbucks Coffee,-69.16,CA
+37458,8/12/2014,Food Delivery - GrubHub,-19.83,CA
+37458,8/12/2014,Pet Smart,-66.2,CA
+37458,8/13/2014,Von's Groceries,-18.83,CA
+37458,8/13/2014,Podcast Subscription,-19.24,CA
+37458,8/14/2014,Red Box DVD Rental,-21.1,CA
+37458,8/14/2014,Taxi,-2.74,CA
+37458,8/14/2014,Pet Supply - Cat Food,-27.08,CA
+37458,8/14/2014,Taxi,-20.44,CA
+37458,8/14/2014,Podcast Subscription,-21.73,CA
+37458,8/15/2014,Uber,-33.48,CA
+37458,8/15/2014,On Demand Movie,-4.73,CA
+37458,8/15/2014,Pet Smart,-114.86,CA
+37458,8/15/2014,PlayStation Membership,-29.27,CA
+37458,8/15/2014,Wine Delivery,-32.11,CA
+37458,8/15/2014,Wine Delivery,-93.78,CA
+37458,8/16/2014,Pet Smart,-23.55,CA
+37458,8/16/2014,Ralph's Grocery Store,-21.86,CA
+37458,8/16/2014,Restaurant - Pizza,-18.77,CA
+37458,8/16/2014,Food Delivery - GrubHub,-37.8,CA
+37458,8/16/2014,Pet Supply - Cat Food,-37.73,CA
+37458,8/16/2014,Food Delivery - GrubHub,-112.43,CA
+37458,8/17/2014,Food Delivery - Uber Eats,-64.24,CA
+37458,8/17/2014,Taxi,-20.08,CA
+37458,8/17/2014,Food Delivery - Uber Eats,-58.99,CA
+37458,8/17/2014,Food Delivery - GrubHub,-2.44,CA
+37458,8/17/2014,Red Box DVD Rental,-20.22,CA
+37458,8/18/2014,Ralph's Grocery Store,-51.28,CA
+37458,8/18/2014,Restaurant - Chinese,-29.74,CA
+37458,8/19/2014,On Demand Movie,-90.5,CA
+37458,8/20/2014,Restaurant - Pizza,-29.3,CA
+37458,8/21/2014,On Demand Movie,-19.69,CA
+37458,8/21/2014,Public Transportation - Bus Pass,-31.9,CA
+37458,8/22/2014,On Demand Movie,-2.82,CA
+37458,8/22/2014,Public Transportation - Bus Pass,-9.26,CA
+37458,8/22/2014,Pet Supply - Cat Food,-94.5,CA
+37458,8/22/2014,Restaurant - Pizza,-7.28,CA
+37458,8/23/2014,Podcast Subscription,-31.01,CA
+37458,8/23/2014,Food Delivery - Uber Eats,-36.82,CA
+37458,8/23/2014,Food Delivery - Uber Eats,-2.68,CA
+37458,8/23/2014,Public Transportation - Train Pass,-21.04,CA
+37458,8/24/2014,Public Transportation - Train Pass,-16.84,CA
+37458,8/24/2014,On Demand TV,-7.82,CA
+37458,8/24/2014,Pet Supply - Cat Food,-38.2,CA
+37458,8/25/2014,On Demand Movie,-30.18,CA
+37458,8/26/2014,Pet Supply - Cat Food,-8.16,CA
+37458,8/27/2014,Wine Delivery,-111.03,CA
+37458,8/27/2014,Lyft,-30.2,CA
+37458,8/28/2014,Public Transportation - Train Pass,-72.63,CA
+37458,8/28/2014,Wine Delivery,-12.51,CA
+37458,8/28/2014,Pet Supply - Cat Food,-56.16,CA
+37458,8/28/2014,Restaurant - Steakhouse,-115.58,CA
+37458,8/29/2014,Pet Smart,-98.02,CA
+37458,8/29/2014,Red Box DVD Rental,-2.59,CA
+37458,8/29/2014,Whole Foods,-25.9,CA
+37458,8/29/2014,Whole Foods,-13.95,CA
+37458,8/29/2014,Uber,-13.22,CA
+37458,8/29/2014,Red Box DVD Rental,-34.34,CA
+37458,8/29/2014,Lyft,-31.63,CA
+37458,8/30/2014,On Demand TV,-37.34,CA
+37458,8/30/2014,On Demand Movie,-22.46,CA
+37458,8/30/2014,Red Box DVD Rental,-28.79,CA
+37458,8/30/2014,Food Delivery - GrubHub,-65.55,CA
+37458,8/30/2014,Sprouts Market,-36.48,CA
+37458,9/2/2014,Paycheck,4136,CA
+37458,9/2/2014,Housing Rent,-1010,CA
+37458,9/2/2014,Navient - Student Loans,-197,CA
+37458,9/2/2014,Time Warner Cable,-25,CA
+37458,9/2/2014,Water & Sewer,-53,CA
+37458,9/2/2014,Gas & Electric,-32,CA
+37458,9/2/2014,On Demand TV,-22.75,CA
+37458,9/3/2014,Starbucks Coffee,-29.68,CA
+37458,9/3/2014,Red Box DVD Rental,-3.01,CA
+37458,9/3/2014,On Demand TV,-38.6,CA
+37458,9/3/2014,Pet Smart,-3.77,CA
+37458,9/4/2014,Food Delivery - GrubHub,-20.98,CA
+37458,9/4/2014,Whole Foods,-33.72,CA
+37458,9/4/2014,Pet Smart,-24.19,CA
+37458,9/4/2014,Public Transportation - Bus Pass,-24.37,CA
+37458,9/4/2014,Restaurant - Chinese,-14.42,CA
+37458,9/5/2014,Restaurant - Pizza,-23.01,CA
+37458,9/5/2014,Red Box DVD Rental,-14.56,CA
+37458,9/6/2014,Food Delivery - Uber Eats,-38.25,CA
+37458,9/6/2014,Podcast Subscription,-2.6,CA
+37458,9/7/2014,Public Transportation - Bus Pass,-1.76,CA
+37458,9/8/2014,Food Delivery - Uber Eats,-6.07,CA
+37458,9/9/2014,On Demand TV,-0.35,CA
+37458,9/9/2014,PlayStation Membership,-1.86,CA
+37458,9/10/2014,Pet Smart,-21.9,CA
+37458,9/10/2014,PlayStation Membership,-18.49,CA
+37458,9/11/2014,Food Delivery - GrubHub,-1,CA
+37458,9/11/2014,Taxi,-72.55,CA
+37458,9/11/2014,Wine Delivery,-25.97,CA
+37458,9/11/2014,Red Box DVD Rental,-108.59,CA
+37458,9/11/2014,Von's Groceries,-3.66,CA
+37458,9/11/2014,PlayStation Membership,-23.1,CA
+37458,9/11/2014,PlayStation Membership,-18.2,CA
+37458,9/12/2014,Pet Smart,-21.83,CA
+37458,9/12/2014,On Demand TV,-81.66,CA
+37458,9/13/2014,Restaurant - Steakhouse,-5.61,CA
+37458,9/13/2014,Pet Smart,-12.68,CA
+37458,9/13/2014,Food Delivery - GrubHub,-15.3,CA
+37458,9/14/2014,Pet Supply - Cat Food,-6.59,CA
+37458,9/14/2014,Podcast Subscription,-14.58,CA
+37458,9/15/2014,Pet Supply - Cat Food,-9.29,CA
+37458,9/15/2014,Pet Supply - Cat Food,-42.22,CA
+37458,9/16/2014,Food Delivery - Uber Eats,-9.43,CA
+37458,9/16/2014,Lyft,-30.47,CA
+37458,9/16/2014,Wine Delivery,-28.85,CA
+37458,9/17/2014,On Demand TV,-18.12,CA
+37458,9/17/2014,Restaurant - Chinese,-58.07,CA
+37458,9/17/2014,Red Box DVD Rental,-24.37,CA
+37458,9/17/2014,On Demand TV,-1.95,CA
+37458,9/18/2014,Red Box DVD Rental,-25.57,CA
+37458,9/18/2014,PlayStation Membership,-27.22,CA
+37458,9/19/2014,Podcast Subscription,-7.71,CA
+37458,9/19/2014,Wine Delivery,-20.23,CA
+37458,9/19/2014,Podcast Subscription,-89.77,CA
+37458,9/19/2014,Public Transportation - Train Pass,-13.96,CA
+37458,9/20/2014,On Demand TV,-101.86,CA
+37458,9/20/2014,Public Transportation - Train Pass,-14.46,CA
+37458,9/20/2014,Restaurant - Steakhouse,-10.37,CA
+37458,9/21/2014,Food Delivery - GrubHub,-36.56,CA
+37458,9/22/2014,Food Delivery - Uber Eats,-11,CA
+37458,9/22/2014,Red Box DVD Rental,-4.95,CA
+37458,9/23/2014,Food Delivery - Uber Eats,-31.3,CA
+37458,9/24/2014,Restaurant - Steakhouse,-6.53,CA
+37458,9/24/2014,PlayStation Membership,-37.1,CA
+37458,9/24/2014,Von's Groceries,-11.77,CA
+37458,9/24/2014,Uber,-37.27,CA
+37458,9/24/2014,Restaurant - Steakhouse,-9.42,CA
+37458,9/25/2014,Food Delivery - GrubHub,-12.24,CA
+37458,9/25/2014,Wine Delivery,-27.07,CA
+37458,9/26/2014,Pet Supply - Cat Food,-25.27,CA
+37458,9/26/2014,On Demand Movie,-16.87,CA
+37458,9/26/2014,Pet Supply - Cat Food,-97.34,CA
+37458,9/26/2014,On Demand Movie,-37.66,CA
+37458,9/26/2014,Pet Supply - Cat Food,-29.9,CA
+37458,9/26/2014,Food Delivery - GrubHub,-23.69,CA
+37458,9/26/2014,Lyft,-29.34,CA
+37458,9/26/2014,Pet Smart,-97.52,CA
+37458,9/26/2014,Whole Foods,-107.26,CA
+37458,9/26/2014,On Demand Movie,-31.87,CA
+37458,9/26/2014,PlayStation Membership,-26.78,CA
+37458,9/27/2014,Starbucks Coffee,-119.76,CA
+37458,9/28/2014,Podcast Subscription,-8.92,CA
+37458,9/28/2014,Wine Delivery,-32.19,CA
+37458,9/28/2014,Pet Smart,-93.81,CA
+37458,9/29/2014,Wine Delivery,-7.26,CA
+37458,9/29/2014,On Demand TV,-13.94,CA
+37458,9/29/2014,Wine Delivery,-22.46,CA
+37458,9/30/2014,Podcast Subscription,-3.54,CA
+37458,9/30/2014,Wine Delivery,-103.95,CA
+37458,9/30/2014,PlayStation Membership,-27.12,CA
+37458,9/30/2014,Food Delivery - GrubHub,-0.3,CA
+37458,10/2/2014,Paycheck,4136,CA
+37458,10/2/2014,Housing Rent,-1370,CA
+37458,10/2/2014,Navient - Student Loans,-197,CA
+37458,10/2/2014,Time Warner Cable,-25,CA
+37458,10/2/2014,Water & Sewer,-53,CA
+37458,10/2/2014,Gas & Electric,-32,CA
+37458,10/2/2014,Food Delivery - Uber Eats,-32.1,CA
+37458,10/2/2014,On Demand TV,-14.01,CA
+37458,10/2/2014,Pet Smart,-13.01,CA
+37458,10/2/2014,Pet Smart,-31.2,CA
+37458,10/2/2014,Wine Delivery,-5.42,CA
+37458,10/2/2014,Uber,-15.41,CA
+37458,10/3/2014,Wine Delivery,-3.78,CA
+37458,10/4/2014,Red Box DVD Rental,-13.33,CA
+37458,10/4/2014,Podcast Subscription,-3.76,CA
+37458,10/4/2014,Ralph's Grocery Store,-28.37,CA
+37458,10/4/2014,Food Delivery - GrubHub,-38.8,CA
+37458,10/4/2014,Taxi,-27.08,CA
+37458,10/5/2014,Podcast Subscription,-32.96,CA
+37458,10/5/2014,Sprouts Market,-26.41,CA
+37458,10/6/2014,Pet Smart,-100.5,CA
+37458,10/6/2014,On Demand TV,-52.89,CA
+37458,10/7/2014,Food Delivery - Uber Eats,-69.16,CA
+37458,10/7/2014,Uber,-32.91,CA
+37458,10/7/2014,Pet Smart,-11.4,CA
+37458,10/7/2014,PlayStation Membership,-1.37,CA
+37458,10/8/2014,On Demand TV,-37.89,CA
+37458,10/8/2014,Restaurant - Steakhouse,-28.41,CA
+37458,10/8/2014,Public Transportation - Train Pass,-47.51,CA
+37458,10/8/2014,Wine Delivery,-42.1,CA
+37458,10/8/2014,Ralph's Grocery Store,-31.28,CA
+37458,10/8/2014,Food Delivery - GrubHub,-14.85,CA
+37458,10/8/2014,Pet Supply - Cat Food,-25.52,CA
+37458,10/8/2014,Pet Smart,-28.44,CA
+37458,10/8/2014,Lyft,-12.32,CA
+37458,10/8/2014,On Demand TV,-3.14,CA
+37458,10/9/2014,Public Transportation - Train Pass,-77.69,CA
+37458,10/9/2014,Public Transportation - Bus Pass,-110.25,CA
+37458,10/9/2014,Food Delivery - Uber Eats,-81.94,CA
+37458,10/10/2014,Pet Smart,-16.48,CA
+37458,10/10/2014,Public Transportation - Train Pass,-89.38,CA
+37458,10/10/2014,Whole Foods,-0.84,CA
+37458,10/11/2014,On Demand TV,-35.49,CA
+37458,10/11/2014,On Demand Movie,-17.43,CA
+37458,10/12/2014,Restaurant - Chinese,-6.58,CA
+37458,10/13/2014,Food Delivery - Uber Eats,-88.71,CA
+37458,10/14/2014,Ralph's Grocery Store,-118.44,CA
+37458,10/15/2014,On Demand TV,-33.46,CA
+37458,10/15/2014,Restaurant - Steakhouse,-3.66,CA
+37458,10/15/2014,Ralph's Grocery Store,-37.63,CA
+37458,10/15/2014,Public Transportation - Bus Pass,-4.56,CA
+37458,10/16/2014,Pet Smart,-10.41,CA
+37458,10/16/2014,Lyft,-84,CA
+37458,10/17/2014,Food Delivery - GrubHub,-33.39,CA
+37458,10/18/2014,Von's Groceries,-108,CA
+37458,10/18/2014,Starbucks Coffee,-25.6,CA
+37458,10/18/2014,On Demand TV,-38.84,CA
+37458,10/18/2014,PlayStation Membership,-5.29,CA
+37458,10/18/2014,Public Transportation - Train Pass,-28.03,CA
+37458,10/18/2014,PlayStation Membership,-31.78,CA
+37458,10/18/2014,On Demand TV,-25.4,CA
+37458,10/18/2014,Von's Groceries,-39.64,CA
+37458,10/18/2014,Food Delivery - GrubHub,-3.5,CA
+37458,10/18/2014,Food Delivery - GrubHub,-11.83,CA
+37458,10/19/2014,On Demand Movie,-30.28,CA
+37458,10/20/2014,Restaurant - Burgers,-1.72,CA
+37458,10/21/2014,Food Delivery - GrubHub,-38.18,CA
+37458,10/22/2014,Food Delivery - GrubHub,-4.43,CA
+37458,10/23/2014,Taxi,-13.75,CA
+37458,10/24/2014,Whole Foods,-28.81,CA
+37458,10/25/2014,Red Box DVD Rental,-34.21,CA
+37458,10/25/2014,Pet Smart,-35.45,CA
+37458,10/26/2014,Pet Smart,-5.18,CA
+37458,10/26/2014,Pet Smart,-45.42,CA
+37458,10/27/2014,PlayStation Membership,-25.67,CA
+37458,10/27/2014,Restaurant - Steakhouse,-0.56,CA
+37458,10/27/2014,Food Delivery - GrubHub,-29.2,CA
+37458,10/28/2014,Whole Foods,-29.82,CA
+37458,10/28/2014,Red Box DVD Rental,-70.09,CA
+37458,10/28/2014,Wine Delivery,-29.1,CA
+37458,10/28/2014,Lyft,-32.28,CA
+37458,10/28/2014,Lyft,-37.65,CA
+37458,10/28/2014,Food Delivery - Uber Eats,-2.63,CA
+37458,10/28/2014,Red Box DVD Rental,-13.27,CA
+37458,10/28/2014,Restaurant - Pizza,-36.5,CA
+37458,10/29/2014,Podcast Subscription,-12.14,CA
+37458,10/29/2014,Restaurant - Burgers,-32.98,CA
+37458,10/29/2014,Wine Delivery,-3.39,CA
+37458,10/29/2014,Podcast Subscription,-23.99,CA
+37458,10/29/2014,On Demand Movie,-33.99,CA
+37458,10/29/2014,Podcast Subscription,-35.55,CA
+37458,10/29/2014,PlayStation Membership,-33.67,CA
+37458,10/29/2014,Food Delivery - GrubHub,-33.71,CA
+37458,10/29/2014,Sprouts Market,-36.01,CA
+37458,10/29/2014,Pet Smart,-5.93,CA
+37458,10/29/2014,On Demand TV,-14.51,CA
+37458,10/29/2014,Public Transportation - Bus Pass,-15.18,CA
+37458,10/30/2014,Public Transportation - Bus Pass,-17.94,CA
+37458,10/30/2014,Uber,-30.29,CA
+37458,10/30/2014,On Demand Movie,-7.96,CA
+37458,10/30/2014,Red Box DVD Rental,-16.26,CA
+37458,10/30/2014,Taxi,-2.25,CA
+37458,11/2/2014,Paycheck,4136,CA
+37458,11/2/2014,Housing Rent,-1252,CA
+37458,11/2/2014,Navient - Student Loans,-197,CA
+37458,11/2/2014,Time Warner Cable,-25,CA
+37458,11/2/2014,Water & Sewer,-53,CA
+37458,11/2/2014,Gas & Electric,-32,CA
+37458,11/2/2014,Lyft,-38.11,CA
+37458,11/2/2014,Taxi,-11.56,CA
+37458,11/2/2014,Uber,-10.15,CA
+37458,11/2/2014,Red Box DVD Rental,-34.04,CA
+37458,11/2/2014,Wine Delivery,-48.89,CA
+37458,11/2/2014,Starbucks Coffee,-3.74,CA
+37458,11/2/2014,PlayStation Membership,-34.56,CA
+37458,11/2/2014,Wine Delivery,-1.14,CA
+37458,11/2/2014,Food Delivery - Uber Eats,-17.5,CA
+37458,11/2/2014,Restaurant - Burgers,-35.02,CA
+37458,11/2/2014,Food Delivery - Uber Eats,-10.31,CA
+37458,11/2/2014,PlayStation Membership,-10.01,CA
+37458,11/2/2014,Wine Delivery,-21.99,CA
+37458,11/3/2014,Red Box DVD Rental,-58.59,CA
+37458,11/4/2014,Food Delivery - Uber Eats,-70.31,CA
+37458,11/4/2014,Whole Foods,-39.78,CA
+37458,11/4/2014,Red Box DVD Rental,-38.96,CA
+37458,11/4/2014,Restaurant - Burgers,-1.06,CA
+37458,11/4/2014,Food Delivery - GrubHub,-81.35,CA
+37458,11/4/2014,Pet Supply - Cat Food,-19.87,CA
+37458,11/4/2014,Food Delivery - Uber Eats,-67.4,CA
+37458,11/4/2014,PlayStation Membership,-29.79,CA
+37458,11/4/2014,Public Transportation - Train Pass,-3.54,CA
+37458,11/4/2014,Starbucks Coffee,-7.5,CA
+37458,11/4/2014,Restaurant - Burgers,-24.7,CA
+37458,11/4/2014,Public Transportation - Bus Pass,-31.23,CA
+37458,11/4/2014,Red Box DVD Rental,-15.46,CA
+37458,11/4/2014,On Demand Movie,-18.02,CA
+37458,11/4/2014,PlayStation Membership,-10.82,CA
+37458,11/5/2014,Food Delivery - GrubHub,-36.37,CA
+37458,11/5/2014,Uber,-0.51,CA
+37458,11/6/2014,On Demand TV,-20.93,CA
+37458,11/6/2014,Public Transportation - Train Pass,-38.17,CA
+37458,11/6/2014,On Demand Movie,-32.35,CA
+37458,11/6/2014,Food Delivery - Uber Eats,-34.14,CA
+37458,11/6/2014,Pet Supply - Cat Food,-14.49,CA
+37458,11/6/2014,Food Delivery - Uber Eats,-37.79,CA
+37458,11/6/2014,Pet Supply - Cat Food,-13.19,CA
+37458,11/7/2014,Public Transportation - Bus Pass,-29.44,CA
+37458,11/7/2014,Pet Smart,-8.09,CA
+37458,11/8/2014,Food Delivery - Uber Eats,-15.27,CA
+37458,11/8/2014,Wine Delivery,-38.03,CA
+37458,11/8/2014,Taxi,-90.35,CA
+37458,11/8/2014,Pet Supply - Cat Food,-7.5,CA
+37458,11/8/2014,PlayStation Membership,-9.88,CA
+37458,11/8/2014,On Demand TV,-8.02,CA
+37458,11/8/2014,Red Box DVD Rental,-35.54,CA
+37458,11/8/2014,Starbucks Coffee,-29.53,CA
+37458,11/8/2014,Uber,-4.21,CA
+37458,11/8/2014,Food Delivery - GrubHub,-39.79,CA
+37458,11/8/2014,Public Transportation - Train Pass,-0.68,CA
+37458,11/8/2014,Uber,-39.57,CA
+37458,11/8/2014,Pet Smart,-16.54,CA
+37458,11/8/2014,On Demand TV,-4.53,CA
+37458,11/8/2014,Public Transportation - Bus Pass,-86.66,CA
+37458,11/8/2014,Food Delivery - GrubHub,-36.24,CA
+37458,11/8/2014,Taxi,-20.49,CA
+37458,11/8/2014,Pet Supply - Cat Food,-12.25,CA
+37458,11/8/2014,Food Delivery - GrubHub,-38.84,CA
+37458,11/8/2014,Pet Smart,-4.93,CA
+37458,11/9/2014,Podcast Subscription,-4.2,CA
+37458,11/9/2014,Von's Groceries,-32.65,CA
+37458,11/10/2014,Food Delivery - GrubHub,-35.63,CA
+37458,11/11/2014,Pet Smart,-15.49,CA
+37458,11/11/2014,Starbucks Coffee,-23.7,CA
+37458,11/11/2014,Food Delivery - GrubHub,-4.31,CA
+37458,11/11/2014,Starbucks Coffee,-37.72,CA
+37458,11/12/2014,Ralph's Grocery Store,-2.64,CA
+37458,11/13/2014,Podcast Subscription,-14.34,CA
+37458,11/13/2014,Pet Smart,-33.24,CA
+37458,11/13/2014,Wine Delivery,-52.04,CA
+37458,11/13/2014,Podcast Subscription,-16.98,CA
+37458,11/13/2014,Lyft,-5.43,CA
+37458,11/14/2014,Food Delivery - GrubHub,-33.51,CA
+37458,11/15/2014,Food Delivery - Uber Eats,-17.31,CA
+37458,11/15/2014,Podcast Subscription,-8.78,CA
+37458,11/16/2014,PlayStation Membership,-18.79,CA
+37458,11/16/2014,Wine Delivery,-14.95,CA
+37458,11/16/2014,Restaurant - Burgers,-43.3,CA
+37458,11/17/2014,Restaurant - Pizza,-28.46,CA
+37458,11/17/2014,Public Transportation - Train Pass,-25.29,CA
+37458,11/17/2014,Food Delivery - GrubHub,-28.4,CA
+37458,11/18/2014,Public Transportation - Train Pass,-102.55,CA
+37458,11/18/2014,Pet Supply - Cat Food,-13.81,CA
+37458,11/18/2014,Von's Groceries,-29.36,CA
+37458,11/19/2014,Taxi,-5.38,CA
+37458,11/20/2014,Restaurant - Steakhouse,-18.12,CA
+37458,11/21/2014,Food Delivery - GrubHub,-14.39,CA
+37458,11/21/2014,Public Transportation - Bus Pass,-114.91,CA
+37458,11/22/2014,Uber,-25.14,CA
+37458,11/23/2014,Wine Delivery,-38.47,CA
+37458,11/24/2014,PlayStation Membership,-84.92,CA
+37458,11/25/2014,Ralph's Grocery Store,-2.44,CA
+37458,11/25/2014,Food Delivery - GrubHub,-31.95,CA
+37458,11/26/2014,Pet Smart,-2.7,CA
+37458,11/26/2014,Podcast Subscription,-36.62,CA
+37458,11/26/2014,Ralph's Grocery Store,-37.58,CA
+37458,11/26/2014,Wine Delivery,-39.9,CA
+37458,11/26/2014,Restaurant - Burgers,-28.1,CA
+37458,11/27/2014,Food Delivery - GrubHub,-15.95,CA
+37458,11/27/2014,Food Delivery - GrubHub,-117.08,CA
+37458,11/27/2014,Restaurant - Pizza,-26.14,CA
+37458,11/28/2014,Public Transportation - Bus Pass,-28.52,CA
+37458,11/28/2014,Podcast Subscription,-19.69,CA
+37458,11/28/2014,Restaurant - Steakhouse,-34.71,CA
+37458,11/28/2014,On Demand Movie,-3.14,CA
+37458,11/28/2014,Restaurant - Steakhouse,-16.6,CA
+37458,11/29/2014,On Demand Movie,-19.83,CA
+37458,11/29/2014,Food Delivery - GrubHub,-7.3,CA
+37458,11/30/2014,Podcast Subscription,-32.32,CA
+37458,11/30/2014,Lyft,-8.62,CA
+37458,12/2/2014,Paycheck,4136,CA
+37458,12/2/2014,Housing Rent,-1095,CA
+37458,12/2/2014,Navient - Student Loans,-197,CA
+37458,12/2/2014,Time Warner Cable,-25,CA
+37458,12/2/2014,Water & Sewer,-53,CA
+37458,12/2/2014,Gas & Electric,-32,CA
+37458,12/2/2014,Public Transportation - Bus Pass,-5.72,CA
+37458,12/2/2014,Lyft,-24.31,CA
+37458,12/2/2014,Pet Supply - Cat Food,-15.16,CA
+37458,12/2/2014,Public Transportation - Bus Pass,-39.29,CA
+37458,12/3/2014,Food Delivery - Uber Eats,-115.25,CA
+37458,12/4/2014,Wine Delivery,-35.29,CA
+37458,12/4/2014,On Demand TV,-85.18,CA
+37458,12/4/2014,Taxi,-23.68,CA
+37458,12/4/2014,Red Box DVD Rental,-22.72,CA
+37458,12/5/2014,Wine Delivery,-16.66,CA
+37458,12/6/2014,Restaurant - Steakhouse,-46.99,CA
+37458,12/7/2014,Uber,-22.08,CA
+37458,12/8/2014,On Demand TV,-58.15,CA
+37458,12/8/2014,Starbucks Coffee,-9.27,CA
+37458,12/8/2014,PlayStation Membership,-67.76,CA
+37458,12/8/2014,On Demand Movie,-39.78,CA
+37458,12/8/2014,Podcast Subscription,-21.89,CA
+37458,12/8/2014,Podcast Subscription,-8.62,CA
+37458,12/8/2014,Food Delivery - Uber Eats,-16.78,CA
+37458,12/8/2014,Food Delivery - Uber Eats,-70.78,CA
+37458,12/9/2014,Von's Groceries,-29.81,CA
+37458,12/9/2014,On Demand TV,-26.23,CA
+37458,12/9/2014,Uber,-26.16,CA
+37458,12/9/2014,Uber,-25.17,CA
+37458,12/9/2014,Public Transportation - Bus Pass,-13.54,CA
+37458,12/9/2014,Restaurant - Burgers,-0.95,CA
+37458,12/10/2014,Ralph's Grocery Store,-32.36,CA
+37458,12/10/2014,Uber,-34.06,CA
+37458,12/11/2014,Podcast Subscription,-8.02,CA
+37458,12/11/2014,Starbucks Coffee,-34.56,CA
+37458,12/11/2014,Uber,-74.72,CA
+37458,12/11/2014,Ralph's Grocery Store,-3.28,CA
+37458,12/11/2014,On Demand TV,-24.28,CA
+37458,12/11/2014,Red Box DVD Rental,-33.44,CA
+37458,12/11/2014,Lyft,-0.71,CA
+37458,12/11/2014,Pet Supply - Cat Food,-1.69,CA
+37458,12/11/2014,On Demand TV,-12.57,CA
+37458,12/11/2014,Restaurant - Chinese,-28.88,CA
+37458,12/11/2014,Uber,-2.19,CA
+37458,12/11/2014,Starbucks Coffee,-6.69,CA
+37458,12/11/2014,Food Delivery - Uber Eats,-1.87,CA
+37458,12/11/2014,Public Transportation - Bus Pass,-21.02,CA
+37458,12/11/2014,Restaurant - Chinese,-5.98,CA
+37458,12/11/2014,Pet Smart,-101.42,CA
+37458,12/11/2014,Food Delivery - Uber Eats,-108.49,CA
+37458,12/11/2014,Food Delivery - GrubHub,-13.19,CA
+37458,12/11/2014,Food Delivery - Uber Eats,-16.87,CA
+37458,12/12/2014,Food Delivery - GrubHub,-95.59,CA
+37458,12/12/2014,Public Transportation - Bus Pass,-57.1,CA
+37458,12/12/2014,Red Box DVD Rental,-87.2,CA
+37458,12/12/2014,Uber,-35.12,CA
+37458,12/13/2014,Public Transportation - Train Pass,-23.54,CA
+37458,12/13/2014,Pet Smart,-56.04,CA
+37458,12/13/2014,Podcast Subscription,-16.21,CA
+37458,12/13/2014,Sprouts Market,-6.24,CA
+37458,12/13/2014,Food Delivery - Uber Eats,-104.42,CA
+37458,12/13/2014,Food Delivery - Uber Eats,-20.36,CA
+37458,12/13/2014,On Demand Movie,-10.34,CA
+37458,12/13/2014,Uber,-58.46,CA
+37458,12/13/2014,Pet Smart,-74.58,CA
+37458,12/13/2014,On Demand TV,-46.28,CA
+37458,12/14/2014,Wine Delivery,-67.91,CA
+37458,12/14/2014,Food Delivery - GrubHub,-25.04,CA
+37458,12/15/2014,Von's Groceries,-87.8,CA
+37458,12/15/2014,On Demand TV,-38.65,CA
+37458,12/16/2014,Pet Smart,-22.77,CA
+37458,12/16/2014,Restaurant - Steakhouse,-32.42,CA
+37458,12/17/2014,Red Box DVD Rental,-31.74,CA
+37458,12/18/2014,On Demand TV,-29.83,CA
+37458,12/18/2014,Wine Delivery,-25.33,CA
+37458,12/18/2014,Pet Smart,-20.55,CA
+37458,12/18/2014,Pet Smart,-27.37,CA
+37458,12/18/2014,Red Box DVD Rental,-105.75,CA
+37458,12/18/2014,Red Box DVD Rental,-9.92,CA
+37458,12/19/2014,Food Delivery - GrubHub,-35.53,CA
+37458,12/19/2014,Sprouts Market,-12.39,CA
+37458,12/19/2014,Von's Groceries,-34.43,CA
+37458,12/20/2014,Restaurant - Steakhouse,-13.35,CA
+37458,12/20/2014,Public Transportation - Bus Pass,-13.97,CA
+37458,12/20/2014,Podcast Subscription,-16.66,CA
+37458,12/20/2014,PlayStation Membership,-19.3,CA
+37458,12/20/2014,Podcast Subscription,-54.72,CA
+37458,12/21/2014,On Demand TV,-47.49,CA
+37458,12/22/2014,Restaurant - Burgers,-15.74,CA
+37458,12/22/2014,Podcast Subscription,-9.82,CA
+37458,12/22/2014,Pet Smart,-28.33,CA
+37458,12/23/2014,Uber,-27.5,CA
+37458,12/23/2014,Pet Smart,-12.04,CA
+37458,12/23/2014,On Demand Movie,-20.41,CA
+37458,12/24/2014,Lyft,-7.56,CA
+37458,12/24/2014,Podcast Subscription,-76.78,CA
+37458,12/24/2014,Food Delivery - GrubHub,-28.33,CA
+37458,12/24/2014,Uber,-3.66,CA
+37458,12/24/2014,Wine Delivery,-13.44,CA
+37458,12/24/2014,Pet Smart,-66.76,CA
+37458,12/24/2014,Lyft,-0.54,CA
+37458,12/25/2014,Taxi,-25.94,CA
+37458,12/25/2014,Food Delivery - Uber Eats,-43.34,CA
+37458,12/25/2014,Uber,-25.83,CA
+37458,12/25/2014,Wine Delivery,-58.19,CA
+37458,12/25/2014,On Demand Movie,-47.45,CA
+37458,12/26/2014,Uber,-20.29,CA
+37458,12/26/2014,Public Transportation - Train Pass,-29.8,CA
+37458,12/26/2014,Sprouts Market,-8.26,CA
+37458,12/26/2014,Pet Supply - Cat Food,-4.8,CA
+37458,12/27/2014,Podcast Subscription,-6.55,CA
+37458,12/27/2014,On Demand Movie,-36.04,CA
+37458,12/28/2014,Food Delivery - Uber Eats,-93.8,CA
+37458,12/28/2014,Red Box DVD Rental,-3.5,CA
+37458,12/28/2014,Uber,-6.33,CA
+37458,12/28/2014,Restaurant - Burgers,-15.82,CA
+37458,12/28/2014,Wine Delivery,-34.39,CA
+37458,12/28/2014,Wine Delivery,-0.31,CA
+37458,12/28/2014,On Demand TV,-26.99,CA
+37458,12/29/2014,Food Delivery - Uber Eats,-27.17,CA
+37458,12/29/2014,Lyft,-13.12,CA
+37458,12/29/2014,Public Transportation - Bus Pass,-32.38,CA
+37458,12/29/2014,Wine Delivery,-20.58,CA
+37458,12/29/2014,Wine Delivery,-112.56,CA
+37458,12/29/2014,Pet Supply - Cat Food,-15.11,CA
+37458,12/29/2014,Pet Supply - Cat Food,-10.4,CA
+37458,12/29/2014,Ralph's Grocery Store,-115.77,CA
+37458,12/30/2014,Uber,-4.87,CA
+37458,12/30/2014,Public Transportation - Bus Pass,-36.88,CA
+37458,12/32/2014,Wine Delivery,-30.14,CA
+37458,12/32/2014,Starbucks Coffee,-28.98,CA

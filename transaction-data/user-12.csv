@@ -1,0 +1,2475 @@
+auth_id, Date, Vendor, Amount, Location 
+15248,1/2/2013,Amazon Order - Star Wars Figurine,-22.73,CA
+15248,1/2/2013,Library Membership,-37.26,CA
+15248,1/2/2013,Goods2 - ThinkGeek,-71.48,CA
+15248,1/3/2013,Amazon Order - Biology Book,-69.48,CA
+15248,1/3/2013,Coffee,-56.46,CA
+15248,1/3/2013,Taxi,-2.2,CA
+15248,1/3/2013,Lyft,-31.76,CA
+15248,1/4/2013,Public Transportation - Train Pass,-28.22,CA
+15248,1/4/2013,Water & Sewer - Late Payment Penalty,-24.24,CA
+15248,1/4/2013,Public Transportation - Bus Pass,-37.1,CA
+15248,1/4/2013,Bank Fee - Negative Balance,-101.31,CA
+15248,1/4/2013,Amazon Order - Biology Book,-23.97,CA
+15248,1/4/2013,Water & Sewer - Late Payment Penalty,-5.6,CA
+15248,1/4/2013,Amazon Order - Science Book,-32.98,CA
+15248,1/5/2013,Public Transportation - Train Pass,-0.45,CA
+15248,1/6/2013,Amazon Order - Star Wars Figurine,-20.19,CA
+15248,1/6/2013,Art Museum,-22.99,CA
+15248,1/6/2013,Restaurant - Steakhouse,-2.16,CA
+15248,1/7/2013,Amazon Order - Science Book,-35.67,CA
+15248,1/8/2013,Library Membership,-9.26,CA
+15248,1/8/2013,Lyft,-37.91,CA
+15248,1/9/2013,Taxi,-36.15,CA
+15248,1/10/2013,Public Transportation - Bus Pass,-119.9,CA
+15248,1/10/2013,Taxi,-25.36,CA
+15248,1/11/2013,Amazon Order - Biology Book,-22.68,CA
+15248,1/11/2013,San Diego Museum,-21.15,CA
+15248,1/11/2013,Sprouts Market,-10.59,CA
+15248,1/11/2013,Amazon Order - Biology Book,-13.69,CA
+15248,1/11/2013,Video Game - PlayStation,-32.4,CA
+15248,1/12/2013,DVD - Star Trek,-2.5,CA
+15248,1/13/2013,Video Game - PlayStation,-25.09,CA
+15248,1/13/2013,Library Membership,-24.34,CA
+15248,1/13/2013,San Diego Museum,-19.74,CA
+15248,1/14/2013,Amazon Order - Science Book,-26.47,CA
+15248,1/14/2013,Public Transportation - Train Pass,-110.86,CA
+15248,1/14/2013,Kay Jewelry,-35.79,CA
+15248,1/14/2013,Wedding Planner,-11.74,CA
+15248,1/14/2013,Southwest Flights - Cancun,-20.28,CA
+15248,1/14/2013,Cancun Beach Resort,-7.03,CA
+15248,1/14/2013,Science Museum,-84.07,CA
+15248,1/14/2013,Restaurant - Pizza,-2.16,CA
+15248,1/15/2013,Mary's Book Store,-27.72,CA
+15248,1/15/2013,Mary's Book Store,-8.36,CA
+15248,1/15/2013,Public Transportation - Train Pass,-11.71,CA
+15248,1/15/2013,Uber,-39,CA
+15248,1/15/2013,Art Museum,-7.76,CA
+15248,1/16/2013,Restaurant - Burgers,-74.9,CA
+15248,1/16/2013,Goods2 - ThinkGeek,-25.53,CA
+15248,1/17/2013,Mary's Book Store,-35.72,CA
+15248,1/17/2013,Amazon Order - Star Wars Figurine,-61.46,CA
+15248,1/18/2013,Food Delivery - GrubHub,-8.86,CA
+15248,1/18/2013,Goods2 - ThinkGeek,-30.8,CA
+15248,1/18/2013,Art Museum,-9.14,CA
+15248,1/19/2013,Mary's Book Store,-12.96,CA
+15248,1/19/2013,Taxi,-34.07,CA
+15248,1/20/2013,DVD - Star Trek,-85.78,CA
+15248,1/20/2013,Goods2 - ThinkGeek,-37.21,CA
+15248,1/20/2013,Public Transportation - Bus Pass,-47.21,CA
+15248,1/21/2013,Online Education Courses,-36.13,CA
+15248,1/21/2013,Ralph's Grocery Store,-42.37,CA
+15248,1/21/2013,Science Museum,-1.67,CA
+15248,1/21/2013,Amazon Order - Biology Book,-78.13,CA
+15248,1/21/2013,Taxi,-39.6,CA
+15248,1/22/2013,Restaurant - Steakhouse,-19.27,CA
+15248,1/23/2013,Amazon Order - Biology Book,-17.59,CA
+15248,1/23/2013,Whole Foods,-3.76,CA
+15248,1/23/2013,Water & Sewer - Late Payment Penalty,-26.25,CA
+15248,1/24/2013,DVD - Star Trek,-36.89,CA
+15248,1/24/2013,Coffee,-9.81,CA
+15248,1/24/2013,San Diego Museum,-3.28,CA
+15248,1/24/2013,Public Transportation - Train Pass,-34.76,CA
+15248,1/24/2013,Library Membership,-11.39,CA
+15248,1/24/2013,Science Museum,-11.44,CA
+15248,1/24/2013,Amazon Order - Star Wars Figurine,-31.12,CA
+15248,1/24/2013,Whole Foods,-11.56,CA
+15248,1/24/2013,Water & Sewer - Late Payment Penalty,-13.29,CA
+15248,1/25/2013,Video Game - PlayStation,-39.47,CA
+15248,1/25/2013,Goods2 - ThinkGeek,-28.84,CA
+15248,1/26/2013,San Diego Museum,-5.76,CA
+15248,1/27/2013,Mary's Book Store,-16.42,CA
+15248,1/27/2013,Goods2 - ThinkGeek,-37.75,CA
+15248,1/27/2013,Public Transportation - Train Pass,-3.13,CA
+15248,1/27/2013,Lyft,-34.88,CA
+15248,1/27/2013,Video Game - PlayStation,-0.15,CA
+15248,1/27/2013,Amazon Order - Mathematics Book,-36.58,CA
+15248,1/28/2013,Public Transportation - Train Pass,-35.52,CA
+15248,1/28/2013,Taxi,-8.36,CA
+15248,1/28/2013,Video Game - PlayStation,-14.03,CA
+15248,1/29/2013,Amazon Order - Biology Book,-8.21,CA
+15248,1/30/2013,Science Museum,-12.5,CA
+15248,1/30/2013,Water & Sewer - Late Payment Penalty,-34.84,CA
+15248,1/30/2013,DVD - Star Trek,-15.93,CA
+15248,3/2/2013,Housing Rent,-1160,CA
+15248,3/2/2013,Navient - Student Loans,-197,CA
+15248,3/2/2013,Credit Card Payment,-154,CA
+15248,3/2/2013,ACS - Student Loans,-135,CA
+15248,3/2/2013,Water & Sewer,-53,CA
+15248,3/2/2013,Time Warner Cable,-25,CA
+15248,3/2/2013,Restaurant - Chinese,-95.66,CA
+15248,3/2/2013,Uber,-2.93,CA
+15248,3/2/2013,Ralph's Grocery Store,-6.23,CA
+15248,3/2/2013,Restaurant - Pizza,-5.7,CA
+15248,3/2/2013,Restaurant - Pizza,-6.07,CA
+15248,3/3/2013,Starbucks Coffee,-6.76,CA
+15248,3/4/2013,Mary's Book Store,-24.79,CA
+15248,3/4/2013,Amazon Order - Science Book,-14.82,CA
+15248,3/4/2013,Public Transportation - Bus Pass,-34.04,CA
+15248,3/4/2013,Video Game - PlayStation,-9.57,CA
+15248,3/5/2013,Uber,-31.45,CA
+15248,3/5/2013,Amazon Order - Science Book,-65.06,CA
+15248,3/6/2013,Amazon Order - Star Wars Figurine,-4.15,CA
+15248,3/6/2013,Online Education Courses,-43.69,CA
+15248,3/7/2013,Whole Foods,-12.11,CA
+15248,3/7/2013,Amazon Order - Biology Book,-36.37,CA
+15248,3/8/2013,Restaurant - Chinese,-11.14,CA
+15248,3/8/2013,Goods2 - ThinkGeek,-11.58,CA
+15248,3/8/2013,Lyft,-6.82,CA
+15248,3/8/2013,Restaurant - Burgers,-29.07,CA
+15248,3/8/2013,Lyft,-66.3,CA
+15248,3/9/2013,Credit Card Overdraft Fee,-16.79,CA
+15248,3/9/2013,Coffee,-21.14,CA
+15248,3/10/2013,Public Transportation - Bus Pass,-30.86,CA
+15248,3/10/2013,Public Transportation - Bus Pass,-0.58,CA
+15248,3/10/2013,Taxi,-38.63,CA
+15248,3/10/2013,Art Museum,-28.12,CA
+15248,3/11/2013,Amazon Order - Star Wars Figurine,-15.23,CA
+15248,3/11/2013,Public Transportation - Train Pass,-28.75,CA
+15248,3/11/2013,Science Museum,-74.22,CA
+15248,3/11/2013,Online Education Courses,-24.09,CA
+15248,3/12/2013,DVD - Star Trek,-27.15,CA
+15248,3/13/2013,Taxi,-1.13,CA
+15248,3/13/2013,San Diego Museum,-32.18,CA
+15248,3/14/2013,Online Education Courses,-117.85,CA
+15248,3/15/2013,San Diego Museum,-35.9,CA
+15248,3/16/2013,Art Museum,-8.12,CA
+15248,3/16/2013,Amazon Order - Mathematics Book,-2.97,CA
+15248,3/16/2013,Online Education Courses,-27.86,CA
+15248,3/16/2013,San Diego Museum,-0.43,CA
+15248,3/16/2013,Science Museum,-5.11,CA
+15248,3/16/2013,Restaurant - Chinese,-12.92,CA
+15248,3/16/2013,Video Game - PlayStation,-6.05,CA
+15248,3/16/2013,Lyft,-35.5,CA
+15248,3/16/2013,Amazon Order - Star Wars Figurine,-34.92,CA
+15248,3/16/2013,Starbucks Coffee,-19.99,CA
+15248,3/17/2013,Art Museum,-11.67,CA
+15248,3/17/2013,Goods2 - ThinkGeek,-36.31,CA
+15248,3/18/2013,Sprouts Market,-17.78,CA
+15248,3/18/2013,Taxi,-9.69,CA
+15248,3/18/2013,Science Museum,-27.99,CA
+15248,3/18/2013,Library Membership,-34.96,CA
+15248,3/18/2013,Online Education Courses,-26.11,CA
+15248,3/18/2013,Uber,-35.72,CA
+15248,3/18/2013,San Diego Museum,-28.78,CA
+15248,3/18/2013,San Diego Museum,-15.42,CA
+15248,3/19/2013,Lyft,-38.32,CA
+15248,3/19/2013,Library Membership,-18.5,CA
+15248,3/19/2013,Coffee,-2.29,CA
+15248,3/19/2013,San Diego Museum,-20.71,CA
+15248,3/19/2013,Online Education Courses,-39.36,CA
+15248,3/20/2013,San Diego Museum,-38.98,CA
+15248,3/20/2013,Taxi,-65.19,CA
+15248,3/20/2013,Library Membership,-15.85,CA
+15248,3/20/2013,San Diego Museum,-8.1,CA
+15248,3/20/2013,Amazon Order - Star Wars Figurine,-37.98,CA
+15248,3/20/2013,Online Education Courses,-18.08,CA
+15248,3/21/2013,Restaurant - Steakhouse,-30.54,CA
+15248,3/22/2013,Video Game - PlayStation,-25.73,CA
+15248,3/22/2013,Public Transportation - Bus Pass,-29.85,CA
+15248,3/23/2013,Amazon Order - Science Book,-32.99,CA
+15248,3/24/2013,San Diego Museum,-113.2,CA
+15248,3/25/2013,Public Transportation - Train Pass,-19.31,CA
+15248,3/25/2013,Public Transportation - Train Pass,-38.67,CA
+15248,3/26/2013,Starbucks Coffee,-36.44,CA
+15248,3/26/2013,Coffee,-31.51,CA
+15248,3/27/2013,Taxi,-67.94,CA
+15248,3/27/2013,Amazon Order - Star Wars Figurine,-16.85,CA
+15248,3/28/2013,Taxi,-35.95,CA
+15248,3/28/2013,Amazon Order - Mathematics Book,-10.86,CA
+15248,3/28/2013,Goods2 - ThinkGeek,-17.76,CA
+15248,3/29/2013,Mary's Book Store,-29.37,CA
+15248,3/30/2013,Library Membership,-27.44,CA
+15248,3/30/2013,Lyft,-38.81,CA
+15248,4/2/2013,Paycheck,3212,CA
+15248,4/2/2013,Housing Rent,-804,CA
+15248,4/2/2013,Navient - Student Loans,-197,CA
+15248,4/2/2013,Credit Card Payment,-154,CA
+15248,4/2/2013,ACS - Student Loans,-135,CA
+15248,4/2/2013,Water & Sewer,-53,CA
+15248,4/2/2013,Time Warner Cable,-25,CA
+15248,4/2/2013,Restaurant - Chinese,-25.8,CA
+15248,4/2/2013,Online Education Courses,-28.87,CA
+15248,4/2/2013,Public Transportation - Bus Pass,-104.24,CA
+15248,4/2/2013,San Diego Museum,-18.11,CA
+15248,4/3/2013,Amazon Order - Star Wars Figurine,-32.43,CA
+15248,4/3/2013,San Diego Museum,-5.07,CA
+15248,4/3/2013,Science Museum,-26.99,CA
+15248,4/3/2013,Taxi,-63.47,CA
+15248,4/3/2013,Art Museum,-22.72,CA
+15248,4/3/2013,Housing Rent - Late Fee,-0.52,CA
+15248,4/3/2013,San Diego Museum,-0.62,CA
+15248,4/4/2013,Bank Fee - Negative Balance,-6.4,CA
+15248,4/5/2013,Lyft,-19.08,CA
+15248,4/5/2013,Uber,-32.23,CA
+15248,4/5/2013,Lyft,-3.77,CA
+15248,4/6/2013,Starbucks Coffee,-28.7,CA
+15248,4/6/2013,Lyft,-11.93,CA
+15248,4/7/2013,Amazon Order - Biology Book,-39.54,CA
+15248,4/7/2013,Starbucks Coffee,-41.31,CA
+15248,4/7/2013,Credit Card Overdraft Fee,-20.07,CA
+15248,4/7/2013,Amazon Order - Science Book,-21.84,CA
+15248,4/8/2013,Video Game - PlayStation,-30.93,CA
+15248,4/9/2013,Mary's Book Store,-4.82,CA
+15248,4/9/2013,Coffee,-33.14,CA
+15248,4/9/2013,Ralph's Grocery Store,-34.23,CA
+15248,4/9/2013,Amazon Order - Science Book,-20.72,CA
+15248,4/10/2013,Restaurant - Pizza,-29.09,CA
+15248,4/10/2013,Lyft,-31.95,CA
+15248,4/10/2013,Uber,-47.99,CA
+15248,4/10/2013,Amazon Order - Star Wars Figurine,-26.46,CA
+15248,4/10/2013,San Diego Museum,-53.7,CA
+15248,4/10/2013,Goods2 - ThinkGeek,-84.84,CA
+15248,4/10/2013,Uber,-118.66,CA
+15248,4/10/2013,Online Education Courses,-39.6,CA
+15248,4/10/2013,Amazon Order - Science Book,-9.1,CA
+15248,4/11/2013,San Diego Museum,-32.49,CA
+15248,4/12/2013,DVD - Star Trek,-27.38,CA
+15248,4/12/2013,Uber,-32.92,CA
+15248,4/12/2013,Public Transportation - Bus Pass,-5.38,CA
+15248,4/13/2013,Goods2 - ThinkGeek,-14.25,CA
+15248,4/14/2013,Credit Card Overdraft Fee,-39.39,CA
+15248,4/14/2013,Restaurant - Burgers,-9.99,CA
+15248,4/15/2013,Coffee,-41.11,CA
+15248,4/15/2013,Ralph's Grocery Store,-34.35,CA
+15248,4/16/2013,DVD - Star Trek,-24.05,CA
+15248,4/16/2013,Art Museum,-35.86,CA
+15248,4/16/2013,Housing Rent - Late Fee,-39.09,CA
+15248,4/16/2013,Amazon Order - Science Book,-25.25,CA
+15248,4/16/2013,Mary's Book Store,-68.69,CA
+15248,4/16/2013,San Diego Museum,-3.98,CA
+15248,4/16/2013,Restaurant - Burgers,-3.46,CA
+15248,4/16/2013,Public Transportation - Train Pass,-48.47,CA
+15248,4/17/2013,Mark's Movers,-12.85,CA
+15248,4/17/2013,FedEx Shipping,-25.91,CA
+15248,4/17/2013,Jerome's Furniture,-33.02,CA
+15248,4/17/2013,Home Depot,-8.25,CA
+15248,4/17/2013,Refrigerator Depot,-66.32,CA
+15248,4/17/2013,Hamilton Move & Storage,-66.52,CA
+15248,4/17/2013,Library Membership,-108.34,CA
+15248,4/17/2013,Taxi,-20.46,CA
+15248,4/17/2013,Amazon Order - Science Book,-90.16,CA
+15248,4/17/2013,Public Transportation - Train Pass,-26.12,CA
+15248,4/17/2013,Time Warne Cable - Late Payment Fee,-33.99,CA
+15248,4/17/2013,Sprouts Market,-30.26,CA
+15248,4/18/2013,Credit Card Overdraft Fee,-5.92,CA
+15248,4/18/2013,San Diego Museum,-39.68,CA
+15248,4/19/2013,Food Delivery - GrubHub,-12.46,CA
+15248,4/19/2013,Restaurant - Steakhouse,-24.05,CA
+15248,4/19/2013,San Diego Museum,-12.85,CA
+15248,4/20/2013,Amazon Order - Biology Book,-0.47,CA
+15248,4/21/2013,Amazon Order - Science Book,-4.23,CA
+15248,4/21/2013,San Diego Museum,-35.78,CA
+15248,4/21/2013,Art Museum,-4.02,CA
+15248,4/22/2013,DVD - Star Trek,-13.48,CA
+15248,4/22/2013,Public Transportation - Bus Pass,-12.49,CA
+15248,4/22/2013,Credit Card Overdraft Fee,-18.87,CA
+15248,4/22/2013,Goods2 - ThinkGeek,-29.65,CA
+15248,4/23/2013,Ralph's Grocery Store,-16.68,CA
+15248,4/23/2013,Goods2 - ThinkGeek,-19.3,CA
+15248,4/24/2013,Housing Rent - Late Fee,-32.75,CA
+15248,4/24/2013,Food Delivery - GrubHub,-79.82,CA
+15248,4/25/2013,Amazon Order - Mathematics Book,-61.2,CA
+15248,4/25/2013,Science Museum,-8.37,CA
+15248,4/25/2013,Science Museum,-3.03,CA
+15248,4/25/2013,Amazon Order - Biology Book,-6.69,CA
+15248,4/25/2013,Goods2 - ThinkGeek,-7.29,CA
+15248,4/26/2013,Lyft,-81.17,CA
+15248,4/26/2013,Video Game - PlayStation,-28.96,CA
+15248,4/26/2013,Mary's Book Store,-28.76,CA
+15248,4/27/2013,Science Museum,-74.21,CA
+15248,4/27/2013,San Diego Museum,-99.22,CA
+15248,4/27/2013,Science Museum,-28.28,CA
+15248,4/28/2013,Library Membership,-118.4,CA
+15248,4/28/2013,Starbucks Coffee,-16.85,CA
+15248,4/29/2013,Taxi,-1.08,CA
+15248,4/30/2013,Public Transportation - Bus Pass,-36.66,CA
+15248,4/30/2013,Coffee,-12.12,CA
+15248,4/30/2013,Amazon Order - Science Book,-22.87,CA
+15248,5/2/2013,Housing Rent,-1287,CA
+15248,5/2/2013,Navient - Student Loans,-197,CA
+15248,5/2/2013,Credit Card Payment,-154,CA
+15248,5/2/2013,ACS - Student Loans,-135,CA
+15248,5/2/2013,Water & Sewer,-53,CA
+15248,5/2/2013,Time Warner Cable,-25,CA
+15248,5/2/2013,Time Warne Cable - Late Payment Fee,-15.44,CA
+15248,5/2/2013,Amazon Order - Science Book,-4.34,CA
+15248,5/3/2013,Science Museum,-2.63,CA
+15248,5/3/2013,Public Transportation - Train Pass,-25.2,CA
+15248,5/4/2013,Goods2 - ThinkGeek,-33.46,CA
+15248,5/5/2013,Amazon Order - Biology Book,-33.3,CA
+15248,5/5/2013,Art Museum,-3.42,CA
+15248,5/6/2013,Public Transportation - Bus Pass,-0.62,CA
+15248,5/7/2013,Science Museum,-16.08,CA
+15248,5/8/2013,Coffee,-6.13,CA
+15248,5/9/2013,Amazon Order - Star Wars Figurine,-19.51,CA
+15248,5/9/2013,Restaurant - Chinese,-45.77,CA
+15248,5/9/2013,Public Transportation - Train Pass,-11.6,CA
+15248,5/10/2013,Art Museum,-19.23,CA
+15248,5/11/2013,Taxi,-3.65,CA
+15248,5/11/2013,Amazon Order - Star Wars Figurine,-34.49,CA
+15248,5/11/2013,DVD - Star Trek,-3.38,CA
+15248,5/12/2013,Goods2 - ThinkGeek,-93.04,CA
+15248,5/12/2013,Library Membership,-11.03,CA
+15248,5/13/2013,Bank Fee - Negative Balance,-15.81,CA
+15248,5/13/2013,Public Transportation - Train Pass,-112.67,CA
+15248,5/13/2013,Lyft,-7.69,CA
+15248,5/13/2013,Amazon Order - Biology Book,-36.91,CA
+15248,5/13/2013,Amazon Order - Biology Book,-101.69,CA
+15248,5/13/2013,Time Warne Cable - Late Payment Fee,-6.72,CA
+15248,5/14/2013,Lyft,-36.32,CA
+15248,5/14/2013,Science Museum,-24.77,CA
+15248,5/14/2013,Video Game - PlayStation,-55.64,CA
+15248,5/15/2013,Art Museum,-85.33,CA
+15248,5/15/2013,DVD - Star Trek,-103.55,CA
+15248,5/15/2013,Credit Card Overdraft Fee,-32.53,CA
+15248,5/15/2013,Amazon Order - Star Wars Figurine,-26.09,CA
+15248,5/15/2013,Goods2 - ThinkGeek,-5.17,CA
+15248,5/16/2013,Restaurant - Chinese,-29.1,CA
+15248,5/16/2013,Goods2 - ThinkGeek,-8.49,CA
+15248,5/16/2013,Online Education Courses,-9.92,CA
+15248,5/17/2013,Amazon Order - Science Book,-24.13,CA
+15248,5/17/2013,Ralph's Grocery Store,-38.64,CA
+15248,5/17/2013,Amazon Order - Star Wars Figurine,-5.63,CA
+15248,5/17/2013,Amazon Order - Mathematics Book,-17.09,CA
+15248,5/17/2013,Water & Sewer - Late Payment Penalty,-11.01,CA
+15248,5/17/2013,Public Transportation - Train Pass,-7.29,CA
+15248,5/17/2013,Food Delivery - GrubHub,-27.06,CA
+15248,5/17/2013,Ralph's Grocery Store,-30.72,CA
+15248,5/17/2013,Science Museum,-39.28,CA
+15248,5/17/2013,Public Transportation - Train Pass,-10.48,CA
+15248,5/17/2013,Library Membership,-90.64,CA
+15248,5/17/2013,Public Transportation - Train Pass,-39.19,CA
+15248,5/17/2013,Online Education Courses,-33.95,CA
+15248,5/17/2013,Housing Rent - Late Fee,-15.99,CA
+15248,5/18/2013,Library Membership,-11.47,CA
+15248,5/19/2013,Lyft,-106.56,CA
+15248,5/19/2013,Ralph's Grocery Store,-9.06,CA
+15248,5/19/2013,Amazon Order - Biology Book,-6.04,CA
+15248,5/19/2013,San Diego Museum,-3.31,CA
+15248,5/20/2013,Water & Sewer - Late Payment Penalty,-48.98,CA
+15248,5/20/2013,Sprouts Market,-9.33,CA
+15248,5/20/2013,Time Warne Cable - Late Payment Fee,-29.65,CA
+15248,5/20/2013,Von's Groceries,-32.61,CA
+15248,5/20/2013,Sprouts Market,-10.8,CA
+15248,5/21/2013,Lyft,-11.25,CA
+15248,5/21/2013,Public Transportation - Train Pass,-95.42,CA
+15248,5/21/2013,Art Museum,-82.7,CA
+15248,5/21/2013,Amazon Order - Star Wars Figurine,-69.74,CA
+15248,5/21/2013,Whole Foods,-25.9,CA
+15248,5/22/2013,Starbucks Coffee,-1.24,CA
+15248,5/22/2013,Library Membership,-23.95,CA
+15248,5/22/2013,Coffee,-66.67,CA
+15248,5/23/2013,Restaurant - Chinese,-7.39,CA
+15248,5/23/2013,DVD - Star Trek,-6.3,CA
+15248,5/24/2013,Von's Groceries,-6.42,CA
+15248,5/24/2013,Public Transportation - Train Pass,-11.82,CA
+15248,5/25/2013,Bank Fee - Negative Balance,-20.09,CA
+15248,5/25/2013,Goods2 - ThinkGeek,-21.29,CA
+15248,5/25/2013,Amazon Order - Biology Book,-46.86,CA
+15248,5/26/2013,Food Delivery - GrubHub,-2.75,CA
+15248,5/26/2013,Uber,-4.88,CA
+15248,5/27/2013,Credit Card Overdraft Fee,-6.59,CA
+15248,5/27/2013,Sprouts Market,-34.67,CA
+15248,5/27/2013,Restaurant - Chinese,-21.23,CA
+15248,5/27/2013,Amazon Order - Star Wars Figurine,-92.32,CA
+15248,5/27/2013,Time Warne Cable - Late Payment Fee,-18.67,CA
+15248,5/27/2013,Lyft,-5.69,CA
+15248,5/28/2013,Amazon Order - Mathematics Book,-25.98,CA
+15248,5/28/2013,Library Membership,-66.45,CA
+15248,5/29/2013,Library Membership,-40.74,CA
+15248,5/29/2013,Taxi,-4.68,CA
+15248,5/29/2013,Art Museum,-10.51,CA
+15248,5/30/2013,Taxi,-35.39,CA
+15248,5/30/2013,Science Museum,-21.55,CA
+15248,5/30/2013,San Diego Museum,-29.5,CA
+15248,5/30/2013,Von's Groceries,-5.85,CA
+15248,5/30/2013,Coffee,-117.25,CA
+15248,5/30/2013,Mary's Book Store,-14.7,CA
+15248,5/30/2013,Public Transportation - Train Pass,-19.02,CA
+15248,5/30/2013,Lyft,-33.4,CA
+15248,5/30/2013,Amazon Order - Mathematics Book,-22.63,CA
+15248,5/30/2013,Restaurant - Burgers,-19.93,CA
+15248,5/30/2013,San Diego Museum,-21.72,CA
+15248,5/30/2013,Library Membership,-11.81,CA
+15248,5/30/2013,DVD - Star Trek,-25.24,CA
+15248,5/30/2013,Public Transportation - Bus Pass,-118.19,CA
+15248,5/30/2013,Online Education Courses,-19.14,CA
+15248,6/2/2013,Housing Rent,-1007,CA
+15248,6/2/2013,Navient - Student Loans,-197,CA
+15248,6/2/2013,Credit Card Payment,-154,CA
+15248,6/2/2013,ACS - Student Loans,-135,CA
+15248,6/2/2013,Water & Sewer,-53,CA
+15248,6/2/2013,Time Warner Cable,-25,CA
+15248,6/2/2013,DVD - Star Trek,-8.84,CA
+15248,6/3/2013,Art Museum,-31.73,CA
+15248,6/3/2013,Amazon Order - Mathematics Book,-9.18,CA
+15248,6/3/2013,Goods2 - ThinkGeek,-69.71,CA
+15248,6/3/2013,Library Membership,-43.74,CA
+15248,6/3/2013,Food Delivery - GrubHub,-13.65,CA
+15248,6/3/2013,Restaurant - Steakhouse,-26.59,CA
+15248,6/4/2013,Uber,-27.81,CA
+15248,6/4/2013,Science Museum,-10.8,CA
+15248,6/5/2013,Starbucks Coffee,-10.83,CA
+15248,6/5/2013,Ralph's Grocery Store,-7.56,CA
+15248,6/6/2013,Science Museum,-27.93,CA
+15248,6/7/2013,Whole Foods,-17.29,CA
+15248,6/7/2013,Food Delivery - GrubHub,-11.86,CA
+15248,6/7/2013,Ralph's Grocery Store,-1.48,CA
+15248,6/7/2013,Von's Groceries,-29.48,CA
+15248,6/8/2013,Goods2 - ThinkGeek,-17.8,CA
+15248,6/8/2013,Amazon Order - Biology Book,-23.54,CA
+15248,6/8/2013,Amazon Order - Star Wars Figurine,-16.79,CA
+15248,6/9/2013,Mary's Book Store,-15.82,CA
+15248,6/9/2013,Taxi,-97.27,CA
+15248,6/9/2013,Starbucks Coffee,-22.37,CA
+15248,6/9/2013,Amazon Order - Biology Book,-116.8,CA
+15248,6/9/2013,Mary's Book Store,-23.88,CA
+15248,6/9/2013,Restaurant - Chinese,-17.58,CA
+15248,6/9/2013,Art Museum,-12.86,CA
+15248,6/9/2013,Starbucks Coffee,-5.2,CA
+15248,6/9/2013,Library Membership,-23.47,CA
+15248,6/9/2013,Water & Sewer - Late Payment Penalty,-5.1,CA
+15248,6/10/2013,Public Transportation - Train Pass,-15.83,CA
+15248,6/10/2013,Restaurant - Steakhouse,-37.02,CA
+15248,6/10/2013,Von's Groceries,-62.14,CA
+15248,6/10/2013,Amazon Order - Star Wars Figurine,-2.16,CA
+15248,6/10/2013,Von's Groceries,-115.63,CA
+15248,6/10/2013,Amazon Order - Star Wars Figurine,-7.68,CA
+15248,6/10/2013,Restaurant - Burgers,-32.32,CA
+15248,6/10/2013,Mary's Book Store,-11.93,CA
+15248,6/11/2013,Online Education Courses,-69.95,CA
+15248,6/12/2013,Goods2 - ThinkGeek,-1.34,CA
+15248,6/12/2013,Amazon Order - Mathematics Book,-23.94,CA
+15248,6/12/2013,Public Transportation - Train Pass,-26.11,CA
+15248,6/12/2013,Library Membership,-34.68,CA
+15248,6/12/2013,San Diego Museum,-31.13,CA
+15248,6/12/2013,San Diego Museum,-25.03,CA
+15248,6/12/2013,Mary's Book Store,-15.02,CA
+15248,6/12/2013,Mary's Book Store,-32.73,CA
+15248,6/12/2013,Restaurant - Pizza,-26.23,CA
+15248,6/12/2013,Library Membership,-96.09,CA
+15248,6/12/2013,Amazon Order - Mathematics Book,-5.5,CA
+15248,6/12/2013,Restaurant - Burgers,-26.09,CA
+15248,6/12/2013,Amazon Order - Science Book,-23.24,CA
+15248,6/13/2013,Science Museum,-116.52,CA
+15248,6/13/2013,Restaurant - Chinese,-36.58,CA
+15248,6/13/2013,Science Museum,-9.66,CA
+15248,6/13/2013,Lyft,-32.83,CA
+15248,6/13/2013,Amazon Order - Star Wars Figurine,-46.77,CA
+15248,6/13/2013,Library Membership,-30.47,CA
+15248,6/13/2013,Amazon Order - Biology Book,-27.37,CA
+15248,6/13/2013,Amazon Order - Mathematics Book,-13.36,CA
+15248,6/13/2013,Credit Card Overdraft Fee,-9.47,CA
+15248,6/13/2013,Amazon Order - Mathematics Book,-107.32,CA
+15248,6/13/2013,Restaurant - Steakhouse,-97.4,CA
+15248,6/14/2013,Public Transportation - Train Pass,-73.95,CA
+15248,6/14/2013,Taxi,-35.99,CA
+15248,6/14/2013,Art Museum,-27.75,CA
+15248,6/15/2013,Amazon Order - Star Wars Figurine,-24.55,CA
+15248,6/15/2013,Library Membership,-21.9,CA
+15248,6/15/2013,Amazon Order - Mathematics Book,-17.02,CA
+15248,6/16/2013,Online Education Courses,-61.32,CA
+15248,6/17/2013,Video Game - PlayStation,-17.87,CA
+15248,6/17/2013,Von's Groceries,-109.24,CA
+15248,6/18/2013,Amazon Order - Biology Book,-18.11,CA
+15248,6/18/2013,Taxi,-9.58,CA
+15248,6/18/2013,Goods2 - ThinkGeek,-70.11,CA
+15248,6/18/2013,Mary's Book Store,-28.72,CA
+15248,6/18/2013,Amazon Order - Mathematics Book,-5.36,CA
+15248,6/19/2013,Restaurant - Pizza,-77.79,CA
+15248,6/20/2013,Science Museum,-31.85,CA
+15248,6/21/2013,Online Education Courses,-17,CA
+15248,6/22/2013,Restaurant - Pizza,-4.77,CA
+15248,6/22/2013,Amazon Order - Science Book,-79.46,CA
+15248,6/23/2013,Art Museum,-13.92,CA
+15248,6/24/2013,Coffee,-25.69,CA
+15248,6/25/2013,Starbucks Coffee,-86.8,CA
+15248,6/25/2013,Lyft,-13.91,CA
+15248,6/25/2013,Library Membership,-21.91,CA
+15248,6/25/2013,Taxi,-27.1,CA
+15248,6/26/2013,Public Transportation - Train Pass,-36.76,CA
+15248,6/26/2013,Amazon Order - Star Wars Figurine,-9.76,CA
+15248,6/26/2013,Restaurant - Steakhouse,-13.19,CA
+15248,6/26/2013,Public Transportation - Bus Pass,-24.82,CA
+15248,6/26/2013,Mary's Book Store,-89.09,CA
+15248,6/26/2013,Amazon Order - Science Book,-21.72,CA
+15248,6/26/2013,Public Transportation - Train Pass,-36.28,CA
+15248,6/26/2013,Public Transportation - Bus Pass,-36.89,CA
+15248,6/26/2013,Art Museum,-75.18,CA
+15248,6/26/2013,Goods2 - ThinkGeek,-27.89,CA
+15248,6/26/2013,Library Membership,-11.26,CA
+15248,6/26/2013,Art Museum,-35.85,CA
+15248,6/26/2013,DVD - Star Trek,-21.02,CA
+15248,6/26/2013,Sprouts Market,-26.48,CA
+15248,6/27/2013,Amazon Order - Star Wars Figurine,-5.93,CA
+15248,6/28/2013,Amazon Order - Science Book,-118.6,CA
+15248,6/28/2013,Lyft,-16.37,CA
+15248,6/29/2013,Credit Card Overdraft Fee,-36.49,CA
+15248,6/29/2013,Restaurant - Burgers,-9.59,CA
+15248,6/30/2013,Lyft,-1.99,CA
+15248,6/30/2013,Taxi,-33.04,CA
+15248,6/30/2013,Water & Sewer - Late Payment Penalty,-16.8,CA
+15248,6/30/2013,Restaurant - Chinese,-13.32,CA
+15248,6/30/2013,Credit Card Overdraft Fee,-98.52,CA
+15248,6/30/2013,Taxi,-26.4,CA
+15248,7/2/2013,Paycheck,2607,CA
+15248,7/2/2013,Housing Rent,-892,CA
+15248,7/2/2013,Navient - Student Loans,-197,CA
+15248,7/2/2013,Credit Card Payment,-154,CA
+15248,7/2/2013,ACS - Student Loans,-135,CA
+15248,7/2/2013,Water & Sewer,-53,CA
+15248,7/2/2013,Time Warner Cable,-25,CA
+15248,7/2/2013,Whole Foods,-22.31,CA
+15248,7/2/2013,Restaurant - Pizza,-11.06,CA
+15248,7/2/2013,Restaurant - Burgers,-45.07,CA
+15248,7/2/2013,Restaurant - Chinese,-21.9,CA
+15248,7/3/2013,Public Transportation - Bus Pass,-2.06,CA
+15248,7/3/2013,Starbucks Coffee,-36.74,CA
+15248,7/3/2013,Whole Foods,-31.84,CA
+15248,7/3/2013,Restaurant - Chinese,-29.71,CA
+15248,7/3/2013,Sprouts Market,-22.4,CA
+15248,7/3/2013,Uber,-98.66,CA
+15248,7/4/2013,Art Museum,-27.84,CA
+15248,7/5/2013,Von's Groceries,-9.3,CA
+15248,7/6/2013,Taxi,-38.42,CA
+15248,7/6/2013,Amazon Order - Science Book,-32.15,CA
+15248,7/6/2013,Video Game - PlayStation,-0.61,CA
+15248,7/7/2013,Amazon Order - Star Wars Figurine,-99.46,CA
+15248,7/8/2013,Uber,-28.67,CA
+15248,7/8/2013,Mary's Book Store,-29.45,CA
+15248,7/8/2013,Ralph's Grocery Store,-24.98,CA
+15248,7/9/2013,Whole Foods,-26.45,CA
+15248,7/9/2013,Ralph's Grocery Store,-34.34,CA
+15248,7/9/2013,Lyft,-67.03,CA
+15248,7/9/2013,Amazon Order - Biology Book,-39.52,CA
+15248,7/9/2013,Video Game - PlayStation,-14.83,CA
+15248,7/10/2013,Goods2 - ThinkGeek,-11.61,CA
+15248,7/10/2013,Amazon Order - Biology Book,-30.43,CA
+15248,7/11/2013,Amazon Order - Baby Crib,-30.86,CA
+15248,7/11/2013,Hospital - Prenatal Care,-91.83,CA
+15248,7/11/2013,Babies "R" Us,-8.07,CA
+15248,7/11/2013,BuyBuyBaby.com,-17.45,CA
+15248,7/11/2013,San Diego Museum,-24.66,CA
+15248,7/11/2013,Coffee,-38.35,CA
+15248,7/11/2013,Amazon Order - Science Book,-45.56,CA
+15248,7/11/2013,Amazon Order - Science Book,-12.56,CA
+15248,7/11/2013,Starbucks Coffee,-31.93,CA
+15248,7/11/2013,Mary's Book Store,-4.83,CA
+15248,7/12/2013,Credit Card Overdraft Fee,-0.38,CA
+15248,7/12/2013,Amazon Order - Mathematics Book,-4.64,CA
+15248,7/13/2013,Public Transportation - Train Pass,-24.1,CA
+15248,7/14/2013,Public Transportation - Bus Pass,-23.16,CA
+15248,7/14/2013,Restaurant - Burgers,-31.83,CA
+15248,7/14/2013,Goods2 - ThinkGeek,-109.15,CA
+15248,7/15/2013,Library Membership,-17.59,CA
+15248,7/15/2013,Art Museum,-24.91,CA
+15248,7/15/2013,Amazon Order - Mathematics Book,-37.93,CA
+15248,7/16/2013,San Diego Museum,-29.45,CA
+15248,7/16/2013,Art Museum,-18.37,CA
+15248,7/16/2013,Uber,-38.76,CA
+15248,7/17/2013,San Diego Museum,-93.55,CA
+15248,7/17/2013,Amazon Order - Mathematics Book,-109.07,CA
+15248,7/18/2013,Public Transportation - Train Pass,-3.05,CA
+15248,7/19/2013,Public Transportation - Bus Pass,-0.71,CA
+15248,7/19/2013,Amazon Order - Mathematics Book,-1.8,CA
+15248,7/19/2013,Von's Groceries,-8.29,CA
+15248,7/19/2013,Amazon Order - Biology Book,-38.1,CA
+15248,7/19/2013,Uber,-13.84,CA
+15248,7/20/2013,Uber,-25.21,CA
+15248,7/20/2013,Amazon Order - Science Book,-2.65,CA
+15248,7/21/2013,Amazon Order - Science Book,-20.68,CA
+15248,7/21/2013,Housing Rent - Late Fee,-30.32,CA
+15248,7/22/2013,Amazon Order - Mathematics Book,-60.98,CA
+15248,7/22/2013,DVD - Star Trek,-108.39,CA
+15248,7/22/2013,Library Membership,-29.66,CA
+15248,7/22/2013,Library Membership,-20.92,CA
+15248,7/22/2013,Amazon Order - Biology Book,-21.23,CA
+15248,7/22/2013,Goods2 - ThinkGeek,-21.1,CA
+15248,7/22/2013,Restaurant - Pizza,-84.66,CA
+15248,7/23/2013,Video Game - PlayStation,-82.98,CA
+15248,7/23/2013,Science Museum,-5.88,CA
+15248,7/24/2013,Goods2 - ThinkGeek,-74.32,CA
+15248,7/25/2013,Amazon Order - Mathematics Book,-29.34,CA
+15248,7/25/2013,Amazon Order - Science Book,-14.64,CA
+15248,7/25/2013,Library Membership,-28.45,CA
+15248,7/26/2013,Public Transportation - Bus Pass,-37.06,CA
+15248,7/26/2013,Taxi,-38.05,CA
+15248,7/26/2013,Goods2 - ThinkGeek,-2.4,CA
+15248,7/26/2013,Bank Fee - Negative Balance,-87.14,CA
+15248,7/26/2013,Taxi,-28.57,CA
+15248,7/26/2013,Restaurant - Burgers,-51.06,CA
+15248,7/26/2013,Mary's Book Store,-96.5,CA
+15248,7/26/2013,Restaurant - Pizza,-32.63,CA
+15248,7/27/2013,Mary's Book Store,-6.14,CA
+15248,7/27/2013,Science Museum,-13.57,CA
+15248,7/27/2013,Goods2 - ThinkGeek,-17.57,CA
+15248,7/27/2013,Online Education Courses,-10.72,CA
+15248,7/27/2013,Uber,-34.27,CA
+15248,7/27/2013,Mary's Book Store,-22.13,CA
+15248,7/28/2013,Restaurant - Chinese,-18.15,CA
+15248,7/28/2013,Video Game - PlayStation,-32.05,CA
+15248,7/28/2013,DVD - Star Trek,-10.06,CA
+15248,7/28/2013,Public Transportation - Train Pass,-27.34,CA
+15248,7/28/2013,Amazon Order - Science Book,-14.57,CA
+15248,7/28/2013,Amazon Order - Biology Book,-25.62,CA
+15248,7/28/2013,Science Museum,-30.72,CA
+15248,7/28/2013,Von's Groceries,-32.65,CA
+15248,7/28/2013,Video Game - PlayStation,-78.96,CA
+15248,7/28/2013,Art Museum,-75.11,CA
+15248,7/29/2013,Goods2 - ThinkGeek,-11.79,CA
+15248,7/29/2013,Science Museum,-6.28,CA
+15248,7/29/2013,DVD - Star Trek,-1.87,CA
+15248,7/30/2013,Starbucks Coffee,-12.8,CA
+15248,7/30/2013,Video Game - PlayStation,-18.98,CA
+15248,8/2/2013,Paycheck,2607,CA
+15248,8/2/2013,Housing Rent,-1362,CA
+15248,8/2/2013,Navient - Student Loans,-197,CA
+15248,8/2/2013,Credit Card Payment,-154,CA
+15248,8/2/2013,ACS - Student Loans,-135,CA
+15248,8/2/2013,Water & Sewer,-53,CA
+15248,8/2/2013,Time Warner Cable,-25,CA
+15248,8/2/2013,Restaurant - Steakhouse,-34.26,CA
+15248,8/2/2013,Online Education Courses,-25.97,CA
+15248,8/2/2013,Uber,-22.25,CA
+15248,8/2/2013,Science Museum,-12.72,CA
+15248,8/2/2013,Taxi,-2.82,CA
+15248,8/2/2013,Art Museum,-40.1,CA
+15248,8/2/2013,Online Education Courses,-14.38,CA
+15248,8/2/2013,Restaurant - Burgers,-2.44,CA
+15248,8/2/2013,Sprouts Market,-27.59,CA
+15248,8/3/2013,Von's Groceries,-25.65,CA
+15248,8/3/2013,Mary's Book Store,-29.53,CA
+15248,8/3/2013,Coffee,-30.43,CA
+15248,8/3/2013,Library Membership,-19,CA
+15248,8/4/2013,Public Transportation - Train Pass,-35.65,CA
+15248,8/5/2013,Library Membership,-36.89,CA
+15248,8/5/2013,Amazon Order - Star Wars Figurine,-21.19,CA
+15248,8/5/2013,Uber,-22.9,CA
+15248,8/5/2013,Time Warne Cable - Late Payment Fee,-76.92,CA
+15248,8/6/2013,Amazon Order - Science Book,-30.91,CA
+15248,8/7/2013,Mary's Book Store,-110.1,CA
+15248,8/8/2013,Public Transportation - Bus Pass,-36.11,CA
+15248,8/8/2013,Starbucks Coffee,-10.39,CA
+15248,8/8/2013,Lyft,-5.6,CA
+15248,8/8/2013,Taxi,-10.95,CA
+15248,8/8/2013,Amazon Order - Biology Book,-7.52,CA
+15248,8/8/2013,Taxi,-69.73,CA
+15248,8/9/2013,DVD - Star Trek,-20.21,CA
+15248,8/10/2013,Taxi,-9.75,CA
+15248,8/10/2013,Restaurant - Steakhouse,-37.71,CA
+15248,8/11/2013,Amazon Order - Biology Book,-8.65,CA
+15248,8/11/2013,Art Museum,-14.25,CA
+15248,8/11/2013,Mary's Book Store,-9.75,CA
+15248,8/12/2013,Science Museum,-38.46,CA
+15248,8/12/2013,Art Museum,-2.75,CA
+15248,8/12/2013,DVD - Star Trek,-31.79,CA
+15248,8/13/2013,San Diego Museum,-33.61,CA
+15248,8/13/2013,Science Museum,-116.11,CA
+15248,8/13/2013,Art Museum,-17.21,CA
+15248,8/13/2013,Goods2 - ThinkGeek,-15.69,CA
+15248,8/13/2013,DVD - Star Trek,-12,CA
+15248,8/13/2013,Restaurant - Chinese,-28.41,CA
+15248,8/14/2013,Goods2 - ThinkGeek,-31.32,CA
+15248,8/15/2013,Amazon Order - Biology Book,-27.24,CA
+15248,8/16/2013,Video Game - PlayStation,-17.89,CA
+15248,8/16/2013,Public Transportation - Train Pass,-34.94,CA
+15248,8/16/2013,Art Museum,-4.77,CA
+15248,8/16/2013,Uber,-22.15,CA
+15248,8/17/2013,Lyft,-22.39,CA
+15248,8/18/2013,Public Transportation - Train Pass,-11.56,CA
+15248,8/19/2013,Amazon Order - Science Book,-17.46,CA
+15248,8/20/2013,Water & Sewer - Late Payment Penalty,-4.25,CA
+15248,8/20/2013,Amazon Order - Mathematics Book,-32.79,CA
+15248,8/20/2013,Science Museum,-36.95,CA
+15248,8/21/2013,Goods2 - ThinkGeek,-1.81,CA
+15248,8/22/2013,Public Transportation - Bus Pass,-20.23,CA
+15248,8/22/2013,Online Education Courses,-9.89,CA
+15248,8/22/2013,Starbucks Coffee,-6.36,CA
+15248,8/23/2013,Coffee,-38.52,CA
+15248,8/23/2013,Food Delivery - GrubHub,-5.01,CA
+15248,8/23/2013,Public Transportation - Bus Pass,-19.7,CA
+15248,8/24/2013,Coffee,-2.14,CA
+15248,8/24/2013,Amazon Order - Biology Book,-20.93,CA
+15248,8/24/2013,Amazon Order - Biology Book,-36.53,CA
+15248,8/24/2013,Coffee,-9.02,CA
+15248,8/24/2013,Library Membership,-24.77,CA
+15248,8/24/2013,Sprouts Market,-17.11,CA
+15248,8/25/2013,Taxi,-24.53,CA
+15248,8/25/2013,DVD - Star Trek,-0.1,CA
+15248,8/25/2013,San Diego Museum,-3.73,CA
+15248,8/25/2013,Uber,-21.68,CA
+15248,8/26/2013,Restaurant - Pizza,-7.4,CA
+15248,8/26/2013,Restaurant - Chinese,-22.41,CA
+15248,8/26/2013,Public Transportation - Bus Pass,-23.68,CA
+15248,8/26/2013,Coffee,-6.57,CA
+15248,8/26/2013,DVD - Star Trek,-3.04,CA
+15248,8/27/2013,Science Museum,-74.4,CA
+15248,8/27/2013,Whole Foods,-23.43,CA
+15248,8/27/2013,Science Museum,-39.91,CA
+15248,8/27/2013,Amazon Order - Star Wars Figurine,-12.25,CA
+15248,8/27/2013,Taxi,-27.33,CA
+15248,8/27/2013,Science Museum,-20.36,CA
+15248,8/27/2013,Online Education Courses,-114.75,CA
+15248,8/28/2013,Amazon Order - Science Book,-32.83,CA
+15248,8/29/2013,Lyft,-36.9,CA
+15248,8/29/2013,San Diego Museum,-1.62,CA
+15248,8/30/2013,Von's Groceries,-28.47,CA
+15248,8/30/2013,Amazon Order - Biology Book,-27.13,CA
+15248,9/2/2013,Paycheck,2607,CA
+15248,9/2/2013,Housing Rent,-1320,CA
+15248,9/2/2013,Navient - Student Loans,-197,CA
+15248,9/2/2013,Credit Card Payment,-154,CA
+15248,9/2/2013,ACS - Student Loans,-135,CA
+15248,9/2/2013,Water & Sewer,-53,CA
+15248,9/2/2013,Time Warner Cable,-25,CA
+15248,9/2/2013,Amazon Order - Biology Book,-4.33,CA
+15248,9/2/2013,Credit Card Overdraft Fee,-7.29,CA
+15248,9/2/2013,Uber,-1.42,CA
+15248,9/2/2013,Taxi,-15.85,CA
+15248,9/2/2013,Ralph's Grocery Store,-6.78,CA
+15248,9/2/2013,Online Education Courses,-15.82,CA
+15248,9/2/2013,Restaurant - Chinese,-28.82,CA
+15248,9/2/2013,San Diego Museum,-6.52,CA
+15248,9/3/2013,Amazon Order - Star Wars Figurine,-36.99,CA
+15248,9/3/2013,Amazon Order - Science Book,-27.32,CA
+15248,9/4/2013,Public Transportation - Train Pass,-3.58,CA
+15248,9/4/2013,Science Museum,-13.01,CA
+15248,9/5/2013,Restaurant - Chinese,-25.67,CA
+15248,9/5/2013,Food Delivery - GrubHub,-18.71,CA
+15248,9/5/2013,Water & Sewer - Late Payment Penalty,-28,CA
+15248,9/5/2013,Von's Groceries,-8.58,CA
+15248,9/5/2013,Amazon Order - Mathematics Book,0,CA
+15248,9/5/2013,Time Warne Cable - Late Payment Fee,-19.46,CA
+15248,9/5/2013,Mary's Book Store,-8.57,CA
+15248,9/5/2013,Amazon Order - Mathematics Book,-25.06,CA
+15248,9/5/2013,Public Transportation - Train Pass,-23.63,CA
+15248,9/5/2013,Mary's Book Store,-34.22,CA
+15248,9/6/2013,Mary's Book Store,-19.8,CA
+15248,9/6/2013,Credit Card Overdraft Fee,-19.2,CA
+15248,9/7/2013,Restaurant - Chinese,-114.21,CA
+15248,9/7/2013,Public Transportation - Train Pass,-10.44,CA
+15248,9/7/2013,Amazon Order - Science Book,-7.96,CA
+15248,9/7/2013,Restaurant - Steakhouse,-39.03,CA
+15248,9/8/2013,Public Transportation - Bus Pass,-18,CA
+15248,9/8/2013,Restaurant - Pizza,-13.87,CA
+15248,9/8/2013,Online Education Courses,-5.32,CA
+15248,9/8/2013,Sprouts Market,-32.66,CA
+15248,9/8/2013,Amazon Order - Science Book,-13.76,CA
+15248,9/9/2013,Science Museum,-115.89,CA
+15248,9/9/2013,Taxi,-30.63,CA
+15248,9/9/2013,Science Museum,-26.79,CA
+15248,9/9/2013,Credit Card Overdraft Fee,-0.92,CA
+15248,9/9/2013,Science Museum,-22.81,CA
+15248,9/9/2013,Uber,-34.76,CA
+15248,9/9/2013,San Diego Museum,-10.7,CA
+15248,9/9/2013,Restaurant - Chinese,-38.53,CA
+15248,9/10/2013,Whole Foods,-3.46,CA
+15248,9/10/2013,Video Game - PlayStation,-106.56,CA
+15248,9/10/2013,Art Museum,-14.74,CA
+15248,9/10/2013,Sprouts Market,-5.36,CA
+15248,9/11/2013,Restaurant - Chinese,-7.02,CA
+15248,9/11/2013,Public Transportation - Bus Pass,-118.27,CA
+15248,9/12/2013,Science Museum,-15.56,CA
+15248,9/13/2013,Credit Card Overdraft Fee,-10.24,CA
+15248,9/14/2013,Amazon Order - Mathematics Book,-90.08,CA
+15248,9/14/2013,Amazon Order - Mathematics Book,-38.21,CA
+15248,9/14/2013,Lyft,-78.09,CA
+15248,9/14/2013,Library Membership,-38.81,CA
+15248,9/15/2013,Restaurant - Steakhouse,-82.88,CA
+15248,9/15/2013,Science Museum,-5.57,CA
+15248,9/15/2013,Online Education Courses,-27.87,CA
+15248,9/15/2013,Science Museum,-0.77,CA
+15248,9/15/2013,Starbucks Coffee,-24.55,CA
+15248,9/15/2013,DVD - Star Trek,-84.51,CA
+15248,9/15/2013,Library Membership,-116.49,CA
+15248,9/15/2013,Restaurant - Burgers,-36.67,CA
+15248,9/15/2013,Amazon Order - Mathematics Book,-13.75,CA
+15248,9/15/2013,Science Museum,-36.06,CA
+15248,9/16/2013,Library Membership,-1.22,CA
+15248,9/16/2013,Credit Card Overdraft Fee,-17.03,CA
+15248,9/17/2013,Public Transportation - Train Pass,-21.09,CA
+15248,9/17/2013,Public Transportation - Train Pass,-2.66,CA
+15248,9/17/2013,Video Game - PlayStation,-29.28,CA
+15248,9/17/2013,Amazon Order - Science Book,-31.01,CA
+15248,9/18/2013,Bank Fee - Negative Balance,-0.03,CA
+15248,9/18/2013,Amazon Order - Star Wars Figurine,-18.71,CA
+15248,9/19/2013,Video Game - PlayStation,-35.48,CA
+15248,9/19/2013,Restaurant - Chinese,-27.18,CA
+15248,9/19/2013,Coffee,-3.41,CA
+15248,9/19/2013,Library Membership,-90.64,CA
+15248,9/19/2013,Amazon Order - Biology Book,-23.2,CA
+15248,9/19/2013,Amazon Order - Science Book,-2.03,CA
+15248,9/19/2013,Public Transportation - Bus Pass,-13.05,CA
+15248,9/19/2013,Library Membership,-37.58,CA
+15248,9/19/2013,Restaurant - Steakhouse,-8.45,CA
+15248,9/20/2013,Video Game - PlayStation,-6.01,CA
+15248,9/20/2013,Taxi,-0.83,CA
+15248,9/20/2013,Von's Groceries,-23.81,CA
+15248,9/21/2013,Mary's Book Store,-39.82,CA
+15248,9/22/2013,Lyft,-26.33,CA
+15248,9/22/2013,Goods2 - ThinkGeek,-40.16,CA
+15248,9/22/2013,Amazon Order - Biology Book,-10.86,CA
+15248,9/22/2013,Bank Fee - Negative Balance,-30.45,CA
+15248,9/22/2013,Starbucks Coffee,-39.73,CA
+15248,9/23/2013,Amazon Order - Star Wars Figurine,-66.08,CA
+15248,9/23/2013,Uber,-30.8,CA
+15248,9/23/2013,Video Game - PlayStation,-47.98,CA
+15248,9/23/2013,San Diego Museum,-1.9,CA
+15248,9/23/2013,Science Museum,-35.95,CA
+15248,9/23/2013,San Diego Museum,-26.99,CA
+15248,9/23/2013,Mary's Book Store,-27.15,CA
+15248,9/23/2013,Public Transportation - Bus Pass,-85.73,CA
+15248,9/23/2013,DVD - Star Trek,-0.56,CA
+15248,9/23/2013,Whole Foods,-6.33,CA
+15248,9/24/2013,Mary's Book Store,-30.17,CA
+15248,9/25/2013,Lyft,-38.51,CA
+15248,9/25/2013,Amazon Order - Mathematics Book,-13.42,CA
+15248,9/25/2013,Mary's Book Store,-32.38,CA
+15248,9/25/2013,Mary's Book Store,-20.49,CA
+15248,9/25/2013,Coffee,-31.18,CA
+15248,9/25/2013,Restaurant - Chinese,-59.85,CA
+15248,9/25/2013,Uber,-29.01,CA
+15248,9/25/2013,Public Transportation - Train Pass,-27.03,CA
+15248,9/26/2013,Online Education Courses,-21.96,CA
+15248,9/26/2013,Taxi,-15.02,CA
+15248,9/27/2013,Online Education Courses,-22.09,CA
+15248,9/27/2013,Credit Card Overdraft Fee,-30.89,CA
+15248,9/27/2013,Public Transportation - Train Pass,-115.19,CA
+15248,9/28/2013,Whole Foods,-15.28,CA
+15248,9/29/2013,Library Membership,-5.86,CA
+15248,9/29/2013,Whole Foods,-13.92,CA
+15248,9/29/2013,Goods2 - ThinkGeek,-28.32,CA
+15248,9/29/2013,Whole Foods,-37.3,CA
+15248,9/29/2013,Amazon Order - Mathematics Book,-28.6,CA
+15248,9/30/2013,Science Museum,-5.57,CA
+15248,10/2/2013,Paycheck,2607,CA
+15248,10/2/2013,Housing Rent,-1168,CA
+15248,10/2/2013,Navient - Student Loans,-197,CA
+15248,10/2/2013,Credit Card Payment,-154,CA
+15248,10/2/2013,ACS - Student Loans,-135,CA
+15248,10/2/2013,Water & Sewer,-53,CA
+15248,10/2/2013,Time Warner Cable,-25,CA
+15248,10/2/2013,Amazon Order - Star Wars Figurine,-71.24,CA
+15248,10/2/2013,Art Museum,-28.73,CA
+15248,10/2/2013,Restaurant - Steakhouse,-86.41,CA
+15248,10/3/2013,Amazon Order - Mathematics Book,-109.7,CA
+15248,10/3/2013,Whole Foods,-37.21,CA
+15248,10/3/2013,Library Membership,-86.64,CA
+15248,10/3/2013,Amazon Order - Mathematics Book,-34.67,CA
+15248,10/3/2013,Credit Card Overdraft Fee,-116.88,CA
+15248,10/3/2013,Science Museum,-31.37,CA
+15248,10/3/2013,Restaurant - Burgers,-18.62,CA
+15248,10/3/2013,Ralph's Grocery Store,-29.12,CA
+15248,10/3/2013,Amazon Order - Mathematics Book,-0.49,CA
+15248,10/3/2013,Amazon Order - Science Book,-17.11,CA
+15248,10/4/2013,Public Transportation - Train Pass,-3.08,CA
+15248,10/4/2013,Science Museum,-62.25,CA
+15248,10/5/2013,Taxi,-19.61,CA
+15248,10/6/2013,Von's Groceries,-16.98,CA
+15248,10/6/2013,Credit Card Overdraft Fee,-104.77,CA
+15248,10/6/2013,Library Membership,-15.9,CA
+15248,10/7/2013,Whole Foods,-11.96,CA
+15248,10/8/2013,Library Membership,-29.64,CA
+15248,10/9/2013,Science Museum,-22.55,CA
+15248,10/9/2013,Restaurant - Burgers,-18.25,CA
+15248,10/9/2013,Uber,-2.63,CA
+15248,10/9/2013,Amazon Order - Mathematics Book,-15.49,CA
+15248,10/9/2013,Sprouts Market,-103.49,CA
+15248,10/10/2013,Food Delivery - GrubHub,-19.06,CA
+15248,10/10/2013,Restaurant - Burgers,-15.53,CA
+15248,10/10/2013,Library Membership,-2.69,CA
+15248,10/10/2013,Video Game - PlayStation,-14.33,CA
+15248,10/10/2013,San Diego Museum,-32.81,CA
+15248,10/11/2013,Art Museum,-15.27,CA
+15248,10/11/2013,Art Museum,-19.04,CA
+15248,10/11/2013,Amazon Order - Science Book,-18.8,CA
+15248,10/11/2013,Uber,-26.8,CA
+15248,10/11/2013,Lyft,-24.64,CA
+15248,10/12/2013,Amazon Order - Mathematics Book,-36.46,CA
+15248,10/12/2013,Online Education Courses,-4.66,CA
+15248,10/12/2013,Ralph's Grocery Store,-26.34,CA
+15248,10/12/2013,Taxi,-31.48,CA
+15248,10/13/2013,Restaurant - Chinese,-24.8,CA
+15248,10/13/2013,DVD - Star Trek,-32.87,CA
+15248,10/13/2013,Amazon Order - Star Wars Figurine,-94.98,CA
+15248,10/13/2013,Library Membership,-83.78,CA
+15248,10/13/2013,Uber,-4.86,CA
+15248,10/13/2013,Lyft,-34.46,CA
+15248,10/13/2013,Von's Groceries,-33.29,CA
+15248,10/14/2013,Online Education Courses,-44.98,CA
+15248,10/14/2013,Whole Foods,-16.22,CA
+15248,10/14/2013,Lyft,-39.02,CA
+15248,10/14/2013,Science Museum,-23.84,CA
+15248,10/14/2013,Online Education Courses,-24.49,CA
+15248,10/14/2013,DVD - Star Trek,-25.26,CA
+15248,10/14/2013,Library Membership,-28.17,CA
+15248,10/14/2013,Amazon Order - Science Book,-29.48,CA
+15248,10/15/2013,Art Museum,-36.86,CA
+15248,10/15/2013,DVD - Star Trek,-11.66,CA
+15248,10/15/2013,Ralph's Grocery Store,-32.07,CA
+15248,10/15/2013,Sprouts Market,-30.03,CA
+15248,10/16/2013,Taxi,-29.91,CA
+15248,10/16/2013,Public Transportation - Train Pass,-14.99,CA
+15248,10/16/2013,Science Museum,-24.15,CA
+15248,10/16/2013,Amazon Order - Star Wars Figurine,-9.38,CA
+15248,10/16/2013,Sprouts Market,-27.08,CA
+15248,10/16/2013,Von's Groceries,-7.03,CA
+15248,10/17/2013,Public Transportation - Bus Pass,-11.43,CA
+15248,10/17/2013,Amazon Order - Science Book,-24.75,CA
+15248,10/18/2013,Public Transportation - Train Pass,-4.28,CA
+15248,10/18/2013,Restaurant - Pizza,-36.37,CA
+15248,10/18/2013,Video Game - PlayStation,-90.17,CA
+15248,10/19/2013,Lyft,-43.43,CA
+15248,10/19/2013,Mary's Book Store,-15,CA
+15248,10/20/2013,Uber,-26.83,CA
+15248,10/20/2013,Amazon Order - Mathematics Book,-24.85,CA
+15248,10/21/2013,Ralph's Grocery Store,-27.16,CA
+15248,10/21/2013,Public Transportation - Train Pass,-31.05,CA
+15248,10/21/2013,Sprouts Market,-41.84,CA
+15248,10/21/2013,Goods2 - ThinkGeek,-36.81,CA
+15248,10/22/2013,Public Transportation - Train Pass,-113.27,CA
+15248,10/22/2013,Von's Groceries,-25.73,CA
+15248,10/22/2013,Credit Card Overdraft Fee,-117.47,CA
+15248,10/22/2013,Science Museum,-12.26,CA
+15248,10/22/2013,Amazon Order - Science Book,-9.55,CA
+15248,10/23/2013,Mary's Book Store,-32.06,CA
+15248,10/23/2013,Goods2 - ThinkGeek,-38.71,CA
+15248,10/23/2013,Science Museum,-34.07,CA
+15248,10/23/2013,Mary's Book Store,-107.2,CA
+15248,10/24/2013,Housing Rent - Late Fee,-16.14,CA
+15248,10/24/2013,Lyft,-25.62,CA
+15248,10/24/2013,Housing Rent - Late Fee,-3.61,CA
+15248,10/25/2013,DVD - Star Trek,-37.6,CA
+15248,10/25/2013,Amazon Order - Mathematics Book,-20.69,CA
+15248,10/25/2013,Online Education Courses,-23.76,CA
+15248,10/25/2013,Amazon Order - Biology Book,-16.26,CA
+15248,10/25/2013,Goods2 - ThinkGeek,-91.83,CA
+15248,10/25/2013,Amazon Order - Science Book,-25.1,CA
+15248,10/25/2013,Taxi,-5.73,CA
+15248,10/26/2013,Amazon Order - Biology Book,-22.03,CA
+15248,10/26/2013,Lyft,-7.22,CA
+15248,10/26/2013,Coffee,-29.51,CA
+15248,10/26/2013,Art Museum,-108.01,CA
+15248,10/27/2013,DVD - Star Trek,-24.63,CA
+15248,10/28/2013,Mary's Book Store,-20.28,CA
+15248,10/28/2013,Goods2 - ThinkGeek,-29.44,CA
+15248,10/28/2013,Amazon Order - Science Book,-6.24,CA
+15248,10/29/2013,Bank Fee - Negative Balance,-21.98,CA
+15248,10/29/2013,Science Museum,-39.3,CA
+15248,10/29/2013,Goods2 - ThinkGeek,-24.39,CA
+15248,10/30/2013,Video Game - PlayStation,-37.75,CA
+15248,10/30/2013,Public Transportation - Train Pass,-10.56,CA
+15248,11/2/2013,Paycheck,2607,CA
+15248,11/2/2013,Housing Rent,-1015,CA
+15248,11/2/2013,Navient - Student Loans,-197,CA
+15248,11/2/2013,Credit Card Payment,-154,CA
+15248,11/2/2013,ACS - Student Loans,-135,CA
+15248,11/2/2013,Water & Sewer,-53,CA
+15248,11/2/2013,Time Warner Cable,-25,CA
+15248,11/2/2013,Von's Groceries,-113.38,CA
+15248,11/2/2013,Coffee,-2.1,CA
+15248,11/3/2013,Amazon Order - Biology Book,-14.31,CA
+15248,11/3/2013,Bank Fee - Negative Balance,-18.3,CA
+15248,11/4/2013,Coffee,-35.9,CA
+15248,11/5/2013,Whole Foods,-65.76,CA
+15248,11/5/2013,Video Game - PlayStation,-32.37,CA
+15248,11/5/2013,Taxi,-19.33,CA
+15248,11/5/2013,Mary's Book Store,-16.63,CA
+15248,11/5/2013,Library Membership,-11.89,CA
+15248,11/5/2013,Restaurant - Burgers,-92.52,CA
+15248,11/5/2013,Whole Foods,-84.32,CA
+15248,11/6/2013,Goods2 - ThinkGeek,-46.6,CA
+15248,11/6/2013,Public Transportation - Bus Pass,-9.49,CA
+15248,11/6/2013,Taxi,-38.33,CA
+15248,11/6/2013,Amazon Order - Science Book,-9.02,CA
+15248,11/6/2013,Art Museum,-33.23,CA
+15248,11/7/2013,Lyft,-19.44,CA
+15248,11/8/2013,Mary's Book Store,-4.65,CA
+15248,11/8/2013,Amazon Order - Biology Book,-19.37,CA
+15248,11/9/2013,Restaurant - Chinese,-0.88,CA
+15248,11/9/2013,Credit Card Overdraft Fee,-102.17,CA
+15248,11/9/2013,Amazon Order - Star Wars Figurine,-19.63,CA
+15248,11/10/2013,Uber,-31.84,CA
+15248,11/10/2013,Amazon Order - Star Wars Figurine,-39.81,CA
+15248,11/11/2013,Coffee,-17.94,CA
+15248,11/11/2013,Restaurant - Burgers,-13.81,CA
+15248,11/11/2013,Amazon Order - Star Wars Figurine,-9.81,CA
+15248,11/12/2013,Housing Rent - Late Fee,-96.12,CA
+15248,11/13/2013,Whole Foods,-14.32,CA
+15248,11/13/2013,Public Transportation - Train Pass,-23.93,CA
+15248,11/14/2013,Art Museum,-50.63,CA
+15248,11/14/2013,Online Education Courses,-11.57,CA
+15248,11/15/2013,Amazon Order - Star Wars Figurine,-24.16,CA
+15248,11/16/2013,Ralph's Grocery Store,-37.04,CA
+15248,11/16/2013,Amazon Order - Science Book,-21.12,CA
+15248,11/16/2013,Art Museum,-78.01,CA
+15248,11/16/2013,Credit Card Overdraft Fee,-34.37,CA
+15248,11/16/2013,Starbucks Coffee,-38.01,CA
+15248,11/16/2013,Amazon Order - Biology Book,-15.12,CA
+15248,11/16/2013,Online Education Courses,-20.59,CA
+15248,11/16/2013,Goods2 - ThinkGeek,-21.71,CA
+15248,11/17/2013,Uber,-54.23,CA
+15248,11/18/2013,Video Game - PlayStation,-2.09,CA
+15248,11/19/2013,Art Museum,-112.26,CA
+15248,11/20/2013,Amazon Order - Mathematics Book,-35.18,CA
+15248,11/20/2013,Public Transportation - Bus Pass,-38.8,CA
+15248,11/20/2013,Mary's Book Store,-35.96,CA
+15248,11/20/2013,Sprouts Market,-32.83,CA
+15248,11/20/2013,Uber,-12.43,CA
+15248,11/20/2013,Amazon Order - Science Book,-30.87,CA
+15248,11/21/2013,Restaurant - Pizza,-93.45,CA
+15248,11/21/2013,Science Museum,-7.65,CA
+15248,11/21/2013,Amazon Order - Star Wars Figurine,-6.75,CA
+15248,11/21/2013,Public Transportation - Train Pass,-22.29,CA
+15248,11/21/2013,Uber,-84.62,CA
+15248,11/22/2013,Science Museum,-37.19,CA
+15248,11/22/2013,Coffee,-28.27,CA
+15248,11/23/2013,DVD - Star Trek,-20.97,CA
+15248,11/23/2013,Online Education Courses,-18.67,CA
+15248,11/24/2013,Whole Foods,-71.92,CA
+15248,11/25/2013,Public Transportation - Bus Pass,-34.69,CA
+15248,11/26/2013,Sprouts Market,-13.75,CA
+15248,11/27/2013,Library Membership,-8.35,CA
+15248,11/27/2013,Online Education Courses,-17.21,CA
+15248,11/27/2013,Amazon Order - Science Book,-34.53,CA
+15248,11/27/2013,Public Transportation - Bus Pass,-7.91,CA
+15248,11/28/2013,Online Education Courses,-14.4,CA
+15248,11/28/2013,Coffee,-9.15,CA
+15248,11/28/2013,Mary's Book Store,-34.75,CA
+15248,11/29/2013,Art Museum,-12.11,CA
+15248,11/29/2013,Whole Foods,-9.74,CA
+15248,11/30/2013,Goods2 - ThinkGeek,-21.41,CA
+15248,11/30/2013,Taxi,-23.98,CA
+15248,12/2/2013,Paycheck,2607,CA
+15248,12/2/2013,Housing Rent,-761,CA
+15248,12/2/2013,Navient - Student Loans,-197,CA
+15248,12/2/2013,Credit Card Payment,-154,CA
+15248,12/2/2013,ACS - Student Loans,-135,CA
+15248,12/2/2013,Water & Sewer,-53,CA
+15248,12/2/2013,Time Warner Cable,-25,CA
+15248,12/2/2013,Time Warne Cable - Late Payment Fee,-27.84,CA
+15248,12/2/2013,Restaurant - Burgers,-24.34,CA
+15248,12/2/2013,Public Transportation - Bus Pass,-30.35,CA
+15248,12/2/2013,Amazon Order - Science Book,-64.08,CA
+15248,12/2/2013,Online Education Courses,-2.8,CA
+15248,12/2/2013,Amazon Order - Science Book,-108.55,CA
+15248,12/2/2013,Online Education Courses,-25.77,CA
+15248,12/2/2013,Credit Card Overdraft Fee,-33,CA
+15248,12/3/2013,Uber,-11.49,CA
+15248,12/3/2013,Public Transportation - Train Pass,-0.61,CA
+15248,12/4/2013,Amazon Order - Biology Book,-23.15,CA
+15248,12/5/2013,Library Membership,-23.83,CA
+15248,12/5/2013,Credit Card Overdraft Fee,-19.88,CA
+15248,12/5/2013,Amazon Order - Biology Book,-7.63,CA
+15248,12/5/2013,Restaurant - Burgers,-12.48,CA
+15248,12/5/2013,Restaurant - Chinese,-90.17,CA
+15248,12/5/2013,Public Transportation - Train Pass,-5.35,CA
+15248,12/5/2013,Art Museum,-38.62,CA
+15248,12/6/2013,Video Game - PlayStation,-70.97,CA
+15248,12/7/2013,Art Museum,-39.63,CA
+15248,12/8/2013,Science Museum,-35.07,CA
+15248,12/9/2013,Food Delivery - GrubHub,-32.31,CA
+15248,12/9/2013,Ralph's Grocery Store,-71.69,CA
+15248,12/9/2013,Amazon Order - Science Book,-19.68,CA
+15248,12/10/2013,Credit Card Overdraft Fee,-33.49,CA
+15248,12/10/2013,Time Warne Cable - Late Payment Fee,-8.06,CA
+15248,12/10/2013,Art Museum,-26.91,CA
+15248,12/10/2013,Public Transportation - Bus Pass,-102.24,CA
+15248,12/10/2013,Amazon Order - Biology Book,-18.26,CA
+15248,12/10/2013,Science Museum,-15.89,CA
+15248,12/10/2013,Lyft,-16.84,CA
+15248,12/11/2013,San Diego Museum,-10.64,CA
+15248,12/11/2013,Ralph's Grocery Store,-39.95,CA
+15248,12/11/2013,Public Transportation - Bus Pass,-34.96,CA
+15248,12/11/2013,Amazon Order - Biology Book,-30.18,CA
+15248,12/11/2013,Mary's Book Store,-38.71,CA
+15248,12/11/2013,Credit Card Overdraft Fee,-44.88,CA
+15248,12/11/2013,Food Delivery - GrubHub,-6.52,CA
+15248,12/11/2013,Public Transportation - Bus Pass,-64.91,CA
+15248,12/11/2013,Public Transportation - Train Pass,-35.54,CA
+15248,12/11/2013,Video Game - PlayStation,-13.98,CA
+15248,12/11/2013,Lyft,-4.33,CA
+15248,12/11/2013,Mary's Book Store,-23.28,CA
+15248,12/11/2013,Sprouts Market,-38.38,CA
+15248,12/11/2013,DVD - Star Trek,-77.01,CA
+15248,12/11/2013,Science Museum,-8.76,CA
+15248,12/12/2013,Uber,-111.21,CA
+15248,12/12/2013,San Diego Museum,-28.47,CA
+15248,12/13/2013,Art Museum,-69.29,CA
+15248,12/13/2013,San Diego Museum,-10.68,CA
+15248,12/13/2013,Mary's Book Store,-25.45,CA
+15248,12/13/2013,Housing Rent - Late Fee,-33.41,CA
+15248,12/13/2013,Library Membership,-36.04,CA
+15248,12/13/2013,Amazon Order - Star Wars Figurine,-5.92,CA
+15248,12/13/2013,Starbucks Coffee,-8.42,CA
+15248,12/13/2013,Goods2 - ThinkGeek,-24.5,CA
+15248,12/14/2013,Sprouts Market,-30.39,CA
+15248,12/14/2013,Amazon Order - Star Wars Figurine,-37.12,CA
+15248,12/14/2013,DVD - Star Trek,-38,CA
+15248,12/15/2013,Video Game - PlayStation,-25.12,CA
+15248,12/15/2013,Restaurant - Pizza,-16.76,CA
+15248,12/16/2013,Library Membership,-18.88,CA
+15248,12/17/2013,Online Education Courses,-33.75,CA
+15248,12/17/2013,Lyft,-9.13,CA
+15248,12/18/2013,Restaurant - Pizza,-8.56,CA
+15248,12/19/2013,Whole Foods,-23.94,CA
+15248,12/19/2013,Science Museum,-9.8,CA
+15248,12/19/2013,Public Transportation - Train Pass,-21.18,CA
+15248,12/19/2013,Mary's Book Store,-17.57,CA
+15248,12/19/2013,Uber,-6.6,CA
+15248,12/19/2013,Amazon Order - Mathematics Book,-88.26,CA
+15248,12/20/2013,Video Game - PlayStation,-36.72,CA
+15248,12/20/2013,Starbucks Coffee,-9.1,CA
+15248,12/20/2013,Amazon Order - Star Wars Figurine,-6.93,CA
+15248,12/21/2013,DVD - Star Trek,-118.37,CA
+15248,12/21/2013,Art Museum,-17.63,CA
+15248,12/21/2013,Restaurant - Chinese,-20.51,CA
+15248,12/21/2013,DVD - Star Trek,-15.24,CA
+15248,12/21/2013,Goods2 - ThinkGeek,-17.45,CA
+15248,12/21/2013,Public Transportation - Bus Pass,-12.08,CA
+15248,12/21/2013,Restaurant - Chinese,-13.88,CA
+15248,12/21/2013,Amazon Order - Biology Book,-17.98,CA
+15248,12/21/2013,Bank Fee - Negative Balance,-26.12,CA
+15248,12/22/2013,Amazon Order - Science Book,-37.41,CA
+15248,12/23/2013,Starbucks Coffee,-0.38,CA
+15248,12/23/2013,Art Museum,-36.16,CA
+15248,12/23/2013,Art Museum,-17.88,CA
+15248,12/23/2013,Taxi,-28.23,CA
+15248,12/23/2013,Taxi,-17.73,CA
+15248,12/23/2013,Restaurant - Chinese,-5.3,CA
+15248,12/23/2013,Taxi,-14.56,CA
+15248,12/23/2013,DVD - Star Trek,-32.29,CA
+15248,12/24/2013,Library Membership,-37.72,CA
+15248,12/24/2013,Mary's Book Store,-20.06,CA
+15248,12/25/2013,Amazon Order - Star Wars Figurine,-31.37,CA
+15248,12/25/2013,Amazon Order - Science Book,-55.63,CA
+15248,12/26/2013,Amazon Order - Science Book,-103.11,CA
+15248,12/26/2013,Amazon Order - Star Wars Figurine,-13.11,CA
+15248,12/26/2013,Library Membership,-29.56,CA
+15248,12/27/2013,Library Membership,-3.88,CA
+15248,12/27/2013,Taxi,-39.89,CA
+15248,12/27/2013,Starbucks Coffee,-28.43,CA
+15248,12/27/2013,Whole Foods,-12.75,CA
+15248,12/27/2013,Amazon Order - Mathematics Book,-26.52,CA
+15248,12/28/2013,Amazon Order - Science Book,-12.84,CA
+15248,12/29/2013,Taxi,-31.05,CA
+15248,12/29/2013,Taxi,-4.21,CA
+15248,12/30/2013,Time Warne Cable - Late Payment Fee,-6.02,CA
+15248,12/30/2013,Sprouts Market,-118.26,CA
+15248,12/30/2013,Amazon Order - Biology Book,-76.22,CA
+15248,12/30/2013,DVD - Star Trek,-10.62,CA
+15248,12/30/2013,Housing Rent - Late Fee,-31.99,CA
+15248,12/30/2013,Mary's Book Store,-23.11,CA
+15248,12/30/2013,Water & Sewer - Late Payment Penalty,-89.75,CA
+15248,12/30/2013,Coffee,-16.1,CA
+15248,12/32/2013,Food Delivery - GrubHub,-12.2,CA
+15248,1/2/2014,Bank Fee - Negative Balance,-88.86,CA
+15248,1/2/2014,DVD - Star Trek,-66.01,CA
+15248,1/2/2014,Library Membership,-10.52,CA
+15248,1/3/2014,Amazon Order - Biology Book,-110.97,CA
+15248,1/3/2014,Amazon Order - Star Wars Figurine,-12.77,CA
+15248,1/3/2014,Restaurant - Chinese,-91.68,CA
+15248,1/4/2014,Art Museum,-117.37,CA
+15248,1/4/2014,Restaurant - Steakhouse,-30.34,CA
+15248,1/5/2014,Art Museum,-2.49,CA
+15248,1/6/2014,Time Warne Cable - Late Payment Fee,-22.65,CA
+15248,1/6/2014,Goods2 - ThinkGeek,-1.04,CA
+15248,1/6/2014,Mary's Book Store,-18.36,CA
+15248,1/6/2014,Amazon Order - Biology Book,-27.89,CA
+15248,1/6/2014,Restaurant - Chinese,-58.2,CA
+15248,1/6/2014,Restaurant - Burgers,-19.96,CA
+15248,1/6/2014,Restaurant - Steakhouse,-13.3,CA
+15248,1/6/2014,Restaurant - Burgers,-19.32,CA
+15248,1/6/2014,Public Transportation - Bus Pass,-36.18,CA
+15248,1/6/2014,Science Museum,-58.63,CA
+15248,1/6/2014,Lyft,-30.66,CA
+15248,1/6/2014,Sprouts Market,-35.44,CA
+15248,1/6/2014,Amazon Order - Mathematics Book,-12.16,CA
+15248,1/7/2014,Starbucks Coffee,-34.22,CA
+15248,1/8/2014,Public Transportation - Train Pass,-2.96,CA
+15248,1/8/2014,Goods2 - ThinkGeek,-17.29,CA
+15248,1/8/2014,Amazon Order - Biology Book,-26.35,CA
+15248,1/8/2014,Public Transportation - Train Pass,-3.56,CA
+15248,1/8/2014,Mary's Book Store,-21.43,CA
+15248,1/9/2014,Water & Sewer - Late Payment Penalty,-22.52,CA
+15248,1/10/2014,Amazon Order - Biology Book,-21,CA
+15248,1/11/2014,Sprouts Market,-12.71,CA
+15248,1/11/2014,DVD - Star Trek,-5.59,CA
+15248,1/11/2014,Video Game - PlayStation,-76.45,CA
+15248,1/11/2014,Public Transportation - Bus Pass,-36.66,CA
+15248,1/11/2014,Housing Rent - Late Fee,-37.82,CA
+15248,1/11/2014,Housing Rent - Late Fee,-12.88,CA
+15248,1/11/2014,Starbucks Coffee,-15.46,CA
+15248,1/11/2014,Art Museum,-6.79,CA
+15248,1/11/2014,Credit Card Overdraft Fee,-16.28,CA
+15248,1/11/2014,Starbucks Coffee,-28.49,CA
+15248,1/11/2014,Online Education Courses,-17.01,CA
+15248,1/11/2014,Library Membership,-117.06,CA
+15248,1/11/2014,Amazon Order - Science Book,-28.61,CA
+15248,1/11/2014,Library Membership,-20.31,CA
+15248,1/11/2014,Library Membership,-53.8,CA
+15248,1/11/2014,Video Game - PlayStation,-32.6,CA
+15248,1/11/2014,Goods2 - ThinkGeek,-29.08,CA
+15248,1/11/2014,Taxi,-15.71,CA
+15248,1/12/2014,Restaurant - Burgers,-12.22,CA
+15248,1/13/2014,Restaurant - Steakhouse,-14.06,CA
+15248,1/13/2014,Science Museum,-16.06,CA
+15248,1/14/2014,Restaurant - Burgers,-117.47,CA
+15248,1/14/2014,San Diego Museum,-0.64,CA
+15248,1/14/2014,Mary's Book Store,-5.02,CA
+15248,1/14/2014,Library Membership,-21.93,CA
+15248,1/15/2014,Food Delivery - GrubHub,-12.65,CA
+15248,1/15/2014,Sprouts Market,-18.16,CA
+15248,1/15/2014,San Diego Museum,-24.74,CA
+15248,1/15/2014,Goods2 - ThinkGeek,-34.52,CA
+15248,1/16/2014,Library Membership,-10.5,CA
+15248,1/16/2014,Library Membership,-7.87,CA
+15248,1/16/2014,Art Museum,-37.23,CA
+15248,1/16/2014,Online Education Courses,-3.71,CA
+15248,1/16/2014,Library Membership,-23.69,CA
+15248,1/16/2014,Online Education Courses,-50.34,CA
+15248,1/17/2014,Online Education Courses,-24.27,CA
+15248,1/17/2014,Starbucks Coffee,-29.17,CA
+15248,1/17/2014,Amazon Order - Science Book,-32.29,CA
+15248,1/18/2014,Restaurant - Pizza,-23.05,CA
+15248,1/18/2014,Amazon Order - Biology Book,-7.95,CA
+15248,1/19/2014,Science Museum,-20.47,CA
+15248,1/19/2014,Amazon Order - Mathematics Book,-30.78,CA
+15248,1/19/2014,Restaurant - Pizza,-9.47,CA
+15248,1/20/2014,Public Transportation - Train Pass,-25.69,CA
+15248,1/20/2014,Taxi,-37.65,CA
+15248,1/20/2014,Amazon Order - Biology Book,-67.37,CA
+15248,1/20/2014,Library Membership,-7.01,CA
+15248,1/20/2014,DVD - Star Trek,-29.28,CA
+15248,1/21/2014,Restaurant - Steakhouse,-36.98,CA
+15248,1/21/2014,San Diego Museum,-26.56,CA
+15248,1/21/2014,Amazon Order - Star Wars Figurine,-15.04,CA
+15248,1/22/2014,Science Museum,-37.8,CA
+15248,1/22/2014,Amazon Order - Star Wars Figurine,-59.22,CA
+15248,1/22/2014,Uber,-57.7,CA
+15248,1/22/2014,Whole Foods,-38.93,CA
+15248,1/23/2014,DVD - Star Trek,-30.96,CA
+15248,1/24/2014,Restaurant - Steakhouse,-7.68,CA
+15248,1/24/2014,Mary's Book Store,-84.73,CA
+15248,1/24/2014,Science Museum,-97.55,CA
+15248,1/24/2014,Lyft,-115.65,CA
+15248,1/24/2014,Lyft,-30.89,CA
+15248,1/24/2014,Online Education Courses,-23.83,CA
+15248,1/24/2014,Public Transportation - Train Pass,-113.63,CA
+15248,1/24/2014,Lyft,-36.93,CA
+15248,1/24/2014,Food Delivery - GrubHub,-2.99,CA
+15248,1/24/2014,Amazon Order - Biology Book,-33.43,CA
+15248,1/25/2014,Ralph's Grocery Store,-8.31,CA
+15248,1/26/2014,DVD - Star Trek,-20.73,CA
+15248,1/27/2014,Amazon Order - Biology Book,-31.36,CA
+15248,1/27/2014,Amazon Order - Biology Book,-96.88,CA
+15248,1/27/2014,Video Game - PlayStation,-20.5,CA
+15248,1/28/2014,Bank Fee - Negative Balance,-110.04,CA
+15248,1/28/2014,Goods2 - ThinkGeek,-16,CA
+15248,1/28/2014,Restaurant - Steakhouse,-8.41,CA
+15248,1/28/2014,Lyft,-16.94,CA
+15248,1/28/2014,Uber,-100.25,CA
+15248,1/29/2014,Credit Card Overdraft Fee,-73.49,CA
+15248,1/30/2014,Art Museum,-13.58,CA
+15248,1/30/2014,Whole Foods,-3.91,CA
+15248,1/30/2014,Lyft,-3.94,CA
+15248,1/30/2014,Public Transportation - Bus Pass,-56.89,CA
+15248,1/30/2014,Library Membership,-37.9,CA
+15248,1/30/2014,DVD - Star Trek,-39.34,CA
+15248,1/30/2014,Von's Groceries,-10.69,CA
+15248,1/30/2014,Goods2 - ThinkGeek,-9.5,CA
+15248,1/30/2014,Bank Fee - Negative Balance,-37.05,CA
+15248,1/30/2014,Starbucks Coffee,-17.16,CA
+15248,1/30/2014,Lyft,-38.7,CA
+15248,1/30/2014,Public Transportation - Bus Pass,-6.48,CA
+15248,1/30/2014,Science Museum,-25.28,CA
+15248,3/2/2014,Paycheck,2607,CA
+15248,3/2/2014,Housing Rent,-869,CA
+15248,3/2/2014,Navient - Student Loans,-197,CA
+15248,3/2/2014,Credit Card Payment,-154,CA
+15248,3/2/2014,ACS - Student Loans,-135,CA
+15248,3/2/2014,Water & Sewer,-53,CA
+15248,3/2/2014,Time Warner Cable,-25,CA
+15248,3/2/2014,Food Delivery - GrubHub,-25.32,CA
+15248,3/3/2014,DVD - Star Trek,-0.22,CA
+15248,3/4/2014,Von's Groceries,-19.54,CA
+15248,3/5/2014,Public Transportation - Train Pass,-112.49,CA
+15248,3/5/2014,Lyft,-6.67,CA
+15248,3/5/2014,Coffee,-5.55,CA
+15248,3/5/2014,Restaurant - Chinese,-1.88,CA
+15248,3/6/2014,Mary's Book Store,-21.88,CA
+15248,3/6/2014,Starbucks Coffee,-35.22,CA
+15248,3/6/2014,Restaurant - Burgers,-12.27,CA
+15248,3/6/2014,Whole Foods,-32.03,CA
+15248,3/6/2014,Coffee,-27.51,CA
+15248,3/7/2014,DVD - Star Trek,-79.25,CA
+15248,3/7/2014,Mary's Book Store,-4.23,CA
+15248,3/7/2014,Amazon Order - Mathematics Book,-37.36,CA
+15248,3/7/2014,DVD - Star Trek,-73.27,CA
+15248,3/7/2014,Lyft,-13.12,CA
+15248,3/7/2014,Amazon Order - Mathematics Book,-23.37,CA
+15248,3/7/2014,Mary's Book Store,-5.03,CA
+15248,3/7/2014,Science Museum,-0.41,CA
+15248,3/7/2014,Coffee,-9.23,CA
+15248,3/7/2014,Goods2 - ThinkGeek,-2.45,CA
+15248,3/7/2014,DVD - Star Trek,-7.42,CA
+15248,3/7/2014,DVD - Star Trek,-23,CA
+15248,3/7/2014,Goods2 - ThinkGeek,-20.93,CA
+15248,3/7/2014,Library Membership,-34.55,CA
+15248,3/7/2014,Science Museum,-0.51,CA
+15248,3/7/2014,Library Membership,-0.42,CA
+15248,3/7/2014,Lyft,-31.44,CA
+15248,3/7/2014,Amazon Order - Biology Book,-27.56,CA
+15248,3/7/2014,Lyft,-10.55,CA
+15248,3/7/2014,Ralph's Grocery Store,-31.57,CA
+15248,3/7/2014,Science Museum,-33.49,CA
+15248,3/7/2014,Goods2 - ThinkGeek,-11.27,CA
+15248,3/8/2014,Public Transportation - Train Pass,-34.65,CA
+15248,3/8/2014,Sprouts Market,-28.95,CA
+15248,3/8/2014,Whole Foods,-0.09,CA
+15248,3/8/2014,Amazon Order - Mathematics Book,-7.62,CA
+15248,3/9/2014,DVD - Star Trek,-1.28,CA
+15248,3/9/2014,Whole Foods,-16.8,CA
+15248,3/9/2014,Amazon Order - Mathematics Book,-35.55,CA
+15248,3/9/2014,Amazon Order - Mathematics Book,-4.62,CA
+15248,3/9/2014,Video Game - PlayStation,-35.86,CA
+15248,3/10/2014,Amazon Order - Mathematics Book,-108.12,CA
+15248,3/11/2014,Science Museum,-30.98,CA
+15248,3/11/2014,Amazon Order - Star Wars Figurine,-30.14,CA
+15248,3/11/2014,Amazon Order - Biology Book,-101.38,CA
+15248,3/11/2014,San Diego Museum,-24.46,CA
+15248,3/11/2014,Food Delivery - GrubHub,-5.59,CA
+15248,3/11/2014,Amazon Order - Mathematics Book,-35.89,CA
+15248,3/11/2014,Library Membership,-37.73,CA
+15248,3/11/2014,Goods2 - ThinkGeek,-19.13,CA
+15248,3/12/2014,Public Transportation - Train Pass,-24.95,CA
+15248,3/12/2014,Restaurant - Pizza,-30.53,CA
+15248,3/13/2014,Sprouts Market,-5.37,CA
+15248,3/13/2014,Ralph's Grocery Store,-36.14,CA
+15248,3/13/2014,Amazon Order - Star Wars Figurine,-19.27,CA
+15248,3/13/2014,Goods2 - ThinkGeek,-61.1,CA
+15248,3/13/2014,Video Game - PlayStation,-6.82,CA
+15248,3/14/2014,Amazon Order - Science Book,-37.92,CA
+15248,3/14/2014,Video Game - PlayStation,-20.02,CA
+15248,3/15/2014,Restaurant - Pizza,-7.45,CA
+15248,3/15/2014,Coffee,-25.35,CA
+15248,3/16/2014,Science Museum,-51.55,CA
+15248,3/16/2014,Lyft,-54.66,CA
+15248,3/17/2014,Credit Card Overdraft Fee,-1.11,CA
+15248,3/17/2014,Lyft,-8.67,CA
+15248,3/17/2014,Video Game - PlayStation,-30.5,CA
+15248,3/18/2014,Amazon Order - Biology Book,-8.46,CA
+15248,3/18/2014,Library Membership,-29.94,CA
+15248,3/19/2014,Taxi,-37.76,CA
+15248,3/20/2014,Taxi,-101.98,CA
+15248,3/20/2014,Amazon Order - Mathematics Book,-11.98,CA
+15248,3/20/2014,Art Museum,-10.2,CA
+15248,3/20/2014,Science Museum,-33.29,CA
+15248,3/20/2014,Video Game - PlayStation,-25.69,CA
+15248,3/21/2014,Restaurant - Pizza,-37.8,CA
+15248,3/21/2014,Library Membership,-4.28,CA
+15248,3/22/2014,Coffee,-5.83,CA
+15248,3/22/2014,Sprouts Market,-18.35,CA
+15248,3/22/2014,Restaurant - Pizza,-1.75,CA
+15248,3/22/2014,Restaurant - Burgers,-64.5,CA
+15248,3/22/2014,Coffee,-36.14,CA
+15248,3/22/2014,Credit Card Overdraft Fee,-39.47,CA
+15248,3/22/2014,Public Transportation - Train Pass,-26.23,CA
+15248,3/22/2014,Lyft,-36.16,CA
+15248,3/22/2014,Taxi,-24.91,CA
+15248,3/22/2014,Coffee,-3.18,CA
+15248,3/22/2014,Von's Groceries,-20.31,CA
+15248,3/22/2014,Time Warne Cable - Late Payment Fee,-25.36,CA
+15248,3/23/2014,Von's Groceries,-1.28,CA
+15248,3/23/2014,Goods2 - ThinkGeek,-89.91,CA
+15248,3/23/2014,Public Transportation - Train Pass,-21.46,CA
+15248,3/24/2014,Credit Card Overdraft Fee,-12.05,CA
+15248,3/25/2014,Online Education Courses,-3.26,CA
+15248,3/25/2014,Video Game - PlayStation,-18.58,CA
+15248,3/25/2014,Food Delivery - GrubHub,-9.17,CA
+15248,3/25/2014,Library Membership,-36.09,CA
+15248,3/26/2014,Amazon Order - Biology Book,-28.31,CA
+15248,3/27/2014,Restaurant - Chinese,-96.94,CA
+15248,3/27/2014,Whole Foods,-34.41,CA
+15248,3/27/2014,Art Museum,-3.67,CA
+15248,3/27/2014,Bank Fee - Negative Balance,-27.6,CA
+15248,3/27/2014,Art Museum,-19.75,CA
+15248,3/28/2014,Art Museum,-8.23,CA
+15248,3/28/2014,Food Delivery - GrubHub,-23.32,CA
+15248,3/28/2014,Restaurant - Steakhouse,-32.21,CA
+15248,3/28/2014,Amazon Order - Mathematics Book,-33.96,CA
+15248,3/28/2014,Sprouts Market,-35.65,CA
+15248,3/29/2014,Amazon Order - Science Book,-22.35,CA
+15248,3/29/2014,Library Membership,-31.79,CA
+15248,3/29/2014,Housing Rent - Late Fee,-13.53,CA
+15248,3/29/2014,Sprouts Market,-28.3,CA
+15248,3/29/2014,Restaurant - Chinese,-37.73,CA
+15248,3/29/2014,Ralph's Grocery Store,-4.9,CA
+15248,3/29/2014,Amazon Order - Star Wars Figurine,-25.55,CA
+15248,3/29/2014,Coffee,-17.02,CA
+15248,3/29/2014,Art Museum,-73.96,CA
+15248,3/29/2014,Restaurant - Chinese,-14.1,CA
+15248,3/30/2014,Water & Sewer - Late Payment Penalty,-19.72,CA
+15248,3/30/2014,Amazon Order - Biology Book,-34.96,CA
+15248,3/30/2014,Uber,-18.15,CA
+15248,3/30/2014,Uber,-24.04,CA
+15248,3/30/2014,Art Museum,-14.79,CA
+15248,3/30/2014,Restaurant - Pizza,-26.45,CA
+15248,3/30/2014,Von's Groceries,-29.23,CA
+15248,4/2/2014,Paycheck,2607,CA
+15248,4/2/2014,Housing Rent,-1021,CA
+15248,4/2/2014,Navient - Student Loans,-197,CA
+15248,4/2/2014,Credit Card Payment,-154,CA
+15248,4/2/2014,ACS - Student Loans,-135,CA
+15248,4/2/2014,Water & Sewer,-53,CA
+15248,4/2/2014,Time Warner Cable,-25,CA
+15248,4/2/2014,Credit Card Overdraft Fee,-15.65,CA
+15248,4/2/2014,DVD - Star Trek,-9.53,CA
+15248,4/2/2014,Uber,-13.89,CA
+15248,4/2/2014,Online Education Courses,-0.99,CA
+15248,4/2/2014,Art Museum,-4.59,CA
+15248,4/2/2014,Credit Card Overdraft Fee,-2.33,CA
+15248,4/3/2014,Restaurant - Chinese,-111.5,CA
+15248,4/3/2014,Amazon Order - Science Book,-26.31,CA
+15248,4/3/2014,Ralph's Grocery Store,-35.97,CA
+15248,4/4/2014,Video Game - PlayStation,-16.61,CA
+15248,4/4/2014,Restaurant - Chinese,-32.07,CA
+15248,4/4/2014,Coffee,-24.64,CA
+15248,4/4/2014,Lyft,-24.92,CA
+15248,4/4/2014,Mary's Book Store,-25.58,CA
+15248,4/4/2014,Amazon Order - Mathematics Book,-31.23,CA
+15248,4/4/2014,Food Delivery - GrubHub,-22.95,CA
+15248,4/5/2014,San Diego Museum,-52.08,CA
+15248,4/5/2014,Restaurant - Burgers,-12.85,CA
+15248,4/5/2014,Video Game - PlayStation,-45.51,CA
+15248,4/6/2014,Art Museum,-16.31,CA
+15248,4/6/2014,Restaurant - Burgers,-29.21,CA
+15248,4/6/2014,Amazon Order - Star Wars Figurine,-38.47,CA
+15248,4/6/2014,Amazon Order - Science Book,-32.51,CA
+15248,4/6/2014,Amazon Order - Star Wars Figurine,-25.02,CA
+15248,4/7/2014,Mary's Book Store,-32.53,CA
+15248,4/7/2014,Restaurant - Burgers,-13.28,CA
+15248,4/8/2014,Whole Foods,-38.38,CA
+15248,4/8/2014,Amazon Order - Science Book,-87.44,CA
+15248,4/8/2014,Science Museum,-94.34,CA
+15248,4/9/2014,DVD - Star Trek,-31.75,CA
+15248,4/9/2014,Taxi,-32.2,CA
+15248,4/9/2014,Bank Fee - Negative Balance,-24.56,CA
+15248,4/9/2014,Online Education Courses,-35.45,CA
+15248,4/10/2014,Restaurant - Steakhouse,-24.63,CA
+15248,4/10/2014,Restaurant - Burgers,-13.08,CA
+15248,4/10/2014,Mary's Book Store,-23.13,CA
+15248,4/10/2014,Coffee,-99.62,CA
+15248,4/11/2014,Online Education Courses,-31.68,CA
+15248,4/11/2014,Amazon Order - Biology Book,-33.76,CA
+15248,4/11/2014,Von's Groceries,-118.6,CA
+15248,4/11/2014,Credit Card Overdraft Fee,-78.95,CA
+15248,4/11/2014,Food Delivery - GrubHub,-17.24,CA
+15248,4/11/2014,Time Warne Cable - Late Payment Fee,-117.44,CA
+15248,4/11/2014,Taxi,-8.68,CA
+15248,4/11/2014,Library Membership,-6.84,CA
+15248,4/12/2014,Amazon Order - Star Wars Figurine,-31.82,CA
+15248,4/12/2014,Library Membership,-0.25,CA
+15248,4/12/2014,Bank Fee - Negative Balance,-22.74,CA
+15248,4/12/2014,Public Transportation - Train Pass,-12.09,CA
+15248,4/12/2014,Amazon Order - Mathematics Book,-27.56,CA
+15248,4/12/2014,Video Game - PlayStation,-22.69,CA
+15248,4/13/2014,Online Education Courses,-23.92,CA
+15248,4/13/2014,Art Museum,-5.9,CA
+15248,4/13/2014,Sprouts Market,-21.02,CA
+15248,4/13/2014,Starbucks Coffee,-21.74,CA
+15248,4/13/2014,Public Transportation - Bus Pass,-23.33,CA
+15248,4/14/2014,Taxi,-98.51,CA
+15248,4/15/2014,Amazon Order - Science Book,-21.45,CA
+15248,4/16/2014,Credit Card Overdraft Fee,-84.93,CA
+15248,4/16/2014,Credit Card Overdraft Fee,-6.96,CA
+15248,4/16/2014,Lyft,-50,CA
+15248,4/16/2014,Library Membership,-12.11,CA
+15248,4/17/2014,Bank Fee - Negative Balance,-24.07,CA
+15248,4/18/2014,Amazon Order - Science Book,-4,CA
+15248,4/18/2014,San Diego Museum,-4.58,CA
+15248,4/18/2014,Restaurant - Pizza,-4.91,CA
+15248,4/18/2014,Goods2 - ThinkGeek,-81.61,CA
+15248,4/19/2014,Coffee,-102.72,CA
+15248,4/19/2014,San Diego Museum,-20.35,CA
+15248,4/19/2014,Mary's Book Store,-27.63,CA
+15248,4/19/2014,DVD - Star Trek,-34.97,CA
+15248,4/19/2014,Lyft,-30.91,CA
+15248,4/19/2014,Goods2 - ThinkGeek,-16.92,CA
+15248,4/19/2014,Public Transportation - Train Pass,-25.28,CA
+15248,4/19/2014,Amazon Order - Science Book,-30.35,CA
+15248,4/20/2014,Amazon Order - Biology Book,-24.22,CA
+15248,4/21/2014,Lyft,-36.79,CA
+15248,4/21/2014,Von's Groceries,-104.32,CA
+15248,4/21/2014,Time Warne Cable - Late Payment Fee,-47.38,CA
+15248,4/21/2014,Art Museum,-26.54,CA
+15248,4/22/2014,Goods2 - ThinkGeek,-20.26,CA
+15248,4/22/2014,Science Museum,-97.6,CA
+15248,4/23/2014,Amazon Order - Science Book,-6.95,CA
+15248,4/24/2014,Mary's Book Store,-1.2,CA
+15248,4/24/2014,Mary's Book Store,-107.53,CA
+15248,4/24/2014,Online Education Courses,-5.94,CA
+15248,4/24/2014,Uber,-18,CA
+15248,4/24/2014,Public Transportation - Train Pass,-35.39,CA
+15248,4/24/2014,Library Membership,-17.69,CA
+15248,4/24/2014,Restaurant - Steakhouse,-20.25,CA
+15248,4/24/2014,Water & Sewer - Late Payment Penalty,-12.18,CA
+15248,4/25/2014,Restaurant - Steakhouse,-29.85,CA
+15248,4/25/2014,Science Museum,-13.17,CA
+15248,4/25/2014,Food Delivery - GrubHub,-6.58,CA
+15248,4/25/2014,Coffee,-9.73,CA
+15248,4/25/2014,Whole Foods,-2.76,CA
+15248,4/25/2014,Public Transportation - Train Pass,-62.82,CA
+15248,4/26/2014,Coffee,-4.1,CA
+15248,4/26/2014,Library Membership,-44.95,CA
+15248,4/26/2014,Mary's Book Store,-16.39,CA
+15248,4/27/2014,Water & Sewer - Late Payment Penalty,-9.13,CA
+15248,4/27/2014,Science Museum,-12.49,CA
+15248,4/27/2014,Restaurant - Pizza,-0.97,CA
+15248,4/27/2014,Goods2 - ThinkGeek,-17.37,CA
+15248,4/27/2014,San Diego Museum,-30.87,CA
+15248,4/27/2014,Art Museum,-22.67,CA
+15248,4/28/2014,Restaurant - Chinese,-20.13,CA
+15248,4/29/2014,Lyft,-38.93,CA
+15248,4/29/2014,Lyft,-10.61,CA
+15248,4/29/2014,Whole Foods,-16.74,CA
+15248,4/29/2014,Taxi,-7.78,CA
+15248,4/30/2014,Restaurant - Chinese,-27.06,CA
+15248,4/30/2014,Amazon Order - Biology Book,-33.49,CA
+15248,4/30/2014,Ralph's Grocery Store,-12.97,CA
+15248,4/30/2014,Food Delivery - GrubHub,-17.45,CA
+15248,4/30/2014,Library Membership,-83.48,CA
+15248,4/30/2014,Public Transportation - Train Pass,-84.08,CA
+15248,5/2/2014,Paycheck,2607,CA
+15248,5/2/2014,Housing Rent,-770,CA
+15248,5/2/2014,Navient - Student Loans,-197,CA
+15248,5/2/2014,Credit Card Payment,-154,CA
+15248,5/2/2014,ACS - Student Loans,-135,CA
+15248,5/2/2014,Water & Sewer,-53,CA
+15248,5/2/2014,Time Warner Cable,-25,CA
+15248,5/2/2014,DVD - Star Trek,-12.92,CA
+15248,5/2/2014,Public Transportation - Train Pass,-32,CA
+15248,5/2/2014,Amazon Order - Science Book,-42.7,CA
+15248,5/2/2014,Public Transportation - Bus Pass,-0.77,CA
+15248,5/2/2014,Goods2 - ThinkGeek,-8.67,CA
+15248,5/2/2014,Taxi,-10.5,CA
+15248,5/2/2014,Restaurant - Steakhouse,-12.25,CA
+15248,5/2/2014,Mary's Book Store,-0.2,CA
+15248,5/3/2014,Amazon Order - Science Book,-36.06,CA
+15248,5/3/2014,Art Museum,-12.81,CA
+15248,5/4/2014,Online Education Courses,-1.91,CA
+15248,5/4/2014,Amazon Order - Mathematics Book,-38.99,CA
+15248,5/4/2014,Library Membership,-7.66,CA
+15248,5/5/2014,Science Museum,-23,CA
+15248,5/6/2014,Taxi,-29.3,CA
+15248,5/6/2014,Mary's Book Store,-8.35,CA
+15248,5/7/2014,Lyft,-8.63,CA
+15248,5/7/2014,Coffee,-34.9,CA
+15248,5/7/2014,Public Transportation - Bus Pass,-11.47,CA
+15248,5/7/2014,Public Transportation - Bus Pass,-9.92,CA
+15248,5/7/2014,Uber,-2.68,CA
+15248,5/7/2014,Library Membership,-8.41,CA
+15248,5/7/2014,Water & Sewer - Late Payment Penalty,-104.08,CA
+15248,5/7/2014,Art Museum,-2.8,CA
+15248,5/8/2014,Water & Sewer - Late Payment Penalty,-1.08,CA
+15248,5/8/2014,Online Education Courses,-51.94,CA
+15248,5/9/2014,Library Membership,-18.45,CA
+15248,5/9/2014,Library Membership,-28.28,CA
+15248,5/10/2014,DVD - Star Trek,-24.32,CA
+15248,5/11/2014,Video Game - PlayStation,-34.68,CA
+15248,5/12/2014,Bank Fee - Negative Balance,-31.38,CA
+15248,5/12/2014,San Diego Museum,-17.15,CA
+15248,5/12/2014,Ralph's Grocery Store,-24.5,CA
+15248,5/12/2014,Starbucks Coffee,-14.7,CA
+15248,5/12/2014,Credit Card Overdraft Fee,-0.83,CA
+15248,5/12/2014,Taxi,-7.4,CA
+15248,5/12/2014,Taxi,-9.07,CA
+15248,5/13/2014,Von's Groceries,-105.98,CA
+15248,5/13/2014,DVD - Star Trek,-6.51,CA
+15248,5/13/2014,San Diego Museum,-21.07,CA
+15248,5/13/2014,Amazon Order - Biology Book,-20.94,CA
+15248,5/13/2014,Taxi,-22.12,CA
+15248,5/14/2014,Public Transportation - Train Pass,-2.82,CA
+15248,5/15/2014,Mary's Book Store,-38.14,CA
+15248,5/15/2014,Restaurant - Burgers,-28.37,CA
+15248,5/15/2014,Public Transportation - Train Pass,-25.3,CA
+15248,5/15/2014,Restaurant - Chinese,-3.88,CA
+15248,5/15/2014,Coffee,-11.24,CA
+15248,5/15/2014,Science Museum,-11.03,CA
+15248,5/15/2014,Taxi,-32.86,CA
+15248,5/15/2014,Starbucks Coffee,-74.78,CA
+15248,5/15/2014,Library Membership,-35.29,CA
+15248,5/15/2014,Uber,-25.67,CA
+15248,5/15/2014,Mary's Book Store,-27.95,CA
+15248,5/15/2014,Video Game - PlayStation,-38.84,CA
+15248,5/15/2014,Public Transportation - Bus Pass,-30.06,CA
+15248,5/15/2014,Taxi,-93.39,CA
+15248,5/15/2014,San Diego Museum,-6.84,CA
+15248,5/15/2014,Goods2 - ThinkGeek,-33.78,CA
+15248,5/15/2014,Coffee,-109.22,CA
+15248,5/15/2014,Coffee,-13.5,CA
+15248,5/15/2014,Lyft,-72.44,CA
+15248,5/16/2014,Art Museum,-69.53,CA
+15248,5/16/2014,Water & Sewer - Late Payment Penalty,-72.63,CA
+15248,5/16/2014,Public Transportation - Train Pass,-2.72,CA
+15248,5/16/2014,Public Transportation - Bus Pass,-30.33,CA
+15248,5/16/2014,Restaurant - Chinese,-22.06,CA
+15248,5/16/2014,DVD - Star Trek,-9.1,CA
+15248,5/17/2014,Water & Sewer - Late Payment Penalty,-1.55,CA
+15248,5/17/2014,Restaurant - Pizza,-2.42,CA
+15248,5/18/2014,Science Museum,-89.55,CA
+15248,5/18/2014,Time Warne Cable - Late Payment Fee,-4.5,CA
+15248,5/19/2014,San Diego Museum,-2.41,CA
+15248,5/19/2014,Mary's Book Store,-20.4,CA
+15248,5/20/2014,Restaurant - Burgers,-25.02,CA
+15248,5/20/2014,Restaurant - Burgers,-5.05,CA
+15248,5/20/2014,Von's Groceries,-35.99,CA
+15248,5/20/2014,Library Membership,-34.05,CA
+15248,5/20/2014,Restaurant - Chinese,-55.71,CA
+15248,5/21/2014,Mary's Book Store,-2.98,CA
+15248,5/21/2014,Lyft,-32.88,CA
+15248,5/21/2014,Restaurant - Steakhouse,-31.89,CA
+15248,5/21/2014,Video Game - PlayStation,-15.82,CA
+15248,5/21/2014,Whole Foods,-22.08,CA
+15248,5/21/2014,Art Museum,-28.28,CA
+15248,5/21/2014,Amazon Order - Science Book,-7.85,CA
+15248,5/21/2014,Time Warne Cable - Late Payment Fee,-32,CA
+15248,5/21/2014,Water & Sewer - Late Payment Penalty,-100.11,CA
+15248,5/21/2014,Public Transportation - Bus Pass,-15.56,CA
+15248,5/21/2014,Art Museum,-39.87,CA
+15248,5/22/2014,Whole Foods,-13.31,CA
+15248,5/22/2014,Public Transportation - Bus Pass,-25.21,CA
+15248,5/22/2014,Library Membership,-22.62,CA
+15248,5/23/2014,Art Museum,-24.14,CA
+15248,5/23/2014,Coffee,-9.94,CA
+15248,5/24/2014,Food Delivery - GrubHub,-37.03,CA
+15248,5/24/2014,San Diego Museum,-5.19,CA
+15248,5/25/2014,San Diego Museum,-6.89,CA
+15248,5/25/2014,Video Game - PlayStation,-32.54,CA
+15248,5/25/2014,Restaurant - Steakhouse,-6.16,CA
+15248,5/25/2014,Amazon Order - Star Wars Figurine,-35.4,CA
+15248,5/26/2014,Public Transportation - Bus Pass,-20.38,CA
+15248,5/26/2014,Art Museum,-34.65,CA
+15248,5/26/2014,Uber,-10.05,CA
+15248,5/27/2014,Video Game - PlayStation,-25.45,CA
+15248,5/27/2014,Coffee,-66.83,CA
+15248,5/28/2014,Uber,-13.43,CA
+15248,5/29/2014,Amazon Order - Biology Book,-2.73,CA
+15248,5/30/2014,Mary's Book Store,-24.03,CA
+15248,5/30/2014,Coffee,-0.14,CA
+15248,5/30/2014,Restaurant - Chinese,-3.41,CA
+15248,5/30/2014,Restaurant - Pizza,-11.34,CA
+15248,5/30/2014,Online Education Courses,-18.4,CA
+15248,5/30/2014,Ralph's Grocery Store,-1.3,CA
+15248,5/30/2014,Taxi,-8.74,CA
+15248,6/2/2014,Paycheck,2607,CA
+15248,6/2/2014,Housing Rent,-1249,CA
+15248,6/2/2014,Navient - Student Loans,-197,CA
+15248,6/2/2014,Credit Card Payment,-154,CA
+15248,6/2/2014,ACS - Student Loans,-135,CA
+15248,6/2/2014,Water & Sewer,-53,CA
+15248,6/2/2014,Time Warner Cable,-25,CA
+15248,6/2/2014,Mary's Book Store,-0.94,CA
+15248,6/2/2014,Mary's Book Store,-96.89,CA
+15248,6/3/2014,Credit Card Overdraft Fee,-36.16,CA
+15248,6/3/2014,Public Transportation - Bus Pass,-12.06,CA
+15248,6/4/2014,Library Membership,-34.32,CA
+15248,6/4/2014,Restaurant - Burgers,-1.9,CA
+15248,6/5/2014,Lyft,-35.32,CA
+15248,6/6/2014,Taxi,-13.09,CA
+15248,6/6/2014,Restaurant - Steakhouse,-13.4,CA
+15248,6/6/2014,Goods2 - ThinkGeek,-16.12,CA
+15248,6/6/2014,Science Museum,-3.75,CA
+15248,6/7/2014,Science Museum,-20.04,CA
+15248,6/7/2014,Public Transportation - Bus Pass,-28.12,CA
+15248,6/7/2014,DVD - Star Trek,-36.8,CA
+15248,6/7/2014,Amazon Order - Science Book,-6.96,CA
+15248,6/7/2014,Science Museum,-119.71,CA
+15248,6/7/2014,Sprouts Market,-19.08,CA
+15248,6/7/2014,Online Education Courses,-11.96,CA
+15248,6/7/2014,Science Museum,-0.41,CA
+15248,6/7/2014,Uber,-21.9,CA
+15248,6/7/2014,Taxi,-15.14,CA
+15248,6/7/2014,Lyft,-99.99,CA
+15248,6/8/2014,Bank Fee - Negative Balance,-34.26,CA
+15248,6/8/2014,Public Transportation - Bus Pass,-117.77,CA
+15248,6/8/2014,Public Transportation - Bus Pass,-31.47,CA
+15248,6/9/2014,Goods2 - ThinkGeek,-9.14,CA
+15248,6/9/2014,Restaurant - Burgers,-1.05,CA
+15248,6/9/2014,Library Membership,-17.73,CA
+15248,6/9/2014,Public Transportation - Train Pass,-32.44,CA
+15248,6/10/2014,Amazon Order - Star Wars Figurine,-14.18,CA
+15248,6/10/2014,Whole Foods,-37.84,CA
+15248,6/10/2014,Science Museum,-4.05,CA
+15248,6/11/2014,Sprouts Market,-19.89,CA
+15248,6/11/2014,Art Museum,-24.1,CA
+15248,6/12/2014,Amazon Order - Star Wars Figurine,-39.56,CA
+15248,6/12/2014,Art Museum,-46.43,CA
+15248,6/12/2014,Lyft,-28.6,CA
+15248,6/12/2014,Public Transportation - Bus Pass,-19.13,CA
+15248,6/12/2014,Amazon Order - Science Book,-47.45,CA
+15248,6/12/2014,Uber,-34.35,CA
+15248,6/13/2014,San Diego Museum,-28.82,CA
+15248,6/13/2014,Art Museum,-37.53,CA
+15248,6/13/2014,Online Education Courses,-33.27,CA
+15248,6/13/2014,Library Membership,-3.44,CA
+15248,6/13/2014,Amazon Order - Science Book,-12.66,CA
+15248,6/13/2014,Public Transportation - Bus Pass,-1.47,CA
+15248,6/14/2014,Von's Groceries,-20.42,CA
+15248,6/14/2014,Uber,-23.87,CA
+15248,6/14/2014,Amazon Order - Biology Book,-11.73,CA
+15248,6/15/2014,Goods2 - ThinkGeek,-5.87,CA
+15248,6/15/2014,Coffee,-26.49,CA
+15248,6/16/2014,Starbucks Coffee,-52.7,CA
+15248,6/16/2014,Mary's Book Store,-6.46,CA
+15248,6/16/2014,Uber,-7.53,CA
+15248,6/17/2014,Library Membership,-9.42,CA
+15248,6/18/2014,Public Transportation - Bus Pass,-4.42,CA
+15248,6/18/2014,Science Museum,-1.27,CA
+15248,6/18/2014,Credit Card Overdraft Fee,-0.36,CA
+15248,6/19/2014,Library Membership,-0.78,CA
+15248,6/19/2014,Food Delivery - GrubHub,-6.86,CA
+15248,6/19/2014,Library Membership,-21.09,CA
+15248,6/20/2014,Lyft,-20.62,CA
+15248,6/20/2014,Amazon Order - Star Wars Figurine,-3.42,CA
+15248,6/20/2014,Amazon Order - Mathematics Book,-24.73,CA
+15248,6/20/2014,Goods2 - ThinkGeek,-28.4,CA
+15248,6/20/2014,Amazon Order - Star Wars Figurine,-4.98,CA
+15248,6/20/2014,Video Game - PlayStation,-8.37,CA
+15248,6/20/2014,Art Museum,-33.09,CA
+15248,6/20/2014,Lyft,-6.97,CA
+15248,6/21/2014,San Diego Museum,-1.42,CA
+15248,6/21/2014,Restaurant - Pizza,-15.96,CA
+15248,6/22/2014,Goods2 - ThinkGeek,-34.29,CA
+15248,6/22/2014,Restaurant - Pizza,-23.68,CA
+15248,6/22/2014,Whole Foods,-38.24,CA
+15248,6/22/2014,Amazon Order - Science Book,-69.99,CA
+15248,6/23/2014,Food Delivery - GrubHub,-5,CA
+15248,6/23/2014,San Diego Museum,-8.15,CA
+15248,6/23/2014,DVD - Star Trek,-84.47,CA
+15248,6/23/2014,Public Transportation - Train Pass,-15.78,CA
+15248,6/23/2014,Public Transportation - Bus Pass,-21.56,CA
+15248,6/23/2014,Mary's Book Store,-10.14,CA
+15248,6/23/2014,Food Delivery - GrubHub,-1.6,CA
+15248,6/23/2014,Public Transportation - Bus Pass,-36.25,CA
+15248,6/23/2014,DVD - Star Trek,-8.86,CA
+15248,6/23/2014,Amazon Order - Star Wars Figurine,-20.37,CA
+15248,6/24/2014,Restaurant - Burgers,-105.43,CA
+15248,6/24/2014,Lyft,-10.11,CA
+15248,6/24/2014,Taxi,-13.58,CA
+15248,6/24/2014,Art Museum,-31.66,CA
+15248,6/24/2014,Video Game - PlayStation,-29.69,CA
+15248,6/24/2014,Public Transportation - Train Pass,-69.17,CA
+15248,6/24/2014,Von's Groceries,-14.66,CA
+15248,6/24/2014,Restaurant - Steakhouse,-21.72,CA
+15248,6/24/2014,Public Transportation - Train Pass,-39.81,CA
+15248,6/25/2014,Amazon Order - Star Wars Figurine,-23.63,CA
+15248,6/26/2014,Mary's Book Store,-2.17,CA
+15248,6/26/2014,Science Museum,-25.93,CA
+15248,6/27/2014,Amazon Order - Science Book,-5.96,CA
+15248,6/27/2014,Restaurant - Chinese,-115.7,CA
+15248,6/27/2014,Credit Card Overdraft Fee,-38.63,CA
+15248,6/27/2014,DVD - Star Trek,-35.68,CA
+15248,6/27/2014,San Diego Museum,-22.48,CA
+15248,6/27/2014,San Diego Museum,-15.31,CA
+15248,6/27/2014,San Diego Museum,-90.56,CA
+15248,6/28/2014,Starbucks Coffee,-10.04,CA
+15248,6/28/2014,San Diego Museum,-4.92,CA
+15248,6/29/2014,Public Transportation - Train Pass,-5.35,CA
+15248,6/29/2014,Library Membership,-58.26,CA
+15248,6/29/2014,Restaurant - Pizza,-34.93,CA
+15248,6/30/2014,Taxi,-3.48,CA
+15248,6/30/2014,Restaurant - Burgers,-13.62,CA
+15248,6/30/2014,Science Museum,-31.01,CA
+15248,6/30/2014,Starbucks Coffee,-24.73,CA
+15248,6/30/2014,Restaurant - Steakhouse,-34.66,CA
+15248,6/30/2014,Amazon Order - Star Wars Figurine,-65.85,CA
+15248,7/2/2014,Paycheck,2607,CA
+15248,7/2/2014,Housing Rent,-1143,CA
+15248,7/2/2014,Navient - Student Loans,-197,CA
+15248,7/2/2014,Credit Card Payment,-154,CA
+15248,7/2/2014,ACS - Student Loans,-135,CA
+15248,7/2/2014,Water & Sewer,-53,CA
+15248,7/2/2014,Time Warner Cable,-25,CA
+15248,7/2/2014,Library Membership,-39.84,CA
+15248,7/3/2014,Public Transportation - Train Pass,-35.56,CA
+15248,7/4/2014,Time Warne Cable - Late Payment Fee,-17.08,CA
+15248,7/4/2014,Mary's Book Store,-65.95,CA
+15248,7/4/2014,Public Transportation - Train Pass,-96.57,CA
+15248,7/5/2014,Whole Foods,-32.16,CA
+15248,7/5/2014,Restaurant - Burgers,-24.44,CA
+15248,7/5/2014,Lyft,-26.2,CA
+15248,7/6/2014,Science Museum,-99.41,CA
+15248,7/6/2014,Taxi,-39.1,CA
+15248,7/6/2014,Video Game - PlayStation,-11.06,CA
+15248,7/7/2014,Goods2 - ThinkGeek,-20.08,CA
+15248,7/7/2014,Von's Groceries,-45.12,CA
+15248,7/7/2014,Credit Card Overdraft Fee,-56.58,CA
+15248,7/7/2014,Amazon Order - Science Book,-103.5,CA
+15248,7/7/2014,Mary's Book Store,-10.52,CA
+15248,7/8/2014,Online Education Courses,-31.67,CA
+15248,7/8/2014,Coffee,-38.63,CA
+15248,7/8/2014,Taxi,-17.62,CA
+15248,7/8/2014,Art Museum,-37.62,CA
+15248,7/9/2014,Amazon Order - Star Wars Figurine,-22.92,CA
+15248,7/9/2014,Whole Foods,-19.43,CA
+15248,7/9/2014,Taxi,-3.69,CA
+15248,7/9/2014,Public Transportation - Bus Pass,-23.94,CA
+15248,7/9/2014,Mary's Book Store,-14.71,CA
+15248,7/9/2014,Public Transportation - Bus Pass,-25.41,CA
+15248,7/10/2014,Library Membership,-10.88,CA
+15248,7/11/2014,Coffee,-2.39,CA
+15248,7/11/2014,San Diego Museum,-2.11,CA
+15248,7/12/2014,Goods2 - ThinkGeek,-26.66,CA
+15248,7/12/2014,Lyft,-101.95,CA
+15248,7/12/2014,Science Museum,-30.35,CA
+15248,7/12/2014,Restaurant - Pizza,-33.67,CA
+15248,7/12/2014,Amazon Order - Science Book,-17.76,CA
+15248,7/12/2014,Restaurant - Pizza,-110.92,CA
+15248,7/13/2014,Uber,-38.46,CA
+15248,7/13/2014,Public Transportation - Train Pass,-23.77,CA
+15248,7/13/2014,Taxi,-4.57,CA
+15248,7/13/2014,San Diego Museum,-21.66,CA
+15248,7/14/2014,Lyft,-31.51,CA
+15248,7/15/2014,Amazon Order - Mathematics Book,-3.07,CA
+15248,7/15/2014,Mary's Book Store,-99.03,CA
+15248,7/15/2014,Restaurant - Chinese,-37.55,CA
+15248,7/15/2014,Public Transportation - Bus Pass,-32.1,CA
+15248,7/16/2014,Amazon Order - Biology Book,-35.17,CA
+15248,7/16/2014,Science Museum,-91.63,CA
+15248,7/16/2014,Sprouts Market,-21.83,CA
+15248,7/16/2014,Amazon Order - Mathematics Book,-50.73,CA
+15248,7/17/2014,Restaurant - Pizza,-17.72,CA
+15248,7/18/2014,Amazon Order - Biology Book,-18.94,CA
+15248,7/18/2014,Video Game - PlayStation,-35.28,CA
+15248,7/18/2014,Public Transportation - Train Pass,-21.53,CA
+15248,7/19/2014,Amazon Order - Science Book,-26.66,CA
+15248,7/19/2014,San Diego Museum,-118.53,CA
+15248,7/19/2014,Science Museum,-30.32,CA
+15248,7/19/2014,Amazon Order - Mathematics Book,-19.08,CA
+15248,7/19/2014,Lyft,-30.11,CA
+15248,7/19/2014,Taxi,-20.01,CA
+15248,7/20/2014,Coffee,-32.01,CA
+15248,7/20/2014,Amazon Order - Mathematics Book,-67.84,CA
+15248,7/21/2014,Sprouts Market,-23.7,CA
+15248,7/22/2014,Taxi,-109,CA
+15248,7/22/2014,Amazon Order - Biology Book,-34.12,CA
+15248,7/22/2014,Online Education Courses,-58.57,CA
+15248,7/22/2014,DVD - Star Trek,-10.91,CA
+15248,7/22/2014,Library Membership,-20.39,CA
+15248,7/22/2014,Art Museum,-40.67,CA
+15248,7/22/2014,Credit Card Overdraft Fee,-27.67,CA
+15248,7/23/2014,Science Museum,-32.63,CA
+15248,7/23/2014,Uber,-19.92,CA
+15248,7/23/2014,Whole Foods,-24.64,CA
+15248,7/23/2014,Restaurant - Steakhouse,-103.36,CA
+15248,7/23/2014,Uber,-31.17,CA
+15248,7/23/2014,Sprouts Market,-4.79,CA
+15248,7/23/2014,Lyft,-1.21,CA
+15248,7/23/2014,Public Transportation - Train Pass,-21.46,CA
+15248,7/23/2014,Public Transportation - Train Pass,-81.53,CA
+15248,7/23/2014,Mary's Book Store,-27.23,CA
+15248,7/23/2014,Coffee,-7.68,CA
+15248,7/23/2014,Restaurant - Chinese,-33.7,CA
+15248,7/24/2014,Uber,-27.73,CA
+15248,7/24/2014,Mary's Book Store,-38.58,CA
+15248,7/24/2014,Von's Groceries,-7.09,CA
+15248,7/24/2014,Mary's Book Store,-60.14,CA
+15248,7/24/2014,Science Museum,-31.45,CA
+15248,7/25/2014,DVD - Star Trek,-22.52,CA
+15248,7/26/2014,Public Transportation - Bus Pass,-94.05,CA
+15248,7/26/2014,Starbucks Coffee,-32.01,CA
+15248,7/26/2014,Taxi,-112.6,CA
+15248,7/27/2014,Amazon Order - Star Wars Figurine,-6.01,CA
+15248,7/27/2014,Art Museum,-55.71,CA
+15248,7/27/2014,Restaurant - Chinese,-25.15,CA
+15248,7/28/2014,Goods2 - ThinkGeek,-44.13,CA
+15248,7/29/2014,Public Transportation - Bus Pass,-0.98,CA
+15248,7/30/2014,Uber,-17.64,CA
+15248,7/30/2014,Time Warne Cable - Late Payment Fee,-40.67,CA
+15248,7/30/2014,Public Transportation - Train Pass,-38.56,CA
+15248,7/30/2014,DVD - Star Trek,-27.78,CA
+15248,7/30/2014,Coffee,-37.52,CA
+15248,7/30/2014,Science Museum,-39.82,CA
+15248,7/30/2014,Video Game - PlayStation,-119.52,CA
+15248,7/30/2014,Lyft,-14.58,CA
+15248,8/2/2014,Paycheck,2607,CA
+15248,8/2/2014,Housing Rent,-980,CA
+15248,8/2/2014,Navient - Student Loans,-197,CA
+15248,8/2/2014,Credit Card Payment,-154,CA
+15248,8/2/2014,ACS - Student Loans,-135,CA
+15248,8/2/2014,Water & Sewer,-53,CA
+15248,8/2/2014,Time Warner Cable,-25,CA
+15248,8/2/2014,Amazon Order - Mathematics Book,-18.77,CA
+15248,8/2/2014,Amazon Order - Biology Book,-37.12,CA
+15248,8/2/2014,Ralph's Grocery Store,-6.82,CA
+15248,8/2/2014,Water & Sewer - Late Payment Penalty,-44.44,CA
+15248,8/3/2014,Uber,-22.6,CA
+15248,8/3/2014,Von's Groceries,-37.69,CA
+15248,8/3/2014,Online Education Courses,-52.39,CA
+15248,8/3/2014,Uber,-112.53,CA
+15248,8/3/2014,Library Membership,-1.1,CA
+15248,8/3/2014,Public Transportation - Train Pass,-13.68,CA
+15248,8/3/2014,Goods2 - ThinkGeek,-20.02,CA
+15248,8/3/2014,Library Membership,-23.5,CA
+15248,8/3/2014,Amazon Order - Mathematics Book,-37.12,CA
+15248,8/3/2014,Restaurant - Steakhouse,-28.73,CA
+15248,8/3/2014,Uber,-35.97,CA
+15248,8/3/2014,Restaurant - Chinese,-10.8,CA
+15248,8/3/2014,Restaurant - Steakhouse,-37.67,CA
+15248,8/3/2014,Amazon Order - Star Wars Figurine,-31.14,CA
+15248,8/3/2014,Goods2 - ThinkGeek,-30.51,CA
+15248,8/3/2014,Science Museum,-15.1,CA
+15248,8/3/2014,Amazon Order - Biology Book,-7.82,CA
+15248,8/4/2014,San Diego Museum,-20.74,CA
+15248,8/4/2014,Credit Card Overdraft Fee,-27.95,CA
+15248,8/4/2014,Taxi,-29.53,CA
+15248,8/5/2014,DVD - Star Trek,-33.47,CA
+15248,8/5/2014,Starbucks Coffee,-16.99,CA
+15248,8/6/2014,DVD - Star Trek,-28.74,CA
+15248,8/6/2014,Coffee,-12.84,CA
+15248,8/6/2014,Restaurant - Chinese,-32.42,CA
+15248,8/7/2014,Credit Card Overdraft Fee,-21.08,CA
+15248,8/7/2014,Amazon Order - Science Book,-27.4,CA
+15248,8/7/2014,Art Museum,-4.82,CA
+15248,8/7/2014,Amazon Order - Star Wars Figurine,-17.35,CA
+15248,8/7/2014,Art Museum,-15.41,CA
+15248,8/7/2014,Art Museum,-0.72,CA
+15248,8/7/2014,Credit Card Overdraft Fee,-51.29,CA
+15248,8/7/2014,Time Warne Cable - Late Payment Fee,-14.33,CA
+15248,8/8/2014,Public Transportation - Bus Pass,-46.78,CA
+15248,8/8/2014,Science Museum,-23.87,CA
+15248,8/9/2014,Restaurant - Steakhouse,-21.25,CA
+15248,8/9/2014,Goods2 - ThinkGeek,-38.29,CA
+15248,8/9/2014,Restaurant - Chinese,-27.08,CA
+15248,8/10/2014,Ralph's Grocery Store,-75.82,CA
+15248,8/10/2014,Video Game - PlayStation,-38.91,CA
+15248,8/10/2014,Science Museum,-14.76,CA
+15248,8/10/2014,Lyft,-19.17,CA
+15248,8/11/2014,Art Museum,-14.2,CA
+15248,8/11/2014,Amazon Order - Science Book,-11.63,CA
+15248,8/12/2014,Water & Sewer - Late Payment Penalty,-7.3,CA
+15248,8/12/2014,DVD - Star Trek,-3.92,CA
+15248,8/12/2014,Library Membership,-37.79,CA
+15248,8/12/2014,Uber,-28.92,CA
+15248,8/12/2014,San Diego Museum,-16.63,CA
+15248,8/12/2014,Restaurant - Steakhouse,-38.4,CA
+15248,8/13/2014,Amazon Order - Mathematics Book,-11.88,CA
+15248,8/13/2014,Public Transportation - Bus Pass,-17.33,CA
+15248,8/13/2014,Sprouts Market,-36.68,CA
+15248,8/13/2014,Restaurant - Chinese,-54.57,CA
+15248,8/13/2014,Public Transportation - Train Pass,-35.33,CA
+15248,8/13/2014,Lyft,-37.49,CA
+15248,8/14/2014,DVD - Star Trek,-28.57,CA
+15248,8/15/2014,Sprouts Market,-6.28,CA
+15248,8/15/2014,Science Museum,-0.85,CA
+15248,8/15/2014,Online Education Courses,-24.58,CA
+15248,8/15/2014,Library Membership,-10.77,CA
+15248,8/16/2014,Lyft,-39.58,CA
+15248,8/16/2014,Goods2 - ThinkGeek,-33.49,CA
+15248,8/17/2014,DVD - Star Trek,-13.49,CA
+15248,8/18/2014,Uber,-7.92,CA
+15248,8/18/2014,Online Education Courses,-18.65,CA
+15248,8/18/2014,Goods2 - ThinkGeek,-5.18,CA
+15248,8/19/2014,Mary's Book Store,-28.35,CA
+15248,8/19/2014,Taxi,-35.59,CA
+15248,8/20/2014,Sprouts Market,-37.58,CA
+15248,8/20/2014,Art Museum,-29.92,CA
+15248,8/20/2014,Time Warne Cable - Late Payment Fee,-98.43,CA
+15248,8/20/2014,Bank Fee - Negative Balance,-25.08,CA
+15248,8/21/2014,Science Museum,-84.85,CA
+15248,8/22/2014,Restaurant - Burgers,-57.52,CA
+15248,8/22/2014,Uber,-21.76,CA
+15248,8/23/2014,Uber,-12.84,CA
+15248,8/24/2014,Amazon Order - Mathematics Book,-9.31,CA
+15248,8/25/2014,Public Transportation - Bus Pass,-29.48,CA
+15248,8/26/2014,Uber,-13.72,CA
+15248,8/27/2014,Amazon Order - Science Book,-3.5,CA
+15248,8/27/2014,San Diego Museum,-9.78,CA
+15248,8/27/2014,Public Transportation - Bus Pass,-59.54,CA
+15248,8/27/2014,San Diego Museum,-4.72,CA
+15248,8/28/2014,Amazon Order - Science Book,-35.09,CA
+15248,8/29/2014,Art Museum,-11.9,CA
+15248,8/29/2014,Library Membership,-13.86,CA
+15248,8/29/2014,Library Membership,-37.76,CA
+15248,8/29/2014,Mary's Book Store,-2.31,CA
+15248,8/30/2014,San Diego Museum,-55.82,CA
+15248,8/30/2014,Amazon Order - Biology Book,-15.51,CA
+15248,8/30/2014,Science Museum,-15.61,CA
+15248,8/30/2014,Online Education Courses,-42.43,CA
+15248,8/30/2014,Art Museum,-17.46,CA
+15248,8/30/2014,Uber,-7.72,CA
+15248,8/30/2014,Uber,-37.75,CA
+15248,9/2/2014,Paycheck,2607,CA
+15248,9/2/2014,Housing Rent,-865,CA
+15248,9/2/2014,Navient - Student Loans,-197,CA
+15248,9/2/2014,Credit Card Payment,-154,CA
+15248,9/2/2014,ACS - Student Loans,-135,CA
+15248,9/2/2014,Water & Sewer,-53,CA
+15248,9/2/2014,Time Warner Cable,-25,CA
+15248,9/2/2014,Online Education Courses,-80.48,CA
+15248,9/2/2014,Restaurant - Burgers,-31.67,CA
+15248,9/2/2014,Library Membership,-1.95,CA
+15248,9/3/2014,Housing Rent - Late Fee,-35.54,CA
+15248,9/3/2014,Public Transportation - Train Pass,-12.53,CA
+15248,9/3/2014,Library Membership,-11.07,CA
+15248,9/3/2014,Amazon Order - Star Wars Figurine,-27.57,CA
+15248,9/4/2014,Starbucks Coffee,-15.27,CA
+15248,9/5/2014,Coffee,-30.2,CA
+15248,9/6/2014,Sprouts Market,-66.46,CA
+15248,9/6/2014,Online Education Courses,-4.08,CA
+15248,9/7/2014,Whole Foods,-10.85,CA
+15248,9/7/2014,Coffee,-33.18,CA
+15248,9/7/2014,Public Transportation - Train Pass,-28.64,CA
+15248,9/8/2014,Amazon Order - Star Wars Figurine,-36.79,CA
+15248,9/8/2014,Amazon Order - Star Wars Figurine,-31.66,CA
+15248,9/9/2014,Coffee,-27.42,CA
+15248,9/9/2014,San Diego Museum,-13.5,CA
+15248,9/9/2014,Ralph's Grocery Store,-4.93,CA
+15248,9/9/2014,Uber,-84.47,CA
+15248,9/10/2014,Amazon Order - Mathematics Book,-31.23,CA
+15248,9/11/2014,Public Transportation - Bus Pass,-110.47,CA
+15248,9/11/2014,Library Membership,-3.86,CA
+15248,9/11/2014,Lyft,-17.99,CA
+15248,9/12/2014,Amazon Order - Star Wars Figurine,-119.68,CA
+15248,9/12/2014,Lyft,-13.9,CA
+15248,9/13/2014,Amazon Order - Biology Book,-76.56,CA
+15248,9/14/2014,Library Membership,-3.56,CA
+15248,9/15/2014,San Diego Museum,-25.49,CA
+15248,9/15/2014,Ralph's Grocery Store,-45.24,CA
+15248,9/16/2014,Von's Groceries,-1.1,CA
+15248,9/16/2014,Coffee,-17.61,CA
+15248,9/16/2014,Mary's Book Store,-16.42,CA
+15248,9/16/2014,Restaurant - Pizza,-102.01,CA
+15248,9/17/2014,Video Game - PlayStation,-23.81,CA
+15248,9/18/2014,Amazon Order - Star Wars Figurine,-25.82,CA
+15248,9/18/2014,Art Museum,-5.8,CA
+15248,9/19/2014,Online Education Courses,-3.58,CA
+15248,9/20/2014,Lyft,-21.7,CA
+15248,9/20/2014,Restaurant - Burgers,-11.75,CA
+15248,9/20/2014,Amazon Order - Science Book,-9.23,CA
+15248,9/20/2014,Science Museum,-21.95,CA
+15248,9/20/2014,DVD - Star Trek,-23.78,CA
+15248,9/20/2014,Goods2 - ThinkGeek,-38.04,CA
+15248,9/20/2014,Goods2 - ThinkGeek,-84.56,CA
+15248,9/20/2014,Taxi,-18.8,CA
+15248,9/20/2014,Sprouts Market,-30.35,CA
+15248,9/21/2014,Uber,-87.54,CA
+15248,9/21/2014,Video Game - PlayStation,-9.04,CA
+15248,9/21/2014,Amazon Order - Mathematics Book,-22.53,CA
+15248,9/21/2014,Mary's Book Store,-8.12,CA
+15248,9/21/2014,Lyft,-2.78,CA
+15248,9/21/2014,Video Game - PlayStation,-30.99,CA
+15248,9/21/2014,Public Transportation - Train Pass,-35.92,CA
+15248,9/22/2014,Online Education Courses,-70.92,CA
+15248,9/22/2014,Amazon Order - Mathematics Book,-16.4,CA
+15248,9/22/2014,Restaurant - Burgers,-4.45,CA
+15248,9/23/2014,Goods2 - ThinkGeek,-23.25,CA
+15248,9/23/2014,Online Education Courses,-7.14,CA
+15248,9/23/2014,Amazon Order - Biology Book,-6.07,CA
+15248,9/23/2014,Starbucks Coffee,-7.29,CA
+15248,9/23/2014,Art Museum,-23.07,CA
+15248,9/23/2014,Art Museum,-16,CA
+15248,9/23/2014,Water & Sewer - Late Payment Penalty,-13.11,CA
+15248,9/23/2014,Public Transportation - Train Pass,-23.17,CA
+15248,9/24/2014,Sprouts Market,-23.81,CA
+15248,9/24/2014,Amazon Order - Mathematics Book,-33.29,CA
+15248,9/24/2014,Lyft,-25.58,CA
+15248,9/24/2014,Uber,-26.4,CA
+15248,9/25/2014,Video Game - PlayStation,-14.1,CA
+15248,9/25/2014,Science Museum,-23.13,CA
+15248,9/25/2014,Starbucks Coffee,-0.3,CA
+15248,9/25/2014,Video Game - PlayStation,-114.76,CA
+15248,9/26/2014,Whole Foods,-37.7,CA
+15248,9/26/2014,Amazon Order - Science Book,-27.19,CA
+15248,9/26/2014,Sprouts Market,-14.1,CA
+15248,9/26/2014,Mary's Book Store,-52.6,CA
+15248,9/26/2014,Library Membership,-16.44,CA
+15248,9/26/2014,Sprouts Market,-36.2,CA
+15248,9/26/2014,Amazon Order - Biology Book,-39.78,CA
+15248,9/26/2014,Taxi,-28.77,CA
+15248,9/27/2014,Coffee,-4.92,CA
+15248,9/28/2014,Taxi,-36.29,CA
+15248,9/29/2014,Amazon Order - Star Wars Figurine,-15.72,CA
+15248,9/29/2014,Amazon Order - Star Wars Figurine,-20.63,CA
+15248,9/29/2014,Mary's Book Store,-33.3,CA
+15248,9/30/2014,Restaurant - Chinese,-19.32,CA
+15248,9/30/2014,Art Museum,-6.18,CA
+15248,10/2/2014,Paycheck,2607,CA
+15248,10/2/2014,Housing Rent,-1183,CA
+15248,10/2/2014,Navient - Student Loans,-197,CA
+15248,10/2/2014,Credit Card Payment,-154,CA
+15248,10/2/2014,ACS - Student Loans,-135,CA
+15248,10/2/2014,Water & Sewer,-53,CA
+15248,10/2/2014,Time Warner Cable,-25,CA
+15248,10/2/2014,Public Transportation - Bus Pass,-18.88,CA
+15248,10/2/2014,Art Museum,-4.2,CA
+15248,10/2/2014,Whole Foods,-7.65,CA
+15248,10/2/2014,Public Transportation - Bus Pass,-98.73,CA
+15248,10/3/2014,Library Membership,-2.32,CA
+15248,10/4/2014,Public Transportation - Bus Pass,-7.78,CA
+15248,10/4/2014,Coffee,-14.5,CA
+15248,10/5/2014,Amazon Order - Mathematics Book,-13.78,CA
+15248,10/5/2014,San Diego Museum,-39.64,CA
+15248,10/5/2014,Ralph's Grocery Store,-38.08,CA
+15248,10/6/2014,Public Transportation - Train Pass,-17.83,CA
+15248,10/7/2014,Library Membership,-5.06,CA
+15248,10/8/2014,Starbucks Coffee,-6.65,CA
+15248,10/8/2014,Taxi,-39.38,CA
+15248,10/8/2014,Amazon Order - Star Wars Figurine,-0.89,CA
+15248,10/8/2014,DVD - Star Trek,-19.89,CA
+15248,10/9/2014,Amazon Order - Biology Book,-17.19,CA
+15248,10/9/2014,Uber,-10.66,CA
+15248,10/9/2014,Water & Sewer - Late Payment Penalty,-29.36,CA
+15248,10/9/2014,San Diego Museum,-35.19,CA
+15248,10/10/2014,Science Museum,-33.38,CA
+15248,10/10/2014,Coffee,-14.88,CA
+15248,10/10/2014,Whole Foods,-9.03,CA
+15248,10/10/2014,Public Transportation - Train Pass,-22.61,CA
+15248,10/11/2014,Art Museum,-4.89,CA
+15248,10/12/2014,Art Museum,-0.96,CA
+15248,10/12/2014,Public Transportation - Train Pass,-31.64,CA
+15248,10/12/2014,Public Transportation - Train Pass,-33.79,CA
+15248,10/13/2014,Art Museum,-11.95,CA
+15248,10/13/2014,Online Education Courses,-9.78,CA
+15248,10/14/2014,Taxi,-22.63,CA
+15248,10/14/2014,San Diego Museum,-11.46,CA
+15248,10/14/2014,Restaurant - Pizza,-17.84,CA
+15248,10/14/2014,Library Membership,-16.67,CA
+15248,10/14/2014,Restaurant - Steakhouse,-37.96,CA
+15248,10/14/2014,Amazon Order - Science Book,-21.66,CA
+15248,10/14/2014,DVD - Star Trek,-15.64,CA
+15248,10/15/2014,Amazon Order - Biology Book,-14.52,CA
+15248,10/15/2014,Amazon Order - Star Wars Figurine,-118.52,CA
+15248,10/15/2014,Coffee,-27.12,CA
+15248,10/15/2014,Credit Card Overdraft Fee,-39.08,CA
+15248,10/15/2014,Uber,-6.13,CA
+15248,10/15/2014,San Diego Museum,-0.61,CA
+15248,10/16/2014,Coffee,-0.73,CA
+15248,10/16/2014,Amazon Order - Star Wars Figurine,-7.32,CA
+15248,10/16/2014,Science Museum,-14.72,CA
+15248,10/16/2014,Mary's Book Store,-25.27,CA
+15248,10/16/2014,Art Museum,-15.66,CA
+15248,10/16/2014,Whole Foods,-33.89,CA
+15248,10/16/2014,Amazon Order - Science Book,-1.26,CA
+15248,10/17/2014,Goods2 - ThinkGeek,-26.63,CA
+15248,10/17/2014,Library Membership,-17.93,CA
+15248,10/17/2014,Amazon Order - Biology Book,-39.03,CA
+15248,10/17/2014,Amazon Order - Star Wars Figurine,-65.24,CA
+15248,10/17/2014,Amazon Order - Star Wars Figurine,-33.41,CA
+15248,10/18/2014,Amazon Order - Star Wars Figurine,-18.07,CA
+15248,10/19/2014,Ralph's Grocery Store,-14.05,CA
+15248,10/19/2014,Uber,-13.96,CA
+15248,10/19/2014,Video Game - PlayStation,-0.98,CA
+15248,10/19/2014,Lyft,-13.51,CA
+15248,10/19/2014,Public Transportation - Train Pass,-20.26,CA
+15248,10/20/2014,Food Delivery - GrubHub,-29.02,CA
+15248,10/21/2014,Science Museum,-17.71,CA
+15248,10/22/2014,Uber,-34.96,CA
+15248,10/22/2014,Lyft,-31.35,CA
+15248,10/22/2014,Goods2 - ThinkGeek,-27.06,CA
+15248,10/22/2014,Von's Groceries,-28.83,CA
+15248,10/23/2014,Uber,-75.81,CA
+15248,10/23/2014,Online Education Courses,-12.15,CA
+15248,10/24/2014,Credit Card Overdraft Fee,-23.76,CA
+15248,10/24/2014,Coffee,-31.56,CA
+15248,10/24/2014,Sprouts Market,-11.11,CA
+15248,10/24/2014,Library Membership,-30.89,CA
+15248,10/24/2014,Uber,-39.34,CA
+15248,10/24/2014,DVD - Star Trek,-30.55,CA
+15248,10/24/2014,Video Game - PlayStation,-9.24,CA
+15248,10/24/2014,Art Museum,-78.67,CA
+15248,10/24/2014,Amazon Order - Science Book,-36.53,CA
+15248,10/24/2014,Goods2 - ThinkGeek,-14.37,CA
+15248,10/24/2014,Uber,-11.19,CA
+15248,10/24/2014,Goods2 - ThinkGeek,-7.32,CA
+15248,10/24/2014,San Diego Museum,-25.13,CA
+15248,10/24/2014,Restaurant - Burgers,-3.32,CA
+15248,10/24/2014,Goods2 - ThinkGeek,-107.9,CA
+15248,10/24/2014,Restaurant - Steakhouse,-34.64,CA
+15248,10/24/2014,Coffee,-24.37,CA
+15248,10/25/2014,Public Transportation - Train Pass,-19.31,CA
+15248,10/25/2014,Science Museum,-67.19,CA
+15248,10/26/2014,Amazon Order - Mathematics Book,-115.92,CA
+15248,10/26/2014,Restaurant - Chinese,-3.17,CA
+15248,10/26/2014,Food Delivery - GrubHub,-18.49,CA
+15248,10/26/2014,Coffee,-22.5,CA
+15248,10/27/2014,Uber,-7.81,CA
+15248,10/27/2014,Science Museum,-15.16,CA
+15248,10/27/2014,Amazon Order - Star Wars Figurine,-13.62,CA
+15248,10/28/2014,San Diego Museum,-17.18,CA
+15248,10/28/2014,Restaurant - Pizza,-23.76,CA
+15248,10/29/2014,Uber,-36.03,CA
+15248,10/29/2014,Taxi,-26.75,CA
+15248,10/29/2014,Von's Groceries,-4.35,CA
+15248,10/29/2014,Restaurant - Pizza,-87.48,CA
+15248,10/29/2014,Coffee,-30.37,CA
+15248,10/30/2014,Ralph's Grocery Store,-19.43,CA
+15248,10/30/2014,Amazon Order - Science Book,-115.08,CA
+15248,10/30/2014,Ralph's Grocery Store,-17.8,CA
+15248,11/2/2014,Paycheck,2607,CA
+15248,11/2/2014,Housing Rent,-1255,CA
+15248,11/2/2014,Navient - Student Loans,-197,CA
+15248,11/2/2014,Credit Card Payment,-154,CA
+15248,11/2/2014,ACS - Student Loans,-135,CA
+15248,11/2/2014,Water & Sewer,-53,CA
+15248,11/2/2014,Time Warner Cable,-25,CA
+15248,11/2/2014,Public Transportation - Train Pass,-70.8,CA
+15248,11/3/2014,Amazon Order - Mathematics Book,-116.44,CA
+15248,11/3/2014,Goods2 - ThinkGeek,-6.69,CA
+15248,11/4/2014,Amazon Order - Biology Book,-28.75,CA
+15248,11/4/2014,Lyft,-24.83,CA
+15248,11/4/2014,San Diego Museum,-36.58,CA
+15248,11/4/2014,Library Membership,-6.64,CA
+15248,11/4/2014,Amazon Order - Star Wars Figurine,-37.2,CA
+15248,11/4/2014,Video Game - PlayStation,-0.48,CA
+15248,11/4/2014,Taxi,-5.87,CA
+15248,11/4/2014,San Diego Museum,-14.22,CA
+15248,11/4/2014,Von's Groceries,-4.84,CA
+15248,11/4/2014,Restaurant - Chinese,-39.92,CA
+15248,11/4/2014,Library Membership,-1.84,CA
+15248,11/5/2014,Coffee,-31.11,CA
+15248,11/5/2014,San Diego Museum,-17.73,CA
+15248,11/5/2014,Amazon Order - Biology Book,-6.24,CA
+15248,11/5/2014,Goods2 - ThinkGeek,-34.16,CA
+15248,11/5/2014,Amazon Order - Star Wars Figurine,-13.41,CA
+15248,11/5/2014,Amazon Order - Science Book,-3.02,CA
+15248,11/5/2014,Public Transportation - Bus Pass,-12.31,CA
+15248,11/5/2014,San Diego Museum,-31.78,CA
+15248,11/6/2014,Uber,-93.05,CA
+15248,11/6/2014,Mary's Book Store,-27.66,CA
+15248,11/6/2014,Mary's Book Store,-24.67,CA
+15248,11/6/2014,Amazon Order - Science Book,-38.52,CA
+15248,11/6/2014,Uber,-83.16,CA
+15248,11/6/2014,Uber,-12.44,CA
+15248,11/7/2014,Credit Card Overdraft Fee,-77.21,CA
+15248,11/7/2014,Public Transportation - Bus Pass,-37.71,CA
+15248,11/7/2014,Online Education Courses,-5.96,CA
+15248,11/7/2014,Library Membership,-25.29,CA
+15248,11/7/2014,Library Membership,-2.39,CA
+15248,11/8/2014,San Diego Museum,-13.66,CA
+15248,11/9/2014,Uber,-21.31,CA
+15248,11/10/2014,Science Museum,-1.22,CA
+15248,11/11/2014,Amazon Order - Star Wars Figurine,-1.65,CA
+15248,11/11/2014,Housing Rent - Late Fee,-6.16,CA
+15248,11/12/2014,Science Museum,-32.13,CA
+15248,11/13/2014,Whole Foods,-19.03,CA
+15248,11/14/2014,Restaurant - Chinese,-113.76,CA
+15248,11/14/2014,Art Museum,-15.34,CA
+15248,11/14/2014,Water & Sewer - Late Payment Penalty,-18.45,CA
+15248,11/14/2014,Amazon Order - Star Wars Figurine,-6.02,CA
+15248,11/14/2014,Amazon Order - Mathematics Book,-66.32,CA
+15248,11/15/2014,Von's Groceries,-1.77,CA
+15248,11/16/2014,Starbucks Coffee,-5.11,CA
+15248,11/16/2014,Starbucks Coffee,-5.02,CA
+15248,11/16/2014,San Diego Museum,-2.22,CA
+15248,11/16/2014,Lyft,-28.35,CA
+15248,11/16/2014,Taxi,-35.78,CA
+15248,11/16/2014,Coffee,-26.91,CA
+15248,11/16/2014,Credit Card Overdraft Fee,-31.54,CA
+15248,11/16/2014,Taxi,-10.55,CA
+15248,11/16/2014,Art Museum,-29.84,CA
+15248,11/17/2014,Art Museum,-22.24,CA
+15248,11/17/2014,Library Membership,-21.08,CA
+15248,11/17/2014,Uber,-39.55,CA
+15248,11/18/2014,Art Museum,-16.31,CA
+15248,11/18/2014,San Diego Museum,-5.43,CA
+15248,11/18/2014,Taxi,-29.94,CA
+15248,11/18/2014,Public Transportation - Train Pass,-15.05,CA
+15248,11/18/2014,Library Membership,-33.06,CA
+15248,11/18/2014,Amazon Order - Star Wars Figurine,-39.95,CA
+15248,11/18/2014,Starbucks Coffee,-36.13,CA
+15248,11/19/2014,Amazon Order - Biology Book,-13.38,CA
+15248,11/19/2014,Taxi,-35.55,CA
+15248,11/19/2014,Online Education Courses,-34.72,CA
+15248,11/19/2014,Amazon Order - Science Book,-47.84,CA
+15248,11/19/2014,Food Delivery - GrubHub,-31.53,CA
+15248,11/20/2014,Taxi,-4.24,CA
+15248,11/20/2014,Time Warne Cable - Late Payment Fee,-94.01,CA
+15248,11/20/2014,Amazon Order - Science Book,-38.04,CA
+15248,11/21/2014,Mary's Book Store,-98.96,CA
+15248,11/21/2014,Public Transportation - Train Pass,-38.79,CA
+15248,11/21/2014,Goods2 - ThinkGeek,-12.33,CA
+15248,11/21/2014,Library Membership,-35.19,CA
+15248,11/21/2014,DVD - Star Trek,-71.92,CA
+15248,11/21/2014,Library Membership,-1.06,CA
+15248,11/21/2014,Science Museum,-26.57,CA
+15248,11/21/2014,Lyft,-51.61,CA
+15248,11/21/2014,Public Transportation - Train Pass,-29.17,CA
+15248,11/21/2014,Time Warne Cable - Late Payment Fee,-6.99,CA
+15248,11/21/2014,Bank Fee - Negative Balance,-12.48,CA
+15248,11/21/2014,Art Museum,-7.95,CA
+15248,11/21/2014,San Diego Museum,-35.43,CA
+15248,11/21/2014,Ralph's Grocery Store,-28.53,CA
+15248,11/22/2014,Mary's Book Store,-26.42,CA
+15248,11/22/2014,Public Transportation - Train Pass,-28.4,CA
+15248,11/22/2014,Credit Card Overdraft Fee,-7.44,CA
+15248,11/23/2014,Library Membership,-5.29,CA
+15248,11/23/2014,Amazon Order - Science Book,-20.27,CA
+15248,11/23/2014,Amazon Order - Mathematics Book,-27.43,CA
+15248,11/24/2014,Uber,-33.28,CA
+15248,11/25/2014,Science Museum,-9.51,CA
+15248,11/25/2014,Amazon Order - Mathematics Book,-23.56,CA
+15248,11/25/2014,Taxi,-14.5,CA
+15248,11/25/2014,Amazon Order - Biology Book,-20.17,CA
+15248,11/25/2014,Goods2 - ThinkGeek,-42.66,CA
+15248,11/25/2014,San Diego Museum,-0.43,CA
+15248,11/25/2014,Goods2 - ThinkGeek,-9.42,CA
+15248,11/25/2014,Art Museum,-27.57,CA
+15248,11/25/2014,Amazon Order - Star Wars Figurine,-28.83,CA
+15248,11/25/2014,DVD - Star Trek,-19.92,CA
+15248,11/25/2014,Science Museum,-4.32,CA
+15248,11/25/2014,Whole Foods,-22.68,CA
+15248,11/25/2014,Coffee,-20.71,CA
+15248,11/25/2014,Amazon Order - Star Wars Figurine,-36.29,CA
+15248,11/25/2014,Lyft,-0.84,CA
+15248,11/26/2014,Amazon Order - Science Book,-35.84,CA
+15248,11/26/2014,Von's Groceries,-26,CA
+15248,11/26/2014,Public Transportation - Train Pass,-88.29,CA
+15248,11/26/2014,Coffee,-3.03,CA
+15248,11/26/2014,Coffee,-37.23,CA
+15248,11/26/2014,Restaurant - Chinese,-10.44,CA
+15248,11/26/2014,Food Delivery - GrubHub,-14.98,CA
+15248,11/27/2014,Library Membership,-10.56,CA
+15248,11/28/2014,Video Game - PlayStation,-27.97,CA
+15248,11/28/2014,Amazon Order - Star Wars Figurine,-23.01,CA
+15248,11/28/2014,Ralph's Grocery Store,-18.22,CA
+15248,11/28/2014,Restaurant - Steakhouse,-3.52,CA
+15248,11/28/2014,Public Transportation - Train Pass,-10.25,CA
+15248,11/28/2014,Online Education Courses,-54.02,CA
+15248,11/28/2014,Science Museum,-26.32,CA
+15248,11/28/2014,Coffee,-62.9,CA
+15248,11/29/2014,Whole Foods,-0.34,CA
+15248,11/29/2014,Library Membership,-25.03,CA
+15248,11/29/2014,Ralph's Grocery Store,-53.32,CA
+15248,11/29/2014,Coffee,-13.3,CA
+15248,11/29/2014,Restaurant - Steakhouse,-9.04,CA
+15248,11/30/2014,Goods2 - ThinkGeek,-4.98,CA
+15248,11/30/2014,Library Membership,-26.68,CA
+15248,11/30/2014,Amazon Order - Mathematics Book,-5.61,CA
+15248,11/30/2014,Library Membership,-29.77,CA
+15248,12/2/2014,Paycheck,2607,CA
+15248,12/2/2014,Housing Rent,-1253,CA
+15248,12/2/2014,Navient - Student Loans,-197,CA
+15248,12/2/2014,Credit Card Payment,-154,CA
+15248,12/2/2014,ACS - Student Loans,-135,CA
+15248,12/2/2014,Water & Sewer,-53,CA
+15248,12/2/2014,Time Warner Cable,-25,CA
+15248,12/2/2014,Bank Fee - Negative Balance,-22.3,CA
+15248,12/2/2014,Bank Fee - Negative Balance,-22.72,CA
+15248,12/3/2014,Library Membership,-96.93,CA
+15248,12/4/2014,Sprouts Market,-18.08,CA
+15248,12/4/2014,Video Game - PlayStation,-9.26,CA
+15248,12/4/2014,Water & Sewer - Late Payment Penalty,-86.51,CA
+15248,12/4/2014,DVD - Star Trek,-19.86,CA
+15248,12/4/2014,Amazon Order - Biology Book,-20.55,CA
+15248,12/4/2014,Amazon Order - Science Book,-3.84,CA
+15248,12/4/2014,Uber,-36.3,CA
+15248,12/5/2014,Art Museum,-73.65,CA
+15248,12/5/2014,Housing Rent - Late Fee,-39.1,CA
+15248,12/6/2014,Coffee,-31.5,CA
+15248,12/6/2014,Amazon Order - Biology Book,-76.46,CA
+15248,12/6/2014,Goods2 - ThinkGeek,-0.7,CA
+15248,12/6/2014,Taxi,-35.68,CA
+15248,12/6/2014,Amazon Order - Biology Book,-19.84,CA
+15248,12/7/2014,Lyft,-21.76,CA
+15248,12/7/2014,Taxi,-29.98,CA
+15248,12/7/2014,Science Museum,-36.89,CA
+15248,12/7/2014,DVD - Star Trek,-47.1,CA
+15248,12/7/2014,Taxi,-12.18,CA
+15248,12/7/2014,Coffee,-78.77,CA
+15248,12/7/2014,Von's Groceries,-17.29,CA
+15248,12/8/2014,Starbucks Coffee,-61.49,CA
+15248,12/8/2014,Online Education Courses,-27.67,CA
+15248,12/9/2014,Uber,-7.85,CA
+15248,12/10/2014,Restaurant - Burgers,-17.59,CA
+15248,12/10/2014,Online Education Courses,-26.17,CA
+15248,12/10/2014,Amazon Order - Star Wars Figurine,-34.23,CA
+15248,12/10/2014,Video Game - PlayStation,-62.08,CA
+15248,12/11/2014,Goods2 - ThinkGeek,-18.07,CA
+15248,12/11/2014,Uber,-5.15,CA
+15248,12/11/2014,Science Museum,-20.97,CA
+15248,12/12/2014,Amazon Order - Star Wars Figurine,-103.22,CA
+15248,12/12/2014,Restaurant - Burgers,-22.42,CA
+15248,12/12/2014,Public Transportation - Train Pass,-4.21,CA
+15248,12/12/2014,Amazon Order - Biology Book,-32.82,CA
+15248,12/13/2014,DVD - Star Trek,-6.02,CA
+15248,12/14/2014,Amazon Order - Science Book,-5.06,CA
+15248,12/14/2014,Mary's Book Store,-111.12,CA
+15248,12/14/2014,Lyft,-39.74,CA
+15248,12/14/2014,Amazon Order - Biology Book,-38.62,CA
+15248,12/14/2014,Amazon Order - Star Wars Figurine,-14.39,CA
+15248,12/15/2014,Food Delivery - GrubHub,-32.05,CA
+15248,12/15/2014,Public Transportation - Bus Pass,-13.74,CA
+15248,12/15/2014,Public Transportation - Train Pass,-59.25,CA
+15248,12/16/2014,Amazon Order - Star Wars Figurine,-10.55,CA
+15248,12/16/2014,Library Membership,-28.67,CA
+15248,12/16/2014,Whole Foods,-0.65,CA
+15248,12/16/2014,Online Education Courses,-6.25,CA
+15248,12/16/2014,Mary's Book Store,-76.87,CA
+15248,12/16/2014,Amazon Order - Mathematics Book,-30.31,CA
+15248,12/16/2014,Coffee,-18.51,CA
+15248,12/17/2014,Lyft,-12.54,CA
+15248,12/17/2014,Coffee,-19.78,CA
+15248,12/17/2014,San Diego Museum,-11.36,CA
+15248,12/17/2014,Library Membership,-19.89,CA
+15248,12/18/2014,Amazon Order - Science Book,-38.65,CA
+15248,12/18/2014,DVD - Star Trek,-1.54,CA
+15248,12/18/2014,Uber,-37.96,CA
+15248,12/18/2014,Amazon Order - Mathematics Book,-33.64,CA
+15248,12/18/2014,Credit Card Overdraft Fee,-75.84,CA
+15248,12/19/2014,Amazon Order - Star Wars Figurine,-16.96,CA
+15248,12/19/2014,Amazon Order - Star Wars Figurine,-79.65,CA
+15248,12/19/2014,Amazon Order - Mathematics Book,-4.36,CA
+15248,12/20/2014,Online Education Courses,-13.43,CA
+15248,12/20/2014,Amazon Order - Star Wars Figurine,-26.18,CA
+15248,12/21/2014,Coffee,-39.02,CA
+15248,12/21/2014,San Diego Museum,-0.12,CA
+15248,12/21/2014,Public Transportation - Train Pass,-28.66,CA
+15248,12/22/2014,Time Warne Cable - Late Payment Fee,-39.99,CA
+15248,12/22/2014,Lyft,-3.09,CA
+15248,12/23/2014,Library Membership,-0.13,CA
+15248,12/23/2014,Uber,-10.83,CA
+15248,12/23/2014,Amazon Order - Biology Book,-33.34,CA
+15248,12/23/2014,Sprouts Market,-85.68,CA
+15248,12/23/2014,Mary's Book Store,-117.43,CA
+15248,12/24/2014,Ralph's Grocery Store,-18.89,CA
+15248,12/24/2014,Restaurant - Burgers,-29.41,CA
+15248,12/24/2014,Amazon Order - Science Book,-36.1,CA
+15248,12/24/2014,Public Transportation - Train Pass,-39.55,CA
+15248,12/24/2014,Restaurant - Chinese,-4.99,CA
+15248,12/24/2014,Coffee,-16.33,CA
+15248,12/24/2014,Public Transportation - Train Pass,-30.37,CA
+15248,12/24/2014,Lyft,-17.47,CA
+15248,12/24/2014,Taxi,-13.98,CA
+15248,12/25/2014,Art Museum,-28.15,CA
+15248,12/25/2014,Restaurant - Burgers,-19.55,CA
+15248,12/25/2014,Food Delivery - GrubHub,-4.84,CA
+15248,12/25/2014,Public Transportation - Bus Pass,-8.09,CA
+15248,12/26/2014,Art Museum,-14.93,CA
+15248,12/26/2014,Amazon Order - Biology Book,-20.14,CA
+15248,12/27/2014,Restaurant - Pizza,-14.45,CA
+15248,12/27/2014,Restaurant - Steakhouse,-59.97,CA
+15248,12/27/2014,Lyft,-32.12,CA
+15248,12/27/2014,Water & Sewer - Late Payment Penalty,-29.95,CA
+15248,12/27/2014,Goods2 - ThinkGeek,-37.64,CA
+15248,12/27/2014,Amazon Order - Biology Book,-9.52,CA
+15248,12/27/2014,Amazon Order - Mathematics Book,-65.88,CA
+15248,12/27/2014,Mary's Book Store,-25.83,CA
+15248,12/27/2014,Art Museum,-16.3,CA
+15248,12/27/2014,San Diego Museum,-15.89,CA
+15248,12/28/2014,Amazon Order - Biology Book,-17.45,CA
+15248,12/28/2014,Amazon Order - Mathematics Book,-13.14,CA
+15248,12/28/2014,Ralph's Grocery Store,-38.35,CA
+15248,12/29/2014,DVD - Star Trek,-4.78,CA
+15248,12/29/2014,Taxi,-37.77,CA
+15248,12/29/2014,Art Museum,-24.98,CA
+15248,12/29/2014,Water & Sewer - Late Payment Penalty,-94.09,CA
+15248,12/30/2014,San Diego Museum,-32.38,CA
+15248,12/30/2014,Sprouts Market,-6.86,CA
+15248,12/30/2014,Ralph's Grocery Store,-89.5,CA
+15248,12/30/2014,Coffee,-26.66,CA
+15248,12/32/2014,Sprouts Market,-51.45,CA
+15248,12/32/2014,Online Education Courses,-38.74,CA
+15248,12/32/2014,Taxi,-16.92,CA

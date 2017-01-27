@@ -1,0 +1,2293 @@
+auth_id, Date, Vendor, Amount, Location 
+88199,1/2/2013,Pet Supply - Cat Food,-90.49,CA
+88199,1/2/2013,Public Transportation - Train Pass,-64.61,CA
+88199,1/2/2013,Restaurant - Burgers,-7.31,CA
+88199,1/2/2013,Pet Supply - Cat Food,-10.79,CA
+88199,1/3/2013,Public Transportation - Bus Pass,-2.19,CA
+88199,1/4/2013,Whole Foods,-21.73,CA
+88199,1/4/2013,Podcast Subscription,-24.51,CA
+88199,1/5/2013,Ralph's Grocery Store,-72.83,CA
+88199,1/6/2013,Uber,-12.9,CA
+88199,1/7/2013,Podcast Subscription,-81.25,CA
+88199,1/7/2013,Podcast Subscription,-9.42,CA
+88199,1/7/2013,Whole Foods,-14.82,CA
+88199,1/7/2013,Wine Delivery,-61.86,CA
+88199,1/7/2013,Food Delivery - GrubHub,-11.42,CA
+88199,1/7/2013,Public Transportation - Train Pass,-48.18,CA
+88199,1/8/2013,Pet Supply - Cat Food,-8.68,CA
+88199,1/8/2013,Red Box DVD Rental,-19.59,CA
+88199,1/9/2013,Restaurant - Pizza,-25.55,CA
+88199,1/9/2013,Taxi,-16.73,CA
+88199,1/9/2013,On Demand TV,-30.86,CA
+88199,1/9/2013,Lyft,-11.85,CA
+88199,1/9/2013,Amazon Order - Baby Crib,-75.01,CA
+88199,1/9/2013,Hospital - Prenatal Care,-10.44,CA
+88199,1/9/2013,Babies "R" Us,-22.12,CA
+88199,1/9/2013,BuyBuyBaby.com,-18.22,CA
+88199,1/9/2013,On Demand TV,-11.74,CA
+88199,1/10/2013,On Demand Movie,-36.84,CA
+88199,1/11/2013,Whole Foods,-13.54,CA
+88199,1/11/2013,Restaurant - Pizza,-13.3,CA
+88199,1/11/2013,Public Transportation - Bus Pass,-39.92,CA
+88199,1/11/2013,Wine Delivery,-22.08,CA
+88199,1/11/2013,Food Delivery - GrubHub,-23.67,CA
+88199,1/11/2013,Pet Smart,-11.1,CA
+88199,1/11/2013,Pet Supply - Cat Food,-22.72,CA
+88199,1/11/2013,Wine Delivery,-20.99,CA
+88199,1/12/2013,Restaurant - Pizza,-101.88,CA
+88199,1/12/2013,PlayStation Membership,-14.1,CA
+88199,1/13/2013,Ralph's Grocery Store,-16.19,CA
+88199,1/13/2013,Uber,-1.36,CA
+88199,1/14/2013,Taxi,-23.64,CA
+88199,1/14/2013,Food Delivery - Uber Eats,-88.64,CA
+88199,1/14/2013,PlayStation Membership,-18.53,CA
+88199,1/14/2013,Food Delivery - GrubHub,-3.61,CA
+88199,1/14/2013,Uber,-92.61,CA
+88199,1/15/2013,Restaurant - Steakhouse,-72.34,CA
+88199,1/15/2013,Public Transportation - Bus Pass,-35.35,CA
+88199,1/16/2013,Food Delivery - GrubHub,-60.15,CA
+88199,1/16/2013,Public Transportation - Train Pass,-14.02,CA
+88199,1/16/2013,Food Delivery - Uber Eats,-26.86,CA
+88199,1/16/2013,Wine Delivery,-4.98,CA
+88199,1/17/2013,Uber,-16.2,CA
+88199,1/17/2013,PlayStation Membership,-1,CA
+88199,1/18/2013,Red Box DVD Rental,-23.01,CA
+88199,1/19/2013,On Demand TV,-31.45,CA
+88199,1/19/2013,Lyft,-24.35,CA
+88199,1/19/2013,On Demand TV,-34.16,CA
+88199,1/20/2013,Public Transportation - Train Pass,-34.07,CA
+88199,1/20/2013,Whole Foods,-37.6,CA
+88199,1/20/2013,Pet Supply - Cat Food,-32.11,CA
+88199,1/20/2013,Podcast Subscription,-13.1,CA
+88199,1/20/2013,Food Delivery - Uber Eats,-38.6,CA
+88199,1/20/2013,Whole Foods,-24.17,CA
+88199,1/20/2013,Food Delivery - Uber Eats,-5.27,CA
+88199,1/21/2013,Podcast Subscription,-5.86,CA
+88199,1/21/2013,Red Box DVD Rental,-1.71,CA
+88199,1/21/2013,Whole Foods,-60.92,CA
+88199,1/22/2013,Podcast Subscription,-18.28,CA
+88199,1/23/2013,Lyft,-10.64,CA
+88199,1/23/2013,Uber,-28.03,CA
+88199,1/23/2013,Lyft,-32.94,CA
+88199,1/23/2013,Food Delivery - GrubHub,-26.42,CA
+88199,1/24/2013,Taxi,-15.22,CA
+88199,1/24/2013,Ralph's Grocery Store,-27.79,CA
+88199,1/25/2013,Uber,-29.78,CA
+88199,1/25/2013,PlayStation Membership,-9.98,CA
+88199,1/25/2013,Restaurant - Burgers,-28.76,CA
+88199,1/25/2013,Wine Delivery,-6.34,CA
+88199,1/26/2013,On Demand Movie,-90.82,CA
+88199,1/27/2013,Starbucks Coffee,-7.11,CA
+88199,1/27/2013,Taxi,-5.18,CA
+88199,1/27/2013,Food Delivery - Uber Eats,-13.69,CA
+88199,1/28/2013,Wine Delivery,-88.44,CA
+88199,1/29/2013,Food Delivery - GrubHub,-10.8,CA
+88199,1/30/2013,Von's Groceries,-21.43,CA
+88199,3/2/2013,Paycheck,2665,CA
+88199,3/2/2013,Housing Rent,-1322,CA
+88199,3/2/2013,Gas & Electric,-32,CA
+88199,3/2/2013,Navient - Student Loans,-197,CA
+88199,3/2/2013,Netflix Subscription,-4.99,CA
+88199,3/2/2013,ACS - Student Loans,-135,CA
+88199,3/2/2013,Water & Sewer,-53,CA
+88199,3/2/2013,Podcast Subscription,-13.74,CA
+88199,3/2/2013,PlayStation Membership,-11.22,CA
+88199,3/3/2013,Public Transportation - Bus Pass,-33.22,CA
+88199,3/3/2013,Podcast Subscription,-2.88,CA
+88199,3/4/2013,Pet Smart,-21.7,CA
+88199,3/4/2013,Public Transportation - Train Pass,-30.9,CA
+88199,3/4/2013,Taxi,-39.14,CA
+88199,3/4/2013,Taxi,-95.15,CA
+88199,3/5/2013,Food Delivery - Uber Eats,-18.9,CA
+88199,3/6/2013,Pet Supply - Cat Food,-32.5,CA
+88199,3/6/2013,Food Delivery - GrubHub,-25.62,CA
+88199,3/6/2013,Restaurant - Burgers,-36.07,CA
+88199,3/7/2013,Restaurant - Burgers,-100.98,CA
+88199,3/8/2013,PlayStation Membership,-8.22,CA
+88199,3/8/2013,Pet Supply - Cat Food,-38.22,CA
+88199,3/8/2013,Whole Foods,-39.62,CA
+88199,3/8/2013,Podcast Subscription,-8.72,CA
+88199,3/9/2013,PlayStation Membership,-1.91,CA
+88199,3/9/2013,On Demand TV,-54.16,CA
+88199,3/9/2013,Food Delivery - GrubHub,-13.69,CA
+88199,3/10/2013,Starbucks Coffee,-33.04,CA
+88199,3/10/2013,Food Delivery - GrubHub,-1.05,CA
+88199,3/10/2013,Uber,-38.61,CA
+88199,3/10/2013,Taxi,-38.44,CA
+88199,3/10/2013,Public Transportation - Train Pass,-38.67,CA
+88199,3/10/2013,Food Delivery - GrubHub,-88.78,CA
+88199,3/10/2013,Food Delivery - GrubHub,-30.74,CA
+88199,3/10/2013,Food Delivery - Uber Eats,-2.28,CA
+88199,3/10/2013,Wine Delivery,-9.34,CA
+88199,3/11/2013,Public Transportation - Bus Pass,-27.51,CA
+88199,3/12/2013,Taxi,-8.13,CA
+88199,3/13/2013,Podcast Subscription,-19.97,CA
+88199,3/13/2013,Public Transportation - Bus Pass,-2.74,CA
+88199,3/14/2013,Podcast Subscription,-5.82,CA
+88199,3/14/2013,Podcast Subscription,-13.46,CA
+88199,3/14/2013,Public Transportation - Bus Pass,-106.62,CA
+88199,3/14/2013,Sprouts Market,-24.17,CA
+88199,3/14/2013,Public Transportation - Train Pass,-12.28,CA
+88199,3/14/2013,Podcast Subscription,-117.49,CA
+88199,3/14/2013,Sprouts Market,-6.42,CA
+88199,3/14/2013,Uber,-39.29,CA
+88199,3/15/2013,Uber,-31.55,CA
+88199,3/16/2013,Restaurant - Burgers,-32.44,CA
+88199,3/17/2013,Podcast Subscription,-36.49,CA
+88199,3/17/2013,Whole Foods,-33.7,CA
+88199,3/17/2013,Wine Delivery,-22.07,CA
+88199,3/17/2013,Lyft,-4.89,CA
+88199,3/17/2013,Sprouts Market,-38.8,CA
+88199,3/17/2013,Wine Delivery,-37.33,CA
+88199,3/18/2013,Pet Supply - Cat Food,-30.13,CA
+88199,3/18/2013,Pet Smart,-2.26,CA
+88199,3/19/2013,Restaurant - Burgers,-23.1,CA
+88199,3/19/2013,Food Delivery - GrubHub,-20.27,CA
+88199,3/20/2013,Podcast Subscription,-5.69,CA
+88199,3/20/2013,On Demand TV,-38.65,CA
+88199,3/21/2013,Red Box DVD Rental,-4.94,CA
+88199,3/21/2013,Red Box DVD Rental,-24.49,CA
+88199,3/21/2013,On Demand Movie,-34,CA
+88199,3/22/2013,Von's Groceries,-0.64,CA
+88199,3/23/2013,PlayStation Membership,-14.8,CA
+88199,3/24/2013,Public Transportation - Bus Pass,-15.38,CA
+88199,3/24/2013,PlayStation Membership,-2.19,CA
+88199,3/24/2013,Red Box DVD Rental,-31.65,CA
+88199,3/24/2013,Lyft,-8.55,CA
+88199,3/24/2013,Food Delivery - GrubHub,-5.88,CA
+88199,3/25/2013,PlayStation Membership,-14.32,CA
+88199,3/25/2013,PlayStation Membership,-21.35,CA
+88199,3/25/2013,Red Box DVD Rental,-28.72,CA
+88199,3/25/2013,Wine Delivery,-6.85,CA
+88199,3/25/2013,Taxi,-25.58,CA
+88199,3/26/2013,Podcast Subscription,-8.5,CA
+88199,3/26/2013,Restaurant - Pizza,-33.32,CA
+88199,3/26/2013,Podcast Subscription,-34.75,CA
+88199,3/27/2013,Food Delivery - Uber Eats,-16.13,CA
+88199,3/27/2013,Pet Smart,-36.55,CA
+88199,3/27/2013,Pet Smart,-34.05,CA
+88199,3/28/2013,On Demand TV,-3.38,CA
+88199,3/28/2013,Food Delivery - Uber Eats,-17.28,CA
+88199,3/28/2013,Taxi,-96.91,CA
+88199,3/28/2013,Kay Jewelry,-36.71,CA
+88199,3/28/2013,Wedding Planner,-15.2,CA
+88199,3/28/2013,Southwest Flights - Cancun,-32.76,CA
+88199,3/28/2013,Cancun Beach Resort,-31.14,CA
+88199,3/29/2013,Pet Smart,-39.6,CA
+88199,3/29/2013,Wine Delivery,-1.61,CA
+88199,3/29/2013,Food Delivery - Uber Eats,-13.31,CA
+88199,3/30/2013,Wine Delivery,-23.9,CA
+88199,3/30/2013,Public Transportation - Bus Pass,-28.77,CA
+88199,4/2/2013,Paycheck,2665,CA
+88199,4/2/2013,Housing Rent,-1006,CA
+88199,4/2/2013,Gas & Electric,-32,CA
+88199,4/2/2013,Navient - Student Loans,-197,CA
+88199,4/2/2013,Netflix Subscription,-4.99,CA
+88199,4/2/2013,ACS - Student Loans,-135,CA
+88199,4/2/2013,Water & Sewer,-53,CA
+88199,4/2/2013,Whole Foods,-20.33,CA
+88199,4/3/2013,PlayStation Membership,-27.87,CA
+88199,4/3/2013,Red Box DVD Rental,-38.57,CA
+88199,4/4/2013,Red Box DVD Rental,-30.39,CA
+88199,4/4/2013,Public Transportation - Train Pass,-90.38,CA
+88199,4/4/2013,Public Transportation - Bus Pass,-98.03,CA
+88199,4/4/2013,Food Delivery - GrubHub,-23.44,CA
+88199,4/4/2013,On Demand Movie,-3.67,CA
+88199,4/4/2013,Uber,-101.87,CA
+88199,4/4/2013,Food Delivery - Uber Eats,-2.16,CA
+88199,4/4/2013,Taxi,-33.64,CA
+88199,4/5/2013,On Demand TV,-9.54,CA
+88199,4/5/2013,Pet Supply - Cat Food,-17.8,CA
+88199,4/6/2013,Red Box DVD Rental,-22.25,CA
+88199,4/6/2013,Food Delivery - Uber Eats,-1.91,CA
+88199,4/7/2013,On Demand TV,-6.33,CA
+88199,4/8/2013,Uber,-86.64,CA
+88199,4/8/2013,PlayStation Membership,-35.1,CA
+88199,4/8/2013,Ralph's Grocery Store,-82.59,CA
+88199,4/9/2013,Food Delivery - GrubHub,-19.6,CA
+88199,4/9/2013,Von's Groceries,-13.5,CA
+88199,4/9/2013,Taxi,-28.17,CA
+88199,4/9/2013,Wine Delivery,-28.53,CA
+88199,4/9/2013,Pet Supply - Cat Food,-85.88,CA
+88199,4/9/2013,Lyft,-30.02,CA
+88199,4/9/2013,Wine Delivery,-4.38,CA
+88199,4/10/2013,Wine Delivery,-36.19,CA
+88199,4/11/2013,Public Transportation - Bus Pass,-7.38,CA
+88199,4/12/2013,Uber,-19.53,CA
+88199,4/13/2013,Food Delivery - Uber Eats,-26.68,CA
+88199,4/13/2013,Food Delivery - GrubHub,-39.99,CA
+88199,4/13/2013,PlayStation Membership,-39.61,CA
+88199,4/13/2013,PlayStation Membership,-19.48,CA
+88199,4/14/2013,Lyft,-32.58,CA
+88199,4/14/2013,Restaurant - Pizza,-28.75,CA
+88199,4/15/2013,Taxi,-2.82,CA
+88199,4/16/2013,On Demand Movie,-33.23,CA
+88199,4/16/2013,Restaurant - Steakhouse,-55.3,CA
+88199,4/16/2013,Food Delivery - Uber Eats,-8.67,CA
+88199,4/16/2013,Food Delivery - GrubHub,-9.23,CA
+88199,4/16/2013,Food Delivery - GrubHub,-39.33,CA
+88199,4/16/2013,Wine Delivery,-3.3,CA
+88199,4/16/2013,Lyft,-75.55,CA
+88199,4/16/2013,Pet Supply - Cat Food,-23.82,CA
+88199,4/16/2013,Food Delivery - GrubHub,-1.05,CA
+88199,4/16/2013,Restaurant - Burgers,-6.05,CA
+88199,4/17/2013,Pet Supply - Cat Food,-20.32,CA
+88199,4/17/2013,Uber,-23.27,CA
+88199,4/17/2013,Starbucks Coffee,-83.84,CA
+88199,4/18/2013,PlayStation Membership,-49.48,CA
+88199,4/18/2013,Food Delivery - GrubHub,-29.97,CA
+88199,4/19/2013,On Demand Movie,-39.85,CA
+88199,4/20/2013,Food Delivery - GrubHub,-105.21,CA
+88199,4/20/2013,Food Delivery - Uber Eats,-39.39,CA
+88199,4/21/2013,PlayStation Membership,-78.34,CA
+88199,4/21/2013,On Demand TV,-19.23,CA
+88199,4/21/2013,Red Box DVD Rental,-24.9,CA
+88199,4/21/2013,Pet Smart,-39.35,CA
+88199,4/21/2013,Starbucks Coffee,-100.62,CA
+88199,4/22/2013,Taxi,-31.28,CA
+88199,4/23/2013,On Demand Movie,-58.77,CA
+88199,4/23/2013,Lyft,-5.77,CA
+88199,4/24/2013,Restaurant - Chinese,-31.62,CA
+88199,4/24/2013,Public Transportation - Bus Pass,-33.55,CA
+88199,4/24/2013,Public Transportation - Bus Pass,-96.99,CA
+88199,4/25/2013,On Demand TV,-44.09,CA
+88199,4/26/2013,Wine Delivery,-24.77,CA
+88199,4/26/2013,Wine Delivery,-6.48,CA
+88199,4/26/2013,Restaurant - Pizza,-13.32,CA
+88199,4/26/2013,Food Delivery - Uber Eats,-7.24,CA
+88199,4/26/2013,Food Delivery - Uber Eats,-51.12,CA
+88199,4/26/2013,Restaurant - Pizza,-108.18,CA
+88199,4/27/2013,On Demand Movie,-70.41,CA
+88199,4/27/2013,PlayStation Membership,-25.87,CA
+88199,4/27/2013,Podcast Subscription,-23.35,CA
+88199,4/27/2013,Whole Foods,-37.02,CA
+88199,4/27/2013,Pet Smart,-20.18,CA
+88199,4/28/2013,Pet Supply - Cat Food,-12.18,CA
+88199,4/28/2013,Food Delivery - Uber Eats,-88.28,CA
+88199,4/29/2013,Pet Supply - Cat Food,-37.5,CA
+88199,4/29/2013,Food Delivery - Uber Eats,-27.16,CA
+88199,4/29/2013,Food Delivery - GrubHub,-12.79,CA
+88199,4/29/2013,Red Box DVD Rental,-9.47,CA
+88199,4/30/2013,Lyft,-27.37,CA
+88199,4/30/2013,On Demand TV,-21.46,CA
+88199,4/30/2013,Pet Smart,-14.28,CA
+88199,5/2/2013,Paycheck,2665,CA
+88199,5/2/2013,Housing Rent,-1349,CA
+88199,5/2/2013,Gas & Electric,-32,CA
+88199,5/2/2013,Navient - Student Loans,-197,CA
+88199,5/2/2013,Netflix Subscription,-4.99,CA
+88199,5/2/2013,ACS - Student Loans,-135,CA
+88199,5/2/2013,Water & Sewer,-53,CA
+88199,5/2/2013,Taxi,-27.3,CA
+88199,5/2/2013,Wine Delivery,-13.77,CA
+88199,5/2/2013,PlayStation Membership,-15.6,CA
+88199,5/3/2013,On Demand TV,-27.5,CA
+88199,5/3/2013,Whole Foods,-19.94,CA
+88199,5/4/2013,Public Transportation - Bus Pass,-34.01,CA
+88199,5/4/2013,PlayStation Membership,-29.53,CA
+88199,5/4/2013,Lyft,-9.64,CA
+88199,5/4/2013,Public Transportation - Train Pass,-24.99,CA
+88199,5/5/2013,Restaurant - Steakhouse,-20.46,CA
+88199,5/5/2013,Wine Delivery,-34.92,CA
+88199,5/6/2013,Public Transportation - Bus Pass,-32.06,CA
+88199,5/6/2013,Pet Smart,-1.76,CA
+88199,5/6/2013,Starbucks Coffee,-81.29,CA
+88199,5/7/2013,On Demand Movie,-117.3,CA
+88199,5/7/2013,On Demand Movie,-11.39,CA
+88199,5/7/2013,Lyft,-36.05,CA
+88199,5/7/2013,Mark's Movers,-6.65,CA
+88199,5/7/2013,FedEx Shipping,-30.01,CA
+88199,5/7/2013,Jerome's Furniture,-9.01,CA
+88199,5/7/2013,Home Depot,-6.39,CA
+88199,5/7/2013,Refrigerator Depot,-10.74,CA
+88199,5/7/2013,Hamilton Move & Storage,-5.89,CA
+88199,5/7/2013,On Demand Movie,-5.96,CA
+88199,5/7/2013,Podcast Subscription,-30.01,CA
+88199,5/7/2013,Red Box DVD Rental,-105.94,CA
+88199,5/7/2013,Food Delivery - GrubHub,-7.63,CA
+88199,5/7/2013,Pet Supply - Cat Food,-105.41,CA
+88199,5/7/2013,Red Box DVD Rental,-0.67,CA
+88199,5/7/2013,Food Delivery - Uber Eats,-26.34,CA
+88199,5/8/2013,Pet Smart,-33.18,CA
+88199,5/8/2013,Wine Delivery,-2.64,CA
+88199,5/8/2013,On Demand TV,-16.56,CA
+88199,5/9/2013,Pet Supply - Cat Food,-11.18,CA
+88199,5/10/2013,Red Box DVD Rental,-24.72,CA
+88199,5/11/2013,Podcast Subscription,-24.44,CA
+88199,5/11/2013,Pet Supply - Cat Food,-27.35,CA
+88199,5/11/2013,On Demand TV,-18.51,CA
+88199,5/12/2013,Pet Supply - Cat Food,-3.6,CA
+88199,5/12/2013,Starbucks Coffee,-18.35,CA
+88199,5/12/2013,Pet Smart,-21.68,CA
+88199,5/13/2013,Whole Foods,-3.57,CA
+88199,5/13/2013,On Demand TV,-14.38,CA
+88199,5/13/2013,Pet Supply - Cat Food,-2.01,CA
+88199,5/13/2013,Lyft,-55.05,CA
+88199,5/13/2013,Sprouts Market,-25.76,CA
+88199,5/13/2013,Food Delivery - GrubHub,-17.83,CA
+88199,5/14/2013,Food Delivery - Uber Eats,-5.14,CA
+88199,5/15/2013,Restaurant - Steakhouse,-7.82,CA
+88199,5/16/2013,Red Box DVD Rental,-5.84,CA
+88199,5/16/2013,PlayStation Membership,-10.11,CA
+88199,5/16/2013,Red Box DVD Rental,0,CA
+88199,5/16/2013,Public Transportation - Bus Pass,-14.67,CA
+88199,5/16/2013,Podcast Subscription,-105.23,CA
+88199,5/16/2013,Uber,-1.88,CA
+88199,5/16/2013,On Demand Movie,-3.55,CA
+88199,5/17/2013,PlayStation Membership,-16.13,CA
+88199,5/17/2013,Food Delivery - Uber Eats,-18.6,CA
+88199,5/17/2013,Food Delivery - GrubHub,-19.8,CA
+88199,5/18/2013,Food Delivery - Uber Eats,-28.81,CA
+88199,5/18/2013,Red Box DVD Rental,-66.27,CA
+88199,5/18/2013,Food Delivery - GrubHub,-24.94,CA
+88199,5/19/2013,On Demand Movie,-32.25,CA
+88199,5/19/2013,On Demand Movie,-18.23,CA
+88199,5/19/2013,Uber,-12.94,CA
+88199,5/20/2013,Food Delivery - Uber Eats,-37.82,CA
+88199,5/20/2013,Restaurant - Chinese,-13.71,CA
+88199,5/21/2013,Restaurant - Chinese,-71.22,CA
+88199,5/21/2013,Whole Foods,-7.32,CA
+88199,5/21/2013,Public Transportation - Train Pass,-4.32,CA
+88199,5/21/2013,On Demand TV,-83.37,CA
+88199,5/21/2013,Food Delivery - GrubHub,-5.57,CA
+88199,5/21/2013,PlayStation Membership,-17.96,CA
+88199,5/21/2013,Taxi,-37.98,CA
+88199,5/22/2013,PlayStation Membership,-20.57,CA
+88199,5/22/2013,Pet Smart,-23.15,CA
+88199,5/23/2013,On Demand TV,-18.54,CA
+88199,5/24/2013,On Demand Movie,-34.86,CA
+88199,5/24/2013,Food Delivery - Uber Eats,-102.73,CA
+88199,5/24/2013,Von's Groceries,-4.53,CA
+88199,5/24/2013,Uber,-82.91,CA
+88199,5/24/2013,Food Delivery - GrubHub,-36.21,CA
+88199,5/25/2013,Taxi,-17.64,CA
+88199,5/25/2013,PlayStation Membership,-30.54,CA
+88199,5/26/2013,Food Delivery - GrubHub,-2.87,CA
+88199,5/26/2013,Red Box DVD Rental,-79.79,CA
+88199,5/27/2013,On Demand Movie,-33.64,CA
+88199,5/27/2013,Pet Supply - Cat Food,-17.97,CA
+88199,5/28/2013,Taxi,-13.86,CA
+88199,5/28/2013,Food Delivery - GrubHub,-17.33,CA
+88199,5/28/2013,Red Box DVD Rental,-2.42,CA
+88199,5/28/2013,Whole Foods,-5.76,CA
+88199,5/28/2013,Public Transportation - Bus Pass,-52.6,CA
+88199,5/28/2013,Food Delivery - GrubHub,-15.17,CA
+88199,5/28/2013,Public Transportation - Train Pass,-2.9,CA
+88199,5/28/2013,Pet Supply - Cat Food,-52.52,CA
+88199,5/29/2013,On Demand TV,-31.76,CA
+88199,5/29/2013,Food Delivery - GrubHub,-17.45,CA
+88199,5/29/2013,Pet Smart,-13.7,CA
+88199,5/29/2013,Lyft,-18.33,CA
+88199,5/30/2013,Taxi,-3.27,CA
+88199,6/2/2013,Paycheck,2665,CA
+88199,6/2/2013,Housing Rent,-756,CA
+88199,6/2/2013,Gas & Electric,-32,CA
+88199,6/2/2013,Navient - Student Loans,-197,CA
+88199,6/2/2013,Netflix Subscription,-4.99,CA
+88199,6/2/2013,ACS - Student Loans,-135,CA
+88199,6/2/2013,Water & Sewer,-53,CA
+88199,6/2/2013,Public Transportation - Train Pass,-37.85,CA
+88199,6/3/2013,Food Delivery - GrubHub,-13.48,CA
+88199,6/3/2013,Taxi,-32.37,CA
+88199,6/3/2013,Pet Supply - Cat Food,-98.27,CA
+88199,6/4/2013,Food Delivery - Uber Eats,-19.36,CA
+88199,6/5/2013,Podcast Subscription,-13.4,CA
+88199,6/5/2013,Food Delivery - GrubHub,-66.53,CA
+88199,6/5/2013,Food Delivery - GrubHub,-30.7,CA
+88199,6/5/2013,Public Transportation - Train Pass,-36.44,CA
+88199,6/6/2013,Uber,-21.79,CA
+88199,6/6/2013,Starbucks Coffee,-1.22,CA
+88199,6/6/2013,Public Transportation - Bus Pass,-22.47,CA
+88199,6/6/2013,Restaurant - Steakhouse,-2.09,CA
+88199,6/6/2013,Uber,-17.05,CA
+88199,6/6/2013,Public Transportation - Bus Pass,-7.56,CA
+88199,6/6/2013,Restaurant - Burgers,-52.93,CA
+88199,6/6/2013,Pet Supply - Cat Food,-2.18,CA
+88199,6/6/2013,Pet Smart,-107.21,CA
+88199,6/6/2013,Von's Groceries,-14.38,CA
+88199,6/7/2013,Lyft,-28.07,CA
+88199,6/7/2013,On Demand TV,-1.1,CA
+88199,6/8/2013,Podcast Subscription,-24.49,CA
+88199,6/8/2013,Von's Groceries,-19.81,CA
+88199,6/8/2013,Pet Smart,-9.27,CA
+88199,6/9/2013,Wine Delivery,-3.66,CA
+88199,6/9/2013,Whole Foods,-10.72,CA
+88199,6/9/2013,Red Box DVD Rental,-11.02,CA
+88199,6/9/2013,Public Transportation - Bus Pass,-4.59,CA
+88199,6/9/2013,On Demand TV,-20.27,CA
+88199,6/9/2013,Public Transportation - Train Pass,-20.69,CA
+88199,6/9/2013,Restaurant - Burgers,-7.85,CA
+88199,6/9/2013,Whole Foods,-80.01,CA
+88199,6/9/2013,Food Delivery - GrubHub,-22.65,CA
+88199,6/9/2013,Taxi,-30.92,CA
+88199,6/9/2013,Food Delivery - GrubHub,-47.37,CA
+88199,6/9/2013,Podcast Subscription,-34.29,CA
+88199,6/10/2013,On Demand TV,-77.88,CA
+88199,6/11/2013,Sprouts Market,-1.72,CA
+88199,6/11/2013,Pet Smart,-26.19,CA
+88199,6/11/2013,Food Delivery - GrubHub,-5.71,CA
+88199,6/11/2013,Restaurant - Pizza,-24.64,CA
+88199,6/12/2013,Sprouts Market,-27.63,CA
+88199,6/13/2013,Food Delivery - Uber Eats,-11.27,CA
+88199,6/13/2013,PlayStation Membership,-8.92,CA
+88199,6/13/2013,Food Delivery - GrubHub,-13.34,CA
+88199,6/13/2013,Starbucks Coffee,-7.21,CA
+88199,6/14/2013,Wine Delivery,-10.26,CA
+88199,6/14/2013,PlayStation Membership,-32.14,CA
+88199,6/14/2013,Taxi,-16.8,CA
+88199,6/14/2013,Food Delivery - Uber Eats,-38.9,CA
+88199,6/14/2013,On Demand TV,-5.97,CA
+88199,6/15/2013,Public Transportation - Train Pass,-30.66,CA
+88199,6/15/2013,Sprouts Market,-32.32,CA
+88199,6/15/2013,On Demand TV,-2.21,CA
+88199,6/16/2013,On Demand Movie,-118.49,CA
+88199,6/16/2013,Whole Foods,-18.22,CA
+88199,6/16/2013,On Demand Movie,-68.58,CA
+88199,6/17/2013,Wine Delivery,-27.69,CA
+88199,6/17/2013,Pet Supply - Cat Food,-5.87,CA
+88199,6/17/2013,Public Transportation - Train Pass,-35.35,CA
+88199,6/17/2013,Public Transportation - Train Pass,-0.47,CA
+88199,6/17/2013,Pet Supply - Cat Food,-4.94,CA
+88199,6/17/2013,Pet Supply - Cat Food,-24.01,CA
+88199,6/18/2013,Wine Delivery,-40.73,CA
+88199,6/19/2013,PlayStation Membership,-7.06,CA
+88199,6/20/2013,Food Delivery - GrubHub,-2.77,CA
+88199,6/21/2013,Sprouts Market,-12.57,CA
+88199,6/21/2013,Restaurant - Chinese,-38.03,CA
+88199,6/21/2013,Von's Groceries,-76.78,CA
+88199,6/21/2013,Wine Delivery,-1.34,CA
+88199,6/22/2013,Food Delivery - GrubHub,-49.19,CA
+88199,6/22/2013,Restaurant - Pizza,-26.76,CA
+88199,6/22/2013,Food Delivery - GrubHub,-25.51,CA
+88199,6/22/2013,Food Delivery - GrubHub,-17.19,CA
+88199,6/23/2013,Uber,-16.56,CA
+88199,6/23/2013,Public Transportation - Bus Pass,-13.61,CA
+88199,6/23/2013,Restaurant - Pizza,-115.33,CA
+88199,6/23/2013,PlayStation Membership,-28.16,CA
+88199,6/23/2013,Food Delivery - Uber Eats,-9.92,CA
+88199,6/23/2013,Lyft,-29.97,CA
+88199,6/23/2013,Restaurant - Steakhouse,-21.93,CA
+88199,6/24/2013,On Demand Movie,-5.4,CA
+88199,6/24/2013,Lyft,-27.96,CA
+88199,6/25/2013,On Demand Movie,-35,CA
+88199,6/26/2013,PlayStation Membership,-36.73,CA
+88199,6/27/2013,On Demand Movie,-98.63,CA
+88199,6/28/2013,Pet Smart,-7.02,CA
+88199,6/28/2013,Whole Foods,-27.09,CA
+88199,6/29/2013,Red Box DVD Rental,-109.64,CA
+88199,6/29/2013,Public Transportation - Bus Pass,-65.4,CA
+88199,6/29/2013,On Demand TV,-35.09,CA
+88199,6/29/2013,Restaurant - Steakhouse,-54.61,CA
+88199,6/29/2013,Pet Smart,-3.58,CA
+88199,6/30/2013,Podcast Subscription,-9.8,CA
+88199,6/30/2013,Food Delivery - GrubHub,-63.71,CA
+88199,6/30/2013,Podcast Subscription,-26.82,CA
+88199,6/30/2013,Food Delivery - Uber Eats,-19.83,CA
+88199,7/2/2013,Paycheck,2665,CA
+88199,7/2/2013,Housing Rent,-808,CA
+88199,7/2/2013,Gas & Electric,-32,CA
+88199,7/2/2013,Navient - Student Loans,-197,CA
+88199,7/2/2013,Netflix Subscription,-4.99,CA
+88199,7/2/2013,ACS - Student Loans,-135,CA
+88199,7/2/2013,Water & Sewer,-53,CA
+88199,7/2/2013,Public Transportation - Train Pass,-15.08,CA
+88199,7/3/2013,Ralph's Grocery Store,-2.54,CA
+88199,7/3/2013,Red Box DVD Rental,-3.24,CA
+88199,7/3/2013,Taxi,-10.81,CA
+88199,7/3/2013,Public Transportation - Train Pass,-15.73,CA
+88199,7/3/2013,Uber,-10.62,CA
+88199,7/3/2013,Red Box DVD Rental,-27.09,CA
+88199,7/3/2013,Food Delivery - GrubHub,-1.77,CA
+88199,7/3/2013,Restaurant - Steakhouse,-36.44,CA
+88199,7/4/2013,Pet Supply - Cat Food,-11.04,CA
+88199,7/5/2013,Restaurant - Burgers,-36.73,CA
+88199,7/5/2013,Food Delivery - GrubHub,-49.68,CA
+88199,7/5/2013,Restaurant - Chinese,-39.94,CA
+88199,7/6/2013,Uber,-96.66,CA
+88199,7/6/2013,Lyft,-14.41,CA
+88199,7/6/2013,Pet Supply - Cat Food,-8.66,CA
+88199,7/7/2013,Pet Smart,-33.11,CA
+88199,7/8/2013,Starbucks Coffee,-5.05,CA
+88199,7/8/2013,Lyft,-87.35,CA
+88199,7/9/2013,Food Delivery - GrubHub,-1.16,CA
+88199,7/10/2013,Restaurant - Chinese,-16.33,CA
+88199,7/11/2013,Von's Groceries,-74.47,CA
+88199,7/11/2013,Public Transportation - Train Pass,-37.35,CA
+88199,7/11/2013,Public Transportation - Bus Pass,-13.13,CA
+88199,7/11/2013,Sprouts Market,-1.84,CA
+88199,7/11/2013,Pet Smart,-85.3,CA
+88199,7/12/2013,On Demand TV,-18.43,CA
+88199,7/12/2013,Pet Smart,-31.04,CA
+88199,7/12/2013,Food Delivery - Uber Eats,-107.29,CA
+88199,7/13/2013,Restaurant - Pizza,-24.89,CA
+88199,7/13/2013,Ralph's Grocery Store,-1.91,CA
+88199,7/13/2013,Pet Supply - Cat Food,-2.09,CA
+88199,7/13/2013,Taxi,-16.14,CA
+88199,7/13/2013,Food Delivery - Uber Eats,-33.99,CA
+88199,7/13/2013,Food Delivery - GrubHub,-33.24,CA
+88199,7/13/2013,Pet Supply - Cat Food,-25.67,CA
+88199,7/13/2013,Podcast Subscription,-0.48,CA
+88199,7/14/2013,Public Transportation - Bus Pass,-9.09,CA
+88199,7/14/2013,Pet Smart,-35.72,CA
+88199,7/14/2013,Restaurant - Steakhouse,-6.29,CA
+88199,7/14/2013,Restaurant - Chinese,-30.65,CA
+88199,7/14/2013,Wine Delivery,-22.81,CA
+88199,7/14/2013,Restaurant - Steakhouse,-25.81,CA
+88199,7/14/2013,Ralph's Grocery Store,-25.77,CA
+88199,7/14/2013,Wine Delivery,-36.58,CA
+88199,7/14/2013,Restaurant - Pizza,-12.14,CA
+88199,7/14/2013,Uber,-1.08,CA
+88199,7/14/2013,Public Transportation - Bus Pass,-27.06,CA
+88199,7/15/2013,Restaurant - Pizza,-39.01,CA
+88199,7/15/2013,Ralph's Grocery Store,-3.1,CA
+88199,7/15/2013,Pet Supply - Cat Food,-23.04,CA
+88199,7/15/2013,Food Delivery - GrubHub,-1.3,CA
+88199,7/15/2013,Pet Smart,-26.21,CA
+88199,7/15/2013,Food Delivery - Uber Eats,-1.55,CA
+88199,7/16/2013,Food Delivery - Uber Eats,-39.33,CA
+88199,7/16/2013,PlayStation Membership,-36.07,CA
+88199,7/17/2013,Lyft,-0.65,CA
+88199,7/17/2013,PlayStation Membership,-74.33,CA
+88199,7/17/2013,Restaurant - Chinese,-34.61,CA
+88199,7/18/2013,Pet Smart,-14.94,CA
+88199,7/19/2013,Public Transportation - Train Pass,-3.15,CA
+88199,7/20/2013,Food Delivery - GrubHub,-16.13,CA
+88199,7/20/2013,Red Box DVD Rental,-6.98,CA
+88199,7/20/2013,On Demand TV,-18.24,CA
+88199,7/20/2013,Pet Smart,-28.32,CA
+88199,7/20/2013,Pet Smart,-7.37,CA
+88199,7/20/2013,Uber,-0.51,CA
+88199,7/20/2013,Lyft,-11.61,CA
+88199,7/20/2013,Von's Groceries,-32.41,CA
+88199,7/20/2013,Restaurant - Steakhouse,-7.04,CA
+88199,7/20/2013,Red Box DVD Rental,-105.65,CA
+88199,7/20/2013,Wine Delivery,-22.97,CA
+88199,7/20/2013,Restaurant - Pizza,-7.17,CA
+88199,7/20/2013,Food Delivery - Uber Eats,-12.12,CA
+88199,7/21/2013,Restaurant - Steakhouse,-9.1,CA
+88199,7/21/2013,Starbucks Coffee,-15.44,CA
+88199,7/21/2013,Sprouts Market,-10.83,CA
+88199,7/22/2013,On Demand TV,-19.3,CA
+88199,7/23/2013,Lyft,-28.48,CA
+88199,7/23/2013,Wine Delivery,-13.59,CA
+88199,7/23/2013,PlayStation Membership,-29.4,CA
+88199,7/24/2013,On Demand Movie,-59.49,CA
+88199,7/24/2013,On Demand Movie,-25.36,CA
+88199,7/25/2013,Public Transportation - Bus Pass,-28.36,CA
+88199,7/25/2013,Restaurant - Chinese,-20.53,CA
+88199,7/26/2013,On Demand TV,-33.45,CA
+88199,7/26/2013,Public Transportation - Train Pass,-23.13,CA
+88199,7/26/2013,Wine Delivery,-8.6,CA
+88199,7/26/2013,Uber,-6.79,CA
+88199,7/26/2013,Uber,-26.86,CA
+88199,7/26/2013,Taxi,-25.98,CA
+88199,7/26/2013,Pet Smart,-30.98,CA
+88199,7/26/2013,Public Transportation - Train Pass,-21.11,CA
+88199,7/26/2013,Food Delivery - GrubHub,-7.24,CA
+88199,7/26/2013,Red Box DVD Rental,-36.97,CA
+88199,7/26/2013,Restaurant - Pizza,-24.36,CA
+88199,7/26/2013,Von's Groceries,-36.24,CA
+88199,7/26/2013,Public Transportation - Bus Pass,-10.46,CA
+88199,7/27/2013,Red Box DVD Rental,-7.81,CA
+88199,7/27/2013,PlayStation Membership,-14.43,CA
+88199,7/27/2013,Restaurant - Steakhouse,-25.42,CA
+88199,7/27/2013,Lyft,-38.36,CA
+88199,7/28/2013,Von's Groceries,-16.88,CA
+88199,7/28/2013,Taxi,-19.08,CA
+88199,7/28/2013,Red Box DVD Rental,-3.07,CA
+88199,7/28/2013,Pet Supply - Cat Food,-25.73,CA
+88199,7/29/2013,Von's Groceries,-6.89,CA
+88199,7/29/2013,Pet Smart,-9.58,CA
+88199,7/29/2013,On Demand Movie,-27.86,CA
+88199,7/30/2013,Red Box DVD Rental,-38.66,CA
+88199,7/30/2013,Uber,-29.58,CA
+88199,8/2/2013,Paycheck,2665,CA
+88199,8/2/2013,Housing Rent,-1088,CA
+88199,8/2/2013,Gas & Electric,-32,CA
+88199,8/2/2013,Navient - Student Loans,-197,CA
+88199,8/2/2013,Netflix Subscription,-4.99,CA
+88199,8/2/2013,ACS - Student Loans,-135,CA
+88199,8/2/2013,Water & Sewer,-53,CA
+88199,8/2/2013,Food Delivery - GrubHub,-8.86,CA
+88199,8/2/2013,Red Box DVD Rental,-4.68,CA
+88199,8/2/2013,Pet Supply - Cat Food,-31.59,CA
+88199,8/2/2013,Sprouts Market,-3.12,CA
+88199,8/3/2013,Uber,-19.62,CA
+88199,8/3/2013,Pet Smart,-11.66,CA
+88199,8/3/2013,Uber,-32.27,CA
+88199,8/3/2013,Public Transportation - Train Pass,-3.07,CA
+88199,8/3/2013,Pet Smart,-90.89,CA
+88199,8/4/2013,Wine Delivery,-35.68,CA
+88199,8/4/2013,Food Delivery - GrubHub,-89.13,CA
+88199,8/4/2013,Starbucks Coffee,-20.31,CA
+88199,8/5/2013,Lyft,-18.38,CA
+88199,8/5/2013,Uber,-0.25,CA
+88199,8/6/2013,On Demand TV,-35.34,CA
+88199,8/7/2013,Pet Smart,-32.99,CA
+88199,8/8/2013,PlayStation Membership,-8.48,CA
+88199,8/8/2013,On Demand TV,-21.23,CA
+88199,8/8/2013,Food Delivery - GrubHub,-22.07,CA
+88199,8/8/2013,On Demand TV,-11.31,CA
+88199,8/8/2013,On Demand Movie,-9.31,CA
+88199,8/9/2013,Whole Foods,-5.78,CA
+88199,8/10/2013,Public Transportation - Bus Pass,-3.66,CA
+88199,8/10/2013,Red Box DVD Rental,-34.89,CA
+88199,8/11/2013,On Demand TV,-9.37,CA
+88199,8/12/2013,Pet Smart,-6.42,CA
+88199,8/13/2013,Podcast Subscription,-15.4,CA
+88199,8/13/2013,Public Transportation - Bus Pass,-34.37,CA
+88199,8/14/2013,Public Transportation - Bus Pass,-12.29,CA
+88199,8/15/2013,Red Box DVD Rental,-16.15,CA
+88199,8/15/2013,Sprouts Market,-115.69,CA
+88199,8/16/2013,Wine Delivery,-50.23,CA
+88199,8/17/2013,Restaurant - Pizza,-76.15,CA
+88199,8/17/2013,Taxi,-18.96,CA
+88199,8/18/2013,Whole Foods,-87.07,CA
+88199,8/18/2013,On Demand Movie,-18.21,CA
+88199,8/18/2013,Uber,-58.67,CA
+88199,8/18/2013,Public Transportation - Bus Pass,-28.79,CA
+88199,8/18/2013,Taxi,-78.65,CA
+88199,8/18/2013,PlayStation Membership,-27.58,CA
+88199,8/18/2013,Food Delivery - GrubHub,-25.09,CA
+88199,8/18/2013,PlayStation Membership,-24.71,CA
+88199,8/18/2013,Podcast Subscription,-19.91,CA
+88199,8/18/2013,Restaurant - Chinese,-24.87,CA
+88199,8/19/2013,PlayStation Membership,-35.85,CA
+88199,8/19/2013,On Demand TV,-15.13,CA
+88199,8/19/2013,On Demand Movie,-36.57,CA
+88199,8/19/2013,Podcast Subscription,-37.32,CA
+88199,8/19/2013,Pet Smart,-15.03,CA
+88199,8/20/2013,Red Box DVD Rental,-20.56,CA
+88199,8/21/2013,Taxi,-10.36,CA
+88199,8/21/2013,On Demand TV,-37.55,CA
+88199,8/22/2013,Von's Groceries,-21.59,CA
+88199,8/23/2013,Pet Smart,-22.13,CA
+88199,8/23/2013,On Demand TV,-10.45,CA
+88199,8/23/2013,Public Transportation - Bus Pass,-11.7,CA
+88199,8/23/2013,Pet Supply - Cat Food,-20.96,CA
+88199,8/23/2013,On Demand Movie,-3.29,CA
+88199,8/23/2013,Restaurant - Burgers,-28.78,CA
+88199,8/23/2013,Public Transportation - Train Pass,-18.93,CA
+88199,8/23/2013,Taxi,-68.89,CA
+88199,8/23/2013,Uber,-37.39,CA
+88199,8/24/2013,Lyft,-30.63,CA
+88199,8/25/2013,Podcast Subscription,-41.87,CA
+88199,8/25/2013,Public Transportation - Bus Pass,-115.5,CA
+88199,8/26/2013,On Demand Movie,-70.4,CA
+88199,8/27/2013,Red Box DVD Rental,-28.52,CA
+88199,8/27/2013,Taxi,-18.01,CA
+88199,8/27/2013,PlayStation Membership,-35.56,CA
+88199,8/28/2013,Starbucks Coffee,-36.44,CA
+88199,8/29/2013,Restaurant - Pizza,-12.59,CA
+88199,8/29/2013,Food Delivery - Uber Eats,-14.17,CA
+88199,8/30/2013,Restaurant - Pizza,-11.71,CA
+88199,9/2/2013,Paycheck,2665,CA
+88199,9/2/2013,Housing Rent,-1020,CA
+88199,9/2/2013,Gas & Electric,-32,CA
+88199,9/2/2013,Navient - Student Loans,-197,CA
+88199,9/2/2013,Netflix Subscription,-4.99,CA
+88199,9/2/2013,ACS - Student Loans,-135,CA
+88199,9/2/2013,Water & Sewer,-53,CA
+88199,9/2/2013,PlayStation Membership,-7.5,CA
+88199,9/2/2013,Pet Smart,-11.21,CA
+88199,9/2/2013,Taxi,-27.6,CA
+88199,9/2/2013,Wine Delivery,-19.55,CA
+88199,9/3/2013,PlayStation Membership,-22.65,CA
+88199,9/3/2013,Pet Supply - Cat Food,-11.46,CA
+88199,9/3/2013,Von's Groceries,-33.05,CA
+88199,9/3/2013,Pet Supply - Cat Food,-37.02,CA
+88199,9/4/2013,Food Delivery - GrubHub,-10.47,CA
+88199,9/4/2013,Podcast Subscription,-6.43,CA
+88199,9/4/2013,Podcast Subscription,-18.73,CA
+88199,9/5/2013,Von's Groceries,-12.86,CA
+88199,9/6/2013,Whole Foods,-13.86,CA
+88199,9/6/2013,Pet Supply - Cat Food,-36.01,CA
+88199,9/6/2013,Red Box DVD Rental,-26.86,CA
+88199,9/6/2013,Pet Supply - Cat Food,-8.27,CA
+88199,9/6/2013,On Demand Movie,-39.35,CA
+88199,9/6/2013,Food Delivery - Uber Eats,-4.52,CA
+88199,9/6/2013,Starbucks Coffee,-36.63,CA
+88199,9/6/2013,Uber,-7.5,CA
+88199,9/6/2013,Taxi,-22.69,CA
+88199,9/6/2013,Red Box DVD Rental,-85.56,CA
+88199,9/6/2013,Starbucks Coffee,-28.2,CA
+88199,9/6/2013,Uber,-43.5,CA
+88199,9/6/2013,Pet Supply - Cat Food,-33.83,CA
+88199,9/7/2013,Uber,-12.15,CA
+88199,9/8/2013,Food Delivery - Uber Eats,-15.05,CA
+88199,9/9/2013,Food Delivery - Uber Eats,-11.09,CA
+88199,9/9/2013,On Demand TV,-36.41,CA
+88199,9/9/2013,Red Box DVD Rental,-37.77,CA
+88199,9/9/2013,On Demand Movie,-35.61,CA
+88199,9/9/2013,PlayStation Membership,-32.33,CA
+88199,9/9/2013,Red Box DVD Rental,-19.24,CA
+88199,9/9/2013,PlayStation Membership,-38.53,CA
+88199,9/9/2013,Sprouts Market,-31.25,CA
+88199,9/9/2013,Sprouts Market,-20.59,CA
+88199,9/9/2013,Restaurant - Burgers,-24.54,CA
+88199,9/10/2013,Sprouts Market,-51.52,CA
+88199,9/10/2013,Red Box DVD Rental,-17.67,CA
+88199,9/10/2013,Pet Smart,-35.51,CA
+88199,9/10/2013,Uber,-21.1,CA
+88199,9/11/2013,Wine Delivery,-35.27,CA
+88199,9/12/2013,Uber,-103.42,CA
+88199,9/13/2013,Lyft,-23.74,CA
+88199,9/13/2013,Pet Supply - Cat Food,-33.36,CA
+88199,9/14/2013,Von's Groceries,-39.76,CA
+88199,9/15/2013,Whole Foods,-65.69,CA
+88199,9/15/2013,On Demand Movie,-38.39,CA
+88199,9/16/2013,Restaurant - Burgers,-28.97,CA
+88199,9/17/2013,Red Box DVD Rental,-34.49,CA
+88199,9/17/2013,Starbucks Coffee,-36.96,CA
+88199,9/18/2013,Restaurant - Steakhouse,-24.83,CA
+88199,9/18/2013,Taxi,-18.54,CA
+88199,9/19/2013,Restaurant - Chinese,-66.86,CA
+88199,9/19/2013,Public Transportation - Train Pass,-53.55,CA
+88199,9/20/2013,Pet Supply - Cat Food,-29.69,CA
+88199,9/20/2013,Food Delivery - Uber Eats,-3.03,CA
+88199,9/20/2013,Uber,-20.68,CA
+88199,9/20/2013,Food Delivery - GrubHub,-26.19,CA
+88199,9/20/2013,On Demand TV,-32.49,CA
+88199,9/20/2013,Podcast Subscription,-28.39,CA
+88199,9/21/2013,Lyft,-7.19,CA
+88199,9/22/2013,Food Delivery - GrubHub,-22.88,CA
+88199,9/22/2013,Ralph's Grocery Store,-22.36,CA
+88199,9/22/2013,Public Transportation - Train Pass,-30.31,CA
+88199,9/22/2013,Public Transportation - Bus Pass,-13.71,CA
+88199,9/22/2013,Uber,-38.49,CA
+88199,9/22/2013,Podcast Subscription,-4.34,CA
+88199,9/22/2013,Food Delivery - Uber Eats,-7.72,CA
+88199,9/23/2013,PlayStation Membership,-23.11,CA
+88199,9/24/2013,Public Transportation - Bus Pass,-34.7,CA
+88199,9/24/2013,Red Box DVD Rental,-2.44,CA
+88199,9/25/2013,Restaurant - Steakhouse,-18.07,CA
+88199,9/26/2013,Food Delivery - Uber Eats,-6.58,CA
+88199,9/26/2013,Sprouts Market,-15.89,CA
+88199,9/26/2013,Restaurant - Chinese,-32.61,CA
+88199,9/26/2013,Ralph's Grocery Store,-95.61,CA
+88199,9/27/2013,Lyft,-2.52,CA
+88199,9/27/2013,Food Delivery - GrubHub,-85.81,CA
+88199,9/28/2013,On Demand Movie,-15.66,CA
+88199,9/28/2013,Wine Delivery,-87.17,CA
+88199,9/28/2013,Public Transportation - Bus Pass,-38.48,CA
+88199,9/28/2013,Red Box DVD Rental,-69.34,CA
+88199,9/28/2013,Podcast Subscription,-16.35,CA
+88199,9/29/2013,Sprouts Market,-3,CA
+88199,9/29/2013,Taxi,-15.69,CA
+88199,9/29/2013,Podcast Subscription,-17.57,CA
+88199,9/30/2013,Sprouts Market,-31.37,CA
+88199,9/30/2013,Restaurant - Steakhouse,-2.6,CA
+88199,10/2/2013,Paycheck,2665,CA
+88199,10/2/2013,Housing Rent,-825,CA
+88199,10/2/2013,Gas & Electric,-32,CA
+88199,10/2/2013,Navient - Student Loans,-197,CA
+88199,10/2/2013,Netflix Subscription,-4.99,CA
+88199,10/2/2013,ACS - Student Loans,-135,CA
+88199,10/2/2013,Water & Sewer,-53,CA
+88199,10/2/2013,On Demand TV,-34.84,CA
+88199,10/2/2013,Public Transportation - Train Pass,-22.57,CA
+88199,10/3/2013,Pet Smart,-30.53,CA
+88199,10/4/2013,Public Transportation - Bus Pass,-5.69,CA
+88199,10/4/2013,Pet Smart,-31.23,CA
+88199,10/4/2013,Pet Smart,-108.66,CA
+88199,10/4/2013,Restaurant - Chinese,-37.25,CA
+88199,10/4/2013,Public Transportation - Bus Pass,-112.52,CA
+88199,10/5/2013,On Demand Movie,-43.74,CA
+88199,10/5/2013,Whole Foods,-17.75,CA
+88199,10/5/2013,Uber,-97.71,CA
+88199,10/5/2013,Taxi,-94.66,CA
+88199,10/6/2013,Food Delivery - Uber Eats,-0.89,CA
+88199,10/6/2013,Starbucks Coffee,-17.26,CA
+88199,10/6/2013,Podcast Subscription,-25.43,CA
+88199,10/7/2013,Food Delivery - Uber Eats,-87.77,CA
+88199,10/7/2013,Food Delivery - Uber Eats,-23.83,CA
+88199,10/8/2013,Food Delivery - GrubHub,-9.85,CA
+88199,10/8/2013,Food Delivery - GrubHub,-33.5,CA
+88199,10/8/2013,Von's Groceries,-35.89,CA
+88199,10/9/2013,PlayStation Membership,-29.46,CA
+88199,10/9/2013,Food Delivery - GrubHub,-33.61,CA
+88199,10/10/2013,Von's Groceries,-118.24,CA
+88199,10/10/2013,Podcast Subscription,-112.2,CA
+88199,10/10/2013,Pet Supply - Cat Food,-5.16,CA
+88199,10/10/2013,Public Transportation - Train Pass,-38.22,CA
+88199,10/11/2013,Public Transportation - Bus Pass,-109.44,CA
+88199,10/11/2013,Podcast Subscription,-11.27,CA
+88199,10/11/2013,Food Delivery - GrubHub,-110.72,CA
+88199,10/12/2013,Public Transportation - Train Pass,-0.71,CA
+88199,10/12/2013,Restaurant - Burgers,-23.25,CA
+88199,10/12/2013,Food Delivery - GrubHub,-14.29,CA
+88199,10/12/2013,Starbucks Coffee,-38.07,CA
+88199,10/13/2013,PlayStation Membership,-38.56,CA
+88199,10/13/2013,Public Transportation - Train Pass,-32.08,CA
+88199,10/14/2013,On Demand Movie,-17.74,CA
+88199,10/14/2013,Public Transportation - Bus Pass,-14.05,CA
+88199,10/14/2013,On Demand TV,-3.46,CA
+88199,10/14/2013,Starbucks Coffee,-3.53,CA
+88199,10/14/2013,Wine Delivery,-35,CA
+88199,10/14/2013,Red Box DVD Rental,-5.94,CA
+88199,10/14/2013,On Demand Movie,-38.12,CA
+88199,10/14/2013,Ralph's Grocery Store,-104.12,CA
+88199,10/14/2013,Von's Groceries,-14.45,CA
+88199,10/15/2013,On Demand Movie,-8.6,CA
+88199,10/15/2013,Restaurant - Pizza,-36.11,CA
+88199,10/15/2013,On Demand Movie,-16,CA
+88199,10/15/2013,Food Delivery - GrubHub,-14.39,CA
+88199,10/16/2013,Food Delivery - Uber Eats,-24.96,CA
+88199,10/16/2013,Wine Delivery,-16.93,CA
+88199,10/16/2013,Restaurant - Burgers,-15.93,CA
+88199,10/16/2013,On Demand Movie,-21.79,CA
+88199,10/16/2013,Public Transportation - Train Pass,-61.58,CA
+88199,10/16/2013,Whole Foods,-5.6,CA
+88199,10/17/2013,PlayStation Membership,-36.59,CA
+88199,10/18/2013,Taxi,-18.85,CA
+88199,10/18/2013,Wine Delivery,-7.8,CA
+88199,10/18/2013,Public Transportation - Bus Pass,-11.81,CA
+88199,10/18/2013,Public Transportation - Bus Pass,-15.53,CA
+88199,10/18/2013,Lyft,-23.33,CA
+88199,10/18/2013,Podcast Subscription,-82.99,CA
+88199,10/18/2013,Sprouts Market,-54.64,CA
+88199,10/19/2013,Pet Smart,-23.48,CA
+88199,10/19/2013,Taxi,-98.61,CA
+88199,10/20/2013,Ralph's Grocery Store,-18.33,CA
+88199,10/20/2013,Public Transportation - Train Pass,-18.85,CA
+88199,10/21/2013,Pet Smart,-13.72,CA
+88199,10/21/2013,Red Box DVD Rental,-71.57,CA
+88199,10/21/2013,Food Delivery - Uber Eats,-90.57,CA
+88199,10/21/2013,Pet Smart,-8.65,CA
+88199,10/22/2013,Wine Delivery,-91.82,CA
+88199,10/23/2013,Food Delivery - GrubHub,-38.42,CA
+88199,10/23/2013,Pet Smart,-38.22,CA
+88199,10/23/2013,Public Transportation - Train Pass,-26.8,CA
+88199,10/23/2013,Uber,-20.36,CA
+88199,10/23/2013,Pet Smart,-20.5,CA
+88199,10/24/2013,Restaurant - Pizza,-90.17,CA
+88199,10/24/2013,On Demand TV,-0.67,CA
+88199,10/25/2013,Food Delivery - GrubHub,-17.89,CA
+88199,10/25/2013,Podcast Subscription,-0.58,CA
+88199,10/25/2013,Pet Supply - Cat Food,-21.44,CA
+88199,10/26/2013,On Demand TV,-25.91,CA
+88199,10/26/2013,On Demand TV,-28.56,CA
+88199,10/27/2013,Pet Supply - Cat Food,-4.1,CA
+88199,10/28/2013,Lyft,-33.24,CA
+88199,10/28/2013,Podcast Subscription,-4.56,CA
+88199,10/28/2013,Food Delivery - Uber Eats,-102.03,CA
+88199,10/28/2013,Sprouts Market,-78.45,CA
+88199,10/29/2013,On Demand Movie,-39.7,CA
+88199,10/29/2013,Food Delivery - GrubHub,-39.24,CA
+88199,10/30/2013,On Demand Movie,-17.62,CA
+88199,10/30/2013,PlayStation Membership,-16.38,CA
+88199,10/30/2013,Public Transportation - Train Pass,-21.59,CA
+88199,11/2/2013,Paycheck,2665,CA
+88199,11/2/2013,Housing Rent,-1157,CA
+88199,11/2/2013,Gas & Electric,-32,CA
+88199,11/2/2013,Navient - Student Loans,-197,CA
+88199,11/2/2013,Netflix Subscription,-4.99,CA
+88199,11/2/2013,ACS - Student Loans,-135,CA
+88199,11/2/2013,Water & Sewer,-53,CA
+88199,11/2/2013,Wine Delivery,-32.23,CA
+88199,11/2/2013,PlayStation Membership,-28.01,CA
+88199,11/3/2013,Food Delivery - GrubHub,-40.63,CA
+88199,11/3/2013,Restaurant - Burgers,-18.82,CA
+88199,11/3/2013,Wine Delivery,-38.52,CA
+88199,11/4/2013,Uber,-28.08,CA
+88199,11/4/2013,Pet Supply - Cat Food,-39.41,CA
+88199,11/4/2013,Restaurant - Burgers,-32.95,CA
+88199,11/5/2013,Lyft,-16.44,CA
+88199,11/5/2013,Red Box DVD Rental,-101.44,CA
+88199,11/5/2013,Wine Delivery,-15.4,CA
+88199,11/6/2013,On Demand TV,-16.87,CA
+88199,11/7/2013,Restaurant - Chinese,-26.57,CA
+88199,11/7/2013,Pet Supply - Cat Food,-26.35,CA
+88199,11/7/2013,Red Box DVD Rental,-4.89,CA
+88199,11/7/2013,Uber,-33.58,CA
+88199,11/7/2013,Red Box DVD Rental,-0.31,CA
+88199,11/7/2013,Public Transportation - Bus Pass,-5.13,CA
+88199,11/7/2013,Pet Supply - Cat Food,-16.73,CA
+88199,11/7/2013,On Demand Movie,-6.06,CA
+88199,11/7/2013,PlayStation Membership,-17.65,CA
+88199,11/8/2013,Pet Supply - Cat Food,-41.65,CA
+88199,11/9/2013,Wine Delivery,-12.71,CA
+88199,11/9/2013,Public Transportation - Bus Pass,-5.11,CA
+88199,11/10/2013,Lyft,-98.22,CA
+88199,11/10/2013,PlayStation Membership,-81.6,CA
+88199,11/10/2013,Wine Delivery,-36.85,CA
+88199,11/10/2013,On Demand Movie,-33.68,CA
+88199,11/10/2013,Food Delivery - Uber Eats,-16.18,CA
+88199,11/10/2013,Pet Smart,-31.81,CA
+88199,11/10/2013,Pet Smart,-12.86,CA
+88199,11/10/2013,Restaurant - Burgers,-30.87,CA
+88199,11/10/2013,Von's Groceries,-26.18,CA
+88199,11/10/2013,PlayStation Membership,-23.85,CA
+88199,11/11/2013,Wine Delivery,-39.47,CA
+88199,11/11/2013,Von's Groceries,-11.5,CA
+88199,11/12/2013,Pet Supply - Cat Food,-8.8,CA
+88199,11/12/2013,Pet Supply - Cat Food,-30.81,CA
+88199,11/12/2013,Podcast Subscription,-21.39,CA
+88199,11/12/2013,Sprouts Market,-115.01,CA
+88199,11/12/2013,Podcast Subscription,-15.97,CA
+88199,11/12/2013,Podcast Subscription,-4.89,CA
+88199,11/12/2013,Public Transportation - Bus Pass,-10.96,CA
+88199,11/12/2013,Pet Supply - Cat Food,-1.81,CA
+88199,11/12/2013,Restaurant - Steakhouse,-25.91,CA
+88199,11/12/2013,Uber,-13.82,CA
+88199,11/13/2013,Wine Delivery,-67.45,CA
+88199,11/13/2013,Podcast Subscription,-9.58,CA
+88199,11/13/2013,On Demand Movie,-19.54,CA
+88199,11/13/2013,Food Delivery - Uber Eats,-33.59,CA
+88199,11/13/2013,Public Transportation - Bus Pass,-33.55,CA
+88199,11/14/2013,Podcast Subscription,-31.48,CA
+88199,11/14/2013,Food Delivery - GrubHub,-14.3,CA
+88199,11/14/2013,Wine Delivery,-2.85,CA
+88199,11/14/2013,Uber,-45.17,CA
+88199,11/14/2013,PlayStation Membership,-13.59,CA
+88199,11/14/2013,Food Delivery - GrubHub,-28.11,CA
+88199,11/14/2013,Public Transportation - Train Pass,-3.03,CA
+88199,11/15/2013,Uber,-37.73,CA
+88199,11/15/2013,Red Box DVD Rental,-23.69,CA
+88199,11/16/2013,Starbucks Coffee,-4.94,CA
+88199,11/16/2013,Food Delivery - GrubHub,-99.21,CA
+88199,11/17/2013,Food Delivery - Uber Eats,-43.01,CA
+88199,11/18/2013,Uber,-34.86,CA
+88199,11/19/2013,Lyft,-15.15,CA
+88199,11/19/2013,Sprouts Market,-44.3,CA
+88199,11/19/2013,Wine Delivery,-19.35,CA
+88199,11/19/2013,Red Box DVD Rental,-4.15,CA
+88199,11/20/2013,Uber,-24.88,CA
+88199,11/20/2013,Taxi,-1.16,CA
+88199,11/21/2013,Starbucks Coffee,-37.64,CA
+88199,11/21/2013,Food Delivery - Uber Eats,-17.89,CA
+88199,11/21/2013,Wine Delivery,-74.53,CA
+88199,11/22/2013,Wine Delivery,-104.07,CA
+88199,11/23/2013,Wine Delivery,-10.65,CA
+88199,11/23/2013,Wine Delivery,-11.21,CA
+88199,11/23/2013,Food Delivery - GrubHub,-77.82,CA
+88199,11/23/2013,Restaurant - Steakhouse,-11.16,CA
+88199,11/23/2013,Food Delivery - Uber Eats,-6.09,CA
+88199,11/23/2013,Red Box DVD Rental,-39.53,CA
+88199,11/24/2013,Pet Supply - Cat Food,-21.87,CA
+88199,11/25/2013,PlayStation Membership,-4.95,CA
+88199,11/25/2013,Food Delivery - Uber Eats,-31.89,CA
+88199,11/25/2013,Von's Groceries,-4.21,CA
+88199,11/25/2013,Taxi,-17.84,CA
+88199,11/25/2013,Food Delivery - GrubHub,-29.57,CA
+88199,11/26/2013,Pet Smart,-31.59,CA
+88199,11/26/2013,Food Delivery - GrubHub,-74.56,CA
+88199,11/26/2013,Red Box DVD Rental,-4.9,CA
+88199,11/26/2013,Public Transportation - Train Pass,-24.4,CA
+88199,11/26/2013,Uber,-80.24,CA
+88199,11/26/2013,Uber,-25.5,CA
+88199,11/26/2013,Food Delivery - GrubHub,-18.58,CA
+88199,11/26/2013,Pet Smart,-22.53,CA
+88199,11/27/2013,Podcast Subscription,-33.74,CA
+88199,11/28/2013,Whole Foods,-17.56,CA
+88199,11/28/2013,Whole Foods,-26.17,CA
+88199,11/28/2013,Red Box DVD Rental,-19.93,CA
+88199,11/28/2013,Lyft,-0.36,CA
+88199,11/29/2013,On Demand TV,-29.91,CA
+88199,11/30/2013,Pet Supply - Cat Food,-50.87,CA
+88199,11/30/2013,Lyft,-29.29,CA
+88199,11/30/2013,PlayStation Membership,-2.62,CA
+88199,11/30/2013,Wine Delivery,-27.11,CA
+88199,11/30/2013,PlayStation Membership,-34.03,CA
+88199,12/2/2013,Paycheck,2665,CA
+88199,12/2/2013,Housing Rent,-1365,CA
+88199,12/2/2013,Gas & Electric,-32,CA
+88199,12/2/2013,Navient - Student Loans,-197,CA
+88199,12/2/2013,Netflix Subscription,-4.99,CA
+88199,12/2/2013,ACS - Student Loans,-135,CA
+88199,12/2/2013,Water & Sewer,-53,CA
+88199,12/2/2013,Uber,-10.12,CA
+88199,12/3/2013,On Demand Movie,-1.73,CA
+88199,12/3/2013,Public Transportation - Bus Pass,-2.27,CA
+88199,12/4/2013,Red Box DVD Rental,-34.2,CA
+88199,12/4/2013,Public Transportation - Bus Pass,-15.03,CA
+88199,12/4/2013,Uber,-1.92,CA
+88199,12/5/2013,Restaurant - Pizza,-18.73,CA
+88199,12/5/2013,Podcast Subscription,-18.39,CA
+88199,12/6/2013,Pet Supply - Cat Food,-21.32,CA
+88199,12/7/2013,Red Box DVD Rental,-14.35,CA
+88199,12/7/2013,Whole Foods,-11.38,CA
+88199,12/7/2013,Pet Supply - Cat Food,-114.43,CA
+88199,12/7/2013,Taxi,-37.22,CA
+88199,12/7/2013,On Demand Movie,-76.11,CA
+88199,12/7/2013,Pet Supply - Cat Food,-28.38,CA
+88199,12/7/2013,PlayStation Membership,-28.47,CA
+88199,12/8/2013,Sprouts Market,-35.28,CA
+88199,12/8/2013,On Demand TV,-51.92,CA
+88199,12/8/2013,PlayStation Membership,-8.69,CA
+88199,12/9/2013,On Demand TV,-75.64,CA
+88199,12/9/2013,Taxi,-12.43,CA
+88199,12/9/2013,Uber,-4.76,CA
+88199,12/9/2013,Public Transportation - Train Pass,-11.14,CA
+88199,12/9/2013,Von's Groceries,-36.36,CA
+88199,12/9/2013,Uber,-52.68,CA
+88199,12/9/2013,Pet Smart,-42.9,CA
+88199,12/9/2013,Pet Supply - Cat Food,-35.41,CA
+88199,12/9/2013,Public Transportation - Bus Pass,-8.98,CA
+88199,12/9/2013,Uber,-104.88,CA
+88199,12/9/2013,Podcast Subscription,-31.11,CA
+88199,12/9/2013,Food Delivery - GrubHub,-2.9,CA
+88199,12/9/2013,Restaurant - Pizza,-28.84,CA
+88199,12/9/2013,Food Delivery - GrubHub,-14.34,CA
+88199,12/9/2013,Wine Delivery,-5.37,CA
+88199,12/9/2013,Podcast Subscription,-15.38,CA
+88199,12/9/2013,Public Transportation - Bus Pass,-38.73,CA
+88199,12/9/2013,Food Delivery - GrubHub,-7.16,CA
+88199,12/9/2013,Restaurant - Pizza,-6.93,CA
+88199,12/9/2013,Red Box DVD Rental,-17.31,CA
+88199,12/10/2013,On Demand Movie,-34.3,CA
+88199,12/10/2013,Red Box DVD Rental,-4.09,CA
+88199,12/10/2013,Podcast Subscription,-28.97,CA
+88199,12/10/2013,Uber,-33.83,CA
+88199,12/10/2013,PlayStation Membership,-35.27,CA
+88199,12/11/2013,Whole Foods,-13.34,CA
+88199,12/12/2013,Taxi,-16.71,CA
+88199,12/12/2013,Wine Delivery,-32.17,CA
+88199,12/13/2013,Red Box DVD Rental,-30.2,CA
+88199,12/13/2013,Ralph's Grocery Store,-74.94,CA
+88199,12/13/2013,Red Box DVD Rental,-39.21,CA
+88199,12/13/2013,Podcast Subscription,-7.88,CA
+88199,12/13/2013,Food Delivery - GrubHub,-15.63,CA
+88199,12/13/2013,Sprouts Market,-3.52,CA
+88199,12/14/2013,Food Delivery - GrubHub,-0.1,CA
+88199,12/15/2013,Pet Supply - Cat Food,-16.42,CA
+88199,12/15/2013,Restaurant - Steakhouse,-16.59,CA
+88199,12/15/2013,Ralph's Grocery Store,-88.16,CA
+88199,12/15/2013,Von's Groceries,-30.32,CA
+88199,12/15/2013,Public Transportation - Train Pass,-19.05,CA
+88199,12/16/2013,Food Delivery - GrubHub,-19.1,CA
+88199,12/16/2013,Food Delivery - Uber Eats,-11.99,CA
+88199,12/16/2013,On Demand Movie,-104.12,CA
+88199,12/16/2013,Red Box DVD Rental,-18.61,CA
+88199,12/16/2013,Uber,-29.37,CA
+88199,12/16/2013,Restaurant - Steakhouse,-37.82,CA
+88199,12/17/2013,Food Delivery - Uber Eats,-39.89,CA
+88199,12/17/2013,Wine Delivery,-57.36,CA
+88199,12/17/2013,Von's Groceries,-24.27,CA
+88199,12/17/2013,On Demand Movie,-6.11,CA
+88199,12/17/2013,On Demand Movie,-11.01,CA
+88199,12/18/2013,Wine Delivery,-53.24,CA
+88199,12/18/2013,Pet Smart,-37.22,CA
+88199,12/18/2013,Lyft,-41.7,CA
+88199,12/18/2013,Wine Delivery,-101.77,CA
+88199,12/19/2013,Food Delivery - Uber Eats,-19.37,CA
+88199,12/20/2013,On Demand TV,-39.9,CA
+88199,12/20/2013,Public Transportation - Bus Pass,-9.1,CA
+88199,12/20/2013,Wine Delivery,-4.94,CA
+88199,12/20/2013,On Demand TV,-26.71,CA
+88199,12/20/2013,Podcast Subscription,-100.21,CA
+88199,12/21/2013,Uber,-3.92,CA
+88199,12/21/2013,Podcast Subscription,-12.44,CA
+88199,12/22/2013,Pet Smart,-20.28,CA
+88199,12/22/2013,Podcast Subscription,-27.51,CA
+88199,12/22/2013,PlayStation Membership,-18.94,CA
+88199,12/22/2013,Red Box DVD Rental,-31.27,CA
+88199,12/22/2013,Public Transportation - Bus Pass,-74.92,CA
+88199,12/23/2013,Food Delivery - GrubHub,-2.75,CA
+88199,12/23/2013,Red Box DVD Rental,-19.63,CA
+88199,12/23/2013,On Demand Movie,-17.42,CA
+88199,12/24/2013,Whole Foods,-19.93,CA
+88199,12/25/2013,Restaurant - Pizza,-16.51,CA
+88199,12/26/2013,Pet Smart,-21.62,CA
+88199,12/26/2013,Food Delivery - GrubHub,-73.06,CA
+88199,12/27/2013,Taxi,-18.75,CA
+88199,12/27/2013,Food Delivery - GrubHub,-26.58,CA
+88199,12/27/2013,On Demand Movie,-39.82,CA
+88199,12/27/2013,Red Box DVD Rental,-25.99,CA
+88199,12/27/2013,Ralph's Grocery Store,-14.2,CA
+88199,12/28/2013,Von's Groceries,-2.05,CA
+88199,12/28/2013,Food Delivery - GrubHub,-48.78,CA
+88199,12/28/2013,Restaurant - Steakhouse,-33.53,CA
+88199,12/29/2013,Food Delivery - GrubHub,-23.26,CA
+88199,12/29/2013,Food Delivery - Uber Eats,-34.75,CA
+88199,12/29/2013,Restaurant - Chinese,-10.19,CA
+88199,12/29/2013,Wine Delivery,-34.09,CA
+88199,12/30/2013,Von's Groceries,-85.64,CA
+88199,12/30/2013,Public Transportation - Bus Pass,-15.86,CA
+88199,12/32/2013,Whole Foods,-9.36,CA
+88199,1/2/2014,Food Delivery - Uber Eats,-32.63,CA
+88199,1/2/2014,Wine Delivery,-38.17,CA
+88199,1/2/2014,Pet Supply - Cat Food,-2.29,CA
+88199,1/2/2014,Food Delivery - Uber Eats,-36.87,CA
+88199,1/2/2014,Ralph's Grocery Store,-8.38,CA
+88199,1/2/2014,Public Transportation - Train Pass,-32.44,CA
+88199,1/3/2014,Pet Supply - Cat Food,-3.91,CA
+88199,1/3/2014,Food Delivery - Uber Eats,-1.66,CA
+88199,1/3/2014,PlayStation Membership,-4.89,CA
+88199,1/4/2014,Podcast Subscription,-8.18,CA
+88199,1/4/2014,Ralph's Grocery Store,-107.74,CA
+88199,1/4/2014,Sprouts Market,-100.4,CA
+88199,1/4/2014,Pet Smart,-20.69,CA
+88199,1/4/2014,Whole Foods,-30.2,CA
+88199,1/4/2014,Food Delivery - GrubHub,-32.5,CA
+88199,1/5/2014,Public Transportation - Bus Pass,-3.2,CA
+88199,1/5/2014,On Demand Movie,-35.19,CA
+88199,1/5/2014,Taxi,-29.42,CA
+88199,1/5/2014,Podcast Subscription,-20.6,CA
+88199,1/5/2014,Food Delivery - GrubHub,-18.01,CA
+88199,1/5/2014,PlayStation Membership,-7.74,CA
+88199,1/5/2014,Wine Delivery,-85.74,CA
+88199,1/5/2014,Sprouts Market,-6.58,CA
+88199,1/5/2014,Pet Smart,-14.6,CA
+88199,1/5/2014,PlayStation Membership,-6.07,CA
+88199,1/5/2014,Red Box DVD Rental,-33.28,CA
+88199,1/5/2014,Starbucks Coffee,-31.33,CA
+88199,1/5/2014,Public Transportation - Train Pass,-78.28,CA
+88199,1/6/2014,Ralph's Grocery Store,-28.1,CA
+88199,1/7/2014,Public Transportation - Train Pass,-48.78,CA
+88199,1/7/2014,Von's Groceries,-32.51,CA
+88199,1/7/2014,Pet Supply - Cat Food,-1.99,CA
+88199,1/7/2014,Podcast Subscription,-1.09,CA
+88199,1/8/2014,Restaurant - Steakhouse,-22.6,CA
+88199,1/8/2014,Food Delivery - GrubHub,-2.85,CA
+88199,1/8/2014,Pet Supply - Cat Food,-25.7,CA
+88199,1/8/2014,Lyft,-23.87,CA
+88199,1/8/2014,Taxi,-1.58,CA
+88199,1/8/2014,Food Delivery - Uber Eats,-2.46,CA
+88199,1/8/2014,Public Transportation - Train Pass,-39.87,CA
+88199,1/9/2014,Starbucks Coffee,-111.94,CA
+88199,1/9/2014,Public Transportation - Train Pass,-19,CA
+88199,1/9/2014,On Demand TV,-1.68,CA
+88199,1/10/2014,Sprouts Market,-4.05,CA
+88199,1/10/2014,Public Transportation - Train Pass,-31.66,CA
+88199,1/10/2014,Pet Smart,-20.56,CA
+88199,1/11/2014,Pet Supply - Cat Food,-17.39,CA
+88199,1/11/2014,Public Transportation - Bus Pass,-29.01,CA
+88199,1/11/2014,Uber,-7.08,CA
+88199,1/11/2014,Taxi,-20.52,CA
+88199,1/11/2014,Whole Foods,-13.19,CA
+88199,1/12/2014,Food Delivery - Uber Eats,-75.27,CA
+88199,1/12/2014,Food Delivery - GrubHub,-33.35,CA
+88199,1/12/2014,On Demand TV,-14.45,CA
+88199,1/12/2014,Food Delivery - Uber Eats,-37.12,CA
+88199,1/12/2014,Restaurant - Chinese,-15.15,CA
+88199,1/13/2014,Restaurant - Steakhouse,-28.68,CA
+88199,1/14/2014,Food Delivery - GrubHub,-102.03,CA
+88199,1/15/2014,On Demand TV,-65.59,CA
+88199,1/16/2014,Food Delivery - GrubHub,-15.47,CA
+88199,1/16/2014,Taxi,-16.87,CA
+88199,1/17/2014,Restaurant - Pizza,-113.64,CA
+88199,1/17/2014,Red Box DVD Rental,-35.88,CA
+88199,1/17/2014,Restaurant - Steakhouse,-19.06,CA
+88199,1/18/2014,Red Box DVD Rental,-7.87,CA
+88199,1/18/2014,Podcast Subscription,-26.22,CA
+88199,1/18/2014,Taxi,-73.18,CA
+88199,1/19/2014,Public Transportation - Train Pass,-11.37,CA
+88199,1/19/2014,On Demand Movie,-26.97,CA
+88199,1/20/2014,Public Transportation - Bus Pass,-31.79,CA
+88199,1/21/2014,On Demand Movie,-94,CA
+88199,1/21/2014,Food Delivery - GrubHub,-31.75,CA
+88199,1/21/2014,Food Delivery - Uber Eats,-36.66,CA
+88199,1/22/2014,On Demand Movie,-13.43,CA
+88199,1/23/2014,PlayStation Membership,-29.2,CA
+88199,1/24/2014,Public Transportation - Train Pass,-37.14,CA
+88199,1/25/2014,Uber,-31.87,CA
+88199,1/25/2014,Uber,-11.34,CA
+88199,1/25/2014,Restaurant - Pizza,-31.76,CA
+88199,1/26/2014,Wine Delivery,-32.66,CA
+88199,1/26/2014,On Demand Movie,-16.63,CA
+88199,1/26/2014,PlayStation Membership,-3.47,CA
+88199,1/26/2014,On Demand Movie,-5.01,CA
+88199,1/27/2014,Red Box DVD Rental,-21.4,CA
+88199,1/27/2014,On Demand Movie,-8.36,CA
+88199,1/27/2014,On Demand TV,-11.45,CA
+88199,1/28/2014,Food Delivery - GrubHub,-19.36,CA
+88199,1/28/2014,Pet Supply - Cat Food,-27.78,CA
+88199,1/28/2014,Public Transportation - Bus Pass,-2.21,CA
+88199,1/28/2014,Pet Supply - Cat Food,-26.77,CA
+88199,1/28/2014,Starbucks Coffee,-14.82,CA
+88199,1/29/2014,On Demand TV,-5.2,CA
+88199,1/29/2014,Pet Supply - Cat Food,-11.01,CA
+88199,1/29/2014,Starbucks Coffee,-39.68,CA
+88199,1/29/2014,Food Delivery - GrubHub,-17.95,CA
+88199,1/29/2014,PlayStation Membership,-38.25,CA
+88199,1/29/2014,Public Transportation - Train Pass,-37.83,CA
+88199,1/29/2014,Red Box DVD Rental,-12.57,CA
+88199,1/30/2014,Pet Supply - Cat Food,-16.99,CA
+88199,1/30/2014,On Demand Movie,-6.69,CA
+88199,3/2/2014,Paycheck,2665,CA
+88199,3/2/2014,Housing Rent,-1313,CA
+88199,3/2/2014,Gas & Electric,-32,CA
+88199,3/2/2014,Navient - Student Loans,-197,CA
+88199,3/2/2014,Netflix Subscription,-4.99,CA
+88199,3/2/2014,ACS - Student Loans,-135,CA
+88199,3/2/2014,Water & Sewer,-53,CA
+88199,3/2/2014,Pet Smart,-33.4,CA
+88199,3/3/2014,Podcast Subscription,-35.53,CA
+88199,3/3/2014,Food Delivery - GrubHub,-23.06,CA
+88199,3/3/2014,Food Delivery - Uber Eats,-9.28,CA
+88199,3/4/2014,Taxi,-91.06,CA
+88199,3/4/2014,Red Box DVD Rental,-26.52,CA
+88199,3/4/2014,PlayStation Membership,-21.14,CA
+88199,3/5/2014,Taxi,-34.45,CA
+88199,3/5/2014,Podcast Subscription,-26.1,CA
+88199,3/6/2014,Restaurant - Steakhouse,-16.09,CA
+88199,3/7/2014,Lyft,-32.48,CA
+88199,3/8/2014,Public Transportation - Train Pass,-35.95,CA
+88199,3/8/2014,Public Transportation - Train Pass,-18.37,CA
+88199,3/9/2014,Public Transportation - Bus Pass,-38.13,CA
+88199,3/9/2014,PlayStation Membership,-96.12,CA
+88199,3/9/2014,Taxi,-22.71,CA
+88199,3/9/2014,Uber,-58.16,CA
+88199,3/10/2014,Lyft,-0.65,CA
+88199,3/10/2014,Taxi,-32.11,CA
+88199,3/10/2014,Food Delivery - Uber Eats,-99.77,CA
+88199,3/10/2014,Sprouts Market,-87.87,CA
+88199,3/10/2014,Lyft,-24.94,CA
+88199,3/10/2014,Whole Foods,-16.2,CA
+88199,3/10/2014,Whole Foods,-5.79,CA
+88199,3/10/2014,Whole Foods,-30.8,CA
+88199,3/10/2014,Red Box DVD Rental,-22.06,CA
+88199,3/10/2014,Von's Groceries,-24.86,CA
+88199,3/10/2014,Lyft,-34.48,CA
+88199,3/11/2014,Podcast Subscription,-119.35,CA
+88199,3/11/2014,Red Box DVD Rental,-10.67,CA
+88199,3/11/2014,Red Box DVD Rental,-3.93,CA
+88199,3/11/2014,Podcast Subscription,-13.2,CA
+88199,3/11/2014,On Demand Movie,-23.54,CA
+88199,3/11/2014,Lyft,-23.25,CA
+88199,3/11/2014,Sprouts Market,-37.65,CA
+88199,3/12/2014,Whole Foods,-8.16,CA
+88199,3/13/2014,Red Box DVD Rental,-8.62,CA
+88199,3/13/2014,Wine Delivery,-51.6,CA
+88199,3/13/2014,Public Transportation - Bus Pass,-108.99,CA
+88199,3/13/2014,On Demand Movie,-22.41,CA
+88199,3/13/2014,Restaurant - Burgers,-5.22,CA
+88199,3/13/2014,Food Delivery - GrubHub,-10.07,CA
+88199,3/14/2014,Sprouts Market,-34.15,CA
+88199,3/14/2014,Wine Delivery,-60.65,CA
+88199,3/15/2014,Taxi,-8.2,CA
+88199,3/16/2014,Public Transportation - Bus Pass,-22.33,CA
+88199,3/17/2014,Red Box DVD Rental,-107.56,CA
+88199,3/17/2014,Food Delivery - Uber Eats,-13.36,CA
+88199,3/18/2014,Wine Delivery,-38.39,CA
+88199,3/18/2014,Von's Groceries,-4.29,CA
+88199,3/19/2014,PlayStation Membership,-18.39,CA
+88199,3/19/2014,Food Delivery - Uber Eats,-14.67,CA
+88199,3/19/2014,Food Delivery - GrubHub,-10.3,CA
+88199,3/20/2014,Food Delivery - Uber Eats,-114.26,CA
+88199,3/20/2014,Food Delivery - GrubHub,-37.26,CA
+88199,3/20/2014,On Demand Movie,-15.12,CA
+88199,3/21/2014,Podcast Subscription,-19.63,CA
+88199,3/21/2014,Red Box DVD Rental,-39.95,CA
+88199,3/22/2014,Public Transportation - Bus Pass,-20.56,CA
+88199,3/22/2014,PlayStation Membership,-15.53,CA
+88199,3/23/2014,On Demand TV,-4.95,CA
+88199,3/24/2014,Pet Supply - Cat Food,-9.34,CA
+88199,3/24/2014,Podcast Subscription,-5.89,CA
+88199,3/24/2014,Starbucks Coffee,-1.49,CA
+88199,3/24/2014,Wine Delivery,-78.04,CA
+88199,3/24/2014,Pet Supply - Cat Food,-34.45,CA
+88199,3/25/2014,Food Delivery - GrubHub,-16.97,CA
+88199,3/26/2014,Red Box DVD Rental,-31.2,CA
+88199,3/27/2014,Lyft,-90.82,CA
+88199,3/28/2014,Public Transportation - Bus Pass,-18.43,CA
+88199,3/28/2014,Whole Foods,-34.48,CA
+88199,3/29/2014,Pet Smart,-61.81,CA
+88199,3/30/2014,Wine Delivery,-5.39,CA
+88199,3/30/2014,Uber,-37.02,CA
+88199,3/30/2014,Wine Delivery,-21.64,CA
+88199,4/2/2014,Paycheck,2665,CA
+88199,4/2/2014,Housing Rent,-717,CA
+88199,4/2/2014,Gas & Electric,-32,CA
+88199,4/2/2014,Navient - Student Loans,-197,CA
+88199,4/2/2014,Netflix Subscription,-4.99,CA
+88199,4/2/2014,ACS - Student Loans,-135,CA
+88199,4/2/2014,Water & Sewer,-53,CA
+88199,4/2/2014,Pet Supply - Cat Food,-106.39,CA
+88199,4/2/2014,On Demand Movie,-11.37,CA
+88199,4/2/2014,Uber,-104.3,CA
+88199,4/3/2014,Public Transportation - Train Pass,-26.28,CA
+88199,4/3/2014,Public Transportation - Bus Pass,-8.41,CA
+88199,4/3/2014,Starbucks Coffee,-8.36,CA
+88199,4/3/2014,Food Delivery - GrubHub,-25,CA
+88199,4/4/2014,Whole Foods,-108.89,CA
+88199,4/4/2014,PlayStation Membership,-26.77,CA
+88199,4/4/2014,Ralph's Grocery Store,-22.58,CA
+88199,4/4/2014,Red Box DVD Rental,-73.77,CA
+88199,4/4/2014,Uber,-20.1,CA
+88199,4/4/2014,Uber,-33.33,CA
+88199,4/4/2014,Food Delivery - Uber Eats,-6.85,CA
+88199,4/4/2014,Von's Groceries,-33.99,CA
+88199,4/4/2014,Pet Smart,-69.89,CA
+88199,4/4/2014,Food Delivery - Uber Eats,-32.34,CA
+88199,4/5/2014,Sprouts Market,-98.47,CA
+88199,4/5/2014,Food Delivery - Uber Eats,-38.1,CA
+88199,4/5/2014,Food Delivery - Uber Eats,-28.65,CA
+88199,4/5/2014,Food Delivery - GrubHub,-1.48,CA
+88199,4/6/2014,Food Delivery - Uber Eats,-111.14,CA
+88199,4/7/2014,Starbucks Coffee,-7.4,CA
+88199,4/7/2014,Sprouts Market,-4.25,CA
+88199,4/8/2014,Public Transportation - Bus Pass,-25.45,CA
+88199,4/8/2014,Public Transportation - Train Pass,-3.6,CA
+88199,4/8/2014,Wine Delivery,-17.32,CA
+88199,4/8/2014,Public Transportation - Bus Pass,-22.96,CA
+88199,4/8/2014,Red Box DVD Rental,-35.03,CA
+88199,4/9/2014,On Demand Movie,-37.75,CA
+88199,4/10/2014,Food Delivery - Uber Eats,-64.21,CA
+88199,4/10/2014,Uber,-27.63,CA
+88199,4/10/2014,Restaurant - Steakhouse,-39.33,CA
+88199,4/10/2014,Pet Supply - Cat Food,-28.28,CA
+88199,4/10/2014,Restaurant - Steakhouse,-4.37,CA
+88199,4/11/2014,Restaurant - Burgers,-20.07,CA
+88199,4/12/2014,Podcast Subscription,-36.8,CA
+88199,4/12/2014,PlayStation Membership,-1.47,CA
+88199,4/12/2014,Food Delivery - Uber Eats,-100.49,CA
+88199,4/12/2014,PlayStation Membership,-95.77,CA
+88199,4/13/2014,Food Delivery - GrubHub,-33.63,CA
+88199,4/13/2014,On Demand Movie,-34.17,CA
+88199,4/14/2014,Pet Smart,-115.44,CA
+88199,4/14/2014,Podcast Subscription,-32.94,CA
+88199,4/14/2014,Starbucks Coffee,-36.03,CA
+88199,4/14/2014,Wine Delivery,-32.36,CA
+88199,4/14/2014,Starbucks Coffee,-6.66,CA
+88199,4/14/2014,Food Delivery - Uber Eats,-26,CA
+88199,4/15/2014,Red Box DVD Rental,-107.46,CA
+88199,4/16/2014,Lyft,-21.48,CA
+88199,4/16/2014,Pet Smart,-13.89,CA
+88199,4/16/2014,PlayStation Membership,-35.53,CA
+88199,4/16/2014,Taxi,-85.91,CA
+88199,4/16/2014,Red Box DVD Rental,-74.85,CA
+88199,4/16/2014,Wine Delivery,-35.23,CA
+88199,4/16/2014,Lyft,-17.96,CA
+88199,4/17/2014,Food Delivery - GrubHub,-95.9,CA
+88199,4/17/2014,Von's Groceries,-18.14,CA
+88199,4/18/2014,Red Box DVD Rental,-38.39,CA
+88199,4/18/2014,Uber,-4.83,CA
+88199,4/19/2014,Food Delivery - Uber Eats,-20.02,CA
+88199,4/19/2014,Pet Supply - Cat Food,-25.49,CA
+88199,4/20/2014,Food Delivery - GrubHub,-1.04,CA
+88199,4/20/2014,Uber,-95.87,CA
+88199,4/20/2014,Public Transportation - Bus Pass,-10.87,CA
+88199,4/20/2014,Pet Supply - Cat Food,-90.19,CA
+88199,4/20/2014,Restaurant - Chinese,-2.41,CA
+88199,4/21/2014,Wine Delivery,-12.31,CA
+88199,4/22/2014,Food Delivery - GrubHub,-118.77,CA
+88199,4/22/2014,Taxi,-66.61,CA
+88199,4/23/2014,Public Transportation - Train Pass,-20.78,CA
+88199,4/23/2014,Restaurant - Burgers,-24.79,CA
+88199,4/23/2014,Ralph's Grocery Store,-32.38,CA
+88199,4/23/2014,Whole Foods,-108.07,CA
+88199,4/23/2014,Food Delivery - Uber Eats,-30.11,CA
+88199,4/24/2014,Pet Supply - Cat Food,-36.2,CA
+88199,4/24/2014,Pet Smart,-118.01,CA
+88199,4/24/2014,On Demand Movie,-23.98,CA
+88199,4/25/2014,Red Box DVD Rental,-38.16,CA
+88199,4/25/2014,Food Delivery - GrubHub,-20.38,CA
+88199,4/25/2014,Public Transportation - Train Pass,-112.49,CA
+88199,4/25/2014,Food Delivery - GrubHub,-38.26,CA
+88199,4/25/2014,Restaurant - Burgers,-25.19,CA
+88199,4/25/2014,On Demand Movie,-114.37,CA
+88199,4/26/2014,Lyft,-102.59,CA
+88199,4/26/2014,On Demand Movie,-107.18,CA
+88199,4/26/2014,Podcast Subscription,-101.9,CA
+88199,4/26/2014,Pet Supply - Cat Food,-70.06,CA
+88199,4/26/2014,Lyft,-1.62,CA
+88199,4/26/2014,Pet Supply - Cat Food,-46.56,CA
+88199,4/26/2014,Sprouts Market,-9.18,CA
+88199,4/27/2014,Food Delivery - Uber Eats,-6.38,CA
+88199,4/28/2014,Food Delivery - GrubHub,-23.71,CA
+88199,4/28/2014,Pet Supply - Cat Food,-105.81,CA
+88199,4/29/2014,Pet Supply - Cat Food,-1.39,CA
+88199,4/29/2014,Public Transportation - Bus Pass,-4.71,CA
+88199,4/30/2014,Whole Foods,-21.66,CA
+88199,4/30/2014,Pet Supply - Cat Food,-2.94,CA
+88199,4/30/2014,On Demand Movie,-14.57,CA
+88199,4/30/2014,Taxi,-61.38,CA
+88199,4/30/2014,Uber,-7.68,CA
+88199,4/30/2014,Von's Groceries,-2.02,CA
+88199,4/30/2014,Wine Delivery,-39.82,CA
+88199,4/30/2014,Food Delivery - Uber Eats,-12.61,CA
+88199,5/2/2014,Paycheck,2665,CA
+88199,5/2/2014,Housing Rent,-1392,CA
+88199,5/2/2014,Gas & Electric,-32,CA
+88199,5/2/2014,Navient - Student Loans,-197,CA
+88199,5/2/2014,Netflix Subscription,-4.99,CA
+88199,5/2/2014,ACS - Student Loans,-135,CA
+88199,5/2/2014,Water & Sewer,-53,CA
+88199,5/2/2014,Restaurant - Chinese,-5.63,CA
+88199,5/2/2014,On Demand TV,-21.04,CA
+88199,5/2/2014,Red Box DVD Rental,-7.1,CA
+88199,5/2/2014,Pet Smart,-37.22,CA
+88199,5/2/2014,Pet Supply - Cat Food,-21.26,CA
+88199,5/2/2014,Podcast Subscription,-23.81,CA
+88199,5/3/2014,Pet Supply - Cat Food,-85.13,CA
+88199,5/3/2014,On Demand Movie,-61.88,CA
+88199,5/4/2014,Public Transportation - Bus Pass,-16.4,CA
+88199,5/4/2014,PlayStation Membership,-20.98,CA
+88199,5/4/2014,Restaurant - Steakhouse,-4.11,CA
+88199,5/5/2014,PlayStation Membership,-81.32,CA
+88199,5/5/2014,Public Transportation - Bus Pass,-20.46,CA
+88199,5/6/2014,Von's Groceries,-36.29,CA
+88199,5/6/2014,Pet Smart,-114.1,CA
+88199,5/6/2014,Pet Smart,-10.84,CA
+88199,5/7/2014,Taxi,-33.76,CA
+88199,5/7/2014,Wine Delivery,-96.89,CA
+88199,5/7/2014,Pet Smart,-5.75,CA
+88199,5/7/2014,Whole Foods,-10.07,CA
+88199,5/7/2014,Von's Groceries,-1.04,CA
+88199,5/7/2014,Public Transportation - Bus Pass,-31.36,CA
+88199,5/7/2014,PlayStation Membership,-37.32,CA
+88199,5/7/2014,Restaurant - Steakhouse,-38.42,CA
+88199,5/8/2014,Food Delivery - Uber Eats,-17.11,CA
+88199,5/8/2014,Restaurant - Burgers,-31.76,CA
+88199,5/8/2014,Red Box DVD Rental,-33.01,CA
+88199,5/9/2014,Red Box DVD Rental,-7.86,CA
+88199,5/9/2014,Wine Delivery,-16.09,CA
+88199,5/10/2014,Lyft,-16.96,CA
+88199,5/10/2014,Restaurant - Pizza,-25.93,CA
+88199,5/10/2014,Podcast Subscription,-23.6,CA
+88199,5/10/2014,Red Box DVD Rental,-34.94,CA
+88199,5/10/2014,Wine Delivery,-11.82,CA
+88199,5/10/2014,Food Delivery - Uber Eats,-12.61,CA
+88199,5/11/2014,Podcast Subscription,-7.92,CA
+88199,5/11/2014,Restaurant - Steakhouse,-31.04,CA
+88199,5/11/2014,Red Box DVD Rental,-8.59,CA
+88199,5/11/2014,Food Delivery - Uber Eats,-7.92,CA
+88199,5/12/2014,Food Delivery - Uber Eats,-36.21,CA
+88199,5/12/2014,Pet Smart,-17.29,CA
+88199,5/12/2014,Wine Delivery,-39.33,CA
+88199,5/12/2014,Lyft,-51.57,CA
+88199,5/12/2014,Ralph's Grocery Store,-11.42,CA
+88199,5/12/2014,Taxi,-113.35,CA
+88199,5/13/2014,Food Delivery - GrubHub,-33.77,CA
+88199,5/13/2014,On Demand Movie,-38.56,CA
+88199,5/13/2014,Starbucks Coffee,-6.49,CA
+88199,5/13/2014,Pet Supply - Cat Food,-34.99,CA
+88199,5/13/2014,Von's Groceries,-25.17,CA
+88199,5/13/2014,Pet Supply - Cat Food,-28.48,CA
+88199,5/13/2014,On Demand TV,-19.53,CA
+88199,5/13/2014,Food Delivery - GrubHub,-31.19,CA
+88199,5/14/2014,On Demand Movie,-57.91,CA
+88199,5/14/2014,On Demand Movie,-27.02,CA
+88199,5/14/2014,Starbucks Coffee,-21.44,CA
+88199,5/14/2014,Whole Foods,-8.13,CA
+88199,5/14/2014,PlayStation Membership,-18.27,CA
+88199,5/14/2014,Wine Delivery,-15.41,CA
+88199,5/14/2014,Restaurant - Pizza,-57.98,CA
+88199,5/15/2014,Uber,-11.26,CA
+88199,5/15/2014,Pet Smart,-43.09,CA
+88199,5/15/2014,Starbucks Coffee,-8.18,CA
+88199,5/16/2014,Food Delivery - Uber Eats,-42.32,CA
+88199,5/16/2014,Red Box DVD Rental,-36.03,CA
+88199,5/16/2014,Podcast Subscription,-15.8,CA
+88199,5/16/2014,Public Transportation - Bus Pass,-8.57,CA
+88199,5/16/2014,Taxi,-36.51,CA
+88199,5/16/2014,On Demand Movie,-38.83,CA
+88199,5/16/2014,PlayStation Membership,-29.93,CA
+88199,5/16/2014,Food Delivery - GrubHub,-19.91,CA
+88199,5/16/2014,Red Box DVD Rental,-13.87,CA
+88199,5/16/2014,Food Delivery - Uber Eats,-18.35,CA
+88199,5/16/2014,Starbucks Coffee,-22.5,CA
+88199,5/16/2014,On Demand TV,-26.46,CA
+88199,5/16/2014,Uber,-14.85,CA
+88199,5/16/2014,Food Delivery - GrubHub,-95.11,CA
+88199,5/16/2014,Food Delivery - GrubHub,-23.75,CA
+88199,5/17/2014,Pet Smart,-5.12,CA
+88199,5/17/2014,Pet Supply - Cat Food,-32.92,CA
+88199,5/17/2014,Pet Smart,-24.89,CA
+88199,5/17/2014,PlayStation Membership,-4.36,CA
+88199,5/17/2014,Food Delivery - Uber Eats,-0.08,CA
+88199,5/18/2014,Restaurant - Chinese,-28.26,CA
+88199,5/18/2014,Food Delivery - Uber Eats,-9.96,CA
+88199,5/19/2014,Pet Smart,-10.3,CA
+88199,5/19/2014,Pet Supply - Cat Food,-99.98,CA
+88199,5/20/2014,Food Delivery - GrubHub,-31.4,CA
+88199,5/20/2014,On Demand Movie,-83,CA
+88199,5/21/2014,Whole Foods,-16.01,CA
+88199,5/21/2014,Wine Delivery,-19.09,CA
+88199,5/21/2014,Taxi,-89.72,CA
+88199,5/21/2014,Pet Supply - Cat Food,-34.71,CA
+88199,5/21/2014,Wine Delivery,-56.45,CA
+88199,5/22/2014,On Demand Movie,-21.34,CA
+88199,5/22/2014,Whole Foods,-6.02,CA
+88199,5/22/2014,Pet Smart,-15.92,CA
+88199,5/22/2014,Red Box DVD Rental,-9.31,CA
+88199,5/22/2014,Pet Smart,-2.65,CA
+88199,5/22/2014,Wine Delivery,-96.19,CA
+88199,5/22/2014,Taxi,-25.67,CA
+88199,5/23/2014,On Demand TV,-29.34,CA
+88199,5/23/2014,Von's Groceries,-3.22,CA
+88199,5/24/2014,Pet Smart,-5.45,CA
+88199,5/24/2014,Lyft,-38.67,CA
+88199,5/25/2014,On Demand Movie,-7.76,CA
+88199,5/25/2014,Food Delivery - GrubHub,-7.4,CA
+88199,5/25/2014,Taxi,-47.03,CA
+88199,5/26/2014,Pet Smart,-7.01,CA
+88199,5/26/2014,Ralph's Grocery Store,-20.33,CA
+88199,5/27/2014,Wine Delivery,-100.24,CA
+88199,5/27/2014,Podcast Subscription,-43.95,CA
+88199,5/28/2014,Podcast Subscription,-21.07,CA
+88199,5/28/2014,Taxi,-6.84,CA
+88199,5/28/2014,Red Box DVD Rental,-6.03,CA
+88199,5/28/2014,On Demand Movie,-33.54,CA
+88199,5/29/2014,Food Delivery - GrubHub,-37.07,CA
+88199,5/29/2014,Taxi,-21.6,CA
+88199,5/30/2014,PlayStation Membership,-19.95,CA
+88199,5/30/2014,Restaurant - Chinese,-24.02,CA
+88199,6/2/2014,Paycheck,2665,CA
+88199,6/2/2014,Housing Rent,-1340,CA
+88199,6/2/2014,Gas & Electric,-32,CA
+88199,6/2/2014,Navient - Student Loans,-197,CA
+88199,6/2/2014,Netflix Subscription,-4.99,CA
+88199,6/2/2014,ACS - Student Loans,-135,CA
+88199,6/2/2014,Water & Sewer,-53,CA
+88199,6/2/2014,Red Box DVD Rental,-77.19,CA
+88199,6/2/2014,Pet Smart,-62.23,CA
+88199,6/2/2014,Red Box DVD Rental,-28.86,CA
+88199,6/2/2014,Food Delivery - GrubHub,-0.86,CA
+88199,6/2/2014,Wine Delivery,-37.61,CA
+88199,6/2/2014,Restaurant - Pizza,-30.7,CA
+88199,6/2/2014,On Demand Movie,-39.49,CA
+88199,6/3/2014,On Demand TV,-36.51,CA
+88199,6/3/2014,Red Box DVD Rental,-84.32,CA
+88199,6/3/2014,Pet Smart,-23.22,CA
+88199,6/3/2014,Pet Supply - Cat Food,-16.16,CA
+88199,6/3/2014,Pet Supply - Cat Food,-10.16,CA
+88199,6/4/2014,Restaurant - Chinese,-9.07,CA
+88199,6/4/2014,On Demand TV,-25.99,CA
+88199,6/4/2014,Food Delivery - GrubHub,-36.82,CA
+88199,6/4/2014,Podcast Subscription,-33.42,CA
+88199,6/4/2014,On Demand TV,-41.44,CA
+88199,6/5/2014,Red Box DVD Rental,-38.9,CA
+88199,6/6/2014,Pet Smart,-112.87,CA
+88199,6/6/2014,PlayStation Membership,-9.39,CA
+88199,6/6/2014,Ralph's Grocery Store,-34.71,CA
+88199,6/6/2014,Pet Smart,-75.98,CA
+88199,6/7/2014,Food Delivery - Uber Eats,-5.45,CA
+88199,6/7/2014,Red Box DVD Rental,-90.33,CA
+88199,6/7/2014,Taxi,-27.78,CA
+88199,6/7/2014,PlayStation Membership,-2.51,CA
+88199,6/7/2014,Taxi,-26.14,CA
+88199,6/7/2014,Uber,-65.35,CA
+88199,6/7/2014,Food Delivery - GrubHub,-117.63,CA
+88199,6/7/2014,Restaurant - Chinese,-31.65,CA
+88199,6/7/2014,On Demand Movie,-9.39,CA
+88199,6/7/2014,Ralph's Grocery Store,-9.5,CA
+88199,6/7/2014,Pet Smart,-3.63,CA
+88199,6/7/2014,On Demand TV,-72.28,CA
+88199,6/7/2014,Restaurant - Steakhouse,-4.63,CA
+88199,6/7/2014,Pet Supply - Cat Food,-8.82,CA
+88199,6/7/2014,Pet Smart,-16.96,CA
+88199,6/8/2014,Pet Supply - Cat Food,-4.4,CA
+88199,6/9/2014,Food Delivery - GrubHub,-38.89,CA
+88199,6/9/2014,Public Transportation - Bus Pass,-65.1,CA
+88199,6/9/2014,Sprouts Market,-90.63,CA
+88199,6/9/2014,PlayStation Membership,-19.92,CA
+88199,6/9/2014,Taxi,-29.84,CA
+88199,6/9/2014,Starbucks Coffee,-4.85,CA
+88199,6/9/2014,Restaurant - Chinese,-6.43,CA
+88199,6/10/2014,On Demand TV,-3,CA
+88199,6/11/2014,Lyft,-36.87,CA
+88199,6/12/2014,Lyft,-23.2,CA
+88199,6/13/2014,Ralph's Grocery Store,-31.7,CA
+88199,6/13/2014,Lyft,-34.37,CA
+88199,6/14/2014,Lyft,-11.33,CA
+88199,6/15/2014,On Demand TV,-54.02,CA
+88199,6/15/2014,Taxi,-12.64,CA
+88199,6/15/2014,Von's Groceries,-98.86,CA
+88199,6/16/2014,Food Delivery - Uber Eats,-16.07,CA
+88199,6/16/2014,Podcast Subscription,-28.98,CA
+88199,6/16/2014,Starbucks Coffee,-38.77,CA
+88199,6/16/2014,Uber,-13.88,CA
+88199,6/17/2014,On Demand TV,-27.57,CA
+88199,6/17/2014,Red Box DVD Rental,-10.53,CA
+88199,6/17/2014,Pet Supply - Cat Food,-111.27,CA
+88199,6/18/2014,Wine Delivery,-96.08,CA
+88199,6/18/2014,Food Delivery - GrubHub,-19.84,CA
+88199,6/18/2014,Restaurant - Pizza,-33.03,CA
+88199,6/18/2014,Wine Delivery,-6.03,CA
+88199,6/19/2014,Pet Smart,-18.6,CA
+88199,6/19/2014,Red Box DVD Rental,-69.35,CA
+88199,6/19/2014,Pet Supply - Cat Food,-32.79,CA
+88199,6/20/2014,Restaurant - Pizza,-84.9,CA
+88199,6/20/2014,Restaurant - Burgers,-26.75,CA
+88199,6/20/2014,On Demand TV,-20.81,CA
+88199,6/20/2014,Food Delivery - GrubHub,-0.85,CA
+88199,6/21/2014,Food Delivery - GrubHub,-39.29,CA
+88199,6/21/2014,Whole Foods,-84.18,CA
+88199,6/21/2014,Restaurant - Chinese,-4.46,CA
+88199,6/21/2014,Red Box DVD Rental,-15.05,CA
+88199,6/22/2014,Public Transportation - Train Pass,-39.22,CA
+88199,6/22/2014,Pet Supply - Cat Food,-4.35,CA
+88199,6/22/2014,Taxi,-22.72,CA
+88199,6/22/2014,PlayStation Membership,-3.92,CA
+88199,6/22/2014,Wine Delivery,-22.35,CA
+88199,6/23/2014,Sprouts Market,-0.65,CA
+88199,6/23/2014,Lyft,-4.07,CA
+88199,6/23/2014,Uber,-16.18,CA
+88199,6/23/2014,PlayStation Membership,-32.76,CA
+88199,6/23/2014,Whole Foods,-113.4,CA
+88199,6/24/2014,Public Transportation - Train Pass,-24.94,CA
+88199,6/24/2014,Food Delivery - GrubHub,-33.97,CA
+88199,6/24/2014,Taxi,-27.08,CA
+88199,6/24/2014,Uber,-17.58,CA
+88199,6/24/2014,Ralph's Grocery Store,-8.75,CA
+88199,6/24/2014,Restaurant - Pizza,-11.06,CA
+88199,6/24/2014,Public Transportation - Train Pass,-99.77,CA
+88199,6/24/2014,Wine Delivery,-30.98,CA
+88199,6/24/2014,Red Box DVD Rental,-37.92,CA
+88199,6/25/2014,Podcast Subscription,-68.19,CA
+88199,6/25/2014,Starbucks Coffee,-11.13,CA
+88199,6/25/2014,Food Delivery - GrubHub,-20.72,CA
+88199,6/26/2014,Food Delivery - GrubHub,-9.04,CA
+88199,6/27/2014,Wine Delivery,-10.91,CA
+88199,6/28/2014,Podcast Subscription,-31.95,CA
+88199,6/28/2014,On Demand TV,-36.84,CA
+88199,6/28/2014,Taxi,-25.11,CA
+88199,6/28/2014,PlayStation Membership,-26.16,CA
+88199,6/29/2014,On Demand Movie,-17.97,CA
+88199,6/29/2014,Uber,-39.67,CA
+88199,6/30/2014,Food Delivery - Uber Eats,-4.69,CA
+88199,7/2/2014,Paycheck,2665,CA
+88199,7/2/2014,Housing Rent,-949,CA
+88199,7/2/2014,Gas & Electric,-32,CA
+88199,7/2/2014,Navient - Student Loans,-197,CA
+88199,7/2/2014,Netflix Subscription,-4.99,CA
+88199,7/2/2014,ACS - Student Loans,-135,CA
+88199,7/2/2014,Water & Sewer,-53,CA
+88199,7/2/2014,On Demand TV,-116.84,CA
+88199,7/2/2014,Wine Delivery,-8.11,CA
+88199,7/2/2014,Taxi,-10.98,CA
+88199,7/3/2014,Public Transportation - Bus Pass,-25.49,CA
+88199,7/3/2014,Restaurant - Pizza,-15.31,CA
+88199,7/4/2014,Restaurant - Pizza,-19.67,CA
+88199,7/4/2014,Pet Smart,-28.09,CA
+88199,7/5/2014,Starbucks Coffee,-36.35,CA
+88199,7/5/2014,On Demand Movie,-12.37,CA
+88199,7/6/2014,Restaurant - Pizza,-0.43,CA
+88199,7/6/2014,Pet Smart,-11.54,CA
+88199,7/7/2014,Whole Foods,-21.6,CA
+88199,7/7/2014,Ralph's Grocery Store,-11.91,CA
+88199,7/7/2014,Food Delivery - Uber Eats,-117.82,CA
+88199,7/7/2014,Sprouts Market,-0.17,CA
+88199,7/7/2014,Pet Supply - Cat Food,-24.05,CA
+88199,7/7/2014,Restaurant - Pizza,-21.9,CA
+88199,7/7/2014,Public Transportation - Train Pass,-9.13,CA
+88199,7/7/2014,Whole Foods,-9.2,CA
+88199,7/8/2014,On Demand TV,-27.48,CA
+88199,7/8/2014,Wine Delivery,-11.66,CA
+88199,7/9/2014,Public Transportation - Bus Pass,-2.22,CA
+88199,7/9/2014,Red Box DVD Rental,-114.47,CA
+88199,7/9/2014,Red Box DVD Rental,-26.91,CA
+88199,7/9/2014,Taxi,-0.92,CA
+88199,7/9/2014,Pet Supply - Cat Food,-31.6,CA
+88199,7/9/2014,Pet Smart,-38.42,CA
+88199,7/10/2014,Red Box DVD Rental,-16.17,CA
+88199,7/11/2014,PlayStation Membership,-32.39,CA
+88199,7/11/2014,On Demand Movie,-35.63,CA
+88199,7/11/2014,Food Delivery - GrubHub,-24.76,CA
+88199,7/11/2014,Public Transportation - Bus Pass,-24.91,CA
+88199,7/11/2014,On Demand TV,-37.22,CA
+88199,7/11/2014,Lyft,-5.79,CA
+88199,7/11/2014,Wine Delivery,-10.24,CA
+88199,7/12/2014,On Demand TV,-96.37,CA
+88199,7/12/2014,Pet Smart,-14.65,CA
+88199,7/12/2014,Wine Delivery,-8.8,CA
+88199,7/12/2014,On Demand TV,-21.87,CA
+88199,7/13/2014,Podcast Subscription,-18.61,CA
+88199,7/13/2014,Podcast Subscription,-30.03,CA
+88199,7/13/2014,Lyft,-38.12,CA
+88199,7/13/2014,On Demand Movie,-36.06,CA
+88199,7/13/2014,Red Box DVD Rental,-22.51,CA
+88199,7/13/2014,Food Delivery - GrubHub,-27.31,CA
+88199,7/14/2014,On Demand Movie,-35.32,CA
+88199,7/14/2014,Restaurant - Chinese,-46.85,CA
+88199,7/14/2014,Food Delivery - GrubHub,-25.32,CA
+88199,7/14/2014,Uber,-39.37,CA
+88199,7/14/2014,Public Transportation - Train Pass,-14.07,CA
+88199,7/14/2014,Pet Smart,-0.4,CA
+88199,7/15/2014,Uber,-24.37,CA
+88199,7/15/2014,Wine Delivery,-119.83,CA
+88199,7/15/2014,Von's Groceries,-6.13,CA
+88199,7/15/2014,Wine Delivery,-28.78,CA
+88199,7/15/2014,On Demand TV,-28,CA
+88199,7/16/2014,On Demand Movie,-7.94,CA
+88199,7/17/2014,On Demand TV,-3.88,CA
+88199,7/18/2014,On Demand TV,-24.25,CA
+88199,7/18/2014,Uber,-32.48,CA
+88199,7/18/2014,On Demand TV,-12.97,CA
+88199,7/18/2014,Red Box DVD Rental,-12.31,CA
+88199,7/18/2014,Food Delivery - Uber Eats,-23.91,CA
+88199,7/18/2014,On Demand Movie,-0.93,CA
+88199,7/18/2014,Lyft,-13.25,CA
+88199,7/18/2014,Lyft,-35.95,CA
+88199,7/18/2014,Restaurant - Chinese,-6.45,CA
+88199,7/18/2014,On Demand Movie,-77.97,CA
+88199,7/18/2014,Wine Delivery,-8.22,CA
+88199,7/18/2014,Taxi,-1.54,CA
+88199,7/18/2014,Podcast Subscription,-30.63,CA
+88199,7/18/2014,Food Delivery - Uber Eats,-38.43,CA
+88199,7/19/2014,Whole Foods,-32.1,CA
+88199,7/19/2014,Pet Smart,-29.52,CA
+88199,7/19/2014,Food Delivery - GrubHub,-39.54,CA
+88199,7/19/2014,Food Delivery - GrubHub,-89,CA
+88199,7/19/2014,Pet Smart,-15.54,CA
+88199,7/19/2014,Restaurant - Chinese,-56.65,CA
+88199,7/19/2014,Pet Supply - Cat Food,-37.26,CA
+88199,7/20/2014,Podcast Subscription,-27.37,CA
+88199,7/20/2014,On Demand Movie,-16.71,CA
+88199,7/21/2014,Wine Delivery,-24.26,CA
+88199,7/21/2014,Food Delivery - Uber Eats,-18.98,CA
+88199,7/21/2014,Wine Delivery,-15.64,CA
+88199,7/22/2014,Lyft,-100.82,CA
+88199,7/23/2014,Public Transportation - Train Pass,-35.61,CA
+88199,7/23/2014,Pet Supply - Cat Food,-18.37,CA
+88199,7/23/2014,On Demand Movie,-34.8,CA
+88199,7/24/2014,Taxi,-12.09,CA
+88199,7/25/2014,Food Delivery - Uber Eats,-54.99,CA
+88199,7/26/2014,Restaurant - Pizza,-4.52,CA
+88199,7/26/2014,Pet Smart,-34.73,CA
+88199,7/27/2014,On Demand Movie,-8.88,CA
+88199,7/27/2014,PlayStation Membership,-47.48,CA
+88199,7/28/2014,Public Transportation - Bus Pass,-3.86,CA
+88199,7/28/2014,Pet Supply - Cat Food,-32.68,CA
+88199,7/28/2014,Food Delivery - Uber Eats,-26.64,CA
+88199,7/28/2014,Food Delivery - GrubHub,-56.07,CA
+88199,7/28/2014,On Demand TV,-86.59,CA
+88199,7/29/2014,Pet Supply - Cat Food,-18.7,CA
+88199,7/29/2014,Restaurant - Burgers,-18.81,CA
+88199,7/29/2014,Wine Delivery,-4.83,CA
+88199,7/29/2014,Red Box DVD Rental,-85.33,CA
+88199,7/30/2014,PlayStation Membership,-1.74,CA
+88199,7/30/2014,Restaurant - Pizza,-8.44,CA
+88199,8/2/2014,Paycheck,2665,CA
+88199,8/2/2014,Housing Rent,-1311,CA
+88199,8/2/2014,Gas & Electric,-32,CA
+88199,8/2/2014,Navient - Student Loans,-197,CA
+88199,8/2/2014,Netflix Subscription,-4.99,CA
+88199,8/2/2014,ACS - Student Loans,-135,CA
+88199,8/2/2014,Water & Sewer,-53,CA
+88199,8/2/2014,Uber,-22.81,CA
+88199,8/2/2014,Taxi,-23.06,CA
+88199,8/3/2014,Sprouts Market,-15.99,CA
+88199,8/3/2014,Podcast Subscription,-34.18,CA
+88199,8/3/2014,Food Delivery - Uber Eats,-7.48,CA
+88199,8/3/2014,Restaurant - Pizza,-26.37,CA
+88199,8/4/2014,PlayStation Membership,-10.21,CA
+88199,8/4/2014,Red Box DVD Rental,-6.81,CA
+88199,8/4/2014,Public Transportation - Bus Pass,-30.29,CA
+88199,8/4/2014,Food Delivery - Uber Eats,-31.32,CA
+88199,8/4/2014,Lyft,-5.16,CA
+88199,8/5/2014,Public Transportation - Bus Pass,-25.96,CA
+88199,8/5/2014,Pet Smart,-39.81,CA
+88199,8/6/2014,On Demand TV,-29.35,CA
+88199,8/7/2014,Food Delivery - Uber Eats,-24.06,CA
+88199,8/7/2014,PlayStation Membership,-21.25,CA
+88199,8/7/2014,Food Delivery - Uber Eats,-1.03,CA
+88199,8/7/2014,Pet Supply - Cat Food,-30.54,CA
+88199,8/7/2014,On Demand Movie,-38.45,CA
+88199,8/8/2014,Von's Groceries,-17.45,CA
+88199,8/9/2014,Public Transportation - Bus Pass,-25.74,CA
+88199,8/9/2014,Podcast Subscription,-26.81,CA
+88199,8/9/2014,On Demand TV,-10.7,CA
+88199,8/10/2014,Whole Foods,-51,CA
+88199,8/10/2014,Wine Delivery,-0.91,CA
+88199,8/11/2014,Uber,-9.55,CA
+88199,8/12/2014,Starbucks Coffee,-10.23,CA
+88199,8/12/2014,Restaurant - Steakhouse,-3.48,CA
+88199,8/13/2014,Pet Smart,-27.88,CA
+88199,8/14/2014,Public Transportation - Train Pass,-8.14,CA
+88199,8/15/2014,On Demand Movie,-32.12,CA
+88199,8/16/2014,Podcast Subscription,-28.04,CA
+88199,8/17/2014,Wine Delivery,-29.34,CA
+88199,8/17/2014,Food Delivery - Uber Eats,-9.72,CA
+88199,8/18/2014,On Demand TV,-14.68,CA
+88199,8/19/2014,Pet Smart,-16.93,CA
+88199,8/20/2014,On Demand Movie,-37.78,CA
+88199,8/21/2014,Lyft,-22.68,CA
+88199,8/21/2014,Lyft,-35.17,CA
+88199,8/22/2014,Pet Supply - Cat Food,-11.76,CA
+88199,8/22/2014,Red Box DVD Rental,-39.34,CA
+88199,8/22/2014,Restaurant - Burgers,-73.36,CA
+88199,8/22/2014,Podcast Subscription,-39.92,CA
+88199,8/22/2014,Pet Supply - Cat Food,-30.54,CA
+88199,8/22/2014,Pet Smart,-10.42,CA
+88199,8/22/2014,Podcast Subscription,-8.14,CA
+88199,8/22/2014,Food Delivery - GrubHub,-105.53,CA
+88199,8/23/2014,On Demand Movie,-27.19,CA
+88199,8/23/2014,Lyft,-86.82,CA
+88199,8/23/2014,Food Delivery - GrubHub,-5.4,CA
+88199,8/23/2014,Wine Delivery,-29.07,CA
+88199,8/23/2014,Ralph's Grocery Store,-43.29,CA
+88199,8/23/2014,Sprouts Market,-8.52,CA
+88199,8/23/2014,Von's Groceries,-56.4,CA
+88199,8/23/2014,On Demand Movie,-33.47,CA
+88199,8/23/2014,Whole Foods,-18.27,CA
+88199,8/23/2014,Restaurant - Steakhouse,-93.64,CA
+88199,8/23/2014,Restaurant - Pizza,-33.54,CA
+88199,8/23/2014,Restaurant - Burgers,-15.77,CA
+88199,8/23/2014,Restaurant - Steakhouse,-28.45,CA
+88199,8/23/2014,Lyft,-37.52,CA
+88199,8/23/2014,PlayStation Membership,-4.04,CA
+88199,8/23/2014,Pet Supply - Cat Food,-12.22,CA
+88199,8/23/2014,Von's Groceries,-26.49,CA
+88199,8/23/2014,Whole Foods,-36.4,CA
+88199,8/24/2014,Taxi,-16.15,CA
+88199,8/24/2014,Food Delivery - GrubHub,-8.4,CA
+88199,8/24/2014,Pet Supply - Cat Food,-37.73,CA
+88199,8/25/2014,Public Transportation - Bus Pass,-23.89,CA
+88199,8/25/2014,Wine Delivery,-15.47,CA
+88199,8/25/2014,Food Delivery - Uber Eats,-117.78,CA
+88199,8/25/2014,Pet Smart,-4.96,CA
+88199,8/25/2014,Restaurant - Burgers,-24.51,CA
+88199,8/25/2014,On Demand TV,-7.65,CA
+88199,8/25/2014,On Demand Movie,-18.01,CA
+88199,8/25/2014,Pet Smart,-68.47,CA
+88199,8/25/2014,Restaurant - Chinese,-2.29,CA
+88199,8/25/2014,Restaurant - Steakhouse,-99.42,CA
+88199,8/25/2014,On Demand TV,-37.71,CA
+88199,8/25/2014,PlayStation Membership,-5,CA
+88199,8/26/2014,Wine Delivery,-15.65,CA
+88199,8/27/2014,Restaurant - Burgers,-38.11,CA
+88199,8/28/2014,Food Delivery - GrubHub,-17.87,CA
+88199,8/28/2014,Public Transportation - Train Pass,-15.22,CA
+88199,8/29/2014,Starbucks Coffee,-4.39,CA
+88199,8/30/2014,Food Delivery - Uber Eats,-16.3,CA
+88199,8/30/2014,Pet Smart,-38.78,CA
+88199,8/30/2014,Food Delivery - GrubHub,-52.02,CA
+88199,8/30/2014,On Demand TV,-1.81,CA
+88199,9/2/2014,Paycheck,2665,CA
+88199,9/2/2014,Housing Rent,-1250,CA
+88199,9/2/2014,Gas & Electric,-32,CA
+88199,9/2/2014,Navient - Student Loans,-197,CA
+88199,9/2/2014,Netflix Subscription,-4.99,CA
+88199,9/2/2014,ACS - Student Loans,-135,CA
+88199,9/2/2014,Water & Sewer,-53,CA
+88199,9/2/2014,Taxi,-36.28,CA
+88199,9/3/2014,Starbucks Coffee,-3.26,CA
+88199,9/3/2014,Pet Supply - Cat Food,-24.98,CA
+88199,9/3/2014,Public Transportation - Train Pass,-78.55,CA
+88199,9/3/2014,On Demand TV,-35.74,CA
+88199,9/3/2014,Pet Supply - Cat Food,-38.82,CA
+88199,9/3/2014,On Demand Movie,-57.84,CA
+88199,9/3/2014,Uber,-39.92,CA
+88199,9/4/2014,On Demand TV,-19.66,CA
+88199,9/5/2014,Wine Delivery,-107.82,CA
+88199,9/5/2014,Red Box DVD Rental,-16.05,CA
+88199,9/5/2014,Pet Smart,-50.15,CA
+88199,9/6/2014,Food Delivery - Uber Eats,-23.78,CA
+88199,9/6/2014,Pet Smart,-22.48,CA
+88199,9/6/2014,Uber,-15.2,CA
+88199,9/6/2014,Restaurant - Pizza,-7.22,CA
+88199,9/6/2014,Public Transportation - Train Pass,-11.11,CA
+88199,9/6/2014,Public Transportation - Train Pass,-38.34,CA
+88199,9/6/2014,Pet Supply - Cat Food,-32.05,CA
+88199,9/6/2014,Food Delivery - GrubHub,-9.11,CA
+88199,9/6/2014,Taxi,-18.96,CA
+88199,9/7/2014,Restaurant - Pizza,-34.09,CA
+88199,9/7/2014,PlayStation Membership,-37.62,CA
+88199,9/7/2014,Starbucks Coffee,-24.17,CA
+88199,9/7/2014,Food Delivery - Uber Eats,-29.15,CA
+88199,9/7/2014,Public Transportation - Bus Pass,-19.9,CA
+88199,9/7/2014,Taxi,-22.04,CA
+88199,9/7/2014,On Demand Movie,-22.58,CA
+88199,9/7/2014,On Demand TV,-7.54,CA
+88199,9/7/2014,Uber,-94.68,CA
+88199,9/7/2014,Taxi,-29.73,CA
+88199,9/7/2014,Food Delivery - GrubHub,-2.3,CA
+88199,9/8/2014,Uber,-7.93,CA
+88199,9/8/2014,Pet Smart,-28.81,CA
+88199,9/8/2014,Pet Supply - Cat Food,-44.47,CA
+88199,9/8/2014,Podcast Subscription,-32.66,CA
+88199,9/9/2014,Taxi,-22,CA
+88199,9/10/2014,Ralph's Grocery Store,-39.15,CA
+88199,9/10/2014,Wine Delivery,-15.27,CA
+88199,9/10/2014,Podcast Subscription,-22.12,CA
+88199,9/10/2014,Uber,-30.59,CA
+88199,9/10/2014,Public Transportation - Bus Pass,-7.31,CA
+88199,9/10/2014,Taxi,-5.64,CA
+88199,9/10/2014,Wine Delivery,-24.49,CA
+88199,9/10/2014,Food Delivery - Uber Eats,-4.23,CA
+88199,9/11/2014,Podcast Subscription,-36.74,CA
+88199,9/11/2014,On Demand Movie,-39.44,CA
+88199,9/11/2014,Lyft,-9.73,CA
+88199,9/11/2014,On Demand Movie,-35.95,CA
+88199,9/12/2014,Public Transportation - Bus Pass,-2.96,CA
+88199,9/12/2014,Food Delivery - GrubHub,-79.1,CA
+88199,9/12/2014,Podcast Subscription,-26.99,CA
+88199,9/12/2014,PlayStation Membership,-32.6,CA
+88199,9/13/2014,Food Delivery - GrubHub,-35.42,CA
+88199,9/13/2014,Wine Delivery,-1.8,CA
+88199,9/14/2014,Taxi,-51.01,CA
+88199,9/14/2014,Restaurant - Chinese,-24.52,CA
+88199,9/14/2014,Whole Foods,-23.94,CA
+88199,9/14/2014,PlayStation Membership,-10.72,CA
+88199,9/15/2014,On Demand Movie,-1.82,CA
+88199,9/16/2014,Whole Foods,-31.51,CA
+88199,9/17/2014,Pet Smart,-15.68,CA
+88199,9/17/2014,Public Transportation - Bus Pass,-12.9,CA
+88199,9/17/2014,Pet Smart,-10.19,CA
+88199,9/18/2014,On Demand Movie,-25.04,CA
+88199,9/18/2014,Food Delivery - GrubHub,-28.82,CA
+88199,9/19/2014,Food Delivery - Uber Eats,-98.3,CA
+88199,9/19/2014,Pet Supply - Cat Food,-29.36,CA
+88199,9/20/2014,Podcast Subscription,-27.41,CA
+88199,9/21/2014,Food Delivery - GrubHub,-4.74,CA
+88199,9/21/2014,Pet Smart,-1.11,CA
+88199,9/22/2014,Red Box DVD Rental,-43.24,CA
+88199,9/22/2014,Restaurant - Burgers,-9.46,CA
+88199,9/22/2014,Public Transportation - Bus Pass,-69.03,CA
+88199,9/22/2014,Wine Delivery,-27.3,CA
+88199,9/22/2014,Podcast Subscription,-15.59,CA
+88199,9/23/2014,Sprouts Market,-11.75,CA
+88199,9/24/2014,PlayStation Membership,-1.3,CA
+88199,9/25/2014,On Demand TV,-9.1,CA
+88199,9/25/2014,PlayStation Membership,-33.18,CA
+88199,9/26/2014,Restaurant - Burgers,-71.55,CA
+88199,9/27/2014,Red Box DVD Rental,-35.76,CA
+88199,9/27/2014,Pet Supply - Cat Food,-23.94,CA
+88199,9/27/2014,Wine Delivery,-16.16,CA
+88199,9/27/2014,Food Delivery - GrubHub,-74.22,CA
+88199,9/27/2014,Restaurant - Steakhouse,-4.91,CA
+88199,9/27/2014,On Demand TV,-111.17,CA
+88199,9/27/2014,Food Delivery - Uber Eats,-37.12,CA
+88199,9/27/2014,On Demand Movie,-7.97,CA
+88199,9/27/2014,Public Transportation - Train Pass,-23.7,CA
+88199,9/27/2014,Pet Smart,-6.39,CA
+88199,9/27/2014,Food Delivery - Uber Eats,-4.37,CA
+88199,9/28/2014,Food Delivery - Uber Eats,-36.83,CA
+88199,9/28/2014,Ralph's Grocery Store,-23.32,CA
+88199,9/28/2014,Food Delivery - Uber Eats,-29.16,CA
+88199,9/29/2014,Public Transportation - Bus Pass,-8.36,CA
+88199,9/29/2014,Wine Delivery,-11.97,CA
+88199,9/29/2014,Public Transportation - Bus Pass,-18.06,CA
+88199,9/30/2014,Starbucks Coffee,-0.83,CA
+88199,9/30/2014,Pet Supply - Cat Food,-35.81,CA
+88199,9/30/2014,Podcast Subscription,-2.68,CA
+88199,9/30/2014,Public Transportation - Bus Pass,-18.69,CA
+88199,9/30/2014,PlayStation Membership,-28.29,CA
+88199,9/30/2014,On Demand Movie,-21.53,CA
+88199,10/2/2014,Paycheck,2665,CA
+88199,10/2/2014,Housing Rent,-1238,CA
+88199,10/2/2014,Gas & Electric,-32,CA
+88199,10/2/2014,Navient - Student Loans,-197,CA
+88199,10/2/2014,Netflix Subscription,-4.99,CA
+88199,10/2/2014,ACS - Student Loans,-135,CA
+88199,10/2/2014,Water & Sewer,-53,CA
+88199,10/2/2014,Lyft,-21.92,CA
+88199,10/2/2014,Red Box DVD Rental,-6.97,CA
+88199,10/2/2014,Public Transportation - Train Pass,-9.37,CA
+88199,10/2/2014,Taxi,-5.65,CA
+88199,10/2/2014,Uber,-19.2,CA
+88199,10/2/2014,Podcast Subscription,-34.48,CA
+88199,10/2/2014,Public Transportation - Bus Pass,-14.77,CA
+88199,10/2/2014,On Demand TV,-24.83,CA
+88199,10/2/2014,Restaurant - Burgers,-16.69,CA
+88199,10/2/2014,Food Delivery - Uber Eats,-12.7,CA
+88199,10/2/2014,Podcast Subscription,-22.56,CA
+88199,10/2/2014,Public Transportation - Bus Pass,-29.34,CA
+88199,10/2/2014,PlayStation Membership,-110.84,CA
+88199,10/3/2014,Restaurant - Burgers,-39.68,CA
+88199,10/3/2014,Ralph's Grocery Store,-12.76,CA
+88199,10/3/2014,Red Box DVD Rental,-24.46,CA
+88199,10/3/2014,Pet Smart,-0.84,CA
+88199,10/4/2014,Pet Smart,-18.66,CA
+88199,10/5/2014,Whole Foods,-12.36,CA
+88199,10/6/2014,Pet Supply - Cat Food,-0.75,CA
+88199,10/6/2014,Pet Smart,-28.94,CA
+88199,10/6/2014,Restaurant - Burgers,-37.75,CA
+88199,10/7/2014,Podcast Subscription,-15.64,CA
+88199,10/7/2014,Restaurant - Steakhouse,-61.07,CA
+88199,10/8/2014,Podcast Subscription,-32.26,CA
+88199,10/9/2014,Food Delivery - GrubHub,-26.63,CA
+88199,10/10/2014,Uber,-18.81,CA
+88199,10/11/2014,Lyft,-4.26,CA
+88199,10/11/2014,Uber,-26.75,CA
+88199,10/11/2014,Red Box DVD Rental,-16.18,CA
+88199,10/11/2014,Taxi,-17.87,CA
+88199,10/11/2014,Pet Supply - Cat Food,-37.02,CA
+88199,10/11/2014,Taxi,-24.01,CA
+88199,10/11/2014,On Demand TV,-14.94,CA
+88199,10/11/2014,Red Box DVD Rental,-21.61,CA
+88199,10/12/2014,Wine Delivery,-24.16,CA
+88199,10/12/2014,Food Delivery - GrubHub,-26.75,CA
+88199,10/13/2014,Pet Smart,-25.45,CA
+88199,10/14/2014,Taxi,-114.74,CA
+88199,10/15/2014,Whole Foods,-11.04,CA
+88199,10/16/2014,Public Transportation - Train Pass,-14.81,CA
+88199,10/17/2014,Taxi,-7.96,CA
+88199,10/18/2014,On Demand Movie,-34.31,CA
+88199,10/18/2014,Food Delivery - Uber Eats,-86.19,CA
+88199,10/18/2014,Lyft,-28.55,CA
+88199,10/18/2014,Restaurant - Chinese,-13.33,CA
+88199,10/18/2014,Pet Smart,-2.42,CA
+88199,10/18/2014,Pet Supply - Cat Food,-4.07,CA
+88199,10/18/2014,Food Delivery - Uber Eats,-15.1,CA
+88199,10/18/2014,Podcast Subscription,-28.99,CA
+88199,10/18/2014,Red Box DVD Rental,-34.87,CA
+88199,10/18/2014,Restaurant - Burgers,-54.15,CA
+88199,10/18/2014,Public Transportation - Train Pass,-27.32,CA
+88199,10/19/2014,Uber,-9.11,CA
+88199,10/19/2014,Pet Smart,-14.05,CA
+88199,10/20/2014,Public Transportation - Train Pass,-36.01,CA
+88199,10/20/2014,Podcast Subscription,-6.69,CA
+88199,10/20/2014,Restaurant - Chinese,-37.07,CA
+88199,10/21/2014,Red Box DVD Rental,-29.86,CA
+88199,10/21/2014,On Demand Movie,-20.89,CA
+88199,10/22/2014,Red Box DVD Rental,-35.91,CA
+88199,10/22/2014,Food Delivery - Uber Eats,-2.4,CA
+88199,10/23/2014,Public Transportation - Train Pass,-5.25,CA
+88199,10/23/2014,Uber,-25.51,CA
+88199,10/24/2014,Pet Supply - Cat Food,-14.25,CA
+88199,10/24/2014,Sprouts Market,-3.64,CA
+88199,10/24/2014,Pet Supply - Cat Food,-33.71,CA
+88199,10/24/2014,On Demand Movie,-0.69,CA
+88199,10/24/2014,Uber,-38.23,CA
+88199,10/24/2014,Pet Supply - Cat Food,-1.37,CA
+88199,10/24/2014,Food Delivery - GrubHub,-8.76,CA
+88199,10/24/2014,On Demand Movie,-33.65,CA
+88199,10/25/2014,Pet Supply - Cat Food,-15.42,CA
+88199,10/25/2014,Podcast Subscription,-81.46,CA
+88199,10/25/2014,Food Delivery - Uber Eats,-31.39,CA
+88199,10/26/2014,On Demand TV,-9.27,CA
+88199,10/27/2014,PlayStation Membership,-31.74,CA
+88199,10/27/2014,Food Delivery - GrubHub,-105.24,CA
+88199,10/27/2014,Podcast Subscription,-33.55,CA
+88199,10/27/2014,Food Delivery - GrubHub,-19.41,CA
+88199,10/27/2014,Podcast Subscription,-10.86,CA
+88199,10/27/2014,Von's Groceries,-15.93,CA
+88199,10/27/2014,Public Transportation - Train Pass,-35.75,CA
+88199,10/27/2014,Food Delivery - GrubHub,-93.61,CA
+88199,10/27/2014,Whole Foods,-78.09,CA
+88199,10/27/2014,On Demand Movie,-104.58,CA
+88199,10/27/2014,Wine Delivery,-7.96,CA
+88199,10/27/2014,Taxi,-117.87,CA
+88199,10/27/2014,PlayStation Membership,-23.44,CA
+88199,10/28/2014,On Demand TV,-33.33,CA
+88199,10/28/2014,Pet Supply - Cat Food,-24.04,CA
+88199,10/28/2014,Restaurant - Burgers,-35.23,CA
+88199,10/28/2014,Public Transportation - Bus Pass,-17.53,CA
+88199,10/28/2014,Food Delivery - GrubHub,-24.57,CA
+88199,10/28/2014,Taxi,-73.45,CA
+88199,10/29/2014,Lyft,-9.07,CA
+88199,10/29/2014,On Demand Movie,-19.51,CA
+88199,10/30/2014,Wine Delivery,-2.53,CA
+88199,10/30/2014,Red Box DVD Rental,-17.55,CA
+88199,10/30/2014,Wine Delivery,-29.9,CA
+88199,10/30/2014,Uber,-38.49,CA
+88199,10/30/2014,Food Delivery - GrubHub,-15.69,CA
+88199,10/30/2014,Von's Groceries,-0.37,CA
+88199,10/30/2014,Uber,-20.65,CA
+88199,10/30/2014,Uber,-16.54,CA
+88199,10/30/2014,Ralph's Grocery Store,-7.34,CA
+88199,10/30/2014,Wine Delivery,-37.24,CA
+88199,10/30/2014,Wine Delivery,-4.79,CA
+88199,11/2/2014,Paycheck,2665,CA
+88199,11/2/2014,Housing Rent,-1167,CA
+88199,11/2/2014,Gas & Electric,-32,CA
+88199,11/2/2014,Navient - Student Loans,-197,CA
+88199,11/2/2014,Netflix Subscription,-4.99,CA
+88199,11/2/2014,ACS - Student Loans,-135,CA
+88199,11/2/2014,Water & Sewer,-53,CA
+88199,11/2/2014,Food Delivery - Uber Eats,-31.52,CA
+88199,11/2/2014,Lyft,-15.74,CA
+88199,11/3/2014,Podcast Subscription,-26.2,CA
+88199,11/4/2014,Food Delivery - GrubHub,-16.73,CA
+88199,11/4/2014,Red Box DVD Rental,-3.16,CA
+88199,11/4/2014,Food Delivery - GrubHub,-1.66,CA
+88199,11/4/2014,Ralph's Grocery Store,-38.17,CA
+88199,11/4/2014,Food Delivery - GrubHub,-10.07,CA
+88199,11/4/2014,Pet Smart,-25.35,CA
+88199,11/5/2014,Restaurant - Pizza,0,CA
+88199,11/5/2014,PlayStation Membership,-28.39,CA
+88199,11/5/2014,Restaurant - Chinese,-12.37,CA
+88199,11/6/2014,Red Box DVD Rental,-36.21,CA
+88199,11/7/2014,Restaurant - Chinese,-13.09,CA
+88199,11/7/2014,Lyft,-37.05,CA
+88199,11/7/2014,Uber,-24.35,CA
+88199,11/7/2014,Uber,-12.65,CA
+88199,11/7/2014,On Demand Movie,-27.08,CA
+88199,11/8/2014,Public Transportation - Train Pass,-25.66,CA
+88199,11/9/2014,Food Delivery - GrubHub,-0.28,CA
+88199,11/9/2014,Red Box DVD Rental,-38.86,CA
+88199,11/9/2014,Red Box DVD Rental,-9.93,CA
+88199,11/9/2014,Pet Supply - Cat Food,-90.55,CA
+88199,11/9/2014,Uber,-111.6,CA
+88199,11/9/2014,Restaurant - Pizza,-5.51,CA
+88199,11/9/2014,PlayStation Membership,-3.91,CA
+88199,11/10/2014,Taxi,-23.66,CA
+88199,11/10/2014,PlayStation Membership,-112.24,CA
+88199,11/10/2014,On Demand Movie,-26.47,CA
+88199,11/10/2014,Lyft,-34.58,CA
+88199,11/10/2014,Red Box DVD Rental,-34.29,CA
+88199,11/10/2014,Restaurant - Burgers,-35.75,CA
+88199,11/10/2014,Von's Groceries,-11.7,CA
+88199,11/10/2014,PlayStation Membership,-89.88,CA
+88199,11/11/2014,Wine Delivery,-22.53,CA
+88199,11/11/2014,Wine Delivery,-33.37,CA
+88199,11/11/2014,Wine Delivery,-16.89,CA
+88199,11/12/2014,Public Transportation - Bus Pass,-24.62,CA
+88199,11/12/2014,Wine Delivery,-4.65,CA
+88199,11/12/2014,Von's Groceries,-1.28,CA
+88199,11/12/2014,PlayStation Membership,-38.41,CA
+88199,11/13/2014,Public Transportation - Bus Pass,-36.99,CA
+88199,11/13/2014,Taxi,-13.13,CA
+88199,11/13/2014,On Demand Movie,-61.48,CA
+88199,11/13/2014,PlayStation Membership,-77.11,CA
+88199,11/13/2014,Podcast Subscription,-26.27,CA
+88199,11/14/2014,Wine Delivery,-23.88,CA
+88199,11/14/2014,On Demand TV,-0.42,CA
+88199,11/14/2014,Taxi,-34.93,CA
+88199,11/15/2014,Red Box DVD Rental,-10.39,CA
+88199,11/15/2014,Public Transportation - Bus Pass,-7.46,CA
+88199,11/15/2014,Podcast Subscription,-56.61,CA
+88199,11/15/2014,Taxi,-33.69,CA
+88199,11/15/2014,Von's Groceries,-37.77,CA
+88199,11/16/2014,Starbucks Coffee,-22.42,CA
+88199,11/16/2014,Restaurant - Chinese,-119.21,CA
+88199,11/16/2014,Food Delivery - GrubHub,-20.95,CA
+88199,11/16/2014,Podcast Subscription,-69.74,CA
+88199,11/17/2014,Uber,-30.12,CA
+88199,11/18/2014,Red Box DVD Rental,-2.86,CA
+88199,11/18/2014,Food Delivery - GrubHub,-21.44,CA
+88199,11/18/2014,Ralph's Grocery Store,-41.12,CA
+88199,11/19/2014,Pet Smart,-24.21,CA
+88199,11/19/2014,Podcast Subscription,-3.53,CA
+88199,11/20/2014,Red Box DVD Rental,-16.46,CA
+88199,11/20/2014,Food Delivery - GrubHub,-35.29,CA
+88199,11/20/2014,Food Delivery - Uber Eats,-14.18,CA
+88199,11/20/2014,Food Delivery - Uber Eats,-86.83,CA
+88199,11/20/2014,Podcast Subscription,-6.22,CA
+88199,11/20/2014,Uber,-37.06,CA
+88199,11/20/2014,Wine Delivery,-17.1,CA
+88199,11/20/2014,Public Transportation - Train Pass,-28.08,CA
+88199,11/20/2014,Pet Supply - Cat Food,-23.53,CA
+88199,11/20/2014,Pet Smart,-39.56,CA
+88199,11/20/2014,Uber,-81.36,CA
+88199,11/20/2014,On Demand TV,-13.21,CA
+88199,11/20/2014,Pet Smart,-0.21,CA
+88199,11/21/2014,Public Transportation - Bus Pass,-10.06,CA
+88199,11/21/2014,PlayStation Membership,-3.82,CA
+88199,11/21/2014,Food Delivery - GrubHub,-29.64,CA
+88199,11/22/2014,Red Box DVD Rental,-32.28,CA
+88199,11/22/2014,Food Delivery - GrubHub,-27.12,CA
+88199,11/22/2014,Public Transportation - Bus Pass,-9.71,CA
+88199,11/23/2014,Food Delivery - Uber Eats,-18.01,CA
+88199,11/24/2014,Lyft,-25.98,CA
+88199,11/25/2014,Whole Foods,-15.81,CA
+88199,11/25/2014,On Demand Movie,-71.95,CA
+88199,11/25/2014,Von's Groceries,-6.08,CA
+88199,11/25/2014,Podcast Subscription,-46.22,CA
+88199,11/25/2014,Food Delivery - Uber Eats,-13.39,CA
+88199,11/26/2014,Lyft,-77.67,CA
+88199,11/26/2014,Public Transportation - Train Pass,-83.51,CA
+88199,11/26/2014,Red Box DVD Rental,-5.96,CA
+88199,11/26/2014,Podcast Subscription,-13.26,CA
+88199,11/26/2014,On Demand Movie,-24.18,CA
+88199,11/26/2014,On Demand TV,-17.69,CA
+88199,11/26/2014,Food Delivery - GrubHub,-33.27,CA
+88199,11/27/2014,Pet Smart,-38.66,CA
+88199,11/27/2014,Taxi,-23.05,CA
+88199,11/28/2014,On Demand TV,-21.85,CA
+88199,11/28/2014,Sprouts Market,-15.17,CA
+88199,11/28/2014,Public Transportation - Train Pass,-20.49,CA
+88199,11/28/2014,Uber,-19.39,CA
+88199,11/28/2014,Public Transportation - Train Pass,-25.61,CA
+88199,11/28/2014,Wine Delivery,-15.19,CA
+88199,11/29/2014,Food Delivery - Uber Eats,-26.54,CA
+88199,11/30/2014,On Demand Movie,-6.51,CA
+88199,11/30/2014,Pet Supply - Cat Food,-33.72,CA
+88199,11/30/2014,Public Transportation - Bus Pass,-19.78,CA
+88199,12/2/2014,Paycheck,2665,CA
+88199,12/2/2014,Housing Rent,-1266,CA
+88199,12/2/2014,Gas & Electric,-32,CA
+88199,12/2/2014,Navient - Student Loans,-197,CA
+88199,12/2/2014,Netflix Subscription,-4.99,CA
+88199,12/2/2014,ACS - Student Loans,-135,CA
+88199,12/2/2014,Water & Sewer,-53,CA
+88199,12/2/2014,Public Transportation - Train Pass,-54.46,CA
+88199,12/2/2014,Food Delivery - Uber Eats,-2.94,CA
+88199,12/2/2014,Public Transportation - Train Pass,-17.53,CA
+88199,12/2/2014,Pet Smart,-29.68,CA
+88199,12/2/2014,Sprouts Market,-27.08,CA
+88199,12/2/2014,Red Box DVD Rental,-13.46,CA
+88199,12/3/2014,On Demand Movie,-10.4,CA
+88199,12/3/2014,On Demand TV,-37.48,CA
+88199,12/3/2014,Uber,-16.43,CA
+88199,12/3/2014,Podcast Subscription,-52.17,CA
+88199,12/4/2014,Pet Supply - Cat Food,-17.05,CA
+88199,12/4/2014,Starbucks Coffee,-100.92,CA
+88199,12/5/2014,Public Transportation - Train Pass,-10.71,CA
+88199,12/5/2014,Lyft,-19.96,CA
+88199,12/5/2014,PlayStation Membership,-92.53,CA
+88199,12/5/2014,Pet Supply - Cat Food,-2.27,CA
+88199,12/6/2014,PlayStation Membership,-32.82,CA
+88199,12/7/2014,Podcast Subscription,-2.29,CA
+88199,12/7/2014,Food Delivery - GrubHub,-6.32,CA
+88199,12/7/2014,Sprouts Market,-17.77,CA
+88199,12/8/2014,On Demand Movie,-8.48,CA
+88199,12/9/2014,On Demand Movie,-30.04,CA
+88199,12/10/2014,Taxi,-110.08,CA
+88199,12/10/2014,Ralph's Grocery Store,-22.24,CA
+88199,12/10/2014,PlayStation Membership,-89.02,CA
+88199,12/10/2014,Food Delivery - GrubHub,-61.77,CA
+88199,12/10/2014,On Demand TV,-25.06,CA
+88199,12/10/2014,Wine Delivery,-29.56,CA
+88199,12/11/2014,Restaurant - Burgers,-98.65,CA
+88199,12/11/2014,Restaurant - Steakhouse,-28.08,CA
+88199,12/11/2014,PlayStation Membership,-33.54,CA
+88199,12/11/2014,Lyft,-31.22,CA
+88199,12/11/2014,Wine Delivery,-37.63,CA
+88199,12/11/2014,Whole Foods,-32.13,CA
+88199,12/11/2014,Pet Supply - Cat Food,-61.51,CA
+88199,12/12/2014,Lyft,-75.41,CA
+88199,12/12/2014,Restaurant - Pizza,-6.37,CA
+88199,12/12/2014,Restaurant - Steakhouse,-34.81,CA
+88199,12/13/2014,On Demand TV,-30.75,CA
+88199,12/14/2014,Starbucks Coffee,-24.73,CA
+88199,12/14/2014,Public Transportation - Train Pass,-3.36,CA
+88199,12/15/2014,On Demand TV,-5.32,CA
+88199,12/15/2014,Red Box DVD Rental,-48.22,CA
+88199,12/15/2014,PlayStation Membership,-29.41,CA
+88199,12/15/2014,Food Delivery - GrubHub,-24.84,CA
+88199,12/15/2014,Red Box DVD Rental,-18.55,CA
+88199,12/15/2014,Pet Supply - Cat Food,-16.82,CA
+88199,12/15/2014,Uber,-2.24,CA
+88199,12/15/2014,Public Transportation - Train Pass,-11.22,CA
+88199,12/16/2014,Pet Supply - Cat Food,-30.36,CA
+88199,12/16/2014,Pet Supply - Cat Food,-7.21,CA
+88199,12/17/2014,Uber,-0.23,CA
+88199,12/17/2014,On Demand Movie,-39.55,CA
+88199,12/18/2014,Lyft,-89.44,CA
+88199,12/19/2014,Food Delivery - Uber Eats,-20.89,CA
+88199,12/20/2014,Food Delivery - Uber Eats,-25.57,CA
+88199,12/21/2014,Uber,-3.06,CA
+88199,12/21/2014,On Demand TV,-14.38,CA
+88199,12/21/2014,Public Transportation - Bus Pass,-15.67,CA
+88199,12/22/2014,Red Box DVD Rental,-17.33,CA
+88199,12/22/2014,Public Transportation - Bus Pass,-22.45,CA
+88199,12/22/2014,Public Transportation - Bus Pass,-35.68,CA
+88199,12/22/2014,Restaurant - Burgers,-8.03,CA
+88199,12/22/2014,Red Box DVD Rental,-21.97,CA
+88199,12/23/2014,Ralph's Grocery Store,-15.05,CA
+88199,12/23/2014,On Demand Movie,-34.18,CA
+88199,12/23/2014,On Demand TV,-28.97,CA
+88199,12/24/2014,PlayStation Membership,-15.75,CA
+88199,12/25/2014,Taxi,-38.21,CA
+88199,12/25/2014,Pet Smart,-46.56,CA
+88199,12/26/2014,Restaurant - Steakhouse,-28.01,CA
+88199,12/26/2014,Public Transportation - Bus Pass,-37.78,CA
+88199,12/26/2014,PlayStation Membership,-25.65,CA
+88199,12/26/2014,Wine Delivery,-22.32,CA
+88199,12/26/2014,PlayStation Membership,-34.97,CA
+88199,12/26/2014,Taxi,-17.58,CA
+88199,12/26/2014,Starbucks Coffee,-1.24,CA
+88199,12/26/2014,On Demand Movie,-37.16,CA
+88199,12/26/2014,On Demand Movie,-38.57,CA
+88199,12/26/2014,Podcast Subscription,-5.85,CA
+88199,12/27/2014,PlayStation Membership,-26.55,CA
+88199,12/28/2014,Pet Smart,-12.62,CA
+88199,12/28/2014,Uber,-17.92,CA
+88199,12/28/2014,Public Transportation - Train Pass,-25.14,CA
+88199,12/28/2014,Lyft,-5.21,CA
+88199,12/28/2014,Pet Smart,-28.37,CA
+88199,12/29/2014,Red Box DVD Rental,-11.53,CA
+88199,12/30/2014,Podcast Subscription,-22.94,CA
+88199,12/30/2014,Food Delivery - Uber Eats,-24.2,CA
+88199,12/30/2014,Restaurant - Chinese,-28.89,CA
+88199,12/30/2014,Pet Supply - Cat Food,-37.01,CA
+88199,12/30/2014,On Demand Movie,-47.79,CA
+88199,12/30/2014,Red Box DVD Rental,-35.85,CA
+88199,12/30/2014,Food Delivery - GrubHub,-11.52,CA
+88199,12/32/2014,Starbucks Coffee,-37.33,CA
